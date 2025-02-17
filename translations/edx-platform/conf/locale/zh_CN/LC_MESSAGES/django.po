@@ -23970,3 +23970,488 @@ msgstr "将您的版权文本置于此处！"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "代码编辑器"
+
+msgid "Discover"
+msgstr "搜索"
+
+msgid "Telephone"
+msgstr "电话"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "Blogs"
+msgstr "博客"
+
+msgid "Our Courses"
+msgstr "我们的课程"
+
+msgid "Showing {start_count} to {end_count} of {total_count} courses matching your search"
+msgstr "显示符合您搜索条件的课程，第 {start_count} 至 {end_count} 条，共 {total_count} 条"
+
+msgid "Search Courses"
+msgstr "搜索课程"
+
+msgid "Filter Courses"
+msgstr "筛选课程"
+
+msgid "Availability"
+msgstr "可选"
+
+msgid "Comming Soon"
+msgstr "正在筹备"
+
+msgid "On-going"
+msgstr "正在进行"
+
+msgid "Archived"
+msgstr "已储存"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Categories"
+msgstr "类别"
+
+msgid "Level"
+msgstr "级别"
+
+msgid "Types"
+msgstr "类型"
+
+msgid "Lessons"
+msgstr "课"
+
+msgid "Overview"
+msgstr "概览"
+
+msgid "Curriculum"
+msgstr "课程"
+
+msgid "Share this course"
+msgstr "分享这门课"
+
+msgid "Lectures"
+msgstr "授课教师"
+
+msgid "Students"
+msgstr "学生"
+
+msgid "Enrolled"
+msgstr "已注册"
+
+msgid "Related Courses"
+msgstr "相关课程"
+
+msgid "Studio"
+msgstr "资料库"
+
+msgid "Hello there!"
+msgstr "您好！"
+
+msgid "Let's learn something today"
+msgstr "让我们开始今天的学习吧"
+
+msgid "Confirm Unenrollment"
+msgstr "确认取消注册"
+
+msgid "Are you sure you want to withdraw from the '{COURSE_NAME}' course? We'll miss having you!"
+msgstr "您确定要退出“{COURSE_NAME}”课程吗？再考虑看看。"
+
+msgid "View this course as"
+msgstr "查看此课程"
+
+msgid "View course in"
+msgstr "观看课程"
+
+msgid "Download Answer Keys"
+msgstr "下载答案"
+
+msgid "Allowances"
+msgstr "补贴"
+
+msgid "Add Allowances"
+msgstr "增加补贴"
+
+msgid "Exam Name"
+msgstr "考试科目"
+
+msgid "Time Limit"
+msgstr "考试时间"
+
+msgid "Started At"
+msgstr "开始时间"
+
+msgid "Completed At"
+msgstr "结束时间"
+
+msgid "Ready to Resume"
+msgstr "准备继续"
+
+msgid "Add a New Allowance"
+msgstr "增加新的补贴"
+
+msgid "Add Usernames or Emails seperated by comma"
+msgstr "添加用户名或电子邮件，用逗号隔开"
+
+msgid "Select Exam Type"
+msgstr "选择考试类型"
+
+msgid "Select Exam"
+msgstr "选择考试科目"
+
+msgid "Add Time(Minutes)"
+msgstr "加时（分钟）"
+
+msgid "Allowance Type"
+msgstr "补贴类别"
+
+msgid "Your profile cannot be shared."
+msgstr "无法共享您的个人资料。"
+
+msgid "contains {NO_OF_STUDENTS} student"
+msgstr "包含 {NO_OF_STUDENTS} 学生"
+
+msgid "Staff Grader"
+msgstr "工作人员等级评定"
+
+msgid "This field must not be blank"
+msgstr "此处不能空白。"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Course team members with the Staff role help you manage your course. Staff can enroll and unenroll learners, as well as modify their grades and access all course data. Staff also have access to your course in Studio and Insights. Any users not yet enrolled in the course will be automatically enrolled when added as Staff."
+msgstr "教学团队和“相关职员”将协同帮助您管理课程。“相关职员”可以为学员注册和取消注册，也有权修改学生的成绩并监控所有课程数据。“相关职员”相关职员有权访问你课程中Studio 和 Insights 中的相关数据。任何尚未注册课程的用户都将在添加为“相关职员”后自动注册。"
+
+msgid "Course team members with the Limited Staff role help you manage your course. Limited Staff can enroll and unenroll learners, as well as modify their grades and access all course data. Limited Staff don't have access to your course in Studio. Any users not yet enrolled in the course will be automatically enrolled when added as Limited Staff."
+msgstr "教学团队中的“特定职员”可以帮助您管理课程。“特定职员”可以注册学员并取消注册，也可以修改学员的成绩并访问所有课程数据。“特定职员”无权在资料库中访问您的课程。任何尚未注册课程的用户将在被添加为“特定职员”后自动注册。"
+
+msgid "Course team members with the Admin role help you manage your course. They can do all of the tasks that Staff can do, and can also add and remove the Staff and Admin roles, discussion moderation roles, and the beta tester role to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Admin."
+msgstr "具有管理员角色的教学成员可以帮助您管理课程。管理员的在所有职员中权限最高。为了更好地管理教学团队，管理员可以添加并删除职员和其他管理员；添加并删除评论权和管理权；添加并删除内部测试权限。任何尚未注册课程的用户将在被添加为管理员后自动注册。"
+
+msgid "Beta Testers can see course content before other learners. They can make sure that the content works, but have no additional privileges. Any users not yet enrolled in the course will be automatically enrolled when added as Beta Tester."
+msgstr "内部测试员可以先于其他学员看到课程内容。他们可以确保内容正常运行，但没有其他权限。任何尚未注册课程的用户在被添加为内部测试员后都将自动注册。"
+
+msgid "Discussion Admins can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They can also add and remove the discussion moderation roles to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Admin"
+msgstr "讨论管理员可以编辑或删除任何帖子，清除滥用标记，关闭或重新打开主题，确认回复，以及查看所有群组的帖子。他们的帖子会被标记为 “工作人员”。此外，管理员有权添加并删除评论权和管理权。任何尚未注册课程的用户将在被添加为讨论管理员后自动注册。"
+
+msgid "Course Data Researchers can access the data download tab. Any users not yet enrolled in the course will be automatically enrolled when added as Course Data Researcher."
+msgstr "课程数据研究员可以访问数据下载选项卡。任何尚未注册课程的用户将在被注册为课程数据研究员后自动注册。"
+
+msgid "Discussion Moderators can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They cannot manage course team membership by adding or removing discussion moderation roles. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Moderator"
+msgstr "讨论管理员有权编辑或删除任何帖子、清除滥用标记、关闭或重开主题、确认回复，并查看所有群组的帖子。他们的帖子将被标记为 “工作人员”。他们无权通过添加或删除评论权和管理权来管理教学成员。任何尚未注册课程的用户将在被添加为讨论版主后自动注册。"
+
+msgid "Group Community TAs are members of the community who help course teams moderate discussions. Group Community TAs see only posts by learners in their assigned group. They can edit or delete posts, clear flags, close and re-open threads, and endorse responses, but only for posts by learners in their group. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Group Community TA"
+msgstr "社区助教是帮助教学团队监控讨论的社区成员。社区助教只能看到其指定小组中学习者的帖子。他们可以编辑或删除帖子、清除标记、关闭或重开主题以及确认回复，但仅限于其所在小组的学员所发的帖子。他们的帖子会被标记为 “社区 TA”。任何尚未注册课程的用户在被添加为社区助教后将自动注册。"
+
+msgid "Community TAs are members of the community who help course teams moderate discussions. They can see posts by learners in their assigned cohort or enrollment track, and can edit or delete posts, clear flags, close or re-open threads, and endorse responses. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Community TA"
+msgstr "社区助教是帮助教学团队监控讨论的社区成员。他们可以查看指定群组或指定学籍学习者发的帖子，有权编辑或删除帖子、清除标记、关闭或重开主题及确认回复。社区助教发的帖子会被标记为 “社区助教”。任何尚未注册课程的用户将在被添加为社区助教后自动注册。"
+
+msgid "Add Usernames or Emails seperated by commas"
+msgstr "添加用户名或电子邮件，用逗号隔开"
+
+msgid "Select Exams"
+msgstr "选择考试科目"
+
+msgid "Create Allowance"
+msgstr "设立补贴"
+
+msgid "No exam results found."
+msgstr "没有找到相应考试结果。"
+
+msgid "Required field"
+msgstr "必填选项"
+
+msgid "Please Select a section or problem."
+msgstr "请选择一个栏目或问题。"
+
+msgid "Browsing"
+msgstr "浏览"
+
+msgid "Easily download all course questions, answer keys, and structure in a CSV format. Streamline your assessment data for quick review and analysis."
+msgstr "以 CSV 格式一键下载所有课程的问题、答案和大纲。一站式评估数据，快速审查和分析。"
+
+msgid "Generate CSV"
+msgstr "生成 CSV 文件"
+
+msgid "Your answer key report has been successfully generated and is downloading."
+msgstr "您的答案卡报告已成功生成，正在下载。"
+
+msgid "Copyrights {}. All Rights Reserved."
+msgstr "版权 {}。版权所有。"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Twitter"
+msgstr "推特"
+
+msgid "Facebook"
+msgstr "脸书"
+
+msgid "LinkedIn"
+msgstr "领英"
+
+msgid "All posts sorted by recent activity"
+msgstr "所有帖子按最近人气排序"
+
+msgid "Specific Student..."
+msgstr "特定学员"
+
+msgid "Payment"
+msgstr "付款"
+
+msgid "Confirmation"
+msgstr "确认"
+
+msgid "Price per student"
+msgstr "每位学员的学费"
+
+msgid "After this purchase is complete, {} will be enrolled in this course."
+msgstr "完成付费后，{} 将被注册此课程。"
+
+msgid "Must enter a valid code"
+msgstr "必须输入有效验证码"
+
+msgid "TOTAL"
+msgstr "总计"
+
+msgid "Apply"
+msgstr "申请"
+
+msgid "Shopping Cart"
+msgstr "购物车"
+
+msgid "Your Shopping cart is currently empty."
+msgstr "目前你的购物车为空。"
+
+msgid "Buy Now"
+msgstr "现在购买"
+
+msgid "Add the content you want students to see on this page."
+msgstr "添加希望学生在此页面看到的内容。"
+
+msgid "posts"
+msgstr "帖子"
+
+msgid "Course tags"
+msgstr "课程标签"
+
+msgid "Manage tags"
+msgstr "管理标签"
+
+msgid "Testing"
+msgstr "测试"
+
+msgid "Edit tags"
+msgstr "编辑标签"
+
+
+msgid "Configure progress"
+msgstr "配置进程"
+
+msgid "As students work through graded assignments, scores will appear under the progress tab. The progress tab contains a chart of all graded assignments in the course, with a list of all assignments and scores below."
+msgstr "学生完成所有作业后，进度条下将显示评分。进度条含有显示所有课程成绩的图表，并附有各项作业的清单列表及对应分数"
+
+
+msgid "Enable progress graph"
+msgstr "启用进度条"
+
+msgid "If enabled, students can view the progress graph"
+msgstr "启用后，学生可查看进度条"
+
+msgid "Configure notes"
+msgstr "配置说明"
+
+msgid "Learners can access their notes either in the body of the course or on a notes page. On the notes page, a learner can see all the notes made during the course. The page also contains links to the location of the notes in the course body."
+msgstr "学员可在课程内容中或课程注释中查阅笔记。学员可在笔记页面查阅所有课程笔记。笔记页面的每条笔记可链接到所指的相应课程内容"
+
+msgid "Enable public wiki access"
+msgstr "允许访问公共维基"
+
+msgid "The course wiki can be set up based on the needs of your course. Common uses might include sharing answers to course FAQs, sharing editable course information, or providing access to learner-created resources."
+msgstr "课程维基可根据课程需要进行设置。常见用途包括共享课程常见问题的答案、共享可编辑的课程信息，以及对提供学习者创建资源的访问权限"
+
+msgid "If enabled, edX users can view the course wiki even when they're not enrolled in the course."
+msgstr "启用后，未注册课程的edX 用户也能查看课程维基"
+
+msgid "The calculator supports numbers, operators, constants, functions, and other mathematical concepts. When enabled, an icon to access the calculator appears on all pages in the body of your course."
+msgstr "计算器支持数字、运算符、常量、函数和其他数学概念。启用后，课程主页的所有页面上都会显示计算器的使用图标"
+
+msgid "Schedule meetings and conduct live course sessions with learners."
+msgstr "安排会议，为学员开展直播课程"
+
+msgid "Select a video conferencing tool"
+msgstr "选择视频会议工具"
+
+msgid "Complete the fields below to set up your video conferencing tool."
+msgstr "完成以下内容，设置您的视频会议工具"
+
+msgid "Consumer Key"
+msgstr "消费者密钥"
+
+msgid "Consumer Secret"
+msgstr "消费者保密信息"
+
+msgid "Launch URL"
+msgstr "打开链接"
+
+msgid "Launch Email"
+msgstr "打开邮箱"
+
+msgid "This configuration will require sharing username and emails of learners and the course team with BigBlueButton."
+msgstr "该配置需与 BigBlueButton 共享学习者和教学团队的用户名和电子邮件"
+
+msgid "Select a plan"
+msgstr "选择一个套餐"
+
+msgid "Textbook name"
+msgstr "教材名称"
+
+msgid "Chapter name"
+msgstr "章节名称"
+
+msgid "Chapter asset"
+msgstr "章节测试"
+
+msgid "Provide the title/name of the chapter that will be used in navigating"
+msgstr "输入目录的章节标题或章节名"
+
+msgid "Chapter name is required"
+msgstr "必须输入章节名"
+
+msgid "Provide the title/name of the textbook as you would like your students to see it"
+msgstr "输入教材名，并展示给学习者"
+
+msgid "Upload a PDF file or provide the path to a Studio asset file"
+msgstr "上传pdf文档或输入资源库链接"
+
+msgid "Configure open response assessment"
+msgstr "开放式作答评估配置"
+
+msgid "Flex Peer Grading"
+msgstr "弹性制生生互评"
+
+msgid "Turn on Flexible Peer Grading for all open response assessments in the course with peer grading."
+msgstr "在所有课程的开放式评估中启用弹性制生生互评"
+
+msgid "Pass"
+msgstr "合格"
+
+msgid "Content group name"
+msgstr "教学内容组别名称"
+
+msgid "Click New content group to add a new content group. To edit the name of a content group, hover over its box and click edit. You can delete a content group only if it is not in use by a unit. To delete a content group, hover over its box and click the delete icon."
+msgstr "单击 “创建新教学内容组”添加新教学内容组。如需编辑教学内容组的名称，请将鼠标悬停在其框上并单击编辑。只有某个教学内容组的内容不被特定学习单元使用时，才能删除该教学内容组。如需删除某个教学内容组，请将鼠标悬停在其方框上，然后单击删除图标"
+
+msgid "Html"
+msgstr "Html语言"
+
+msgid "Lti"
+msgstr "学习工具互操作性"
+
+msgid "Matlab api"
+msgstr "Matlab 应用程序接口"
+
+msgid "Copied_from_block"
+msgstr "从模块中复制"
+
+msgid "Certificate details"
+msgstr "证书详情"
+
+msgid "Course title override"
+msgstr "覆盖课程名称"
+
+msgid "Certificate signatories"
+msgstr "证书签名"
+
+msgid "It is strongly recommended that you include four or fewer signatories. If you include additional signatories, preview the certificate in Print View to ensure the certificate will print correctly on one page."
+msgstr "建议您添加的签名人数不多于四个人。如需添加签名人，请在打印预览中确认证书内容能完全显示在同一页纸上"
+
+msgid "Signatory 1"
+msgstr "签字人1"
+
+msgid "Signature image"
+msgstr "电子签名"
+
+msgid "The name of this signatory as it should appear on certificates."
+msgstr "该签名人的姓名须显示在证书上"
+
+msgid "Titles more than 100 characters may prevent students from printing their certificate on a single page."
+msgstr "标题若超过 100 字符，学生可能无法将打印证书打成单页"
+
+msgid "The organization that this signatory belongs to, as it should appear on certificates."
+msgstr "证书上应显示签名人的所属单位"
+
+msgid "Image must be in PNG format"
+msgstr "图片必须为PNG格式"
+
+msgid "Upload signature image"
+msgstr "下载签名图片"
+
+msgid "Add additional signatory"
+msgstr "添加签名人"
+
+msgid "Only course team members with these roles can edit or delete an activated certificate."
+msgstr "有且仅有教学成员与相关管理人员有权编辑或删除已激活的证书"
+
+msgid "Do not delete certificates after a course has started; learners who have already earned certificates will no longer be able to access them."
+msgstr "课程开始后，请勿删除证书。已经获得证书的学员将无法再访问这些课程"
+
+msgid "honor"
+msgstr "荣誉"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Preview certificate"
+msgstr "证书预览"
+
+msgid "Deactivate"
+msgstr "停用"
+
+msgid "Request failed with status"
+msgstr "状态为“请求失败”"
+
+msgid "Unassigned"
+msgstr "未签名"
+
+msgid "All taxonomies"
+msgstr "所有类别"
+
+msgid "Taxonomy details"
+msgstr "类目明细"
+
+msgid "Tag name"
+msgstr "标签名称"
+
+msgid "Export ID"
+msgstr "导出ID"
+
+msgid "Languages that are enabled on this system."
+msgstr "该系统已启用的语言"
+
+msgid "Select format to export"
+msgstr "选择要导出的格式"
+
+msgid "Select the file format in which you would like the taxonomy to be exported:"
+msgstr "选择导出分类项的文件格式："
+
+msgid "Download template"
+msgstr "下载模板"
+
+msgid "CSV template"
+msgstr "CSV 模板"
+
+msgid "JSON template"
+msgstr "JSON 模板"
+
+msgid "Clear active filter"
+msgstr "清除有源滤波器"
+
+msgid "Explore course topics"
+msgstr "探索课程主题"
