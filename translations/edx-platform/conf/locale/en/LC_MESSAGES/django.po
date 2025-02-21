@@ -3727,7 +3727,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/courses.py:748
 msgid "Staff Assessment"
-msgstr ""
+msgstr "Teacher Assessment"
 
 #: lms/djangoapps/courseware/courses.py:750
 msgid "Submission"
@@ -5422,12 +5422,12 @@ msgstr ""
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:45
 #: lms/templates/navigation/navbar-authenticated.html:28
 msgid "Programs"
-msgstr ""
+msgstr " MY Yagnesh Programs"
 
 #: lms/djangoapps/learner_dashboard/programs.py:155
 #: lms/templates/learner_dashboard/program_details.html:11
 msgid "Program Details"
-msgstr ""
+msgstr " MY Yagnesh Program Details"
 
 #: lms/djangoapps/lms_xblock/mixin.py:23
 msgid ""
@@ -17841,7 +17841,7 @@ msgstr ""
 
 #: lms/templates/manage_user_standing.html:16
 msgid "Profile:"
-msgstr ""
+msgstr "Profile Yagnesh"
 
 #: lms/templates/manage_user_standing.html:17
 msgid "Image:"
@@ -20702,7 +20702,7 @@ msgstr ""
 #: lms/templates/dashboard/_entitlement_reason_survey.html:145
 #: lms/templates/dashboard/_reason_survey.html:31
 msgid "Browse Courses"
-msgstr ""
+msgstr "Browse Courses Yagnesh"
 
 #: lms/templates/dashboard/_reason_survey.html:7
 msgid ""

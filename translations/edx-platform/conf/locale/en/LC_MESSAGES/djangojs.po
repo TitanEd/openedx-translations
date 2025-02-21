@@ -6881,7 +6881,7 @@ msgstr ""
 
 #: cms/templates/js/add-xblock-component.underscore:2
 msgid "Add New Component"
-msgstr ""
+msgstr "Add New Component Yagnesh"
 
 #: cms/templates/js/advanced_entry.underscore:14
 msgid "Deprecated"
@@ -7464,7 +7464,7 @@ msgstr ""
 
 #: cms/templates/js/course-video-sharing-enable.underscore:13
 msgid "Learn more"
-msgstr ""
+msgstr "Learn more with yagnesh"
 
 #: cms/templates/js/course-video-transcript-preferences.underscore:3
 msgid "Transcript Turnaround"
@@ -8040,12 +8040,12 @@ msgstr ""
 
 #: cms/templates/js/publish-xblock.underscore:98
 msgid "Staff and Learners"
-msgstr ""
+msgstr "Teacher and Learners"
 
 #: cms/templates/js/publish-xblock.underscore:108
 #: cms/templates/js/staff-lock-editor.underscore:37
 msgid "Hide from learners"
-msgstr ""
+msgstr "Hide from learners Yagnesh"
 
 #: cms/templates/js/publish-xblock.underscore:113
 msgid "Note: Do not hide graded assignments after they have been released."
