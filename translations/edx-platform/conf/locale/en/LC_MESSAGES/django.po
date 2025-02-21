@@ -15197,7 +15197,7 @@ msgstr ""
 #: cms/templates/howitworks.html:85 cms/templates/howitworks.html:86
 #: cms/templates/howitworks.html:94
 msgid "Learning is More than Just Lectures"
-msgstr ""
+msgstr "YAgnesh Leaarning"
 
 #: cms/templates/howitworks.html:95
 msgid ""
@@ -15244,7 +15244,7 @@ msgstr ""
 
 #: cms/templates/howitworks.html:128
 msgid "Simple, Fast, and Incremental Publishing. With Friends."
-msgstr ""
+msgstr "yagnesh Simple, Fast, and Incremental Publishing. With Friends"
 
 #: cms/templates/howitworks.html:129
 msgid ""
