@@ -7833,12 +7833,12 @@ msgid "Group information"
 msgstr ""
 
 #: cms/templates/js/group-configuration-editor.underscore:31
-msgid ""Problem
-"Name of the groups that students will be assigned to, for example, Control, "
-"Video, Problems. You must have two or more groups."
-msgstr ""Assessment
-"Name of the groups that students will be assigned to, for example, Control, "
-"Video, Assessments. You must have two or more groups."
+msgid "Problem"
+msgstr "Assessment"
+
+msgid "Name of the groups that students will be assigned to, for example, Control, Video, Problems. You must have two or more groups."
+msgstr "Name of the groups that students will be assigned to, for example, Control, Video, Assessments. You must have two or more groups."
+
 
 #: cms/templates/js/group-configuration-editor.underscore:33
 msgid "Add another group"

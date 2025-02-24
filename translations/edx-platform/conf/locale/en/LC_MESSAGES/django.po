@@ -12148,14 +12148,12 @@ msgid ""
 "specific number, you cannot set the Maximum Attempts for individual problems "
 "to unlimited."
 msgstr ""
-msgid ""
 "Enter the maximum number of times a student can try to answer assessments. By "
 "default, Maximum Attempts is set to null, meaning that students have an "
 "unlimited number of attempts for assessments. You can override this course-wide "
 "setting for individual assessments. However, if the course-wide setting is a "
 "specific number, you cannot set the Maximum Attempts for individual assessments "
 "to unlimited."
-
 
 
 #: xmodule/modulestore/inheritance.py:152
