@@ -1179,7 +1179,7 @@ msgstr ""
 
 #: cms/static/js/views/modals/edit_xblock.js:180
 msgid "Studio's having trouble parsing the problem component's content"
-msgstr ""
+msgstr "Studio's having trouble parsing the assessment component's content"
 
 #: cms/static/js/views/modals/move_xblock_modal.js:37
 msgid "Move"
@@ -1879,6 +1879,9 @@ msgid ""
 "Your request could not be completed. Reload the page and try again. If the "
 "issue persists, click the Help tab to report the problem."
 msgstr ""
+"Your request could not be completed. Reload the page and try again. If the "
+"issue persists, click the Help tab to report the problem."
+
 
 #: common/static/common/js/components/views/paging_header.js:38
 msgid "Showing {firstIndex} out of {numItems} total"
@@ -2209,11 +2212,11 @@ msgstr[1] ""
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/Main/Main.jsx:39
 msgid "Select a section or problem"
-msgstr ""
+msgstr "Select a section or assessment"
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/Main/Main.jsx:82
 msgid "Create a report of problem responses"
-msgstr ""
+msgstr "Create a report of assessment responses"
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/ReportStatus/ReportStatus.jsx:13
 msgid "Your report is being generated..."
@@ -2664,6 +2667,9 @@ msgid ""
 "and try again. If the issue persists, click the Help tab to report the "
 "problem."
 msgstr ""
+"Your request could not be completed due to a server problem. Reload the page "
+"and try again. If the issue persists, click the Help tab to report the "
+"problem."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:248
 msgid "Team Search"
@@ -3588,7 +3594,7 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/data_download.js:360
 #: lms/static/js/instructor_dashboard/data_download_2.js:46
 msgid "Error generating problem grade report. Please try again."
-msgstr ""
+msgstr "Error generating Assessment grade report. Please try again."
 
 #: lms/static/js/instructor_dashboard/data_download.js:362
 #: lms/static/js/instructor_dashboard/data_download_2.js:45
@@ -3601,6 +3607,8 @@ msgid ""
 "There was a problem creating the report. Select \"Create Executive Summary\" "
 "to try again."
 msgstr ""
+"There was a problem creating the report. Select \"Create Executive Summary\" "
+"to try again."
 
 #: lms/static/js/instructor_dashboard/ecommerce.js:91
 msgid "Enter the enrollment code."
@@ -3925,13 +3933,15 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:544
 #: lms/static/js/instructor_dashboard/student_admin.js:629
 msgid "Please enter a problem location."
-msgstr ""
+msgstr "Please enter a problem location."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:156
 msgid ""
 "Success! Problem attempts reset for problem '<%- problem_id %>' and student "
 "'<%- student_id %>'."
 msgstr ""
+"Success! Problem attempts reset for assessment '<%- problem_id %>' and student "
+"'<%- student_id %>'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:157
 msgid ""
@@ -3939,11 +3949,15 @@ msgid ""
 "'<%- student_id %>'. Make sure that the problem and student identifiers are "
 "complete and correct."
 msgstr ""
+"Error resetting problem attempts for assessment '<%- problem_id %>' and student "
+"'<%- student_id %>'. Make sure that the problem and student identifiers are "
+"complete and correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:194
 msgid ""
 "Delete student '<%- student_id %>'s state on problem '<%- problem_id %>'?"
 msgstr ""
+"Delete student '<%- student_id %>'s state on problem '<%- problem_id %>'?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:205
 msgid ""
@@ -3951,6 +3965,9 @@ msgid ""
 "%>'. Make sure that the problem and student identifiers are complete and "
 "correct."
 msgstr ""
+"Error deleting student '<%- student_id %>'s state on Assessment '<%- problem_id "
+"%>'. Make sure that the problem and student identifiers are complete and "
+"correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:216
 msgid "Module state successfully deleted."
@@ -3962,6 +3979,9 @@ msgid ""
 "student_id %>'. Make sure that the problem and student identifiers are "
 "complete and correct."
 msgstr ""
+"Error getting task history for problem '<%- problem_id %>' and student '<%- "
+"student_id %>'. Make sure that the problem and student identifiers are "
+"complete and correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:287
 msgid "Entrance exam attempts is being reset for student '{student_id}'."
@@ -4007,11 +4027,11 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/student_admin.js:413
 msgid "Reset attempts for all students on problem '<%- problem_id %>'?"
-msgstr ""
+msgstr "Reset attempts for all students on problem '<%- problem_id %>'?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:422
 msgid ""
-"Successfully started task to reset attempts for problem '<%- problem_id %>'. "
+"Successfully started task to reset attempts for Assessment '<%- problem_id %>'. "
 "Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 
@@ -4021,10 +4041,13 @@ msgid ""
 "problem_id %>'. Make sure that the problem identifier is complete and "
 "correct."
 msgstr ""
+"Error starting a task to reset attempts for all students on problem '<%- "
+"problem_id %>'. Make sure that the problem identifier is complete and "
+"correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:475
 msgid "Error listing task history for this student and problem."
-msgstr ""
+msgstr "Error listing task history for this student and Assessment."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:503
 msgid ""
@@ -4032,6 +4055,9 @@ msgid ""
 "'<%- student_id %>'. Click the 'Show Task Status' button to see the status "
 "of the task."
 msgstr ""
+"Started rescore problem task for assessment '<%- problem_id %>' and student "
+"'<%- student_id %>'. Click the 'Show Task Status' button to see the status "
+"of the task."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
 msgid ""
@@ -4039,6 +4065,9 @@ msgid ""
 "'<%- student_id %>'. Make sure that the the problem and student identifiers "
 "are complete and correct."
 msgstr ""
+"Error starting a task to rescore problem '<%- problem_id %>' for student "
+"'<%- student_id %>'. Make sure that the the assessment and student identifiers "
+"are complete and correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:549
 msgid "Please enter a score."
@@ -4050,6 +4079,9 @@ msgid ""
 "student '<%- student_id %>'. Click the 'Show Task Status' button to see the "
 "status of the task."
 msgstr ""
+"Started task to override the score for assessment '<%- problem_id %>' and "
+"student '<%- student_id %>'. Click the 'Show Task Status' button to see the "
+"status of the task."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
 msgid ""
@@ -4057,6 +4089,9 @@ msgid ""
 "student '<%- student_id %>'. Make sure that the the score and the problem "
 "and student identifiers are complete and correct."
 msgstr ""
+"Error starting a task to override score for assessment '<%- problem_id %>' for "
+"student '<%- student_id %>'. Make sure that the the score and the assessment "
+"and student identifiers are complete and correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:604
 msgid ""
@@ -4070,22 +4105,29 @@ msgid ""
 "Make sure that entrance exam has problems in it and student identifier is "
 "correct."
 msgstr ""
+"Error starting a task to rescore entrance exam for student '{student_id}'. "
+"Make sure that entrance exam has assessments in it and student identifier is "
+"correct."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:632
 msgid "Rescore problem '<%- problem_id %>' for all students?"
-msgstr ""
+msgstr "Rescore assessment '<%- problem_id %>' for all students?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:642
 msgid ""
 "Successfully started task to rescore problem '<%- problem_id %>' for all "
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
+"Successfully started task to rescore assessment '<%- problem_id %>' for all "
+"students. Click the 'Show Task Status' button to see the status of the task."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
 msgid ""
 "Error starting a task to rescore problem '<%- problem_id %>'. Make sure that "
 "the problem identifier is complete and correct."
 msgstr ""
+"Error starting a task to rescore assessment '<%- problem_id %>'. Make sure that "
+"the problem identifier is complete and correct."
 
 #. Translators: a "Task" is a background process such as grading students or
 #. sending email
@@ -4146,6 +4188,8 @@ msgid ""
 "An error occurred retrieving your email. Please try again later, and contact "
 "technical support if the problem persists."
 msgstr ""
+"An error occurred retrieving your email. Please try again later, and contact "
+"technical support if the problem persists."
 
 #: lms/static/js/instructor_dashboard/util.js:207
 msgid "Sent By"
@@ -4324,27 +4368,27 @@ msgstr ""
 
 #: lms/static/js/staff_debug_actions.js:113
 msgid "Successfully rescored problem for user {user}"
-msgstr ""
+msgstr "Successfully rescored problem for user {user}"
 
 #: lms/static/js/staff_debug_actions.js:114
 msgid "Failed to rescore problem for user."
-msgstr ""
+msgstr "Failed to rescore problem for user."
 
 #: lms/static/js/staff_debug_actions.js:125
 msgid "Successfully rescored problem to improve score for user {user}"
-msgstr ""
+msgstr "Successfully rescored problem to improve score for user {user}"
 
 #: lms/static/js/staff_debug_actions.js:126
 msgid "Failed to rescore problem to improve score for user."
-msgstr ""
+msgstr "Failed to rescore problem to improve score for user."
 
 #: lms/static/js/staff_debug_actions.js:137
 msgid "Successfully overrode problem score for {user}"
-msgstr ""
+msgstr "Successfully overrode assessment score for {user}"
 
 #: lms/static/js/staff_debug_actions.js:138
 msgid "Could not override problem score for {user}."
-msgstr ""
+msgstr "Could not override problem score for {user}."
 
 #: lms/static/js/student_account/components/PasswordResetConfirmation.jsx:93
 msgid "Enter and confirm your new password."
@@ -5285,7 +5329,7 @@ msgstr ""
 
 #: xmodule/js/src/capa/display.js:712
 msgid "This problem has been reset."
-msgstr ""
+msgstr "This problem has been reset."
 
 #: xmodule/js/src/capa/display.js:1018
 msgid "unsubmitted"
@@ -6543,6 +6587,10 @@ msgid ""
 "\n"
 "Proceed to the Advanced Editor and convert this problem to XML?"
 msgstr ""
+"If you use the Advanced Editor, this assessment will be converted to XML and "
+"you will not be able to return to the Simple Editor Interface.\n"
+"\n"
+"Proceed to the Advanced Editor and convert this assessment to XML?"
 
 #: xmodule/js/src/problem/edit.js:406 xmodule/js/src/problem/edit.js:439
 #: xmodule/js/src/problem/edit.js:502
@@ -6856,7 +6904,7 @@ msgstr ""
 
 #: cms/templates/js/add-xblock-component-menu-problem.underscore:10
 msgid "Common Problem Types"
-msgstr ""
+msgstr "Common Assessment Types"
 
 #: cms/templates/js/add-xblock-component-support-legend.underscore:9
 msgid "Supported"
@@ -7548,6 +7596,8 @@ msgid ""
 "The number of subsections in the course that contain problems of this "
 "assignment type."
 msgstr ""
+"The number of subsections in the course that contain assessments of this "
+"assignment type."
 
 #: cms/templates/js/course_grade_policy.underscore:27
 msgid "Number of Droppable"
@@ -7783,10 +7833,12 @@ msgid "Group information"
 msgstr ""
 
 #: cms/templates/js/group-configuration-editor.underscore:31
-msgid ""
+msgid ""Problem
 "Name of the groups that students will be assigned to, for example, Control, "
 "Video, Problems. You must have two or more groups."
-msgstr ""
+msgstr ""Assessment
+"Name of the groups that students will be assigned to, for example, Control, "
+"Video, Assessments. You must have two or more groups."
 
 #: cms/templates/js/group-configuration-editor.underscore:33
 msgid "Add another group"
@@ -8331,6 +8383,10 @@ msgid ""
 "allow additional time for individual learners through the Instructor "
 "Dashboard."
 msgstr ""
+"Use a timed exam to limit the time learners can spend on assessments in this "
+"subsection. Learners must submit answers before the time expires. You can "
+"allow additional time for individual learners through the Instructor "
+"Dashboard."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:38
 msgid "Proctored"
@@ -9434,6 +9490,8 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
+"To receive credit for problems, you must select \"Submit\" for each assessment "
+"before you select \"End My Exam\"."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"

@@ -291,7 +291,7 @@ msgstr ""
 #: cms/djangoapps/contentstore/views/component.py:260
 #: openedx/core/djangoapps/content_libraries/constants.py:12
 msgid "Problem"
-msgstr ""
+msgstr "Assessment"
 
 #: cms/djangoapps/contentstore/helpers.py:194
 #: cms/djangoapps/contentstore/views/component.py:264
@@ -387,7 +387,7 @@ msgstr ""
 #: xmodule/video_block/video_handlers.py:543
 msgid ""
 "There is a problem with this transcript file. Try to upload a different file."
-msgstr ""
+msgstr "There is a problem with this transcript file. Try to upload a different file."
 
 #: cms/djangoapps/contentstore/transcript_storage_handlers.py:233
 #: xmodule/video_block/video_handlers.py:462
@@ -607,7 +607,7 @@ msgstr ""
 #: cms/djangoapps/contentstore/video_utils.py:61
 msgid ""
 "There is a problem with this image file. Try to upload a different file."
-msgstr ""
+msgstr "There is a problem with this image file. Try to upload a different file."
 
 #: cms/djangoapps/contentstore/video_utils.py:64
 #, python-brace-format
@@ -690,7 +690,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/views/component.py:306 xmodule/capa_block.py:182
 msgid "Blank Problem"
-msgstr ""
+msgstr "Blank Assessment"
 
 #: cms/djangoapps/contentstore/views/component.py:430
 #: xmodule/video_block/video_block.py:152
@@ -862,13 +862,14 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:556
 msgid "There is a problem with the chosen transcript file."
-msgstr ""
+msgstr "There is a problem with the chosen transcript file."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:596
 msgid ""
 "There is a problem with the existing transcript file. Please upload a "
 "different file."
-msgstr ""
+msgstr "There is a problem with the existing transcript file. Please upload a "
+"different file."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:616
 msgid "YouTube ID is required."
@@ -876,7 +877,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:638
 msgid "There is a problem with the YouTube transcript file."
-msgstr ""
+msgstr "There is a problem with the YouTube transcript file."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:654
 msgid "Transcripts are not yet supported in content libraries."
@@ -932,7 +933,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:551
 msgid "There was a problem pasting your component."
-msgstr ""
+msgstr "There was a problem pasting your component."
 
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:555
 msgid "Your clipboard is empty or invalid."
@@ -4121,7 +4122,7 @@ msgstr ""
 #: lms/djangoapps/courseware/views/views.py:1234
 #, python-brace-format
 msgid "User {username} has never accessed problem {location}"
-msgstr ""
+msgstr "User {username} has never accessed problem {location}"
 
 #: lms/djangoapps/courseware/views/views.py:1431
 #, python-brace-format
@@ -4451,6 +4452,9 @@ msgid ""
 "that contains other blocks, (such as the course, section, subsection, or "
 "unit blocks) then all blocks under that block will be included in the report."
 msgstr ""
+"A usage key location for a section or a assessment. If the location is a block "
+"that contains other blocks, (such as the course, section, subsection, or "
+"unit blocks) then all blocks under that block will be included in the report."
 
 #: lms/djangoapps/instructor/views/api.py:1153
 msgid "A list of usage keys for the blocks to include in the report. "
@@ -4461,6 +4465,8 @@ msgid ""
 "A list of problem/block types to generate the report for. This field can be "
 "omitted if the report should include details of allblock types. "
 msgstr ""
+"A list of assessment/block types to generate the report for. This field can be "
+"omitted if the report should include details of allblock types. "
 
 #: lms/djangoapps/instructor/views/api.py:1172
 msgid "User-friendly text describing current status of report generation."
@@ -4477,6 +4483,8 @@ msgid ""
 "The provided parameters were invalid. Make sure you've provided at least one "
 "valid usage key for `problem_locations`."
 msgstr ""
+"The provided parameters were invalid. Make sure you've provided at least one "
+"valid usage key for `problem_locations`."
 
 #: lms/djangoapps/instructor/views/api.py:1204
 #: lms/djangoapps/instructor/views/api.py:2346
@@ -4493,11 +4501,11 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:1340
 #: lms/djangoapps/instructor_task/api_helper.py:109
 msgid "problem responses"
-msgstr ""
+msgstr "assessment responses "
 
 #: lms/djangoapps/instructor/views/api.py:1346
 msgid "Could not find problem with this location."
-msgstr ""
+msgstr "Could not find assessment with this location."
 
 #: lms/djangoapps/instructor/views/api.py:1397
 msgid "CourseID"
@@ -4744,6 +4752,9 @@ msgid ""
 "depend on the kind of task being performed. For instanceit may contain the "
 "problem locations for a problem resources task."
 msgstr ""
+"The input parameters for the task. The format and content of this data will "
+"depend on the kind of task being performed. For instanceit may contain the "
+"problem locations locations for a assessment resources task."
 
 #: lms/djangoapps/instructor/views/api.py:2274
 msgid "The username of the user who initiated this task."
@@ -4817,7 +4828,7 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:2744
 #: lms/djangoapps/instructor_task/api_helper.py:108
 msgid "problem grade"
-msgstr ""
+msgstr "assessment grade"
 
 #: lms/djangoapps/instructor/views/api.py:3048
 #, python-brace-format
@@ -5166,11 +5177,11 @@ msgstr ""
 
 #: lms/djangoapps/instructor_task/api_helper.py:378
 msgid "Scores must be between 0 and the value of the problem."
-msgstr ""
+msgstr "Scores must be between 0 and the value of the assessment."
 
 #: lms/djangoapps/instructor_task/api_helper.py:393
 msgid "Not all problems in entrance exam support re-scoring."
-msgstr ""
+msgstr "Not all assessments in entrance exam support re-scoring."
 
 #: lms/djangoapps/instructor_task/models.py:115
 msgid "An error has occurred. Task was not created."
@@ -5224,7 +5235,7 @@ msgstr ""
 #. progress messages as {action}.
 #: lms/djangoapps/instructor_task/tasks.py:208
 msgid "problem distribution graded"
-msgstr ""
+msgstr "assessment distribution graded"
 
 #. Translators: This is a past-tense verb that is inserted into task progress
 #. messages as {action}.
@@ -5311,7 +5322,7 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:164
 #, python-brace-format
 msgid "Problem failed to be {action} for student '{student}'"
-msgstr ""
+msgstr "Problem failed to be {action} for student '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.  # lint-amnesty, pylint: disable=line-
@@ -5319,7 +5330,7 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:168
 #, python-brace-format
 msgid "Problem successfully {action} for student '{student}'"
-msgstr ""
+msgstr "Problem successfully {action} for student '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.
@@ -5348,14 +5359,14 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:187
 #, python-brace-format
 msgid "Problem failed to be {action} for any of {attempted} students"
-msgstr ""
+msgstr "Problem failed to be {action} for any of {attempted} students"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {attempted} is a count.
 #: lms/djangoapps/instructor_task/views.py:191
 #, python-brace-format
 msgid "Problem successfully {action} for {attempted} students"
-msgstr ""
+msgstr "Problem successfully {action} for {attempted} students"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {succeeded} and {attempted} are counts.  # lint-amnesty, pylint:
@@ -5363,7 +5374,7 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:194
 #, python-brace-format
 msgid "Problem {action} for {succeeded} of {attempted} students"
-msgstr ""
+msgstr "Problem {action} for {succeeded} of {attempted} students"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #: lms/djangoapps/instructor_task/views.py:199
@@ -8383,6 +8394,9 @@ msgid ""
 "participating in the discussion forums. What do you want to do to keep "
 "learning?"
 msgstr ""
+"Many %(platform_name)s learners are completing more assessments every week, and "
+"participating in the discussion forums. What do you want to do to keep "
+"learning?"
 
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day10/email/body.html:15
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day10/email/body.txt:11
@@ -8392,6 +8406,10 @@ msgid ""
 "problems every week, and participating in the discussion forums. What do you "
 "want to do to keep learning?"
 msgstr ""
+"Many %(platform_name)s learners in %(course_name)s are completing more "
+"assessments every week, and participating in the discussion forums. What do you "
+"want to do to keep learning?"
+
 
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day10/email/body.html:27
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day10/email/subject.txt:3
@@ -8405,6 +8423,9 @@ msgid ""
 "completing more problems every week, and participating in the discussion "
 "forums. What do you want to do to keep learning?"
 msgstr ""
+"Many {platform_name} learners in {start_strong}{course_name}{end_strong} are "
+"completing more assessments every week, and participating in the discussion "
+"forums. What do you want to do to keep learning?"
 
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day10/email/body.html:47
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day10/email/body.txt:9
@@ -9749,7 +9770,7 @@ msgstr[1] ""
 #: openedx/features/personalized_learner_schedules/call_to_action.py:150
 #, python-brace-format
 msgid "You have used {attempts} of {max_attempts} attempts for this problem."
-msgstr ""
+msgstr "You have used {attempts} of {max_attempts} attempts for this assessment."
 
 #: openedx/features/personalized_learner_schedules/call_to_action.py:155
 msgid "Try again (unlimited attempts)"
@@ -9758,7 +9779,7 @@ msgstr ""
 #: openedx/features/personalized_learner_schedules/call_to_action.py:156
 #, python-brace-format
 msgid "You have used {attempts} of unlimited attempts for this problem."
-msgstr ""
+msgstr "You have used {attempts} of unlimited attempts for this assessment."
 
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:70
 #: cms/templates/widgets/header.html:374
@@ -9789,7 +9810,7 @@ msgstr ""
 
 #: xmodule/capa/capa_problem.py:511
 msgid "Cannot rescore problems with possible file submissions"
-msgstr ""
+msgstr "Cannot rescore assessments with possible file submissions"
 
 #: xmodule/capa/capa_problem.py:610
 msgid "Question {}"
@@ -10024,7 +10045,7 @@ msgstr ""
 
 #: xmodule/capa/responsetypes.py:1536 xmodule/capa/responsetypes.py:1568
 msgid "There was a problem with the staff answer to this problem."
-msgstr ""
+msgstr "There was a problem with the staff answer to this assessment."
 
 #: xmodule/capa/responsetypes.py:1592
 #, python-brace-format
@@ -10043,7 +10064,7 @@ msgstr ""
 
 #: xmodule/capa/responsetypes.py:1652
 msgid "You may not use complex numbers in range tolerance problems"
-msgstr ""
+msgstr "You may not use complex numbers in range tolerance assessments"
 
 #. Translators: This is an error message for a math problem. If the instructor
 #. provided a
@@ -10053,6 +10074,7 @@ msgstr ""
 msgid ""
 "There was a problem with the staff answer to this problem: complex boundary."
 msgstr ""
+"There was a problem with the staff answer to this assessment: complex boundary."
 
 #. Translators: This is an error message for a math problem. If the instructor
 #. did not
@@ -10061,6 +10083,7 @@ msgstr ""
 msgid ""
 "There was a problem with the staff answer to this problem: empty boundary."
 msgstr ""
+"There was a problem with the staff answer to this assessment: empty boundary."
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: Separator used in NumericalResponse to display multiple
@@ -10126,7 +10149,7 @@ msgstr ""
 
 #: xmodule/capa/responsetypes.py:2671
 msgid "Error: No grader has been set up for this problem."
-msgstr ""
+msgstr "Error: No grader has been set up for this assessment"
 
 #: xmodule/capa/responsetypes.py:2732
 #, python-brace-format
@@ -10154,6 +10177,8 @@ msgid ""
 "Factorial function not permitted in answer for this problem. Provided answer "
 "was: {bad_input}"
 msgstr ""
+"Factorial function not permitted in answer for this assessment. Provided answer "
+"was: {bad_input}"
 
 #: xmodule/capa/responsetypes.py:3132
 #, python-brace-format
@@ -10189,7 +10214,7 @@ msgstr ""
 #: xmodule/capa/responsetypes.py:3371
 #, python-brace-format
 msgid "Error in problem specification! Cannot parse rectangle in {sr_coords}"
-msgstr ""
+msgstr "Error in problem specification! Cannot parse rectangle in {sr_coords}"
 
 #: xmodule/capa/responsetypes.py:3444
 msgid "Annotation Input"
@@ -10227,7 +10252,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:185
 msgid "Number of attempts taken by the student on this problem"
-msgstr ""
+msgstr "Number of attempts taken by the student on this assessment"
 
 #: xmodule/capa_block.py:190 xmodule/modulestore/inheritance.py:146
 msgid "Maximum Attempts"
@@ -10238,6 +10263,8 @@ msgid ""
 "Defines the number of times a student can try to answer this problem. If the "
 "value is not set, infinite attempts are allowed."
 msgstr ""
+"Defines the number of times a student can try to answer this assessment. If the "
+"value is not set, infinite attempts are allowed."
 
 #: xmodule/capa_block.py:196
 msgid "Grading Method"
@@ -10248,6 +10275,8 @@ msgid ""
 "Define the grading method for this problem. By default, it's the score of "
 "the last submission made by the student."
 msgstr ""
+"Define the grading method for this assessment. By default, it's the score of "
+"the last submission made by the student."
 
 #: xmodule/capa_block.py:204 xmodule/capa_block.py:501
 msgid "Last Score"
@@ -10267,7 +10296,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:210
 msgid "Date that this problem is due by"
-msgstr ""
+msgstr "Date that this assessment is due by"
 
 #: xmodule/capa_block.py:212
 msgid "Amount of time after the due date that submissions will be accepted"
@@ -10282,6 +10311,8 @@ msgid ""
 "Defines when to show whether a learner's answer to the problem is correct. "
 "Configured on the subsection."
 msgstr ""
+"Defines when to show whether a learner's answer to the assessment is correct. "
+"Configured on the subsection."
 
 #: xmodule/capa_block.py:222 xmodule/capa_block.py:234
 #: xmodule/capa_block.py:278
@@ -10301,6 +10332,8 @@ msgid ""
 "Defines when to show the answer to the problem. A default value can be set "
 "in Advanced Settings."
 msgstr ""
+"Defines when to show the answer to the assessment. A default value can be set "
+"in Advanced Settings."
 
 #: xmodule/capa_block.py:235
 msgid "Answered"
@@ -10371,6 +10404,8 @@ msgid ""
 "Defines when to randomize the variables specified in the associated Python "
 "script. For problems that do not randomize values, specify \"Never\". "
 msgstr ""
+"Defines when to randomize the variables specified in the associated Python "
+"script. For assessments that do not randomize values, specify \"Never\". "
 
 #: xmodule/capa_block.py:279
 msgid "On Reset"
@@ -10382,7 +10417,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:285
 msgid "XML data for the problem"
-msgstr ""
+msgstr "XML data for the assessment"
 
 #: xmodule/capa_block.py:290
 msgid "Dictionary with the correctness of current student answers"
@@ -10418,7 +10453,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:308
 msgid "Whether the student has answered the problem"
-msgstr ""
+msgstr "Whether the student has answered the assessment"
 
 #: xmodule/capa_block.py:309
 msgid "Random seed for this student"
@@ -10437,16 +10472,20 @@ msgid ""
 "Seconds a student must wait between submissions for a problem with multiple "
 "attempts."
 msgstr ""
+"Seconds a student must wait between submissions for a assessment with multiple "
+"attempts."
 
 #: xmodule/capa_block.py:317
 msgid "Problem Weight"
-msgstr ""
+msgstr "Assessment Weight "
 
 #: xmodule/capa_block.py:318
 msgid ""
 "Defines the number of points each problem is worth. If the value is not set, "
 "each response field in the problem is worth one point."
 msgstr ""
+"Defines the number of points each assessment is worth. If the value is not set, "
+"each response field in the assessment is worth one point."
 
 #: xmodule/capa_block.py:323
 msgid "Markdown source of this module"
@@ -10456,6 +10495,7 @@ msgstr ""
 msgid ""
 "Source code for LaTeX and Word problems. This feature is not well-supported."
 msgstr ""
+"Source code for LaTeX and Word assessments. This feature is not well-supported."
 
 #: xmodule/capa_block.py:329 xmodule/html_block.py:67
 msgid "Enable LaTeX templates?"
@@ -10486,6 +10526,8 @@ msgid ""
 "The state of this problem has changed since you loaded this page. Please "
 "refresh your page."
 msgstr ""
+"The state of this assessment has changed since you loaded this page. Please "
+"refresh your page."
 
 #: xmodule/capa_block.py:780 xmodule/capa_block.py:796
 msgid "Answer ID"
@@ -10505,7 +10547,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:1161
 msgid "Warning: The problem has been reset to its initial state!"
-msgstr ""
+msgstr "Warning: The assessment has been reset to its initial state!"
 
 #. Translators: Following this message, there will be a bulleted list of
 #. items.
@@ -10514,6 +10556,8 @@ msgid ""
 "The problem's state was corrupted by an invalid submission. The submission "
 "consisted of:"
 msgstr ""
+"The assessment's state was corrupted by an invalid submission. The submission "
+"consisted of:"
 
 #: xmodule/capa_block.py:1172
 msgid "If this error persists, please contact the course staff."
@@ -10576,11 +10620,11 @@ msgstr ""
 #. longer attempt to solve the problem.
 #: xmodule/capa_block.py:1796 xmodule/capa_block.py:2124
 msgid "Problem is closed."
-msgstr ""
+msgstr "assessment is closed."
 
 #: xmodule/capa_block.py:1802
 msgid "Problem must be reset before it can be submitted again."
-msgstr ""
+msgstr "Assessment must be reset before it can be submitted again."
 
 #: xmodule/capa_block.py:1812
 #, python-brace-format
@@ -10617,7 +10661,7 @@ msgstr[1] ""
 
 #: xmodule/capa_block.py:2135
 msgid "Problem needs to be reset prior to save."
-msgstr ""
+msgstr "Assessment needs to be reset prior to save."
 
 #: xmodule/capa_block.py:2145
 msgid "Your answers have been saved."
@@ -10634,7 +10678,7 @@ msgstr ""
 #. longer attempt to solve the problem.
 #: xmodule/capa_block.py:2180
 msgid "You cannot select Reset for a problem that is closed."
-msgstr ""
+msgstr "You cannot select Reset for a assessment that is closed."
 
 #: xmodule/capa_block.py:2189
 msgid "You must submit an answer before you can select Reset."
@@ -10644,11 +10688,11 @@ msgstr ""
 #. solution so it can get a new score.
 #: xmodule/capa_block.py:2244
 msgid "Problem's definition does not support rescoring."
-msgstr ""
+msgstr "Assessment's definition does not support rescoring."
 
 #: xmodule/capa_block.py:2250
 msgid "Problem must be answered before it can be graded again."
-msgstr ""
+msgstr "Assessment must be answered before it can be graded again."
 
 #: xmodule/conditional_block.py:91
 msgid "Conditional"
@@ -11481,7 +11525,7 @@ msgstr ""
 
 #: xmodule/course_block.py:1026
 msgid "Add Unsupported Problems and Tools"
-msgstr ""
+msgstr "Add Unsupported Assessments and Tools"
 
 #: xmodule/course_block.py:1028
 msgid ""
@@ -11491,6 +11535,11 @@ msgid ""
 "requirements, such as testing, accessibility, internationalization, and "
 "documentation."
 msgstr ""
+"Enter true or false. If true, you can add unsupported Assessments and tools to "
+"your course in Studio. Unsupported Assessments and tools are not recommended "
+"for use in courses due to non-compliance with one or more of the base "
+"requirements, such as testing, accessibility, internationalization, and "
+"documentation."
 
 #: xmodule/course_block.py:1035
 msgid "Highlights Enabled for Messaging"
@@ -11676,6 +11725,8 @@ msgid ""
 "Determines whether a 'Reset Problems' button is shown, so users may reset "
 "their answers and reshuffle selected items."
 msgstr ""
+"Determines whether a 'Reset Problems' button is shown, so users may reset "
+"their answers and reshuffle selected items."
 
 #: xmodule/item_bank_block.py:471
 #, python-brace-format
@@ -11683,10 +11734,12 @@ msgid ""
 "The problem bank has been configured to show {count} problems. Please "
 "specify a positive number of problems, or specify -1 to show all problems."
 msgstr ""
+"The assessment bank has been configured to show {count} assessments. Please "
+"specify a positive number of assessments, or specify -1 to show all assessments."
 
 #: xmodule/item_bank_block.py:475 xmodule/item_bank_block.py:487
 msgid "Edit the problem bank configuration."
-msgstr ""
+msgstr "Edit the assessment bank configuration."
 
 #: xmodule/item_bank_block.py:483
 #, python-brace-format
@@ -11694,6 +11747,8 @@ msgid ""
 "The problem bank has been configured to show {count} problems, but only "
 "{actual} have been selected."
 msgstr ""
+"The assessment bank has been configured to show {count} assessments, but only "
+"{actual} have been selected."
 
 #: xmodule/library_content_block.py:51
 msgid "Any Type"
@@ -11713,13 +11768,15 @@ msgstr ""
 
 #: xmodule/library_content_block.py:100
 msgid "Problem Type"
-msgstr ""
+msgstr "Assessment Type"
 
 #: xmodule/library_content_block.py:101
 msgid ""
 "Choose a problem type to fetch from the library. If \"Any Type\" is selected "
 "no filtering is applied."
 msgstr ""
+"Choose a assessment type to fetch from the library. If \"Any Type\" is selected "
+"no filtering is applied."
 
 #: xmodule/library_content_block.py:200
 msgid "Source content library has not been specified."
@@ -11770,25 +11827,25 @@ msgstr ""
 #: xmodule/library_content_block.py:341
 #, python-brace-format
 msgid "There are no problems in the specified library of type {capa_type}."
-msgstr ""
+msgstr "There are no assessments in the specified library of type {capa_type}."
 
 #: xmodule/library_content_block.py:344
 msgid "Select another problem type."
-msgstr ""
+msgstr "Select another assessment type."
 
 #: xmodule/library_content_block.py:355
 #, python-brace-format
 msgid "The specified library is configured to fetch {count} problem, "
 msgid_plural "The specified library is configured to fetch {count} problems, "
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "The specified library is configured to fetch {count} assessment, "
+msgstr[1] "The specified library is configured to fetch {count} assessments, "
 
 #: xmodule/library_content_block.py:360
 #, python-brace-format
 msgid "but there is only {actual} matching problem."
 msgid_plural "but there are only {actual} matching problems."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "but there is only {actual} matching assessment."
+msgstr[1] "but there are only {actual} matching assessments."
 
 #: xmodule/library_content_block.py:366
 msgid "Edit the library configuration."
@@ -11978,7 +12035,7 @@ msgstr ""
 
 #: xmodule/modulestore/inheritance.py:48
 msgid "Enter the default date by which problems are due."
-msgstr ""
+msgstr "Enter the default date by which assessments are due."
 
 #: xmodule/modulestore/inheritance.py:53 xmodule/seq_block.py:84
 msgid "Number of Relative Weeks Due By"
@@ -11989,6 +12046,8 @@ msgid ""
 "Enter the number of weeks the problems are due by relative to the learner's "
 "enrollment date"
 msgstr ""
+"Enter the number of weeks the assessments are due by relative to the learner's "
+"enrollment date"
 
 #: xmodule/modulestore/inheritance.py:70
 msgid "GIT URL"
@@ -12008,7 +12067,7 @@ msgstr ""
 
 #: xmodule/modulestore/inheritance.py:84
 msgid "Enter the ids for the content groups this problem belongs to."
-msgstr ""
+msgstr "Enter the ids for the content groups this assessment belongs to."
 
 #. Translators: DO NOT translate the words in quotes here, they are
 #. specific words for the acceptable values.
@@ -12019,6 +12078,10 @@ msgid ""
 "\"past_due\", \"correct_or_past_due\", \"after_all_attempts\", "
 "\"after_all_attempts_or_correct\", \"attempted_no_past_due\", and \"never\"."
 msgstr ""
+"Specify when the Show Answer button appears for each assessment. Valid values "
+"are \"always\", \"answered\", \"attempted\", \"closed\", \"finished\", "
+"\"past_due\", \"correct_or_past_due\", \"after_all_attempts\", "
+"\"after_all_attempts_or_correct\", \"attempted_no_past_due\", and \"never\"."
 
 #. Translators: DO NOT translate the words in quotes here, they are
 #. specific words for the acceptable values.
@@ -12038,6 +12101,11 @@ msgid ""
 "problems in your course. Valid values are \"always\", \"onreset\", "
 "\"never\", and \"per_student\"."
 msgstr ""
+"Specify the default for how often variable values in a assessment are "
+"randomized. This setting should be set to \"never\" unless you plan to "
+"provide a Python script to identify and randomize values in most of the "
+"assessments in your course. Valid values are \"always\", \"onreset\", "
+"\"never\", and \"per_student\"."
 
 #: xmodule/modulestore/inheritance.py:128
 msgid "Days Early for Beta Users"
@@ -12068,6 +12136,8 @@ msgid ""
 "Enter true or false. If true, you can use the LaTeX templates for HTML "
 "components and advanced Problem components."
 msgstr ""
+"Enter true or false. If true, you can use the LaTeX templates for HTML "
+"components and advanced Assessment components."
 
 #: xmodule/modulestore/inheritance.py:147
 msgid ""
@@ -12078,6 +12148,15 @@ msgid ""
 "specific number, you cannot set the Maximum Attempts for individual problems "
 "to unlimited."
 msgstr ""
+msgid ""
+"Enter the maximum number of times a student can try to answer assessments. By "
+"default, Maximum Attempts is set to null, meaning that students have an "
+"unlimited number of attempts for assessments. You can override this course-wide "
+"setting for individual assessments. However, if the course-wide setting is a "
+"specific number, you cannot set the Maximum Attempts for individual assessments "
+"to unlimited."
+
+
 
 #: xmodule/modulestore/inheritance.py:152
 msgid ""
@@ -12137,7 +12216,7 @@ msgstr ""
 
 #: xmodule/modulestore/inheritance.py:201
 msgid "Show Reset Button for Problems"
-msgstr ""
+msgstr "Show Reset Button for Problems"
 
 #: xmodule/modulestore/inheritance.py:203
 msgid ""
@@ -12146,6 +12225,10 @@ msgid ""
 "settings. All existing problems are affected when this course-wide setting "
 "is changed."
 msgstr ""
+"Enter true or false. If true, problems in the course default to always "
+"displaying a 'Reset' button. You can override this in each problems's "
+"settings. All existing assessments are affected when this course-wide setting "
+"is changed."
 
 #: xmodule/modulestore/inheritance.py:211
 msgid "Enable Student Notes"
@@ -12171,6 +12254,8 @@ msgid ""
 "Enter true or false. If true, answer submissions for problem blocks will be "
 "considered in the Entrance Exam scoring/gating algorithm."
 msgstr ""
+"Enter true or false. If true, answer submissions for assessment blocks will be "
+"considered in the Entrance Exam scoring/gating algorithm."
 
 #: xmodule/modulestore/inheritance.py:244
 msgid "Hide from Table of Contents"
@@ -12221,7 +12306,7 @@ msgstr ""
 
 #: xmodule/seq_block.py:79
 msgid "Enter the date by which problems are due."
-msgstr ""
+msgstr "Enter the date by which assessments are due."
 
 #: xmodule/seq_block.py:90
 msgid "Hide sequence content After Due Date"
@@ -14388,6 +14473,9 @@ msgid ""
 "course. All problems, videos, announcements, and other files are duplicated "
 "to the new course."
 msgstr ""
+"The new course has the same course outline and content as the original "
+"course. All assessments, videos, announcements, and other files are duplicated "
+"to the new course."
 
 #: cms/templates/course-create-rerun.html:144
 msgid "What does not transfer from the original course?"
@@ -14750,6 +14838,9 @@ msgid ""
 "your last request. You may want to return to the {studio_name} Dashboard or "
 "try this request again."
 msgstr ""
+"We're sorry. There was a problem with the server while trying to process "
+"your last request. You may want to return to the {studio_name} Dashboard or "
+"try this request again."
 
 #: cms/templates/error.html:31
 msgid "Back to dashboard"
@@ -14883,7 +14974,7 @@ msgstr ""
 
 #: cms/templates/export.html:200
 msgid "Individual Problems"
-msgstr ""
+msgstr "Individual Assessments"
 
 #: cms/templates/export.html:202
 msgid "Course Assets"
@@ -15228,13 +15319,15 @@ msgstr ""
 
 #: cms/templates/howitworks.html:109
 msgid "A Broad Library of Problem Types"
-msgstr ""
+msgstr "A Broad Library of Assessment Types"
 
 #: cms/templates/howitworks.html:110
 msgid ""
 "It's more than just multiple choice. {studio_name} supports more than a "
 "dozen types of problems to challenge your learners."
 msgstr ""
+"It's more than just multiple choice. {studio_name} supports more than a "
+"dozen types of Assessment to challenge your learners."
 
 #: cms/templates/howitworks.html:119 cms/templates/howitworks.html:120
 msgid ""
@@ -15263,6 +15356,8 @@ msgid ""
 "Caught a bug? No problem. When you want, your changes go live when you click "
 "Save."
 msgstr ""
+"Caught a bug? No problem. When you want, your changes go live when you click "
+"Save."
 
 #: cms/templates/howitworks.html:138
 msgid "Release-On Date Publishing"
@@ -15316,6 +15411,8 @@ msgid ""
 "Quickly create videos, text snippets, inline discussions, and a variety of "
 "problem types."
 msgstr ""
+"Quickly create videos, text snippets, inline discussions, and a variety of "
+"assessment types."
 
 #: cms/templates/howitworks.html:203
 msgid "Publishing on Date"
@@ -15549,6 +15646,10 @@ msgid ""
 "associated with those Problem components may be lost. This data includes "
 "students' problem scores."
 msgstr ""
+"If you perform an import while your course is running, and you change the "
+"URL names (or url_name nodes) of any assessment components, the student data "
+"associated with those Assessment components may be lost. This data includes "
+"students' assessment scores."
 
 #: cms/templates/import.html:250
 msgid "Learn more about importing a course"
@@ -15631,7 +15732,7 @@ msgstr ""
 #. (A library is a collection of content or problems.)
 #: cms/templates/index.html:160
 msgid "e.g. Computer Science Problems"
-msgstr ""
+msgstr "e.g. Computer Science Assessments"
 
 #: cms/templates/index.html:161
 msgid "The public display name for your library."
@@ -15957,6 +16058,12 @@ msgid ""
 "library as the source library, and specify the number of problems to be "
 "randomly selected and displayed to each student."
 msgstr ""
+"Use library content in courses by adding the {em_start}"
+"library_content{em_end} policy key to the Advanced Module List in the "
+"course's Advanced Settings, then adding a Randomized Content Block to your "
+"courseware. In the settings for each Randomized Content Block, select this "
+"library as the source library, and specify the number of assessments to be "
+"randomly selected and displayed to each student."
 
 #: cms/templates/library.html:101
 msgid "Learn more about content libraries"
@@ -16818,7 +16925,7 @@ msgstr ""
 
 #: cms/templates/studio_xblock_wrapper.html:109
 msgid "Select this problem"
-msgstr ""
+msgstr "Select this assessment"
 
 #: cms/templates/studio_xblock_wrapper.html:116
 #: cms/templates/studio_xblock_wrapper.html:119
@@ -17975,10 +18082,12 @@ msgid ""
 "Some problems have options such as save, reset, hints, or show answer. These "
 "options follow the Submit button."
 msgstr ""
+"Some problems have options such as save, reset, hints, or show answer. These "
+"options follow the Submit button."
 
 #: lms/templates/problem.html:154
 msgid "Answers are displayed within the problem"
-msgstr ""
+msgstr "Answers are displayed within the assessment"
 
 #: lms/templates/problem_notifications.html:14
 msgid "Next Hint"
@@ -18383,7 +18492,7 @@ msgstr ""
 
 #: lms/templates/vert_module.html:74
 msgid "Reset Problems"
-msgstr ""
+msgstr "Reset Assessments"
 
 #: lms/templates/video.html:28
 msgid "Loading video player"
@@ -19526,13 +19635,15 @@ msgstr ""
 
 #: lms/templates/certificates/server-error.html:9
 msgid "There is a problem with this certificate."
-msgstr ""
+msgstr "There is a problem with this certificate."
 
 #: lms/templates/certificates/server-error.html:14
 msgid ""
 "To resolve the problem, your partner manager should verify that the "
 "following information is correct."
 msgstr ""
+"To resolve the problem, your partner manager should verify that the "
+"following information is correct."
 
 #: lms/templates/certificates/server-error.html:17
 msgid "The institution's logo."
@@ -19551,6 +19662,8 @@ msgid ""
 "If all of the information is correct and the problem persists, contact "
 "technical support."
 msgstr ""
+"If all of the information is correct and the problem persists, contact "
+"technical support."
 
 #: lms/templates/certificates/url_unsupported.html:9
 msgid "URL Not Supported"
@@ -20244,7 +20357,7 @@ msgstr ""
 
 #: lms/templates/courseware/progress.html:224
 msgid "Problem Scores: "
-msgstr ""
+msgstr "Assessment Scores: "
 
 #: lms/templates/courseware/progress.html:224
 msgid "Practice Scores: "
@@ -20252,7 +20365,7 @@ msgstr ""
 
 #: lms/templates/courseware/progress.html:233
 msgid "Problem scores are hidden until the due date."
-msgstr ""
+msgstr "Assessment scores are hidden until the due date."
 
 #: lms/templates/courseware/progress.html:235
 msgid "Practice scores are hidden until the due date."
@@ -20260,7 +20373,7 @@ msgstr ""
 
 #: lms/templates/courseware/progress.html:239
 msgid "Problem scores are hidden."
-msgstr ""
+msgstr "Assessment scores are hidden."
 
 #: lms/templates/courseware/progress.html:241
 msgid "Practice scores are hidden."
@@ -20268,7 +20381,7 @@ msgstr ""
 
 #: lms/templates/courseware/progress.html:247
 msgid "No problem scores in this section"
-msgstr ""
+msgstr "No assessment scores in this section"
 
 #: lms/templates/courseware/syllabus.html:14
 msgid "{course.display_number_with_default} Course Info"
@@ -21605,6 +21718,10 @@ msgid ""
 "exams and problem sets), and can be changed on the 'Grading' page (under "
 "'Settings') in Studio."
 msgstr ""
+"Click to display the grading configuration for the course. The grading "
+"configuration is the breakdown of graded subsections of the course (such as "
+"exams and assessment sets), and can be changed on the 'Grading' page (under "
+"'Settings') in Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:14
 msgid "Grading Configuration"
@@ -21686,6 +21803,9 @@ msgid ""
 "the problem. You also select a section or chapter to include results of all "
 "problems in that section or chapter."
 msgstr ""
+"Select a assessment to generate a CSV file that lists all student answers to "
+"the assessment. You also select a section or chapter to include results of all "
+"assessments in that section or chapter."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:57
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/problem_report.html:42
@@ -21700,6 +21820,11 @@ msgid ""
 "chapter, or problem-by-problem basis, or contact your site administrator to "
 "increase the limit."
 msgstr ""
+"The generated report is limited to {max_entries} responses. If you expect "
+"more than {max_entries} responses, try generating the report on a chapter-by-"
+"chapter, or problem-by-problem basis, or contact your site administrator to "
+"increase the limit."
+
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:80
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/certificates.html:31
@@ -21736,7 +21861,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:99
 msgid "Generate Problem Grade Report"
-msgstr ""
+msgstr "Generate Assessment Grade Report"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:100
 msgid "Generate ORA Data Report"
@@ -21917,6 +22042,9 @@ msgid ""
 "on a particular subsection. This will revert the due date for the student "
 "back to the problem's original due date."
 msgstr ""
+"Resetting a assessment's due date rescinds a due date extension for a student "
+"on a particular subsection. This will revert the due date for the student "
+"back to the assessment's original due date."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:105
 msgid "Reason for reset"
@@ -22522,12 +22650,12 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:63
 msgid "Adjust a learner's grade for a specific problem"
-msgstr ""
+msgstr "Adjust a learner's grade for a specific assessment"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:74
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:202
 msgid "Location of problem in course"
-msgstr ""
+msgstr "Location of assessment in course"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:75
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:203
@@ -22537,7 +22665,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:78
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:206
 msgid "Problem location"
-msgstr ""
+msgstr "Assessment location"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:81
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:146
@@ -22548,7 +22676,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:82
 msgid ""
 "Allow a learner who has used up all attempts to work on the problem again."
-msgstr ""
+msgstr "Allow a learner who has used up all attempts to work on the assessment again."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:84
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:149
@@ -22568,6 +22696,10 @@ msgid ""
 "Only If Score Improves' option updates the learner's score only if it "
 "improves in the learner's favor."
 msgstr ""
+"For the specified assessment, rescore the learner's responses. The 'Rescore "
+"Only If Score Improves' option updates the learner's score only if it "
+"improves in the learner's favor."
+
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:101
 msgid "Score Override"
@@ -22575,12 +22707,13 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:102
 msgid "For the specified problem, override the learner's score."
-msgstr ""
+msgstr "For the specified assessment, override the learner's score."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:105
 msgid ""
 "New score for problem, out of the total points available for the problem"
 msgstr ""
+"New score for assessment, out of the total points available for the assessment"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:108
 msgid "Score"
@@ -22592,13 +22725,15 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:117
 msgid "Problem History"
-msgstr ""
+msgstr "Assessment History"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:118
 msgid ""
 "For the specified problem, permanently and completely delete the learner's "
 "answers and scores from the database."
 msgstr ""
+"For the specified assessment, permanently and completely delete the learner's "
+"answers and scores from the database."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:125
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:181
@@ -22611,6 +22746,8 @@ msgid ""
 "Show the status for the rescoring tasks that you submitted for this learner "
 "and problem."
 msgstr ""
+"Show the status for the rescoring tasks that you submitted for this learner "
+"and assessment."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:128
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:186
@@ -22644,14 +22781,17 @@ msgid ""
 "Only If Score Improves' option updates the learner's scores only if it "
 "improves in the learner's favor."
 msgstr ""
+"Rescore any responses that have been submitted. The 'Rescore All assessments "
+"Only If Score Improves' option updates the learner's scores only if it "
+"improves in the learner's favor."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:165
 msgid "Rescore All Problems"
-msgstr ""
+msgstr "Rescore All assessments"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:166
 msgid "Rescore All Problems Only If Score Improves"
-msgstr ""
+msgstr "Rescore All assessments Only If Score Improves"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:171
 msgid "Entrance Exam History"
@@ -22671,11 +22811,11 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:198
 msgid "Adjust all enrolled learners' grades for a specific problem"
-msgstr ""
+msgstr "Adjust all enrolled learners' grades for a specific assessment"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:210
 msgid "Allows all learners to work on the problem again."
-msgstr ""
+msgstr "Allows all learners to work on the assessment again."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:216
 msgid ""
@@ -22693,7 +22833,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:225
 msgid "Show the status for the tasks that you submitted for this problem."
-msgstr ""
+msgstr "Show the status for the tasks that you submitted for this assessment"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/certificates.html:10
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/grading.html:11
@@ -22707,6 +22847,10 @@ msgid ""
 "answers to the problem. You also select a section or chapter to "
 "include         results of all problems in that section or chapter."
 msgstr ""
+"Select a assessment to generate a CSV         file that lists all student "
+"answers to the Assessment. You also select a section or chapter to "
+"include         results of all Assessment in that section or chapter."
+
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:70
 msgid ""
@@ -22715,6 +22859,10 @@ msgid ""
 "course                 (such as exams and problem sets), and can be changed "
 "on the 'Grading'                 page (under 'Settings') in Studio."
 msgstr ""
+"Click to display the grading configuration for the                 course. "
+"The grading configuration is the breakdown of graded subsections of the "
+"course                 (such as exams and Assessment sets), and can be changed "
+"on the 'Grading'                 page (under 'Settings') in Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:74
 msgid "Click to download a CSV of                 anonymized student IDs:"
@@ -22778,6 +22926,8 @@ msgid ""
 "Click to generate a CSV                 problem grade report for all "
 "currently enrolled students."
 msgstr ""
+"Click to generate a CSV                 assessment grade report for all "
+"currently enrolled students."
 
 #: lms/templates/learner_dashboard/_dashboard_navigation_courses.html:7
 msgid "My Courses"
@@ -22843,6 +22993,18 @@ msgid ""
 "{end_ul_tag}\n"
 "{end_p_tag}\n"
 msgstr ""
+"\n"
+"{p_tag}You currently do not have any peer grading to do.  In order to have "
+"peer grading to do:\n"
+"{ul_tag}\n"
+"{li_tag}You need to have submitted a response to a peer grading Assessment."
+"{end_li_tag}\n"
+"{li_tag}The course team needs to score the essays that are used to help you "
+"better understand the grading\n"
+"criteria.{end_li_tag}\n"
+"{li_tag}There must be submissions that are waiting for grading.{end_li_tag}\n"
+"{end_ul_tag}\n"
+"{end_p_tag}\n"
 
 #: lms/templates/peer_grading/peer_grading.html:24
 #: lms/templates/peer_grading/peer_grading_closed.html:4
@@ -22852,11 +23014,11 @@ msgstr ""
 
 #: lms/templates/peer_grading/peer_grading.html:26
 msgid "Here is a list of problems that need to be peer graded for this course."
-msgstr ""
+msgstr "Here is a list of assessments that need to be peer graded for this course."
 
 #: lms/templates/peer_grading/peer_grading.html:36
 msgid "Problem Name"
-msgstr ""
+msgstr "Assessment Name"
 
 #: lms/templates/peer_grading/peer_grading.html:37
 msgid "Due date"
@@ -22883,6 +23045,8 @@ msgid ""
 "The due date has passed, and peer grading for this problem is closed at this "
 "time."
 msgstr ""
+"The due date has passed, and peer grading for this assessment is closed at this "
+"time."
 
 #: lms/templates/peer_grading/peer_grading_closed.html:8
 msgid "The due date has passed, and peer grading is closed at this time."
@@ -22937,7 +23101,7 @@ msgstr ""
 
 #: lms/templates/peer_grading/peer_grading_problem.html:81
 msgid "You have not yet finished learning to grade this problem."
-msgstr ""
+msgstr "You have not yet finished learning to grade this assessment."
 
 #: lms/templates/peer_grading/peer_grading_problem.html:82
 msgid ""
