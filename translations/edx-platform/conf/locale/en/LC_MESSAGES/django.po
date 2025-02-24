@@ -2983,7 +2983,7 @@ msgstr ""
 #: lms/djangoapps/bulk_email/tasks.py:384
 #, python-brace-format
 msgid "\"{course_title}\" Course Staff"
-msgstr ""
+msgstr "\"{course_title}\" Course Instructor"
 
 #: lms/djangoapps/ccx/plugins.py:22
 msgid "CCX Coach"
@@ -3728,7 +3728,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/courses.py:748
 msgid "Staff Assessment"
-msgstr ""
+msgstr "Instructor Assessment"
 
 #: lms/djangoapps/courseware/courses.py:750
 msgid "Submission"
@@ -4296,7 +4296,7 @@ msgstr ""
 
 #: lms/djangoapps/discussion/views.py:79
 msgid "Access to this discussion is restricted to team members and staff."
-msgstr ""
+msgstr "Access to this discussion is restricted to team members and instructor."
 
 #: lms/djangoapps/edxnotes/helpers.py:116
 #: lms/djangoapps/edxnotes/helpers.py:147
@@ -5511,7 +5511,7 @@ msgstr ""
 
 #: lms/djangoapps/lms_xblock/mixin.py:91 xmodule/modulestore/inheritance.py:58
 msgid "If true, can be seen only by course staff, regardless of start date."
-msgstr ""
+msgstr "If true, can be seen only by course instructor, regardless of start date."
 
 #: lms/djangoapps/lms_xblock/mixin.py:97
 msgid ""
@@ -5521,6 +5521,11 @@ msgid ""
 "the block is considered visible to all. Note that this field is ignored if "
 "the block is visible_to_staff_only."
 msgstr ""
+"A dictionary that maps which groups can be shown this block. The keys are "
+"group configuration ids and the values are a list of group IDs. If there is "
+"no key for a group configuration or if the set of group IDs is empty then "
+"the block is considered visible to all. Note that this field is ignored if "
+"the block is visible_to_instructor_only."
 
 #: lms/djangoapps/lms_xblock/mixin.py:146 xmodule/split_test_block.py:90
 msgid ""
@@ -5985,7 +5990,7 @@ msgstr ""
 
 #: lms/templates/instructor/edx_ace/addbetatester/email/body.html:20
 msgid "The invitation has been sent by a member of the course staff."
-msgstr ""
+msgstr "The invitation has been sent by a member of the course instructor."
 
 #: lms/templates/instructor/edx_ace/addbetatester/email/body.html:28
 msgid "To start accessing course materials, please visit:"
@@ -6035,6 +6040,8 @@ msgid ""
 "You have been invited to be a beta tester for %(course_name)s at "
 "%(site_name)s by a member of the course staff."
 msgstr ""
+"You have been invited to be a beta tester for %(course_name)s at "
+"%(site_name)s by a member of the course instructor."
 
 #: lms/templates/instructor/edx_ace/addbetatester/email/body.txt:5
 #: lms/templates/instructor/edx_ace/enrollenrolled/email/body.txt:5
@@ -6091,6 +6098,8 @@ msgid ""
 "You have been invited to join %(course_name)s at %(site_name)s by a member "
 "of the course staff."
 msgstr ""
+"You have been invited to join %(course_name)s at %(site_name)s by a member "
+"of the course instructor."
 
 #: lms/templates/instructor/edx_ace/allowedenroll/email/body.html:28
 msgid "To access this course click on the button below and login:"
@@ -6195,6 +6204,8 @@ msgid ""
 "You have been unenrolled from the course %(course_name)s by a member of the "
 "course staff. Please disregard the invitation previously sent."
 msgstr ""
+"You have been unenrolled from the course %(course_name)s by a member of the "
+"course instructor. Please disregard the invitation previously sent."
 
 #: lms/templates/instructor/edx_ace/allowedunenroll/email/body.txt:1
 msgid "Dear Student,"
@@ -6223,6 +6234,9 @@ msgid ""
 "of the course staff. This course will no longer appear on your %(site_name)s "
 "dashboard."
 msgstr ""
+"You have been unenrolled from %(course_name)s at %(site_name)s by a member "
+"of the course instructor. This course will no longer appear on your %(site_name)s "
+"dashboard."
 
 #: lms/templates/instructor/edx_ace/enrolledunenroll/email/body.html:28
 #: lms/templates/instructor/edx_ace/enrolledunenroll/email/body.txt:5
@@ -6262,6 +6276,9 @@ msgid ""
 "the course staff. This course will now appear on your %(site_name)s "
 "dashboard."
 msgstr ""
+"You have been enrolled in %(course_name)s at %(site_name)s by a member of "
+"the course instructor. This course will now appear on your %(site_name)s "
+"dashboard."
 
 #: lms/templates/instructor/edx_ace/enrollenrolled/email/body.html:27
 msgid "Access the Course Materials Now"
@@ -6284,6 +6301,8 @@ msgid ""
 "You have been removed as a beta tester for %(course_name)s at %(site_name)s "
 "by a member of the course staff."
 msgstr ""
+"You have been removed as a beta tester for %(course_name)s at %(site_name)s "
+"by a member of the course instructor."
 
 #: lms/templates/instructor/edx_ace/removebetatester/email/body.html:26
 msgid ""
@@ -6298,6 +6317,10 @@ msgid ""
 "by a member of the course staff. This course will remain on your dashboard, "
 "but you will no longer be part of the beta testing group."
 msgstr ""
+"You have been removed as a beta tester for %(course_name)s at %(site_name)s "
+"by a member of the course instructor. This course will remain on your dashboard, "
+"but you will no longer be part of the beta testing group."
+
 
 #: lms/templates/instructor/edx_ace/removebetatester/email/subject.txt:3
 #, python-format
@@ -10045,7 +10068,7 @@ msgstr ""
 
 #: xmodule/capa/responsetypes.py:1536 xmodule/capa/responsetypes.py:1568
 msgid "There was a problem with the staff answer to this problem."
-msgstr "There was a problem with the staff answer to this assessment."
+msgstr "There was a problem with the instructor answer to this assessment."
 
 #: xmodule/capa/responsetypes.py:1592
 #, python-brace-format
@@ -10074,7 +10097,7 @@ msgstr "You may not use complex numbers in range tolerance assessments"
 msgid ""
 "There was a problem with the staff answer to this problem: complex boundary."
 msgstr ""
-"There was a problem with the staff answer to this assessment: complex boundary."
+"There was a problem with the instructor answer to this assessment: complex boundary."
 
 #. Translators: This is an error message for a math problem. If the instructor
 #. did not
@@ -10083,7 +10106,7 @@ msgstr ""
 msgid ""
 "There was a problem with the staff answer to this problem: empty boundary."
 msgstr ""
-"There was a problem with the staff answer to this assessment: empty boundary."
+"There was a problem with the instructor answer to this assessment: empty boundary."
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: Separator used in NumericalResponse to display multiple
@@ -10161,7 +10184,7 @@ msgstr ""
 #. Translators: 'grader' refers to the edX automatic code grader.
 #: xmodule/capa/responsetypes.py:2755
 msgid "Invalid grader reply. Please contact the course staff."
-msgstr ""
+msgstr "Invalid grader reply. Please contact the course instructor."
 
 #: xmodule/capa/responsetypes.py:2868
 msgid "External Grader"
@@ -10231,7 +10254,7 @@ msgstr ""
 
 #: xmodule/capa/responsetypes.py:3870
 msgid "The Staff answer could not be interpreted as a number."
-msgstr ""
+msgstr "The Instructor answer could not be interpreted as a number."
 
 #: xmodule/capa/responsetypes.py:3884
 #, python-brace-format
@@ -10561,7 +10584,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:1172
 msgid "If this error persists, please contact the course staff."
-msgstr ""
+msgstr "If this error persists, please contact the course Instructor."
 
 #. Translators: {previous_hints} is the HTML of hints that have already been
 #. generated, {hint_number_prefix}
@@ -11060,6 +11083,9 @@ msgid ""
 "anonymous to other students. This setting does not make posts anonymous to "
 "course staff."
 msgstr ""
+"Enter true or false. If true, students can create discussion posts that are "
+"anonymous to other students. This setting does not make posts anonymous to "
+"course instructor."
 
 #: xmodule/course_block.py:549 xmodule/library_root_xblock.py:36
 msgid "Advanced Module List"
@@ -11278,7 +11304,7 @@ msgstr ""
 
 #: xmodule/course_block.py:750
 msgid "Whether to restrict enrollment to invitation by the course staff."
-msgstr ""
+msgstr "Whether to restrict enrollment to invitation by the course instructor."
 
 #: xmodule/course_block.py:756
 msgid "Pre-Course Survey Name"
@@ -11701,6 +11727,8 @@ msgid ""
 "If you select this option, only course team members with the Staff or Admin "
 "role see this page."
 msgstr ""
+"If you select this option, only course team members with the Instructor or Admin "
+"role see this page."
 
 #: xmodule/html_block.py:407
 msgid "HTML for the additional pages"
@@ -12315,6 +12343,8 @@ msgid ""
 "If set, the sequence content is hidden for non-staff users after the due "
 "date has passed."
 msgstr ""
+"If set, the sequence content is hidden for non-instructor users after the due "
+"date has passed."
 
 #: xmodule/seq_block.py:99
 msgid "Is Entrance Exam"
@@ -14095,6 +14125,8 @@ msgid ""
 "We've logged the error and our staff is currently working to resolve this "
 "error as soon as possible."
 msgstr ""
+"We've logged the error and our instructor is currently working to resolve this "
+"error as soon as possible."
 
 #: cms/templates/accessibility.html:10
 msgid "Studio Accessibility Policy"
@@ -14165,6 +14197,9 @@ msgid ""
 "Staff or Admin role selects {em_start}Activate{em_end}. Only course team "
 "members with these roles can edit or delete an activated certificate."
 msgstr ""
+"To begin issuing course certificates, a course team member with either the "
+"Instructor or Admin role selects {em_start}Activate{em_end}. Only course team "
+"members with these roles can edit or delete an activated certificate."
 
 #: cms/templates/certificates.html:99
 msgid ""
@@ -14485,6 +14520,9 @@ msgid ""
 "in the course, and there is no student data. There is no content in the "
 "discussion topics or wiki."
 msgstr ""
+"You are the only member of the new course's instructor. No students are enrolled "
+"in the course, and there is no student data. There is no content in the "
+"discussion topics or wiki."
 
 #: cms/templates/course-create-rerun.html:151
 msgid "Learn more about Course Re-runs"
@@ -15664,7 +15702,7 @@ msgstr ""
 
 #: cms/templates/index.html:38
 msgid "Email staff to create course"
-msgstr ""
+msgstr "Email instructor to create course"
 
 #: cms/templates/index.html:42
 msgid "New Library"
@@ -15848,7 +15886,7 @@ msgstr ""
 
 #: cms/templates/index.html:383
 msgid "Are you staff on an existing {studio_name} course?"
-msgstr ""
+msgstr "Are you instructor on an existing {studio_name} course?"
 
 #: cms/templates/index.html:385
 msgid ""
@@ -15907,6 +15945,8 @@ msgid ""
 "Your request did not meet the criteria/guidelines specified by "
 "{platform_name} Staff."
 msgstr ""
+"Your request did not meet the criteria/guidelines specified by "
+"{platform_name} Instructor."
 
 #: cms/templates/index.html:471
 msgid ""
@@ -15921,6 +15961,8 @@ msgid ""
 "Your request is currently being reviewed by {platform_name} staff and should "
 "be updated shortly."
 msgstr ""
+"Your request is currently being reviewed by {platform_name} instructor and should "
+"be updated shortly."
 
 #: cms/templates/index.html:529
 msgid "Were you expecting to see a particular library here?"
@@ -15968,6 +16010,8 @@ msgid ""
 "In order to create courses in {studio_name}, you must {link_start}contact "
 "{platform_name} staff to help you create a course{link_end}."
 msgstr ""
+"In order to create courses in {studio_name}, you must {link_start}contact "
+"{platform_name} instructor to help you create a course{link_end}."
 
 #: cms/templates/index.html:583
 msgid ""
@@ -15980,6 +16024,8 @@ msgid ""
 "Your request to author courses in {studio_name} has been denied. Please "
 "{link_start}contact {platform_name} Staff with further questions{link_end}."
 msgstr ""
+"Your request to author courses in {studio_name} has been denied. Please "
+"{link_start}contact {platform_name} Instructor with further questions{link_end}."
 
 #: cms/templates/index.html:606
 msgid "Thanks for signing up, {name}!"
@@ -16096,7 +16142,7 @@ msgstr ""
 
 #: cms/templates/manage_users.html:60
 msgid "Provide the email address of the user you want to add as Staff"
-msgstr ""
+msgstr "Provide the email address of the user you want to add as Instructor"
 
 #: cms/templates/manage_users.html:67 cms/templates/manage_users_lib.html:68
 msgid "Add User"
@@ -16125,6 +16171,8 @@ msgid ""
 "Course team members with the Staff role are course co-authors. They have "
 "full writing and editing privileges on all course content."
 msgstr ""
+"Course team members with the Instructor role are course co-authors. They have "
+"full writing and editing privileges on all course content."
 
 #: cms/templates/manage_users.html:103
 msgid ""
@@ -16186,7 +16234,7 @@ msgstr ""
 
 #: cms/templates/manage_users_lib.html:102
 msgid "There are three access roles for libraries: User, Staff, and Admin."
-msgstr ""
+msgstr "There are three access roles for libraries: User, Instructor, and Admin."
 
 #: cms/templates/manage_users_lib.html:103
 msgid ""
@@ -16199,6 +16247,8 @@ msgid ""
 "Library Staff are content co-authors. They have full editing privileges on "
 "the contents of a library."
 msgstr ""
+"Library Instructor are content co-authors. They have full editing privileges on "
+"the contents of a library."
 
 #: cms/templates/manage_users_lib.html:105
 msgid ""
@@ -17080,7 +17130,7 @@ msgstr ""
 
 #: cms/templates/visibility_editor.html:87
 msgid "All Learners and Staff"
-msgstr ""
+msgstr "All Learners and Instructor"
 
 #: cms/templates/visibility_editor.html:101
 msgid "Select one or more groups:"
@@ -17999,6 +18049,8 @@ msgid ""
 "We're sorry, this module is temporarily unavailable. Our staff is working to "
 "fix it as soon as possible. "
 msgstr ""
+"We're sorry, this module is temporarily unavailable. Our instructor is working to "
+"fix it as soon as possible. "
 
 #: lms/templates/module-error.html:28
 msgid "Raw data:"
@@ -18015,7 +18067,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:170
 #: lms/templates/preview_menu.html:61
 msgid "Staff"
-msgstr ""
+msgstr "Instructor"
 
 #: lms/templates/preview_menu.html:62
 msgid "Learner"
@@ -18276,7 +18328,7 @@ msgstr ""
 
 #: lms/templates/staff_problem_info.html:27
 msgid "Staff Debug Info"
-msgstr ""
+msgstr "Instructor Debug Info"
 
 #: lms/templates/staff_problem_info.html:31
 msgid "Submission history"
@@ -18312,7 +18364,7 @@ msgstr ""
 
 #: lms/templates/staff_problem_info.html:61
 msgid "Staff Debug:"
-msgstr ""
+msgstr "Instructor Debug:"
 
 #: lms/templates/staff_problem_info.html:73
 msgid "Score (for override only)"
@@ -18852,6 +18904,21 @@ msgid ""
 "other entities providing information, API Content or services for the APIs, "
 "the course instructors and their staffs."
 msgstr ""
+"All names, logos and seals (\"Trademarks\") that appear in the APIs, API "
+"Content, or on or through the services made available on or through the "
+"APIs, if any, are the property of their respective owners. You may not "
+"remove, alter, or obscure any copyright, Trademark, or other proprietary "
+"rights notices incorporated in or accompanying the API Content. If any "
+"{platform_name} Participant (as hereinafter defined) or other third party "
+"revokes access to API Content owned or controlled by that {platform_name} "
+"Participant or third party, including without limitation any Trademarks, you "
+"must ensure that all API Content pertaining to that {platform_name} "
+"Participant or third party is deleted from Your Application and your "
+"networks, systems and servers as soon as reasonably possible. "
+"\"{platform_name_capitalized} Participants\" means MIT, Harvard, and the "
+"other entities providing information, API Content or services for the APIs, "
+"the course instructors."
+
 
 #: lms/templates/api_admin/terms_of_service.html:56
 msgid ""
@@ -20092,6 +20159,8 @@ msgid ""
 "We're sorry, this module is temporarily unavailable. Our staff is working to "
 "fix it as soon as possible."
 msgstr ""
+"We're sorry, this module is temporarily unavailable. Our instructor is working to "
+"fix it as soon as possible."
 
 #: lms/templates/courseware/courseware.html:186
 msgid "Course Search"
@@ -21249,6 +21318,9 @@ msgid ""
 "name from {old_name} to {new_name}. If you need further assistance, please e-"
 "mail the course staff at {email}."
 msgstr ""
+"We are sorry. Our course instructor did not approve your request to change your "
+"name from {old_name} to {new_name}. If you need further assistance, please e-"
+"mail the course instructor at {email}."
 
 #: lms/templates/emails/reverification_processed.txt:4
 msgid ""
@@ -21621,7 +21693,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:14
 msgid "Number of enrollees (admins, staff, and students) by track"
-msgstr ""
+msgstr "Number of enrollees (admins, instructor, and students) by track"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:19
 msgid "Audit"
@@ -22285,6 +22357,9 @@ msgid ""
 "Admin must give you the Admin role to add Staff or Beta Testers, or the "
 "Discussion Admin role to add discussion moderators and TAs."
 msgstr ""
+"Instructor cannot modify these lists. To manage course team membership, a course "
+"Admin must give you the Admin role to add Instructor or Beta Testers, or the "
+"Discussion Admin role to add discussion moderators and TAs."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:172
 msgid ""
@@ -22294,14 +22369,19 @@ msgid ""
 "Insights. Any users not yet enrolled in the course will be automatically "
 "enrolled when added as Staff."
 msgstr ""
+"Course team members with the Instructor role help you manage your course. Instructor "
+"can enroll and unenroll learners, as well as modify their grades and access "
+"all course data. Instructor also have access to your course in Studio and "
+"Insights. Any users not yet enrolled in the course will be automatically "
+"enrolled when added as Instructor."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:179
 msgid "Add Staff"
-msgstr ""
+msgstr "Add Instructor"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:184
 msgid "Limited Staff"
-msgstr ""
+msgstr "Limited Instructor"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:186
 msgid ""
@@ -22311,10 +22391,15 @@ msgid ""
 "course in Studio. Any users not yet enrolled in the course will be "
 "automatically enrolled when added as Limited Staff."
 msgstr ""
+"Course team members with the Limited Instructor role help you manage your course. "
+"Limited Instructor can enroll and unenroll learners, as well as modify their "
+"grades and access all course data. Limited Instructor don't have access to your "
+"course in Studio. Any users not yet enrolled in the course will be "
+"automatically enrolled when added as Limited Instructor."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:193
 msgid "Add Limited Staff"
-msgstr ""
+msgstr "Add Limited Instructor"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:199
 msgid "Admin"
@@ -22328,6 +22413,11 @@ msgid ""
 "to manage course team membership. Any users not yet enrolled in the course "
 "will be automatically enrolled when added as Admin."
 msgstr ""
+"Course team members with the Admin role help you manage your course. They "
+"can do all of the tasks that Instructor can do, and can also add and remove the "
+"Instructor and Admin roles, discussion moderation roles, and the beta tester role "
+"to manage course team membership. Any users not yet enrolled in the course "
+"will be automatically enrolled when added as Admin."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:208
 msgid "Add Admin"
@@ -22362,6 +22452,12 @@ msgid ""
 "enrolled in the course will be automatically enrolled when added as "
 "Discussion Admin"
 msgstr ""
+"Discussion Admins can edit or delete any post, clear misuse flags, close and "
+"re-open threads, endorse responses, and see posts from all groups. Their "
+"posts are marked as 'instructor'. They can also add and remove the discussion "
+"moderation roles to manage course team membership. Any users not yet "
+"enrolled in the course will be automatically enrolled when added as "
+"Discussion Admin"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:237
 msgid "Add Discussion Admin"
@@ -22395,6 +22491,12 @@ msgid ""
 "in the course will be automatically enrolled when added as Discussion "
 "Moderator"
 msgstr ""
+"Discussion Moderators can edit or delete any post, clear misuse flags, close "
+"and re-open threads, endorse responses, and see posts from all groups. Their "
+"posts are marked as 'instructor'. They cannot manage course team membership by "
+"adding or removing discussion moderation roles. Any users not yet enrolled "
+"in the course will be automatically enrolled when added as Discussion "
+"Moderator"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:265
 msgid "Add Moderator"
@@ -22467,7 +22569,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:31
 msgid "Staff and Administrators"
-msgstr ""
+msgstr "Instructor and Administrators"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:35
 msgid "All Learners"
@@ -23250,6 +23352,7 @@ msgstr ""
 msgid ""
 "Our staff is currently working to get the site back up as soon as possible. "
 msgstr ""
+"Our instructor is currently working to get the site back up as soon as possible. "
 
 #: lms/templates/static_templates/server-error.html:16
 msgid "There has been a 500 error on the {platform_name} servers"
@@ -23919,6 +24022,9 @@ msgid ""
 "name from {old_name} to {new_name}. If you need further assistance, please e-"
 "mail the tech support at {email}"
 msgstr ""
+"We are sorry. Our course instructor did not approve your request to change your "
+"name from {old_name} to {new_name}. If you need further assistance, please e-"
+"mail the tech support at {email}"
 
 #: themes/stanford-style/lms/templates/static_templates/tos.html:13
 msgid "Put your Terms of Service here!"

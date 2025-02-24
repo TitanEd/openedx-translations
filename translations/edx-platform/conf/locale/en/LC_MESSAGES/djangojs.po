@@ -252,7 +252,7 @@ msgstr ""
 #: cms/static/js/factories/manage_users_lib.js:22
 #: common/static/common/templates/discussion/templates.underscore:344
 msgid "Staff"
-msgstr ""
+msgstr "Instructor"
 
 #: cms/static/js/factories/manage_users.js:20
 #: cms/static/js/factories/manage_users_lib.js:23
@@ -1129,7 +1129,7 @@ msgstr ""
 
 #: cms/static/js/views/modals/course_outline_modals.js:973
 msgid "All Learners and Staff"
-msgstr ""
+msgstr "All Learners and Instructor"
 
 #. #-#-#-#-#  djangojs.po (0.1a)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
@@ -2379,6 +2379,10 @@ msgid ""
 "proper procedures in each course. Please post all course related questions "
 "within the Discussion Forum where the Course Staff can directly respond."
 msgstr ""
+"While our support team is happy to assist with the edX platform, the course "
+"instructor has the expertise for specific assignment questions, grading or the "
+"proper procedures in each course. Please post all course related questions "
+"within the Discussion Forum where the Course Instructor can directly respond."
 
 #: lms/djangoapps/support/static/support/jsx/logged_out_user.jsx:15
 msgid "Sign in to {platform} so we can help you better."
@@ -3843,7 +3847,7 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/send_email.js:87
 msgid "Everyone who has staff privileges in this course"
-msgstr ""
+msgstr "Everyone who has instructor privileges in this course"
 
 #: lms/static/js/instructor_dashboard/send_email.js:89
 msgid "All learners who are enrolled in this course"
@@ -6607,6 +6611,8 @@ msgid ""
 "Sequence error! Cannot navigate to %(tab_name)s in the current "
 "SequenceModule. Please contact the course staff."
 msgstr ""
+"Sequence error! Cannot navigate to %(tab_name)s in the current "
+"SequenceModule. Please contact the course instructor."
 
 #: xmodule/js/src/video/00_i18n.js:15
 #: xmodule/js/src/video/09_play_pause_control.js:30
@@ -7283,7 +7289,7 @@ msgstr ""
 
 #: cms/templates/js/course-outline.underscore:56
 msgid "Contains staff only content"
-msgstr ""
+msgstr "Contains instructor only content"
 
 #: cms/templates/js/course-outline.underscore:60
 msgid ""
@@ -8034,7 +8040,7 @@ msgstr ""
 
 #: cms/templates/js/publish-xblock.underscore:4
 msgid "Visible to Staff Only"
-msgstr ""
+msgstr "Visible to Instructor Only"
 
 #: cms/templates/js/publish-xblock.underscore:6
 msgid "Published and Live"
@@ -8083,7 +8089,7 @@ msgstr ""
 
 #: cms/templates/js/publish-xblock.underscore:88
 msgid "Staff Only"
-msgstr ""
+msgstr "Instructor Only"
 
 #: cms/templates/js/publish-xblock.underscore:92
 #, python-format
@@ -8092,7 +8098,7 @@ msgstr ""
 
 #: cms/templates/js/publish-xblock.underscore:98
 msgid "Staff and Learners"
-msgstr ""
+msgstr "Instructor and Learners"
 
 #: cms/templates/js/publish-xblock.underscore:108
 #: cms/templates/js/staff-lock-editor.underscore:37
@@ -8297,6 +8303,8 @@ msgid ""
 "It is intentionally hidden from learners, ensuring that only the course "
 "staff can view its contents."
 msgstr ""
+"It is intentionally hidden from learners, ensuring that only the course "
+"instructor can view its contents."
 
 #: cms/templates/js/staff-lock-editor.underscore:45
 msgid ""
@@ -8989,7 +8997,7 @@ msgstr ""
 
 #: common/static/common/templates/discussion/templates.underscore:550
 msgid "(Staff)"
-msgstr ""
+msgstr "(Instructor)"
 
 #: common/static/common/templates/discussion/templates.underscore:572
 #: lms/djangoapps/discussion/static/discussion/templates/user-profile.underscore:6
@@ -9849,7 +9857,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:131
 msgid "Only the parent course staff of a CCX can create content groups."
-msgstr ""
+msgstr "Only the parent course instructor of a CCX can create content groups."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:133
 msgid "Create a content group"
