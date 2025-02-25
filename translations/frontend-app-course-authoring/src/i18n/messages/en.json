@@ -1802,6 +1802,8 @@
   "authoring.problemeditor.settings.GroupFeedbackSettingTitle": "Group Feedback",
   "authoring.problemeditor.settings.randomization.SettingTitle": "Randomization",
   "authoring.problemeditor.settings.randomization.SettingText": "{randomization, select, null {No Python based randomization is present in this problem.} other {Defines when to randomize the variables specified in the associated Python script. For problem that do not randomize values, specify \"Never\".} }",
+  "authoring.problemEditor.problemSelect.advanceButton.label":"Advanced assessment types",
+  "authoring.problemEditor.advanceProblem.menu.title":"Advanced assessments",
   "problemEditor.settings.tolerance.title": "Tolerance",
   "problemEditor.settings.tolerance.summary.none": "None",
   "problemEditor.settings.tolerance.description.text": "The margin of error on either side of an answer.",
@@ -1810,4 +1812,5 @@
   "problemEditor.settings.tolerance.type.percent": "Percentage",
   "problemEditor.settings.tolerance.type.number": "Number",
   "problemEditor.settings.tolerance.type.none": "None"
+
 }
