@@ -24045,3 +24045,6 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+msgid "Problem Bank"
+msgstr "Assesment Bank"

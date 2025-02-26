@@ -1804,6 +1804,13 @@
   "authoring.problemeditor.settings.randomization.SettingText": "{randomization, select, null {No Python based randomization is present in this problem.} other {Defines when to randomize the variables specified in the associated Python script. For problem that do not randomize values, specify \"Never\".} }",
   "authoring.problemEditor.problemSelect.advanceButton.label":"Advanced assessment types",
   "authoring.problemEditor.advanceProblem.menu.title":"Advanced assessments",
+  "authoring.problemEditor.selectType.title":"Select assessment type",
+  "authoring.problemEditor.preview.title":"{previewTitle} assessment",
+  "authoring.problemEditor.advanceProblem.learnMoreButtonLabel.label":"Learn more about advanced assessment types",
+  "authoring.problemEditor.advanceProblem.blank.title": "Blank assessment",
+  "authoring.problemEditor.advanceProblem.problemWithHint.title": "Assessment with adaptive hint",
+  "course-authoring.course-search.blockType.problem":"Assessment",
+  "course-authoring.filter.problem-submenu.icon-button.alt":"Open assessment types filters",
   "problemEditor.settings.tolerance.title": "Tolerance",
   "problemEditor.settings.tolerance.summary.none": "None",
   "problemEditor.settings.tolerance.description.text": "The margin of error on either side of an answer.",
@@ -1812,5 +1819,4 @@
   "problemEditor.settings.tolerance.type.percent": "Percentage",
   "problemEditor.settings.tolerance.type.number": "Number",
   "problemEditor.settings.tolerance.type.none": "None"
-
 }
