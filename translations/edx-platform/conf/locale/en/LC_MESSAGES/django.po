@@ -21892,7 +21892,7 @@ msgid ""
 msgstr ""
 "The generated report is limited to {max_entries} responses. If you expect "
 "more than {max_entries} responses, try generating the report on a chapter-by-"
-"chapter, or problem-by-problem basis, or contact your site administrator to "
+"chapter, or assessment-by-assessment basis, or contact your site administrator to "
 "increase the limit."
 
 

@@ -898,7 +898,7 @@
   "course-authoring.grading-settings.assignment.weight-of-total-grade.description": "The weight of all assignments of this type as a percentage of the total grade, for example, 40. Do not include the percent symbol.",
   "course-authoring.grading-settings.assignment.weight-of-total-grade.error.message": "Please enter an integer between 0 and 100.",
   "course-authoring.grading-settings.assignment.total-number.title": "Total number",
-  "course-authoring.grading-settings.assignment.total-number.description": "The number of subsections in the course that contain Assessment of this assignment type.",
+  "course-authoring.grading-settings.assignment.total-number.description": "The number of subsections in the course that contain questions of this assignment type.",
   "course-authoring.grading-settings.assignment.total-number.error.message": "Please enter an integer greater than 0.",
   "course-authoring.grading-settings.assignment.number-of-droppable.title": "Number of droppable",
   "course-authoring.grading-settings.assignment.number-of-droppable.description": "The number of assignments of this type that will be dropped. The lowest scoring assignments are dropped first.",

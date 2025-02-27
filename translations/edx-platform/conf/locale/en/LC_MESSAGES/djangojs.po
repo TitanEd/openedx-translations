@@ -7602,7 +7602,7 @@ msgid ""
 "The number of subsections in the course that contain problems of this "
 "assignment type."
 msgstr ""
-"The number of subsections in the course that contain assessments of this "
+"The number of subsections in the course that contain questions of this "
 "assignment type."
 
 #: cms/templates/js/course_grade_policy.underscore:27
