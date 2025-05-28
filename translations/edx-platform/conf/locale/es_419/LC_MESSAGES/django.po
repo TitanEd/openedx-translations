@@ -26872,7 +26872,7 @@ msgstr ""
 msgid "Click on the \"Start Proctored Exam\" button below to continue."
 msgstr "Seleccione la opción \"Empezar examen supervisado\" abajo para continuar."
 
-
+#Added by TitanEd
 msgid "Languages that are enabled on this system."
 msgstr "Idiomas que están habilitados en este sistema."
 
@@ -27191,3 +27191,39 @@ msgstr "HTML crudo"
 
 msgid "Zooming Image Tool"
 msgstr "Herramienta de zoom de imagen"
+
+msgid "Discover"
+msgstr "Descubrir"
+
+msgid "Powered by:"
+msgstr "Desarrollado por:"
+
+msgid "Explore course"
+msgstr "Explorar curso"
+
+msgid "Confirm Unenrollment"
+msgstr "Confirmar cancelación de inscripción"
+
+msgid "Hello there!"
+msgstr "¡Hola!"
+
+msgid "Let's learn something today"
+msgstr "¡Aprendamos algo hoy!"
+
+msgid "Explore course topics"
+msgstr "Explorar temas del curso"
+
+msgid "It looks like you haven't enrolled in any courses yet."
+msgstr "Parece que aún no te has inscrito en ningún curso."
+
+msgid "We've got a world of knowledge waiting for you! Click on 'Discover'. Happy learning!"
+msgstr "¡Tenemos un mundo de conocimiento esperándote! Haz clic en 'Descubrir'. ¡Feliz aprendizaje!"
+
+msgid "Allowances"
+msgstr "Ajustes"
+
+msgid "Select Exams"
+msgstr "Seleccionar exámenes"
+
+msgid "Add Allowance"
+msgstr "Agregar ajuste"
