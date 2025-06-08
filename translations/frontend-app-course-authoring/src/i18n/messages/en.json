@@ -935,7 +935,7 @@
   "course-authoring.group-configurations.content-groups.edit-group.alert-group-in-usage": "This content group is used in one or more units.",
   "course-authoring.group-configurations.content-groups.delete-restriction": "Cannot delete when in use by a unit",
   "course-authoring.group-configurations.container.empty-content-groups": "In the {outlineComponentLink}, use this group to control access to a component.",
-  "course-authoring.group-configurations.container.course-outline": "Course outline",
+  "course-authoring.group-configurations.container.course-outline": "Course Outline",
   "course-authoring.group-configurations.container.action.edit": "Edit",
   "course-authoring.group-configurations.container.action.delete": "Delete",
   "course-authoring.group-configurations.container.delete-modal.subtitle": "content group",
