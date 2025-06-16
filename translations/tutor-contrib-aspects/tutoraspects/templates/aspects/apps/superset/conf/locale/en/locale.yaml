@@ -222,11 +222,11 @@ en:
   Problem Engagement per Section: Assessment Engagement per Section
   Problem Engagement per Section/Subsection: Assessment Engagement per Section/Subsection
   Problem Engagement per Subsection: Assessment Engagement per Subsection
-  Problem Id: Problem Id
-  Problem Link: Problem Link
-  Problem Location and Name: Problem Location and Name
-  Problem Name: Problem Name
-  Problem Name With Location: Problem Name With Location
+  Problem Id: Assessment Id
+  Problem Link: Assessment Link
+  Problem Location and Name: Assessment Location and Name
+  Problem Name: Assessment Name
+  Problem Name With Location: Assessment Name With Location
   Problem Results: Assessment Results
   Problems: Assessment
   Query: Query
