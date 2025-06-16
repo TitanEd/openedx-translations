@@ -97,3 +97,6 @@ msgid ""
 "by the dashboard.\n"
 "               "
 msgstr ""
+
+msgid "Problems"
+msgstr "Assessment"
