@@ -130,5 +130,6 @@
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} and the exponent",
   "learn.honorCode.content": "Honesty and academic integrity are important to {siteName} and the institutions providing courses and programs on the {siteName} site. By clicking “I agree” below, I confirm that I have read, understand, and will abide by the {link} for the {siteName} Site.",
   "learn.course.sequence.navigation.mobile.menu": "{current} of {total}",
-  "instructor.toolbar.staff": "Instructor"
+  "instructor.toolbar.staff": "Instructor",
+  "learn.course.load.failure": "The course is working in the background. It may take a few minutes to finish loading."
 }
