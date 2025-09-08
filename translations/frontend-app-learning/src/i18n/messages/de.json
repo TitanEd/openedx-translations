@@ -354,7 +354,7 @@
   "learn.lockPaywall.example.alt": "Beispiel Zertifikat",
   "learn.lockPaywall.list.intro": "When you upgrade, you:",
   "learn.header.h2.placeholder": "Level 2 headings may be created by course providers in the future.",
-  "learn.course.load.failure": "There was an error loading this course.",
+  "learn.course.load.failure": "The course is working in the background. It may take a few minutes to finish loading.",
   "learn.loading.honor.codk": "Loading honor code messaging...",
   "learn.loading.content.lock": "Loading locked content messaging...",
   "learn.loading.learning.sequence": "Loading learning sequence...",
@@ -448,6 +448,6 @@
   "learning.streakcelebration.factoida": "Users who learn {streak_length} days in a row {bolded_section} than those who don’t.",
   "learning.streakcelebration.factoidb": "Users who learn {streak_length} days in a row {bolded_section} vs. those who don’t.",
   "learning.streakCelebration.streakCelebrationCouponEndDateMessage": "Ends {date}.",
-  "learning.loading.failure": "There was an error loading this course.",
+  "learning.loading.failure": "The course is working in the background. It may take a few minutes to finish loading.",
   "learning.loading": "Loading course page…"
 }

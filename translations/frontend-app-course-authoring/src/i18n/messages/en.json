@@ -551,7 +551,7 @@
   "course-authoring.course-unit.next-btn-text": "Next",
   "course-authoring.course-unit.new-unit-btn-text": "New unit",
   "course-authoring.course-unit.sequence-nav-label-text": "Sequence navigation",
-  "course-authoring.course-unit.sequence.load.failure": "There was an error loading this course.",
+  "course-authoring.course-unit.sequence.load.failure": "The course is working in the background. It may take a few minutes to finish loading.",
   "course-authoring.course-unit.sequence.no.content": "There is no content here.",
   "course-authoring.course-unit.sequence.navigation.menu": "{current} of {total}",
   "course-authoring.course-unit.sequence.navigation.menu.copy-unit.past-unit-link": "Paste as new unit",
