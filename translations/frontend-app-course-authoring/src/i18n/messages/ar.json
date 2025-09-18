@@ -1819,5 +1819,18 @@
   "authoring.editorfooter.cancelButton.ariaLabel": "تجاهل التغييرات والعودة إلى سياق التعلم",
   "authoring.editorfooter.savebutton.ariaLabel": "حفظ التغييرات والعودة إلى سياق التعلم",
   "authoring.videoEditor.spinnerScreenReaderText": "جارٍ التحميل",
-  "authoring.videoEditor.replaceVideoButtonLabel": "استبدال الفيديو"
+  "authoring.videoEditor.replaceVideoButtonLabel": "استبدال الفيديو",
+  "connectionError": "واجهنا خطأً فنيًا أثناء تحميل هذه الصفحة. قد تكون هذه مشكلة مؤقتة، لذا يُرجى المحاولة مرة أخرى بعد بضع دقائق. إذا استمرت المشكلة، يُرجى زيارة {supportLink} للحصول على المساعدة.",
+  "supportText": "صفحة الدعم",
+  "sidebarDashboardTitle": "لوحة القيادة",
+  "sidebarCreateNewCourseTitle": "إنشاء دورة جديدة",
+  "sidebarMyCoursesTitle": "دوراتي",
+  "sidebarContentLibrariesTitle": "مكتبات المحتوى",
+  "sidebarCalendarTitle": "التقويم",
+  "sidebarClassPlannerTitle": "مخطط الدورة",
+  "sidebarInsightsReportsTitle": "التحليلات والتقارير",
+  "sidebarTitanAITitle": "مساعد ذكاء صناعي",
+  "sidebarSharedResourcesTitle": "الموارد المشتركة",
+  "sidebarTaxonomiesTitle": "التصنيفات",
+  "dashboardPageTitle": "لوحة القيادة"
 }

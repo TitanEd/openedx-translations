@@ -2106,5 +2106,18 @@
   "authoring.editorfooter.cancelButton.ariaLabel": "Discard changes and return to learning context",
   "authoring.editorfooter.savebutton.ariaLabel": "Save changes and return to learning context",
   "authoring.videoEditor.spinnerScreenReaderText": "loading",
-  "authoring.videoEditor.replaceVideoButtonLabel": "Replace video"
+  "authoring.videoEditor.replaceVideoButtonLabel": "Replace video",
+  "connectionError": "We encountered a technical error when loading this page. This might be a temporary issue, so please try again in a few minutes. If the problem persists, please go to the {supportLink} for help.",
+  "supportText": "Support Page",
+  "sidebarDashboardTitle": "Dashboard",
+  "sidebarCreateNewCourseTitle": "Create New Course",
+  "sidebarMyCoursesTitle": "My Courses",
+  "sidebarContentLibrariesTitle": "Content Libraries",
+  "sidebarCalendarTitle": "Calendar",
+  "sidebarClassPlannerTitle": "Class Planner",
+  "sidebarInsightsReportsTitle": "Insights & Reports",
+  "sidebarTitanAITitle": "TitanAI Assistant",
+  "sidebarSharedResourcesTitle": "Shared Resources",
+  "sidebarTaxonomiesTitle": "Taxonomies",
+  "dashboardPageTitle": "Dashboard"
 }
