@@ -1769,7 +1769,7 @@ msgstr ""
 "                            a response to this assignment with another team. "
 "Please contact course instructor to discuss your\n"
 "                            options for this assignment.\n"
-"
+"                        "
 
 #: templates/legacy/self/oa_self_assessment.html:33
 msgid "Assess Your Response"
