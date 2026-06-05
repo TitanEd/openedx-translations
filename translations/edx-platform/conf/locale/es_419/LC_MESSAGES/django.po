@@ -27227,3 +27227,2822 @@ msgstr "Seleccionar exámenes"
 
 msgid "Add Allowance"
 msgstr "Agregar ajuste"
+
+msgid "Our Courses"
+msgstr "Nuestros Cursos"
+
+msgid "Showing {start} to {end} of {total} courses matching your search"
+msgstr "Mostrando {start} a {end} de {total} cursos que coinciden con tu búsqueda"
+
+msgid "Lessons"
+msgstr "Lecciones"
+
+msgid "Students"
+msgstr "Estudiantes"
+
+msgid "Search Courses"
+msgstr "Buscar Cursos"
+
+msgid "Filter courses"
+msgstr "Filtrar cursos"
+
+msgid "Clear active filter"
+msgstr "Limpiar filtro activo"
+
+msgid "Something went wrong, please try again."
+msgstr "Algo salió mal, por favor inténtalo de nuevo."
+
+msgid "The combination of all senses into learning"
+msgstr "La combinación de todos los sentidos en el aprendizaje"
+
+msgid "Learn with all your"
+msgstr "Aprende con todos tus"
+
+msgid "SENSES"
+msgstr "SENTIDOS"
+
+msgid "Become a Tutor"
+msgstr "Conviértete en Tutor"
+
+msgid "views"
+msgstr "vistas"
+msgid "1 coupon entry was successfully deleted."
+msgstr "1 entrada de cupón fue eliminada exitosamente."
+
+msgid "A metric with the same label and value already exists for this dashboard."
+msgstr "Ya existe una métrica con la misma etiqueta y valor para este panel."
+
+msgid "Account activation email sent successfully"
+msgstr "Correo de activación de cuenta enviado exitosamente"
+
+msgid "Account activation emails are being processed and will be sent to all inactive users shortly."
+msgstr "Los correos de activación están siendo procesados y serán enviados a todos los usuarios inactivos en breve."
+
+msgid "Account has been activated successfully"
+msgstr "La cuenta ha sido activada exitosamente"
+
+msgid "Amount must be greater than 0"
+msgstr "El monto debe ser mayor que 0"
+
+msgid "Authentication required"
+msgstr "Autenticación requerida"
+
+msgid "Authorization failed."
+msgstr "Autorización fallida."
+
+msgid "Badge Detail Placeholder"
+msgstr "Marcador de posición de detalle de insignia"
+
+msgid "Badge deleted successfully"
+msgstr "Insignia eliminada exitosamente"
+
+msgid "Badge not found"
+msgstr "Insignia no encontrada"
+
+msgid "Badge updated successfully"
+msgstr "Insignia actualizada exitosamente"
+
+msgid "Billing Information updated successfully"
+msgstr "Información de facturación actualizada exitosamente"
+
+msgid "Blog already exist with this title. Please try again with different title"
+msgstr "Ya existe un blog con este título. Por favor intenta con un título diferente"
+
+msgid "Blog created successfully"
+msgstr "Blog creado exitosamente"
+
+msgid "Blog deleted successfully"
+msgstr "Blog eliminado exitosamente"
+
+msgid "Blog not found"
+msgstr "Blog no encontrado"
+
+msgid "Blog updated successfully"
+msgstr "Blog actualizado exitosamente"
+
+msgid "Category already exist with this code. Please try again with different name"
+msgstr "Ya existe una categoría con este código. Por favor intenta con un nombre diferente"
+
+msgid "Category already exist with this name. Please try again with different name"
+msgstr "Ya existe una categoría con este nombre. Por favor intenta con un nombre diferente"
+
+msgid "Category deleted successfully"
+msgstr "Categoría eliminada exitosamente"
+
+msgid "Category details updated successfully"
+msgstr "Detalles de categoría actualizados exitosamente"
+
+msgid "Category not found"
+msgstr "Categoría no encontrada"
+
+msgid "Cleared"
+msgstr "Limpiado"
+
+msgid "Could not parse 'amount' as a decimal"
+msgstr "No se pudo interpretar 'amount' como número decimal"
+
+msgid "Coupon already exist with this code and course. Please try again with different code"
+msgstr "Ya existe un cupón con este código y curso. Por favor intenta con un código diferente"
+
+msgid "Coupon deleted successfully"
+msgstr "Cupón eliminado exitosamente"
+
+msgid "Coupon details updated successfully"
+msgstr "Detalles del cupón actualizados exitosamente"
+
+msgid "Coupon not found"
+msgstr "Cupón no encontrado"
+
+msgid "Course Configuration updated successfully"
+msgstr "Configuración del curso actualizada exitosamente"
+
+msgid "Course mapping updated successfully"
+msgstr "Asignación del curso actualizada exitosamente"
+
+msgid "Course re-run created successfully"
+msgstr "Nueva ejecución del curso creada exitosamente"
+
+msgid "Course removed successfully"
+msgstr "Curso eliminado exitosamente"
+
+msgid "Delete selected coupon entries"
+msgstr "Eliminar entradas de cupón seleccionadas"
+
+msgid "Ecommerce Configuration updated successfully"
+msgstr "Configuración de comercio electrónico actualizada exitosamente"
+
+msgid "Email Configuration updated successfully"
+msgstr "Configuración de correo electrónico actualizada exitosamente"
+
+msgid "Event deleted successfully"
+msgstr "Evento eliminado exitosamente"
+
+msgid "Event not found"
+msgstr "Evento no encontrado"
+
+msgid "Event updated successfully"
+msgstr "Evento actualizado exitosamente"
+
+msgid "Failed to activate account"
+msgstr "Error al activar la cuenta"
+
+msgid "Failed to delete user"
+msgstr "Error al eliminar el usuario"
+
+msgid "Failed to send activation email"
+msgstr "Error al enviar el correo de activación"
+
+msgid "Failed to update theme colors. Please try again later."
+msgstr "Error al actualizar los colores del tema. Por favor intenta más tarde."
+
+msgid "File format not supported. Allowed formats: {formats}"
+msgstr "Formato de archivo no compatible. Formatos permitidos: {formats}"
+
+msgid "File size too large. Maximum allowed size is {max_size_kb}KB"
+msgstr "El archivo es demasiado grande. El tamaño máximo permitido es {max_size_kb}KB"
+
+msgid "Footer link deleted successfully"
+msgstr "Enlace del pie de página eliminado exitosamente"
+
+msgid "Footer link updated successfully"
+msgstr "Enlace del pie de página actualizado exitosamente"
+
+msgid "HTTP Method Not Supported"
+msgstr "Método HTTP no compatible"
+
+msgid "Hierarchy already exist with this name. Please try again with different name"
+msgstr "Ya existe una jerarquía con este nombre. Por favor intenta con un nombre diferente"
+
+msgid "Hierarchy deleted successfully"
+msgstr "Jerarquía eliminada exitosamente"
+
+msgid "Hierarchy details updated successfully"
+msgstr "Detalles de jerarquía actualizados exitosamente"
+
+msgid "Hierarchy not found"
+msgstr "Jerarquía no encontrada"
+
+msgid "Institution already exist with this ID. Please try again with different ID"
+msgstr "Ya existe una institución con este ID. Por favor intenta con un ID diferente"
+
+msgid "Institution already exist with this ID. Please try again with different name"
+msgstr "Ya existe una institución con este ID. Por favor intenta con un nombre diferente"
+
+msgid "Institution deleted successfully"
+msgstr "Institución eliminada exitosamente"
+
+msgid "Institution details updated successfully"
+msgstr "Detalles de institución actualizados exitosamente"
+
+msgid "Institution not found"
+msgstr "Institución no encontrada"
+
+msgid "Invalid Role ID"
+msgstr "ID de rol inválido"
+
+msgid "Invalid User"
+msgstr "Usuario inválido"
+
+msgid "Invalid User role selected"
+msgstr "Rol de usuario seleccionado inválido"
+
+msgid "Invalid action"
+msgstr "Acción inválida"
+
+msgid "Invalid backend selected"
+msgstr "Backend seleccionado inválido"
+
+msgid "Invalid institution selected"
+msgstr "Institución seleccionada inválida"
+
+msgid "Missing required fields."
+msgstr "Faltan campos requeridos."
+
+msgid "New Category added successfully"
+msgstr "Nueva categoría agregada exitosamente"
+
+msgid "New Coupon added successfully"
+msgstr "Nuevo cupón agregado exitosamente"
+
+msgid "New Hierarchy added successfully"
+msgstr "Nueva jerarquía agregada exitosamente"
+
+msgid "New Institution created successfully"
+msgstr "Nueva institución creada exitosamente"
+
+msgid "New Organization added successfully"
+msgstr "Nueva organización agregada exitosamente"
+
+msgid "New footer link added successfully"
+msgstr "Nuevo enlace de pie de página agregado exitosamente"
+
+msgid "No action specified."
+msgstr "No se especificó ninguna acción."
+
+msgid "OK"
+msgstr "Aceptar"
+
+msgid "Organization already exist with this code. Please try again with different name"
+msgstr "Ya existe una organización con este código. Por favor intenta con un nombre diferente"
+
+msgid "Organization already exist with this name. Please try again with different name"
+msgstr "Ya existe una organización con este nombre. Por favor intenta con un nombre diferente"
+
+msgid "Organization deleted successfully"
+msgstr "Organización eliminada exitosamente"
+
+msgid "Organization details updated successfully"
+msgstr "Detalles de organización actualizados exitosamente"
+
+msgid "Organization not found"
+msgstr "Organización no encontrada"
+
+msgid "Page already exist with this url. Please try again with different url"
+msgstr "Ya existe una página con esta URL. Por favor intenta con una URL diferente"
+
+msgid "Password successfully changed."
+msgstr "Contraseña cambiada exitosamente."
+
+msgid "Please upload only CSV files."
+msgstr "Por favor sube solo archivos CSV."
+
+msgid "Quantity must be an integer."
+msgstr "La cantidad debe ser un número entero."
+
+msgid "Quantity must be between 1 and 1000."
+msgstr "La cantidad debe estar entre 1 y 1000."
+
+msgid "Role updated successfully"
+msgstr "Rol actualizado exitosamente"
+
+msgid "Site Configuration updated successfully"
+msgstr "Configuración del sitio actualizada exitosamente"
+
+msgid "Site assets updated successfully"
+msgstr "Recursos del sitio actualizados exitosamente"
+
+msgid "Site configuration not found for the current site."
+msgstr "No se encontró configuración para el sitio actual."
+
+msgid "Site information not found."
+msgstr "Información del sitio no encontrada."
+
+msgid "Something went wrong. Please try again after sometime"
+msgstr "Algo salió mal. Por favor inténtalo de nuevo más tarde"
+
+msgid "The bulk user creation process is now underway. You will be notified via email with a detailed report once the operation is complete."
+msgstr "El proceso de creación masiva de usuarios está en curso. Recibirás un correo con un informe detallado al completarse."
+
+msgid "Theme colors updated successfully."
+msgstr "Colores del tema actualizados exitosamente."
+
+msgid "This Hierarchy already exist."
+msgstr "Esta jerarquía ya existe."
+
+msgid "This User account has already been activated."
+msgstr "Esta cuenta de usuario ya ha sido activada."
+
+msgid "This feature is not available in your subscription plan"
+msgstr "Esta función no está disponible en tu plan de suscripción"
+
+msgid "User Badge Detail Placeholder"
+msgstr "Marcador de posición de detalle de insignia de usuario"
+
+msgid "User Badge List Placeholder"
+msgstr "Marcador de posición de lista de insignias de usuario"
+
+msgid "User already exist with this email address"
+msgstr "Ya existe un usuario con esta dirección de correo electrónico"
+
+msgid "User created successfully"
+msgstr "Usuario creado exitosamente"
+
+msgid "User deleted successfully"
+msgstr "Usuario eliminado exitosamente"
+
+msgid "User details updated successfully"
+msgstr "Detalles del usuario actualizados exitosamente"
+
+msgid "User must be a staff or superuser to rerun courses."
+msgstr "El usuario debe ser personal o superusuario para volver a ejecutar cursos."
+
+msgid "We've e-mailed instructions to user for setting password. User should be receiving it shortly."
+msgstr "Se enviaron instrucciones al usuario para establecer su contraseña. Debería recibirlas en breve."
+
+msgid "You are not authorized to perform this operation"
+msgstr "No estás autorizado para realizar esta operación"
+
+msgid "Your application has been submitted. We will contact you soon."
+msgstr "Tu solicitud ha sido enviada. Nos pondremos en contacto contigo pronto."
+
+msgid "Your previous application is pending. You cannot submit an application again."
+msgstr "Tu solicitud anterior está pendiente. No puedes enviar otra solicitud."
+
+msgid "Your request could not be processed due to invalid data."
+msgstr "Tu solicitud no pudo ser procesada debido a datos inválidos."
+
+msgid "{count} coupon entries were successfully deleted."
+msgstr "{count} entradas de cupón fueron eliminadas exitosamente."
+
+msgid "Academic Progress"
+msgstr "Progreso académico"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Activate Google Analytics and Tag Manager to track your website's performance with detailed insights."
+msgstr "Activa Google Analytics y Tag Manager para rastrear el rendimiento de tu sitio con información detallada."
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Add Footer Link"
+msgstr "Agregar enlace al pie"
+
+msgid "Add Widget"
+msgstr "Agregar widget"
+
+msgid "Add a Child"
+msgstr "Agregar un hijo"
+
+msgid "Add-ons"
+msgstr "Complementos"
+
+msgid "Add-ons Configuration"
+msgstr "Configuración de complementos"
+
+msgid "Additional Platform Language(s) (Optional)"
+msgstr "Idiomas adicionales de la plataforma (Opcional)"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Amount"
+msgstr "Monto"
+
+msgid "Apply Coupon"
+msgstr "Aplicar cupón"
+
+msgid "Approve"
+msgstr "Aprobar"
+
+msgid "Are you sure you want to delete this blog?"
+msgstr "¿Estás seguro de que deseas eliminar este blog?"
+
+msgid "Are you sure you want to delete this category?"
+msgstr "¿Estás seguro de que deseas eliminar esta categoría?"
+
+msgid "Assign Courses"
+msgstr "Asignar cursos"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Average Rating"
+msgstr "Calificación promedio"
+
+msgid "Back"
+msgstr "Volver"
+
+msgid "Banner Image"
+msgstr "Imagen del banner"
+
+msgid "Billing"
+msgstr "Facturación"
+
+msgid "Billing Dashboard"
+msgstr "Panel de facturación"
+
+msgid "Billing Info"
+msgstr "Información de facturación"
+
+msgid "Block"
+msgstr "Bloquear"
+
+msgid "Blog Title"
+msgstr "Título del blog"
+
+msgid "Blogs"
+msgstr "Blogs"
+
+msgid "Brand your learning platform"
+msgstr "Personaliza tu plataforma de aprendizaje"
+
+msgid "Branding"
+msgstr "Marca"
+
+msgid "Bulk Enroll"
+msgstr "Inscripción masiva"
+
+msgid "CMS"
+msgstr "CMS"
+
+msgid "CMS/Studio Domain"
+msgstr "Dominio CMS/Studio"
+
+msgid "Callback URL"
+msgstr "URL de retorno"
+
+msgid "Card Image"
+msgstr "Imagen de tarjeta"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Category Name"
+msgstr "Nombre de la categoría"
+
+msgid "Certificate Analytics"
+msgstr "Analítica de certificados"
+
+msgid "Certificate Issuance Over Time"
+msgstr "Emisión de certificados a lo largo del tiempo"
+
+msgid "Certificates Issued"
+msgstr "Certificados emitidos"
+
+msgid "Change Password"
+msgstr "Cambiar contraseña"
+
+msgid "Chat Service Provider Name..."
+msgstr "Nombre del proveedor de chat..."
+
+msgid "Chat Support Widget Configuration"
+msgstr "Configuración del widget de soporte de chat"
+
+msgid "Chat Widget Snippet Code"
+msgstr "Código del widget de chat"
+
+msgid "Checkout"
+msgstr "Pagar"
+
+msgid "Child Email:"
+msgstr "Correo del hijo:"
+
+msgid "Child Name:"
+msgstr "Nombre del hijo:"
+
+msgid "Class"
+msgstr "Clase"
+
+msgid "Client ID"
+msgstr "ID de cliente"
+
+msgid "Client Secret"
+msgstr "Secreto del cliente"
+
+msgid "Completed Courses"
+msgstr "Cursos completados"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Connect"
+msgstr "Conectar"
+
+msgid "Connect to a Child"
+msgstr "Conectar con un hijo"
+
+msgid "Connect to your child"
+msgstr "Conectar con tu hijo"
+
+msgid "Contact Number"
+msgstr "Número de contacto"
+
+msgid "Control Hub"
+msgstr "Centro de Control"
+
+msgid "Coupons"
+msgstr "Cupones"
+
+msgid "Course Authoring Organizations"
+msgstr "Organizaciones de autoría de cursos"
+
+msgid "Course Creators"
+msgstr "Creadores de cursos"
+
+msgid "Course Enrollment Management"
+msgstr "Gestión de inscripciones al curso"
+
+msgid "Course Management"
+msgstr "Gestión de cursos"
+
+msgid "Course Performance"
+msgstr "Rendimiento del curso"
+
+msgid "Create Blog"
+msgstr "Crear blog"
+
+msgid "Create Category"
+msgstr "Crear categoría"
+
+msgid "Create Metric"
+msgstr "Crear métrica"
+
+msgid "Create New Blog"
+msgstr "Crear nueva entrada de blog"
+
+msgid "Create New Category"
+msgstr "Crear nueva categoría"
+
+msgid "Create New Coupon"
+msgstr "Crear nuevo cupón"
+
+msgid "Create New Hierarchy"
+msgstr "Crear nueva jerarquía"
+
+msgid "Create New Institution"
+msgstr "Crear nueva institución"
+
+msgid "Create New Role"
+msgstr "Crear nuevo rol"
+
+msgid "Create New User"
+msgstr "Crear nuevo usuario"
+
+msgid "Create Organization Unit"
+msgstr "Crear unidad organizativa"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Created By"
+msgstr "Creado por"
+
+msgid "Creator Details"
+msgstr "Detalles del creador"
+
+msgid "Creator Request"
+msgstr "Solicitud de creador"
+
+msgid "Dashboard Builder"
+msgstr "Constructor del panel"
+
+msgid "Date Range"
+msgstr "Rango de fechas"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "Default From Email"
+msgstr "Correo electrónico predeterminado de envío"
+
+msgid "Default Platform Language"
+msgstr "Idioma predeterminado de la plataforma"
+
+msgid "Delete Blog"
+msgstr "Eliminar blog"
+
+msgid "Delete Category"
+msgstr "Eliminar categoría"
+
+msgid "Delete Footer Link"
+msgstr "Eliminar enlace del pie"
+
+msgid "Discount"
+msgstr "Descuento"
+
+msgid "Discount (%)"
+msgstr "Descuento (%)"
+
+msgid "Don't let limitations hold you back - elevate your potential with our premium features today."
+msgstr "No dejes que las limitaciones te detengan - eleva tu potencial con nuestras funciones premium hoy."
+
+msgid "Ecommerce"
+msgstr "Comercio electrónico"
+
+msgid "Edit Blog"
+msgstr "Editar blog"
+
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+msgid "Edit Footer Link"
+msgstr "Editar enlace del pie"
+
+msgid "Email Configuration"
+msgstr "Configuración de correo electrónico"
+
+msgid "Enable Ecommerce"
+msgstr "Habilitar comercio electrónico"
+
+msgid "Enable SSO"
+msgstr "Habilitar SSO"
+
+msgid "End Date"
+msgstr "Fecha de finalización"
+
+msgid "Engagement"
+msgstr "Participación"
+
+msgid "Enroll User"
+msgstr "Inscribir usuario"
+
+msgid "Enrolled Courses"
+msgstr "Cursos inscritos"
+
+msgid "Enrollment Analytics"
+msgstr "Analítica de inscripciones"
+
+msgid "Enrollment End"
+msgstr "Fin de inscripción"
+
+msgid "Enrollment Start"
+msgstr "Inicio de inscripción"
+
+msgid "Enrollments"
+msgstr "Inscripciones"
+
+msgid "Enrollments Over Time"
+msgstr "Inscripciones a lo largo del tiempo"
+
+msgid "Enrollments Vs Completed"
+msgstr "Inscripciones vs Completadas"
+
+msgid "Enter Mobile Number"
+msgstr "Ingresa el número de móvil"
+
+msgid "Enter Your OpenAI API Key here"
+msgstr "Ingresa tu clave API de OpenAI aquí"
+
+msgid "Enter email"
+msgstr "Ingresa el correo electrónico"
+
+msgid "Expiry Date"
+msgstr "Fecha de vencimiento"
+
+msgid "Finalized at"
+msgstr "Finalizado en"
+
+msgid "Footer"
+msgstr "Pie de página"
+
+msgid "Footer Links"
+msgstr "Enlaces del pie de página"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "G-XXXXXXXXXX"
+msgstr "G-XXXXXXXXXX"
+
+msgid "GTM-XXXXXXX"
+msgstr "GTM-XXXXXXX"
+
+msgid "Generate Report"
+msgstr "Generar informe"
+
+msgid "Get an OpenAI API key"
+msgstr "Obtener una clave API de OpenAI"
+
+msgid "Google Analytics (GA4) ID"
+msgstr "ID de Google Analytics (GA4)"
+
+msgid "Google Analytics Configuration"
+msgstr "Configuración de Google Analytics"
+
+msgid "Google Tag Manger (GTM) ID"
+msgstr "ID de Google Tag Manager"
+
+msgid "Grade"
+msgstr "Grado"
+
+msgid "Grant Access"
+msgstr "Conceder acceso"
+
+msgid "Hierarchy"
+msgstr "Jerarquía"
+
+msgid "Hierarchy Key"
+msgstr "Clave de la jerarquía"
+
+msgid "Hierarchy Name"
+msgstr "Nombre de la jerarquía"
+
+msgid "Home Page"
+msgstr "Página de inicio"
+
+msgid "Home Page Configuration"
+msgstr "Configuración de la página de inicio"
+
+msgid "INSTITUTION"
+msgstr "INSTITUCIÓN"
+
+msgid "INSTRUCTOR"
+msgstr "INSTRUCTOR"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "Industry"
+msgstr "Industria"
+
+msgid "Institution"
+msgstr "Institución"
+
+msgid "Institution Dashboard"
+msgstr "Panel de la institución"
+
+msgid "Institution Details"
+msgstr "Detalles de la institución"
+
+msgid "Institution ID"
+msgstr "ID de la institución"
+
+msgid "Institution Management"
+msgstr "Gestión de instituciones"
+
+msgid "Institution Name"
+msgstr "Nombre de la institución"
+
+msgid "Institution Type"
+msgstr "Tipo de institución"
+
+msgid "Institutions"
+msgstr "Instituciones"
+
+msgid "Integration"
+msgstr "Integración"
+
+msgid "Invitation Status"
+msgstr "Estado de la invitación"
+
+msgid "Invitations"
+msgstr "Invitaciones"
+
+msgid "Invoice Details"
+msgstr "Detalles de la factura"
+
+msgid "Invoice ID"
+msgstr "ID de factura"
+
+msgid "Invoices"
+msgstr "Facturas"
+
+msgid "Is Active"
+msgstr "Activo"
+
+msgid "Is Published"
+msgstr "Publicado"
+
+msgid "Joined Date"
+msgstr "Fecha de registro"
+
+msgid "LMS Domain"
+msgstr "Dominio del LMS"
+
+msgid "Last 24 Hours Enrollments"
+msgstr "Inscripciones en las últimas 24 horas"
+
+msgid "Last Week Enrollments"
+msgstr "Inscripciones de la semana pasada"
+
+msgid "Learn how to find your keys"
+msgstr "Aprende cómo encontrar tus claves"
+
+msgid "Levels"
+msgstr "Niveles"
+
+msgid "Link Text"
+msgstr "Texto del enlace"
+
+msgid "Link URL"
+msgstr "URL del enlace"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Manage Blogs"
+msgstr "Gestionar blogs"
+
+msgid "Manage Categories"
+msgstr "Gestionar categorías"
+
+msgid "Manage Coupons"
+msgstr "Gestionar cupones"
+
+msgid "Manage Courses"
+msgstr "Gestionar cursos"
+
+msgid "Manage Hierarchy"
+msgstr "Gestionar jerarquía"
+
+msgid "Manage Institutions"
+msgstr "Gestionar instituciones"
+
+msgid "Manage Roles"
+msgstr "Gestionar roles"
+
+msgid "Manage Users"
+msgstr "Gestionar usuarios"
+
+msgid "Messages"
+msgstr "Mensajes"
+
+msgid "Metric Label"
+msgstr "Etiqueta de la métrica"
+
+msgid "Metric Type"
+msgstr "Tipo de métrica"
+
+msgid "Metric Value"
+msgstr "Valor de la métrica"
+
+msgid "Metrics Library"
+msgstr "Biblioteca de métricas"
+
+msgid "My Invoices"
+msgstr "Mis facturas"
+
+msgid "NAVIGATION"
+msgstr "NAVEGACIÓN"
+
+msgid "Negative Datapoints"
+msgstr "Puntos de datos negativos"
+
+msgid "New Users"
+msgstr "Nuevos usuarios"
+
+msgid "New Users Over Time"
+msgstr "Nuevos usuarios con el tiempo"
+
+msgid "No data available"
+msgstr "Sin datos disponibles"
+
+msgid "No records found"
+msgstr "No se encontraron registros"
+
+msgid "No. of Certificate"
+msgstr "N.º de certificados"
+
+msgid "No. of Enrollments"
+msgstr "N.º de inscripciones"
+
+msgid "ORGANIZATION"
+msgstr "ORGANIZACIÓN"
+
+msgid "OpenAI API Key"
+msgstr "Clave API de OpenAI"
+
+msgid "OpenAI Configuration"
+msgstr "Configuración de OpenAI"
+
+msgid "Org"
+msgstr "Organización"
+
+msgid "Organization Unit"
+msgstr "Unidad organizativa"
+
+msgid "PARENT"
+msgstr "PADRE/MADRE"
+
+msgid "Pacing"
+msgstr "Ritmo"
+
+msgid "Parent Email"
+msgstr "Correo del padre/madre"
+
+msgid "Parent Unit"
+msgstr "Unidad padre"
+
+msgid "Parents"
+msgstr "Padres/Madres"
+
+msgid "Paste Your Chat Widget Code Snippet Here"
+msgstr "Pega aquí el código del widget de chat"
+
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+msgid "Payment Gateway"
+msgstr "Pasarela de pago"
+
+msgid "Primary Color"
+msgstr "Color primario"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Provider"
+msgstr "Proveedor"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Registration Analytics"
+msgstr "Analítica de registros"
+
+msgid "Registrations"
+msgstr "Registros"
+
+msgid "Reject"
+msgstr "Rechazar"
+
+msgid "Rejected"
+msgstr "Rechazado"
+
+msgid "Report"
+msgstr "Informe"
+
+msgid "Resend"
+msgstr "Reenviar"
+
+msgid "Reset Password"
+msgstr "Restablecer contraseña"
+
+msgid "Revenue"
+msgstr "Ingresos"
+
+msgid "Revenue Analytics"
+msgstr "Analítica de ingresos"
+
+msgid "Reviews"
+msgstr "Reseñas"
+
+msgid "Revoke Access"
+msgstr "Revocar acceso"
+
+msgid "Revoked"
+msgstr "Revocado"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Role Details"
+msgstr "Detalles del rol"
+
+msgid "Role Name"
+msgstr "Nombre del rol"
+
+msgid "Role Tag"
+msgstr "Etiqueta del rol"
+
+msgid "Roles"
+msgstr "Roles"
+
+msgid "SMTP Host"
+msgstr "Servidor SMTP"
+
+msgid "SMTP Password"
+msgstr "Contraseña SMTP"
+
+msgid "SMTP Port"
+msgstr "Puerto SMTP"
+
+msgid "SMTP Username"
+msgstr "Usuario SMTP"
+
+msgid "SSO (Single Sign On)"
+msgstr "Inicio de sesión único (SSO)"
+
+msgid "SSO Configuration"
+msgstr "Configuración de SSO"
+
+msgid "School"
+msgstr "Escuela"
+
+msgid "Search User"
+msgstr "Buscar usuario"
+
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Send Activation Email"
+msgstr "Enviar correo de activación"
+
+msgid "Service Name"
+msgstr "Nombre del servicio"
+
+msgid "Short Description"
+msgstr "Descripción corta"
+
+msgid "Show on Homepage"
+msgstr "Mostrar en inicio"
+
+msgid "Showing"
+msgstr "Mostrando"
+
+msgid "Since last week"
+msgstr "Desde la semana pasada"
+
+msgid "Site Name"
+msgstr "Nombre del sitio"
+
+msgid "Sr. No"
+msgstr "N.º"
+
+msgid "Student Email"
+msgstr "Correo del estudiante"
+
+msgid "Student Performance"
+msgstr "Rendimiento del estudiante"
+
+msgid "Subclass"
+msgstr "Subclase"
+
+msgid "Subscription"
+msgstr "Suscripción"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Tax Rate"
+msgstr "Tasa de impuesto"
+
+msgid "Thank you for exploring our services! It looks like your current plan limits access to this feature."
+msgstr "¡Gracias por explorar nuestros servicios! Parece que tu plan actual limita el acceso a esta función."
+
+msgid "Theme Colors"
+msgstr "Colores del tema"
+
+msgid "To"
+msgstr "Hasta"
+
+msgid "To stay involved in your child's learning journey, you can connect to your child's account."
+msgstr "Para mantenerte involucrado en el aprendizaje de tu hijo, puedes conectarte a su cuenta."
+
+msgid "Top Enrolled Courses"
+msgstr "Cursos con más inscripciones"
+
+msgid "Total Active Users"
+msgstr "Total de usuarios activos"
+
+msgid "Total Courses"
+msgstr "Total de cursos"
+
+msgid "Total Enrollments"
+msgstr "Total de inscripciones"
+
+msgid "Total Inactive Users"
+msgstr "Total de usuarios inactivos"
+
+msgid "Total Instructors"
+msgstr "Total de instructores"
+
+msgid "Total Reviews"
+msgstr "Total de reseñas"
+
+msgid "Total Users"
+msgstr "Total de usuarios"
+
+msgid "Traffic"
+msgstr "Tráfico"
+
+msgid "Traffic Analytics"
+msgstr "Analítica de tráfico"
+
+msgid "Unblock"
+msgstr "Desbloquear"
+
+msgid "Unenroll User"
+msgstr "Dar de baja a usuario"
+
+msgid "Unlock Full Access"
+msgstr "Desbloquear acceso completo"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Upgrading your plan unlocks a suite of powerful tools designed to enhance your experience and success. From advanced customization options to premium support, everything you need for a seamless workflow is just a step away."
+msgstr "Actualizar tu plan desbloquea un conjunto de herramientas poderosas diseñadas para mejorar tu experiencia y éxito. Desde opciones de personalización avanzadas hasta soporte premium, todo lo que necesitas está a un paso."
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Use SSL"
+msgstr "Usar SSL"
+
+msgid "Use TLS"
+msgstr "Usar TLS"
+
+msgid "User Details"
+msgstr "Detalles del usuario"
+
+msgid "User Management"
+msgstr "Gestión de usuarios"
+
+msgid "User Performance"
+msgstr "Rendimiento del usuario"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "View Invoice"
+msgstr "Ver factura"
+
+msgid "Visibility"
+msgstr "Visibilidad"
+
+msgid "Visitors Over Time"
+msgstr "Visitantes con el tiempo"
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Weekly Visitors"
+msgstr "Visitantes semanales"
+
+msgid "Welcome to Parent Dashboard"
+msgstr "Bienvenido al panel de padres"
+
+msgid "Welcome to Your Control Hub"
+msgstr "Bienvenido a tu Centro de Control"
+
+msgid "Widget Library"
+msgstr "Biblioteca de widgets"
+
+msgid "Widget Manager"
+msgstr "Gestor de widgets"
+
+msgid "Youth Safeguard"
+msgstr "Protección juvenil"
+
+msgid "entries"
+msgstr "entradas"
+
+msgid "(File type: ICO/PNG/JPG/JPEG; File-size < 250KB: Hight to Width ratio: 1 to 1 - think of a small square)"
+msgstr "(Tipo de archivo: ICO/PNG/JPG/JPEG; Tamaño < 250KB; relación alto:ancho: 1:1 - piensa en un cuadrado pequeño)"
+
+msgid "(File type: JPG/PNG/JPEG; File-size < 500KB; Logo Height to Width ratio: 1:3 - think of a wide rectangle)"
+msgstr "(Tipo de archivo: JPG/PNG/JPEG; Tamaño < 500KB; relación alto:ancho del logo: 1:3 - piensa en un rectángulo ancho)"
+
+msgid "1. What Data We Get"
+msgstr "1. Qué datos obtenemos"
+
+msgid "1.0 Accounts"
+msgstr "1.0 Cuentas"
+
+msgid "1.1 Data You Provide to Us"
+msgstr "1.1 Datos que nos proporcionas"
+
+msgid "1.2 Data We Collect through Automated Means"
+msgstr "1.2 Datos que recopilamos por medios automatizados"
+
+msgid "1.3 Data From Third Parties"
+msgstr "1.3 Datos de terceros"
+
+msgid "10. Dispute Resolution"
+msgstr "10. Resolución de disputas"
+
+msgid "11. Updating These Terms"
+msgstr "11. Actualización de estos términos"
+
+msgid "12. How to Contact Us"
+msgstr "12. Cómo contactarnos"
+
+msgid "2. Content Enrollment and Lifetime Access"
+msgstr "2. Inscripción en contenido y acceso de por vida"
+
+msgid "2. How We Get Data About You"
+msgstr "2. Cómo obtenemos datos sobre ti"
+
+msgid "2.1 Cookies and Data Collection Tools"
+msgstr "2.1 Cookies y herramientas de recopilación de datos"
+
+msgid "2.2 Why We Use Data Collection Tools"
+msgstr "2.2 Por qué usamos herramientas de recopilación de datos"
+
+msgid "3. Payments, Credits, and Refunds"
+msgstr "3. Pagos, créditos y reembolsos"
+
+msgid "3. What We Use Your Data For"
+msgstr "3. Para qué usamos tus datos"
+
+msgid "3.1 Pricing"
+msgstr "3.1 Precios"
+
+msgid "3.2 Payments"
+msgstr "3.2 Pagos"
+
+msgid "3.3 Refunds and Refund Credits"
+msgstr "3.3 Reembolsos y créditos de reembolso"
+
+msgid "3.4 Gift and Promotional Codes"
+msgstr "3.4 Códigos de regalo y promoción"
+
+msgid "4. Content and Behavior Rules"
+msgstr "4. Reglas de contenido y comportamiento"
+
+msgid "4. Who We Share Your Data With"
+msgstr "4. Con quién compartimos tus datos"
+
+msgid "5. Security"
+msgstr "5. Seguridad"
+
+msgid "5. Titan Education and Learning System Rights to Content You Post"
+msgstr "5. Derechos de TELS sobre el contenido que publicas"
+
+msgid "6. Using Titan Education and Learning System at Your Own Risk"
+msgstr "6. Uso de TELS bajo tu propio riesgo"
+
+msgid "6. Your Rights"
+msgstr "6. Tus derechos"
+
+msgid "6.1 Your Choices About the Use of Your Data"
+msgstr "6.1 Tus opciones sobre el uso de tus datos"
+
+msgid "6.2 Accessing, Updating, and Deleting Your Personal Data"
+msgstr "6.2 Acceso, actualización y eliminación de tus datos personales"
+
+msgid "6.3 Our Policy Concerning Children"
+msgstr "6.3 Nuestra política sobre los niños"
+
+msgid "7. Titan Education and Learning System Rights"
+msgstr "7. Derechos de TELS"
+
+msgid "7. Updates & Contact Info"
+msgstr "7. Actualizaciones e información de contacto"
+
+msgid "7.1 Modifications to This Privacy Policy"
+msgstr "7.1 Modificaciones a esta Política de Privacidad"
+
+msgid "7.2 Interpretation"
+msgstr "7.2 Interpretación"
+
+msgid "7.3 Questions"
+msgstr "7.3 Preguntas"
+
+msgid "8. Subscription Terms"
+msgstr "8. Términos de suscripción"
+
+msgid "8.1 Subscription Plans"
+msgstr "8.1 Planes de suscripción"
+
+msgid "8.2 Account Management"
+msgstr "8.2 Gestión de cuenta"
+
+msgid "8.3 Free Trials & Renewals"
+msgstr "8.3 Pruebas gratuitas y renovaciones"
+
+msgid "8.4 Payments and Billing"
+msgstr "8.4 Pagos y facturación"
+
+msgid "8.5 Subscription Disclaimers"
+msgstr "8.5 Descargos de responsabilidad de suscripción"
+
+msgid "9. Miscellaneous Legal Terms"
+msgstr "9. Términos legales varios"
+
+msgid "9.1 Binding Agreement"
+msgstr "9.1 Acuerdo vinculante"
+
+msgid "9.2 Disclaimers"
+msgstr "9.2 Descargos de responsabilidad"
+
+msgid "9.3 Indemnification"
+msgstr "9.3 Indemnización"
+
+msgid "9.4 Governing Law and Jurisdiction"
+msgstr "9.4 Ley aplicable y jurisdicción"
+
+msgid "9.6 Legal Actions and Notices"
+msgstr "9.6 Acciones legales y avisos"
+
+msgid "9.7 Relationship Between Us"
+msgstr "9.7 Relación entre nosotros"
+
+msgid "9.8 No Assignment"
+msgstr "9.8 No cesión"
+
+msgid "9:30 AM to 11:30 AM"
+msgstr "9:30 AM a 11:30 AM"
+
+msgid "A hierarchy is organized into a pyramid-like structure, with executives, directors, managers, and employees in order from the highest level to the lowest in the chain."
+msgstr "Una jerarquía se organiza en una estructura piramidal, con ejecutivos, directores, gerentes y empleados de mayor a menor nivel."
+
+msgid "About Us Content"
+msgstr "Contenido de Sobre nosotros"
+
+msgid "About Us Page"
+msgstr "Página Sobre nosotros"
+
+msgid "Account Data"
+msgstr "Datos de la cuenta"
+
+msgid "Activate Google Analytics and Tag Manager to gain deep insights into user behavior and optimize your LMS for better engagement and learning outcomes."
+msgstr "Activa Google Analytics y Tag Manager para obtener información detallada sobre el comportamiento del usuario y optimizar tu LMS."
+
+msgid "Active state for secondary elements."
+msgstr "Estado activo para elementos secundarios."
+
+msgid "Active this month:"
+msgstr "Activo este mes:"
+
+msgid "Active:"
+msgstr "Activo:"
+
+msgid "Add Course"
+msgstr "Agregar curso"
+
+msgid "Add Instructor Info"
+msgstr "Agregar información del instructor"
+
+msgid "Add Users"
+msgstr "Agregar usuarios"
+
+msgid "Add/Edit Widget"
+msgstr "Agregar/Editar widget"
+
+msgid "Additional information"
+msgstr "Información adicional"
+
+msgid "Address:"
+msgstr "Dirección:"
+
+msgid "Advanced settings(JSON):"
+msgstr "Configuración avanzada (JSON):"
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 1.5MB, 1920w*820h."
+msgstr "Formatos permitidos: PNG, JPEG, JPG. Hasta 1.5MB, 1920x820."
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 100KB, 1:3 height:width ratio."
+msgstr "Formatos permitidos: PNG, JPEG, JPG. Hasta 100KB, relación alto:ancho 1:3."
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 500KB, 1920w*820h."
+msgstr "Formatos permitidos: PNG, JPEG, JPG. Hasta 500KB, 1920x820."
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 500KB, 800w*400h."
+msgstr "Formatos permitidos: PNG, JPEG, JPG. Hasta 500KB, 800x400."
+
+msgid "Already Enrolled/Unenrolled"
+msgstr "Ya inscrito/dado de baja"
+
+msgid "Alternative secondary shade."
+msgstr "Tono secundario alternativo."
+
+msgid "Alternative shade for variety."
+msgstr "Tono alternativo para variedad."
+
+msgid "Amount Due 2/22/2014"
+msgstr "Monto adeudado 22/2/2014"
+
+msgid "Approved Profiles"
+msgstr "Perfiles aprobados"
+
+msgid "Approximate Geographic Data"
+msgstr "Datos geográficos aproximados"
+
+msgid "Are you sure you want to activate this user? This action will activate their account, send a confirmation email, and provide an auto-generated password."
+msgstr "¿Estás seguro de activar este usuario? Esta acción activará su cuenta, enviará un correo de confirmación y proporcionará una contraseña generada automáticamente."
+
+msgid "Are you sure you want to delete Blog?"
+msgstr "¿Estás seguro de eliminar el blog?"
+
+msgid "Are you sure you want to delete Category?"
+msgstr "¿Estás seguro de eliminar la categoría?"
+
+msgid "Are you sure you want to delete Class?"
+msgstr "¿Estás seguro de eliminar la clase?"
+
+msgid "Are you sure you want to delete Course Authoring Organization?"
+msgstr "¿Estás seguro de eliminar la organización de autoría del curso?"
+
+msgid "Are you sure you want to delete Hierarchy?"
+msgstr "¿Estás seguro de eliminar la jerarquía?"
+
+msgid "Are you sure you want to delete School?"
+msgstr "¿Estás seguro de eliminar la escuela?"
+
+msgid "Are you sure you want to delete SubClass?"
+msgstr "¿Estás seguro de eliminar la subclase?"
+
+msgid "Are you sure you want to delete coupon?"
+msgstr "¿Estás seguro de eliminar el cupón?"
+
+msgid "Are you sure you want to delete course?"
+msgstr "¿Estás seguro de eliminar el curso?"
+
+msgid "Are you sure you want to delete metric?"
+msgstr "¿Estás seguro de eliminar la métrica?"
+
+msgid "Are you sure you want to delete this distribution entry?"
+msgstr "¿Estás seguro de eliminar esta entrada de distribución?"
+
+msgid "Are you sure you want to delete this field set?"
+msgstr "¿Estás seguro de eliminar este conjunto de campos?"
+
+msgid "Are you sure you want to delete this footer link?"
+msgstr "¿Estás seguro de eliminar este enlace del pie de página?"
+
+msgid "Are you sure you want to delete user?"
+msgstr "¿Estás seguro de eliminar el usuario?"
+
+msgid "Are you sure you want to delete widget?"
+msgstr "¿Estás seguro de eliminar el widget?"
+
+msgid "Are you sure you want to resend the account activation email to this user?"
+msgstr "¿Estás seguro de reenviar el correo de activación a este usuario?"
+
+msgid "Are you sure you want to send account activation emails to all inactive users?"
+msgstr "¿Estás seguro de enviar correos de activación a todos los usuarios inactivos?"
+
+msgid "Assessment"
+msgstr "Evaluación"
+
+msgid "Assign New Course"
+msgstr "Asignar nuevo curso"
+
+msgid "Auto (Based on most enrolled courses)"
+msgstr "Automático (basado en los cursos más inscritos)"
+
+msgid "Automatically activate accounts"
+msgstr "Activar cuentas automáticamente"
+
+msgid "Automatically enroll new users"
+msgstr "Inscribir nuevos usuarios automáticamente"
+
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+msgid "Average Completion rate"
+msgstr "Tasa promedio de finalización"
+
+msgid "Average Passing Rate"
+msgstr "Tasa promedio de aprobación"
+
+msgid "Banner Section"
+msgstr "Sección del banner"
+
+msgid "Banner Text"
+msgstr "Texto del banner"
+
+msgid "Billed Yearly"
+msgstr "Facturado anualmente"
+
+msgid "Billing Cycle"
+msgstr "Ciclo de facturación"
+
+msgid "Billing Information"
+msgstr "Información de facturación"
+
+msgid "Blocked Profiles"
+msgstr "Perfiles bloqueados"
+
+msgid "Blocked:"
+msgstr "Bloqueado:"
+
+msgid "Blog Banner Image"
+msgstr "Imagen de banner del blog"
+
+msgid "Blog Card Image"
+msgstr "Imagen de tarjeta del blog"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Bulk Account Activation Email"
+msgstr "Correo de activación masiva de cuentas"
+
+msgid "CSV File Guidelines:"
+msgstr "Pautas del archivo CSV:"
+
+msgid "Cart Details"
+msgstr "Detalles del carrito"
+
+msgid "Certificate Acquisition Time"
+msgstr "Tiempo de obtención del certificado"
+
+msgid "Certificate Awarded"
+msgstr "Certificado otorgado"
+
+msgid "Certificate Awarded Reports"
+msgstr "Informes de certificados otorgados"
+
+msgid "Certificate Delivered"
+msgstr "Certificado entregado"
+
+msgid "Chat Service Provider Name (e.g., Zendesk,  Freshdesk, LiveChat)"
+msgstr "Nombre del proveedor de chat (ej.: Zendesk, Freshdesk, LiveChat)"
+
+msgid "Child Email"
+msgstr "Correo del hijo"
+
+msgid "Child Name"
+msgstr "Nombre del hijo"
+
+msgid "Children"
+msgstr "Hijos"
+
+msgid "Choose file"
+msgstr "Elegir archivo"
+
+msgid "City:"
+msgstr "Ciudad:"
+
+msgid "Class ID"
+msgstr "ID de la clase"
+
+msgid "Class Name"
+msgstr "Nombre de la clase"
+
+msgid "Color Scheme"
+msgstr "Esquema de colores"
+
+msgid "Color for active/pressed states."
+msgstr "Color para estados activos/presionados."
+
+msgid "Color for light states."
+msgstr "Color para estados claros."
+
+msgid "Color on hover states."
+msgstr "Color al pasar el cursor."
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Communications and Support"
+msgstr "Comunicaciones y soporte"
+
+msgid "Complete billing address, including street address, city, state/province, and zip/postal code."
+msgstr "Dirección de facturación completa, incluyendo calle, ciudad, estado/provincia y código postal."
+
+msgid "Confirm Activation"
+msgstr "Confirmar activación"
+
+msgid "Confirm Course Unmapping"
+msgstr "Confirmar desasignación del curso"
+
+msgid "Confirm Delete"
+msgstr "Confirmar eliminación"
+
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+msgid "Confirm Unmapping"
+msgstr "Confirmar desasignación"
+
+msgid "Connect with your learners on social media platforms -"
+msgstr "Conéctate con tus estudiantes en redes sociales -"
+
+msgid "Contact Email"
+msgstr "Correo de contacto"
+
+msgid "Contact Us Content"
+msgstr "Contenido de Contáctanos"
+
+msgid "Contact Us Page"
+msgstr "Página Contáctanos"
+
+msgid "Copyright Text"
+msgstr "Texto de derechos de autor"
+
+msgid "Country:"
+msgstr "País:"
+
+msgid "Coupon Description"
+msgstr "Descripción del cupón"
+
+msgid "Courpon Code"
+msgstr "Código de cupón"
+
+msgid "Course Authoring Organization Name"
+msgstr "Nombre de la organización de autoría del curso"
+
+msgid "Course Creators/Tutors"
+msgstr "Creadores/Tutores de cursos"
+
+msgid "Course Distribution Progress"
+msgstr "Progreso de distribución del curso"
+
+msgid "Course Enrollments"
+msgstr "Inscripciones al curso"
+
+msgid "Course Enrollments Vs Completed"
+msgstr "Inscripciones vs Completadas"
+
+msgid "Course Reviews"
+msgstr "Reseñas del curso"
+
+msgid "Course Selection"
+msgstr "Selección del curso"
+
+msgid "Course wise Certificate Awarded"
+msgstr "Certificados otorgados por curso"
+
+msgid "Course wise Enrollments"
+msgstr "Inscripciones por curso"
+
+msgid "Coursewise Grade"
+msgstr "Calificaciones por curso"
+
+msgid "Create Class"
+msgstr "Crear clase"
+
+msgid "Create Coupon"
+msgstr "Crear cupón"
+
+msgid "Create Course Authoring Organization"
+msgstr "Crear organización de autoría de curso"
+
+msgid "Create Hierarchy"
+msgstr "Crear jerarquía"
+
+msgid "Create Institution"
+msgstr "Crear institución"
+
+msgid "Create Link"
+msgstr "Crear enlace"
+
+msgid "Create New Class"
+msgstr "Crear nueva clase"
+
+msgid "Create New Course Authoring Organization"
+msgstr "Crear nueva organización de autoría de curso"
+
+msgid "Create New Footer Link"
+msgstr "Crear nuevo enlace de pie de página"
+
+msgid "Create New Link"
+msgstr "Crear nuevo enlace"
+
+msgid "Create New Organization"
+msgstr "Crear nueva organización"
+
+msgid "Create New Provider Configuration (SAML IdP)"
+msgstr "Crear nueva configuración de proveedor (SAML IdP)"
+
+msgid "Create New School"
+msgstr "Crear nueva escuela"
+
+msgid "Create New SubClass"
+msgstr "Crear nueva subclase"
+
+msgid "Create School"
+msgstr "Crear escuela"
+
+msgid "Create SubClass"
+msgstr "Crear subclase"
+
+msgid "Create User"
+msgstr "Crear usuario"
+
+msgid "Create a New Hierarchy"
+msgstr "Crear una nueva jerarquía"
+
+msgid "Create your top level hierarchy"
+msgstr "Crea tu jerarquía de nivel superior"
+
+msgid "Created at"
+msgstr "Creado el"
+
+msgid "Customize the primary and secondary colors for your platform's theme. These will apply to buttons, links, and accents."
+msgstr "Personaliza los colores primario y secundario del tema de tu plataforma. Se aplicarán a botones, enlaces y acentos."
+
+msgid "Data About Your Accounts on Other Services"
+msgstr "Datos sobre tus cuentas en otros servicios"
+
+msgid "Define organizations that can be designated as sponsors during the course creation workflow."
+msgstr "Define las organizaciones que pueden ser designadas como patrocinadores durante el flujo de creación de cursos."
+
+msgid "Delete Class"
+msgstr "Eliminar clase"
+
+msgid "Delete Coupon"
+msgstr "Eliminar cupón"
+
+msgid "Delete Course"
+msgstr "Eliminar curso"
+
+msgid "Delete Course Authoring Organization"
+msgstr "Eliminar organización de autoría del curso"
+
+msgid "Delete Distribution Progress"
+msgstr "Eliminar progreso de distribución"
+
+msgid "Delete Hierarchy"
+msgstr "Eliminar jerarquía"
+
+msgid "Delete Metric"
+msgstr "Eliminar métrica"
+
+msgid "Delete School"
+msgstr "Eliminar escuela"
+
+msgid "Delete SubClass"
+msgstr "Eliminar subclase"
+
+msgid "Delete User"
+msgstr "Eliminar usuario"
+
+msgid "Delete Widget"
+msgstr "Eliminar widget"
+
+msgid "Deleting this Blog is permanent and cannot be undone."
+msgstr "Eliminar este blog es permanente y no se puede deshacer."
+
+msgid "Deleting this Category is permanent and cannot be undone."
+msgstr "Eliminar esta categoría es permanente y no se puede deshacer."
+
+msgid "Deleting this Class is permanent and cannot be undone."
+msgstr "Eliminar esta clase es permanente y no se puede deshacer."
+
+msgid "Deleting this Coupon is permanent and cannot be undone."
+msgstr "Eliminar este cupón es permanente y no se puede deshacer."
+
+msgid "Deleting this Course Authoring Organization is permanent and cannot be undone."
+msgstr "Eliminar esta organización es permanente y no se puede deshacer."
+
+msgid "Deleting this Hierarchy is permanent and cannot be undone."
+msgstr "Eliminar esta jerarquía es permanente y no se puede deshacer."
+
+msgid "Deleting this School is permanent and cannot be undone."
+msgstr "Eliminar esta escuela es permanente y no se puede deshacer."
+
+msgid "Deleting this SubClass is permanent and cannot be undone."
+msgstr "Eliminar esta subclase es permanente y no se puede deshacer."
+
+msgid "Deleting this course is permanent and cannot be undone."
+msgstr "Eliminar este curso es permanente y no se puede deshacer."
+
+msgid "Deleting this link is permanent and cannot be undone."
+msgstr "Eliminar este enlace es permanente y no se puede deshacer."
+
+msgid "Deleting this metric is permanent and cannot be undone."
+msgstr "Eliminar esta métrica es permanente y no se puede deshacer."
+
+msgid "Deleting this user is permanent and cannot be undone."
+msgstr "Eliminar este usuario es permanente y no se puede deshacer."
+
+msgid "Deleting this widget is permanent and cannot be undone."
+msgstr "Eliminar este widget es permanente y no se puede deshacer."
+
+msgid "Descriptions"
+msgstr "Descripciones"
+
+msgid "Designation"
+msgstr "Cargo/Designación"
+
+msgid "Discount(%)"
+msgstr "Descuento (%)"
+
+msgid "Discussion Post Created"
+msgstr "Publicación de discusión creada"
+
+msgid "Display your company logo in the footer to reinforce your brand."
+msgstr "Muestra el logo de tu empresa en el pie para reforzar tu marca."
+
+msgid "Distribute Course"
+msgstr "Distribuir curso"
+
+msgid "Distribution Progress"
+msgstr "Progreso de distribución"
+
+msgid "Documents Downloaded"
+msgstr "Documentos descargados"
+
+msgid "Ecommerce Configuration"
+msgstr "Configuración de comercio electrónico"
+
+msgid "Edit Coupon"
+msgstr "Editar cupón"
+
+msgid "Edit Course Authoring Organization"
+msgstr "Editar organización de autoría del curso"
+
+msgid "Edit Education Class"
+msgstr "Editar clase educativa"
+
+msgid "Edit Essential LMS Details"
+msgstr "Editar detalles esenciales del LMS"
+
+msgid "Edit Hierarchy"
+msgstr "Editar jerarquía"
+
+msgid "Edit Role"
+msgstr "Editar rol"
+
+msgid "Edit School"
+msgstr "Editar escuela"
+
+msgid "Education Class ID"
+msgstr "ID de clase educativa"
+
+msgid "Education Classes"
+msgstr "Clases educativas"
+
+msgid "Education SubClasses"
+msgstr "Subclases educativas"
+
+msgid "Educational Content Data"
+msgstr "Datos de contenido educativo"
+
+msgid "Email Addresses/Usernames (e.g., user@example.com, username)"
+msgstr "Correos/Nombres de usuario"
+
+msgid "Email Attribute:"
+msgstr "Atributo de correo:"
+
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Email address where the client wants to receive invoices and billing-related communications."
+msgstr "Dirección de correo para recibir facturas y comunicaciones relacionadas con facturación."
+
+msgid "Email verified:"
+msgstr "Correo verificado:"
+
+msgid "Email*"
+msgstr "Correo electrónico*"
+
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Enable Paid Course"
+msgstr "Habilitar curso de pago"
+
+msgid "Enable/Configuration SSO (Single Sign On)"
+msgstr "Habilitar/Configurar SSO"
+
+msgid "Enable/Disable"
+msgstr "Habilitar/Deshabilitar"
+
+msgid "Enable:"
+msgstr "Habilitar:"
+
+msgid "Engagement Metrics"
+msgstr "Métricas de participación"
+
+msgid "Enrolled/Unenrolled"
+msgstr "Inscrito/Dado de baja"
+
+msgid "Enrollments Reports"
+msgstr "Informes de inscripciones"
+
+msgid "Enter ..."
+msgstr "Ingresa ..."
+
+msgid "Enter Contact Number Here."
+msgstr "Ingresa el número de contacto aquí."
+
+msgid "Enter Course Price"
+msgstr "Ingresa el precio del curso"
+
+msgid "Enter Organization Name"
+msgstr "Ingresa el nombre de la organización"
+
+msgid "Enter PayPal Merchant ID"
+msgstr "Ingresa el ID de comerciante de PayPal"
+
+msgid "Enter PayPal Secret"
+msgstr "Ingresa el secreto de PayPal"
+
+msgid "Enter PayU Merchant ID"
+msgstr "Ingresa el ID de comerciante de PayU"
+
+msgid "Enter Paytm Customer ID"
+msgstr "Ingresa el ID de cliente de Paytm"
+
+msgid "Enter Paytm Merchant ID"
+msgstr "Ingresa el ID de comerciante de Paytm"
+
+msgid "Enter Paytm Merchant Key"
+msgstr "Ingresa la clave de comerciante de Paytm"
+
+msgid "Enter Razorpay Key"
+msgstr "Ingresa la clave de Razorpay"
+
+msgid "Enter Razorpay Merchant ID"
+msgstr "Ingresa el ID de comerciante de Razorpay"
+
+msgid "Enter Razorpay Secret"
+msgstr "Ingresa el secreto de Razorpay"
+
+msgid "Enter Receipt Billing Address"
+msgstr "Ingresa la dirección de facturación"
+
+msgid "Enter SMTP Password"
+msgstr "Ingresa la contraseña SMTP"
+
+msgid "Enter SMTP Port"
+msgstr "Ingresa el puerto SMTP"
+
+msgid "Enter SMTP Username"
+msgstr "Ingresa el usuario SMTP"
+
+msgid "Enter SMTP host"
+msgstr "Ingresa el host SMTP"
+
+msgid "Enter TAX ID"
+msgstr "Ingresa el ID fiscal"
+
+msgid "Enter TAX ID Label"
+msgstr "Ingresa la etiqueta del ID fiscal"
+
+msgid "Enter URL to your Twitter handle."
+msgstr "Ingresa la URL de tu cuenta de Twitter."
+
+msgid "Enter URL to your Youtube channel."
+msgstr "Ingresa la URL de tu canal de YouTube."
+
+msgid "Enter URL to your instagram page."
+msgstr "Ingresa la URL de tu página de Instagram."
+
+msgid "Enter blog title"
+msgstr "Ingresa el título del blog"
+
+msgid "Enter designation"
+msgstr "Ingresa el cargo"
+
+msgid "Enter email addresses and/or usernames, separated by commas or new lines. Ensure all entries are accurate as you will not receive notifications for failed email deliveries."
+msgstr "Ingresa correos y/o nombres de usuario separados por comas o líneas nuevas."
+
+msgid "Enter label (letters and numbers only)"
+msgstr "Ingresa la etiqueta (solo letras y números)"
+
+msgid "Enter name"
+msgstr "Ingresa el nombre"
+
+msgid "Enter overview content"
+msgstr "Ingresa el contenido del resumen"
+
+msgid "Enter short text"
+msgstr "Ingresa el texto corto"
+
+msgid "Enter title for Top Courses"
+msgstr "Ingresa el título para los mejores cursos"
+
+msgid "Enter title for popular courses"
+msgstr "Ingresa el título para los cursos populares"
+
+msgid "Enter value manually"
+msgstr "Ingresa el valor manualmente"
+
+msgid "Enter video description"
+msgstr "Ingresa la descripción del video"
+
+msgid "Enter widget order"
+msgstr "Ingresa el orden del widget"
+
+msgid "Enter your Facebook page URL"
+msgstr "Ingresa la URL de tu página de Facebook"
+
+msgid "Entity ID:"
+msgstr "ID de entidad:"
+
+msgid "Expired At:"
+msgstr "Vencido el:"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Favicon"
+msgstr "Favicon"
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "Filter by Created Date"
+msgstr "Filtrar por fecha de creación"
+
+msgid "Filter by Instructor:"
+msgstr "Filtrar por instructor:"
+
+msgid "Filter by Status"
+msgstr "Filtrar por estado"
+
+msgid "First Name Attribute:"
+msgstr "Atributo de nombre:"
+
+msgid "First Name*"
+msgstr "Nombre*"
+
+msgid "Footer Configuration"
+msgstr "Configuración del pie de página"
+
+msgid "Footer Logo"
+msgstr "Logo del pie de página"
+
+msgid "Friday, 01 December, 2021"
+msgstr "Viernes, 01 de diciembre de 2021"
+
+msgid "Full Name Attribute:"
+msgstr "Atributo de nombre completo:"
+
+msgid "Full name of the person or company responsible for paying for the LMS platform."
+msgstr "Nombre completo de la persona o empresa responsable del pago de la plataforma LMS."
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Grade(%)"
+msgstr "Calificación (%)"
+
+msgid "Hierarchy Position"
+msgstr "Posición en la jerarquía"
+
+msgid "Hover state for secondary elements."
+msgstr "Estado al pasar cursor sobre elementos secundarios."
+
+msgid "Icon"
+msgstr "Ícono"
+
+msgid "If checked:"
+msgstr "Si está marcado:"
+
+msgid "If unchecked:"
+msgstr "Si no está marcado:"
+
+msgid "Import Users Using CSV File"
+msgstr "Importar usuarios usando archivo CSV"
+
+msgid "Importance"
+msgstr "Importancia"
+
+msgid "Important Notes:"
+msgstr "Notas importantes:"
+
+msgid "Initiator"
+msgstr "Iniciador"
+
+msgid "Instagram Link"
+msgstr "Enlace de Instagram"
+
+msgid "Instructor Payment Data"
+msgstr "Datos de pago del instructor"
+
+msgid "Interest"
+msgstr "Interés"
+
+msgid "Invoice Status:"
+msgstr "Estado de la factura:"
+
+msgid "Last 24h Active Users"
+msgstr "Usuarios activos en las últimas 24 horas"
+
+msgid "Last Month Active Students"
+msgstr "Estudiantes activos el mes pasado"
+
+msgid "Last Month Active Users"
+msgstr "Usuarios activos el mes pasado"
+
+msgid "Last Name Attribute:"
+msgstr "Atributo de apellido:"
+
+msgid "Last Name*"
+msgstr "Apellido*"
+
+msgid "Last Week Active Users"
+msgstr "Usuarios activos la semana pasada"
+
+msgid "Latest login:"
+msgstr "Último acceso:"
+
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logo (optional)"
+msgstr "Logo (opcional)"
+
+msgid "Logo Configuration"
+msgstr "Configuración del logo"
+
+msgid "Main brand color (e.g., buttons)."
+msgstr "Color principal de la marca (ej.: botones)."
+
+msgid "Manage "
+msgstr "Gestionar "
+
+msgid "Manage Course Authoring Organizations"
+msgstr "Gestionar organizaciones de autoría de cursos"
+
+msgid "Manage Course Creators"
+msgstr "Gestionar creadores de cursos"
+
+msgid "Manage Course Creators/Tutors"
+msgstr "Gestionar creadores/tutores de cursos"
+
+msgid "Manage Course Enrollments"
+msgstr "Gestionar inscripciones al curso"
+
+msgid "Manage Education Classes"
+msgstr "Gestionar clases educativas"
+
+msgid "Manage Education SubClasses"
+msgstr "Gestionar subclases educativas"
+
+msgid "Manage Schools"
+msgstr "Gestionar escuelas"
+
+msgid "Manage Youth SafeGuard"
+msgstr "Gestionar protección juvenil"
+
+msgid "Manually"
+msgstr "Manualmente"
+
+msgid "May 10, 2023"
+msgstr "10 de mayo de 2023"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Metadata source:"
+msgstr "Fuente de metadatos:"
+
+msgid "Metric"
+msgstr "Métrica"
+
+msgid "Metrics Data"
+msgstr "Datos de métricas"
+
+msgid "Metrics Form"
+msgstr "Formulario de métricas"
+
+msgid "Microsoft"
+msgstr "Microsoft"
+
+msgid "Mobile Number"
+msgstr "Número de móvil"
+
+msgid "Mobile Number*"
+msgstr "Número de móvil*"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Negative Datapoint"
+msgstr "Punto de datos negativo"
+
+msgid "Negative Datapoints Dashboard"
+msgstr "Panel de puntos de datos negativos"
+
+msgid "Negative Datapoints Reports"
+msgstr "Informes de puntos de datos negativos"
+
+msgid "New Course ID"
+msgstr "ID del nuevo curso"
+
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+msgid "No. of Certificate Awarded"
+msgstr "N.º de certificados otorgados"
+
+msgid "No. of Users"
+msgstr "N.º de usuarios"
+
+msgid "No. of users"
+msgstr "N.º de usuarios"
+
+msgid "Notes:"
+msgstr "Notas:"
+
+msgid "Notify User"
+msgstr "Notificar al usuario"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Organization Info(JSON):"
+msgstr "Información de la organización (JSON):"
+
+msgid "Other config(JSON):"
+msgstr "Otra configuración (JSON):"
+
+msgid "Our Testimonials"
+msgstr "Nuestros testimonios"
+
+msgid "Parent"
+msgstr "Padre/Madre"
+
+msgid "Parent Dashboard"
+msgstr "Panel de padres"
+
+msgid "Parent Mobile"
+msgstr "Móvil del padre/madre"
+
+msgid "Parent Name"
+msgstr "Nombre del padre/madre"
+
+msgid "Parent Registration"
+msgstr "Registro del padre/madre"
+
+msgid "Parent-Teacher Conference"
+msgstr "Reunión padres-docentes"
+
+msgid "Passing Rate"
+msgstr "Tasa de aprobación"
+
+msgid "Password Column:"
+msgstr "Columna de contraseña:"
+
+msgid "PayPal Merchant ID:"
+msgstr "ID de comerciante PayPal:"
+
+msgid "PayPal Merchant Secret:"
+msgstr "Secreto de comerciante PayPal:"
+
+msgid "PayU Merchant ID:"
+msgstr "ID de comerciante PayU:"
+
+msgid "PayU Merchant SALT"
+msgstr "SALT de comerciante PayU"
+
+msgid "PayU Merchant SALT:"
+msgstr "SALT de comerciante PayU:"
+
+msgid "Payment Methods:"
+msgstr "Métodos de pago:"
+
+msgid "Paytm Customer ID:"
+msgstr "ID de cliente Paytm:"
+
+msgid "Paytm Merchant ID:"
+msgstr "ID de comerciante Paytm:"
+
+msgid "Paytm Merchant Key:"
+msgstr "Clave de comerciante Paytm:"
+
+msgid "Performance Details"
+msgstr "Detalles de rendimiento"
+
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+msgid "Phone Number:"
+msgstr "Número de teléfono:"
+
+msgid "Phone number where the client can be reached if there are any issues or questions related to billing."
+msgstr "Número de teléfono donde contactar al cliente sobre asuntos de facturación."
+
+msgid "Popular Courses"
+msgstr "Cursos populares"
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Post Liked"
+msgstr "Publicación gustada"
+
+msgid "Post Raised"
+msgstr "Publicación enviada"
+
+msgid "Preview updates in real time as you select colors."
+msgstr "Previsualiza los cambios en tiempo real al seleccionar colores."
+
+msgid "Primary"
+msgstr "Primario"
+
+msgid "Primary Active"
+msgstr "Primario activo"
+
+msgid "Primary Alt"
+msgstr "Primario alternativo"
+
+msgid "Primary Button"
+msgstr "Botón primario"
+
+msgid "Primary Colors"
+msgstr "Colores primarios"
+
+msgid "Primary Hover"
+msgstr "Primario al pasar cursor"
+
+msgid "Primary Light"
+msgstr "Primario claro"
+
+msgid "Privacy and Policy"
+msgstr "Privacidad y política"
+
+msgid "Privacy and Policy Content"
+msgstr "Contenido de privacidad y política"
+
+msgid "Privacy and Policy Page"
+msgstr "Página de privacidad y política"
+
+msgid "Processing and Notifications:"
+msgstr "Procesamiento y notificaciones:"
+
+msgid "Profile Data"
+msgstr "Datos del perfil"
+
+msgid "Profile Guard fileds configuration:"
+msgstr "Configuración de campos del guardián del perfil:"
+
+msgid "Profile Picture"
+msgstr "Foto de perfil"
+
+msgid "Profile Status"
+msgstr "Estado del perfil"
+
+msgid "Provide your company's physical address for transparency and trust."
+msgstr "Proporciona la dirección física de tu empresa para transparencia y confianza."
+
+msgid "Provider Name"
+msgstr "Nombre del proveedor"
+
+msgid "Public key:"
+msgstr "Clave pública:"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Published On"
+msgstr "Publicado el"
+
+msgid "Qty"
+msgstr "Cantidad"
+
+msgid "Quiz Submitted"
+msgstr "Cuestionario enviado"
+
+msgid "Quiz/Assignment Submitted"
+msgstr "Cuestionario/Tarea enviado"
+
+msgid "Quote"
+msgstr "Cita"
+
+msgid "Rating"
+msgstr "Calificación"
+
+msgid "Razorpay Key:"
+msgstr "Clave de Razorpay:"
+
+msgid "Razorpay Merchant ID:"
+msgstr "ID de comerciante Razorpay:"
+
+msgid "Razorpay Secret:"
+msgstr "Secreto de Razorpay:"
+
+msgid "Reading Materials Watched"
+msgstr "Materiales de lectura vistos"
+
+msgid "Reason:"
+msgstr "Razón:"
+
+msgid "Registration"
+msgstr "Registro"
+
+msgid "Registration Reports"
+msgstr "Informes de registro"
+
+msgid "Regunite Software Private Limited"
+msgstr "Regunite Software Private Limited"
+
+msgid "Requested"
+msgstr "Solicitado"
+
+msgid "Requested At:"
+msgstr "Solicitado el:"
+
+msgid "Required in Profile"
+msgstr "Requerido en el perfil"
+
+msgid "Required in Registration"
+msgstr "Requerido en el registro"
+
+msgid "Required in Youth Guard"
+msgstr "Requerido en protección juvenil"
+
+msgid "Resend Account Activation Email"
+msgstr "Reenviar correo de activación de cuenta"
+
+msgid "Revenue Reports"
+msgstr "Informes de ingresos"
+
+msgid "Review Submitted"
+msgstr "Reseña enviada"
+
+msgid "Review/Update Course Creator"
+msgstr "Revisar/Actualizar creador del curso"
+
+msgid "Role Title"
+msgstr "Título del rol"
+
+msgid "SSO URL:"
+msgstr "URL de SSO:"
+
+msgid "School ID"
+msgstr "ID de la escuela"
+
+msgid "School Name"
+msgstr "Nombre de la escuela"
+
+msgid "Search Course"
+msgstr "Buscar curso"
+
+msgid "Secondary"
+msgstr "Secundario"
+
+msgid "Secondary Active"
+msgstr "Secundario activo"
+
+msgid "Secondary Alt"
+msgstr "Secundario alternativo"
+
+msgid "Secondary Button"
+msgstr "Botón secundario"
+
+msgid "Secondary Colors"
+msgstr "Colores secundarios"
+
+msgid "Secondary Hover"
+msgstr "Secundario al pasar cursor"
+
+msgid "Secondary Light"
+msgstr "Secundario claro"
+
+msgid "Sections"
+msgstr "Secciones"
+
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+msgid "Select Class"
+msgstr "Seleccionar clase"
+
+msgid "Select Course"
+msgstr "Seleccionar curso"
+
+msgid "Select Difficulty Level"
+msgstr "Seleccionar nivel de dificultad"
+
+msgid "Select Gender"
+msgstr "Seleccionar género"
+
+msgid "Select Hierarchy Position"
+msgstr "Seleccionar posición en jerarquía"
+
+msgid "Select Institution"
+msgstr "Seleccionar institución"
+
+msgid "Select Instructor"
+msgstr "Seleccionar instructor"
+
+msgid "Select Parent"
+msgstr "Seleccionar padre/madre"
+
+msgid "Select Parent Hierarchy"
+msgstr "Seleccionar jerarquía padre"
+
+msgid "Select Role"
+msgstr "Seleccionar rol"
+
+msgid "Select School"
+msgstr "Seleccionar escuela"
+
+msgid "Select a Course"
+msgstr "Selecciona un curso"
+
+msgid "Select a Course Authoring Organizations"
+msgstr "Selecciona una organización de autoría"
+
+msgid "Select a Language"
+msgstr "Selecciona un idioma"
+
+msgid "Send Emails"
+msgstr "Enviar correos"
+
+msgid "Send email notifications to users"
+msgstr "Enviar notificaciones de correo a usuarios"
+
+msgid "Set a New Password"
+msgstr "Establecer nueva contraseña"
+
+msgid "Set password for the user"
+msgstr "Establecer contraseña para el usuario"
+
+msgid "Shared Content"
+msgstr "Contenido compartido"
+
+msgid "Shipping:"
+msgstr "Envío:"
+
+msgid "Short Text"
+msgstr "Texto corto"
+
+msgid "Show on Home Page"
+msgstr "Mostrar en la página de inicio"
+
+msgid "Signed up:"
+msgstr "Registrado:"
+
+msgid "Site Visitors"
+msgstr "Visitantes del sitio"
+
+msgid "Social Media Links"
+msgstr "Enlace de redes sociales"
+
+msgid "Source Course ID"
+msgstr "ID del curso fuente"
+
+msgid "Standard approach is that the user will receive an email with a link to set their password and other required information. You can also select to manually set a password for the user - the user will not get the email in that situation."
+msgstr "El enfoque estándar es que el usuario reciba un correo con un enlace para establecer su contraseña. También puedes establecerla manualmente."
+
+msgid "State:"
+msgstr "Estado/Provincia:"
+
+msgid "Student Payment Data"
+msgstr "Datos de pago del estudiante"
+
+msgid "Student/Child:"
+msgstr "Estudiante/Hijo:"
+
+msgid "SubClass ID"
+msgstr "ID de la subclase"
+
+msgid "SubClass Name"
+msgstr "Nombre de la subclase"
+
+msgid "Subscription Plan"
+msgstr "Plan de suscripción"
+
+msgid "Subscription Plan Details"
+msgstr "Detalles del plan de suscripción"
+
+msgid "Subscription Plans"
+msgstr "Planes de suscripción"
+
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+msgid "Supporting color (e.g., text)."
+msgstr "Color de apoyo (ej.: texto)."
+
+msgid "Sweepstakes, Promotions, and Surveys"
+msgstr "Sorteos, promociones y encuestas"
+
+msgid "System Data"
+msgstr "Datos del sistema"
+
+msgid "Tax (10%)"
+msgstr "Impuesto (10%)"
+
+msgid "Tax (9.3%)"
+msgstr "Impuesto (9.3%)"
+
+msgid "Tax ID:"
+msgstr "ID fiscal:"
+
+msgid "Tax Identification Number associated with your business for tax processing.."
+msgstr "Número de identificación fiscal asociado a tu negocio para procesamiento tributario."
+
+msgid "Terms of Service Content"
+msgstr "Contenido de términos de servicio"
+
+msgid "Terms of Service Page"
+msgstr "Página de términos de servicio"
+
+msgid "Testimonial"
+msgstr "Testimonio"
+
+msgid "The data listed above is stored by us and associated with your account."
+msgstr "Los datos listados anteriormente son almacenados por nosotros y están asociados con tu cuenta."
+
+msgid "This action is permanent and cannot be undone."
+msgstr "Esta acción es permanente y no se puede deshacer."
+
+msgid "This action will send a new activation link to the registered email address, allowing the user to activate their account."
+msgstr "Esta acción enviará un nuevo enlace de activación al correo registrado del usuario."
+
+msgid "This action will send activation links and login details to their registered email addresses, allowing them to activate their accounts."
+msgstr "Esta acción enviará enlaces de activación y detalles de inicio de sesión a los correos registrados."
+
+msgid "This includes:"
+msgstr "Esto incluye:"
+
+msgid "Title For Popular Courses"
+msgstr "Título para cursos populares"
+
+msgid "Title For Top Courses"
+msgstr "Título para los mejores cursos"
+
+msgid "To stay involved in your child's learning journey and receive classroom updates, please connect with your child's account"
+msgstr "Para mantenerte involucrado en el aprendizaje de tu hijo y recibir actualizaciones del aula, conecta con la cuenta de tu hijo"
+
+msgid "Top Banner"
+msgstr "Banner superior"
+
+msgid "Top Courses"
+msgstr "Mejores cursos"
+
+msgid "Total Amount:"
+msgstr "Monto total:"
+
+msgid "Total Certificate Issued"
+msgstr "Total de certificados emitidos"
+
+msgid "Total Minors"
+msgstr "Total de menores"
+
+msgid "Total Parent/Guardian"
+msgstr "Total de padres/tutores"
+
+msgid "Traffic Reports"
+msgstr "Informes de tráfico"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unique Slug:"
+msgstr "Slug único:"
+
+msgid "Update Course Configuration"
+msgstr "Actualizar configuración del curso"
+
+msgid "Update essential settings for your LMS platform"
+msgstr "Actualizar la configuración esencial de tu LMS"
+
+msgid "Updated"
+msgstr "Actualizado"
+
+msgid "Upload CSV File"
+msgstr "Subir archivo CSV"
+
+msgid "Upload a favicon to customize the icon displayed in browser tabs."
+msgstr "Sube un favicon para personalizar el ícono que aparece en las pestañas del navegador."
+
+msgid "Upload your company logo for easy brand recognition."
+msgstr "Sube el logo de tu empresa para un reconocimiento fácil de la marca."
+
+msgid "Uploaded At"
+msgstr "Subido el"
+
+msgid "Usage Data"
+msgstr "Datos de uso"
+
+msgid "User ID Attribute:"
+msgstr "Atributo de ID de usuario:"
+
+msgid "User Role"
+msgstr "Rol del usuario"
+
+msgid "Username Hint Attribute:"
+msgstr "Atributo de pista de nombre de usuario:"
+
+msgid "Username*"
+msgstr "Nombre de usuario*"
+
+msgid "Users Role"
+msgstr "Roles de usuarios"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Video Description"
+msgstr "Descripción del video"
+
+msgid "Video Title"
+msgstr "Título del video"
+
+msgid "Video Watched"
+msgstr "Video visto"
+
+msgid "Video watched"
+msgstr "Video visto"
+
+msgid "Visible on Home Page"
+msgstr "Visible en la página de inicio"
+
+msgid "We couldn't create your account."
+msgstr "No pudimos crear tu cuenta."
+
+msgid "Website (optional)"
+msgstr "Sitio web (opcional)"
+
+msgid "Website URL"
+msgstr "URL del sitio web"
+
+msgid "Weighted Grade"
+msgstr "Calificación ponderada"
+
+msgid "Welcome to Analytics Dashboard"
+msgstr "Bienvenido al panel de analítica"
+
+msgid "What is Hierarchy ?"
+msgstr "¿Qué es la jerarquía?"
+
+msgid "Widget Title"
+msgstr "Título del widget"
+
+msgid "Widget Type"
+msgstr "Tipo de widget"
+
+msgid "Widgets for CMS Dashboard"
+msgstr "Widgets para el panel CMS"
+
+msgid "Widgets for LMS Dashboard"
+msgstr "Widgets para el panel LMS"
+
+msgid "Write Custom Query"
+msgstr "Escribir consulta personalizada"
+
+msgid "Write Query"
+msgstr "Escribir consulta"
+
+msgid "Yes, Activate it"
+msgstr "Sí, actívalo"
+
+msgid "Yes, Delete it"
+msgstr "Sí, elimínalo"
+
+msgid "Yes, Send it"
+msgstr "Sí, envíalo"
+
+msgid "You are invited to"
+msgstr "Estás invitado a"
+
+msgid "You can use this dialog to create new a new user in your Organization, with a preset user role.."
+msgstr "Puedes usar este diálogo para crear un nuevo usuario en tu organización con un rol preestablecido."
+
+msgid "You will not be able to continue with the upgrade until you update your billing information."
+msgstr "No podrás continuar con la actualización hasta que actualices tu información de facturación."
+
+msgid "Youth SafeGuard"
+msgstr "Protección juvenil"
+
+msgid "Youth and Profile SafeGuard Configuration"
+msgstr "Configuración de protección juvenil y del perfil"
+
+msgid "Youtube"
+msgstr "YouTube"
+
+msgid "Zip/Postal Code:"
+msgstr "Código postal:"
+
+msgid "contact@example.com"
+msgstr "contact@example.com"
+
+msgid "course@example.com"
+msgstr "course@example.com"
+
+msgid "e.g., 23HFxAPyJ9U"
+msgstr "ej., 23HFxAPyJ9U"
+
+msgid "e.g., Welcome Video"
+msgstr "ej., Video de bienvenida"
+
+msgid "e.g., Welcome to the Course"
+msgstr "ej., Bienvenido al curso"
+
+msgid "info@example.com"
+msgstr "info@example.com"
+
+msgid "{point.key}"
+msgstr "{point.key}"
+
+msgid "{point.percentage:.1f}%"
+msgstr "{point.percentage:.1f}%"
+
+msgid "Connect with your learners on social media platforms - "
+msgstr "Conéctate con tus estudiantes en redes sociales - "

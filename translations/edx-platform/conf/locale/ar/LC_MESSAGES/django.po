@@ -26771,3 +26771,4755 @@ msgstr "إنشاء تسهيل"
 
 msgid "Add Allowance"
 msgstr "إضافة تسهيل"
+
+msgid "Our Courses"
+msgstr "دوراتنا"
+
+msgid "Showing {start} to {end} of {total} courses matching your search"
+msgstr "عرض {start} إلى {end} من أصل {total} دورة تطابق بحثك"
+
+msgid "Lessons"
+msgstr "دروس"
+
+msgid "Students"
+msgstr "طلاب"
+
+msgid "Search Courses"
+msgstr "البحث عن دورات"
+
+msgid "Filter courses"
+msgstr "تصفية الدورات"
+
+msgid "Clear active filter"
+msgstr "مسح الفلتر النشط"
+
+msgid "Something went wrong, please try again."
+msgstr "حدث خطأ ما، يرجى المحاولة مرة أخرى."
+
+msgid "The combination of all senses into learning"
+msgstr "الجمع بين جميع الحواس في التعلم"
+
+msgid "Learn with all your"
+msgstr "تعلم بكل"
+
+msgid "SENSES"
+msgstr "حواسك"
+
+msgid "Become a Tutor"
+msgstr "كن مدرسًا"
+
+msgid "views"
+msgstr "مشاهدات"
+msgid "1 coupon entry was successfully deleted."
+msgstr "تم حذف إدخال القسيمة بنجاح."
+
+msgid "A metric with the same label and value already exists for this dashboard."
+msgstr "يوجد مقياس بنفس التسمية والقيمة لهذه اللوحة بالفعل."
+
+msgid "Account activation email sent successfully"
+msgstr "تم إرسال بريد تفعيل الحساب بنجاح"
+
+msgid "Account activation emails are being processed and will be sent to all inactive users shortly."
+msgstr "يتم معالجة رسائل تفعيل الحسابات وسيتم إرسالها لجميع المستخدمين غير النشطين قريباً."
+
+msgid "Account has been activated successfully"
+msgstr "تم تفعيل الحساب بنجاح"
+
+msgid "Amount must be greater than 0"
+msgstr "يجب أن يكون المبلغ أكبر من 0"
+
+msgid "Authentication required"
+msgstr "المصادقة مطلوبة"
+
+msgid "Authorization failed."
+msgstr "فشل التفويض."
+
+msgid "Badge Detail Placeholder"
+msgstr "عنصر نائب لتفاصيل الشارة"
+
+msgid "Badge deleted successfully"
+msgstr "تم حذف الشارة بنجاح"
+
+msgid "Badge not found"
+msgstr "الشارة غير موجودة"
+
+msgid "Badge updated successfully"
+msgstr "تم تحديث الشارة بنجاح"
+
+msgid "Billing Information updated successfully"
+msgstr "تم تحديث معلومات الفواتير بنجاح"
+
+msgid "Blog already exist with this title. Please try again with different title"
+msgstr "يوجد مدوّنة بهذا العنوان. يرجى المحاولة بعنوان مختلف"
+
+msgid "Blog created successfully"
+msgstr "تم إنشاء المدوّنة بنجاح"
+
+msgid "Blog deleted successfully"
+msgstr "تم حذف المدوّنة بنجاح"
+
+msgid "Blog not found"
+msgstr "المدوّنة غير موجودة"
+
+msgid "Blog updated successfully"
+msgstr "تم تحديث المدوّنة بنجاح"
+
+msgid "Category already exist with this code. Please try again with different name"
+msgstr "يوجد تصنيف بهذا الرمز. يرجى المحاولة باسم مختلف"
+
+msgid "Category already exist with this name. Please try again with different name"
+msgstr "يوجد تصنيف بهذا الاسم. يرجى المحاولة باسم مختلف"
+
+msgid "Category deleted successfully"
+msgstr "تم حذف التصنيف بنجاح"
+
+msgid "Category details updated successfully"
+msgstr "تم تحديث تفاصيل التصنيف بنجاح"
+
+msgid "Category not found"
+msgstr "التصنيف غير موجود"
+
+msgid "Cleared"
+msgstr "تم المسح"
+
+msgid "Could not parse 'amount' as a decimal"
+msgstr "لا يمكن تحليل 'amount' كرقم عشري"
+
+msgid "Coupon already exist with this code and course. Please try again with different code"
+msgstr "يوجد قسيمة بهذا الرمز والمساق. يرجى المحاولة برمز مختلف"
+
+msgid "Coupon deleted successfully"
+msgstr "تم حذف القسيمة بنجاح"
+
+msgid "Coupon details updated successfully"
+msgstr "تم تحديث تفاصيل القسيمة بنجاح"
+
+msgid "Coupon not found"
+msgstr "القسيمة غير موجودة"
+
+msgid "Course Configuration updated successfully"
+msgstr "تم تحديث إعدادات المساق بنجاح"
+
+msgid "Course mapping updated successfully"
+msgstr "تم تحديث تعيين المساق بنجاح"
+
+msgid "Course re-run created successfully"
+msgstr "تم إنشاء إعادة تشغيل المساق بنجاح"
+
+msgid "Course removed successfully"
+msgstr "تم حذف المساق بنجاح"
+
+msgid "Delete selected coupon entries"
+msgstr "حذف إدخالات القسيمة المحددة"
+
+msgid "Ecommerce Configuration updated successfully"
+msgstr "تم تحديث إعدادات التجارة الإلكترونية بنجاح"
+
+msgid "Email Configuration updated successfully"
+msgstr "تم تحديث إعدادات البريد الإلكتروني بنجاح"
+
+msgid "Event deleted successfully"
+msgstr "تم حذف الحدث بنجاح"
+
+msgid "Event not found"
+msgstr "الحدث غير موجود"
+
+msgid "Event updated successfully"
+msgstr "تم تحديث الحدث بنجاح"
+
+msgid "Failed to activate account"
+msgstr "فشل تفعيل الحساب"
+
+msgid "Failed to delete user"
+msgstr "فشل حذف المستخدم"
+
+msgid "Failed to send activation email"
+msgstr "فشل إرسال بريد التفعيل"
+
+msgid "Failed to update theme colors. Please try again later."
+msgstr "فشل تحديث ألوان السمة. يرجى المحاولة لاحقاً."
+
+msgid "File format not supported. Allowed formats: {formats}"
+msgstr "صيغة الملف غير مدعومة. الصيغ المسموح بها: {formats}"
+
+msgid "File size too large. Maximum allowed size is {max_size_kb}KB"
+msgstr "حجم الملف كبير جداً. الحجم الأقصى المسموح به هو {max_size_kb} كيلوبايت"
+
+msgid "Footer link deleted successfully"
+msgstr "تم حذف رابط التذييل بنجاح"
+
+msgid "Footer link updated successfully"
+msgstr "تم تحديث رابط التذييل بنجاح"
+
+msgid "HTTP Method Not Supported"
+msgstr "طريقة HTTP غير مدعومة"
+
+msgid "Hierarchy already exist with this name. Please try again with different name"
+msgstr "يوجد تسلسل هرمي بهذا الاسم. يرجى المحاولة باسم مختلف"
+
+msgid "Hierarchy deleted successfully"
+msgstr "تم حذف التسلسل الهرمي بنجاح"
+
+msgid "Hierarchy details updated successfully"
+msgstr "تم تحديث تفاصيل التسلسل الهرمي بنجاح"
+
+msgid "Hierarchy not found"
+msgstr "التسلسل الهرمي غير موجود"
+
+msgid "Institution already exist with this ID. Please try again with different ID"
+msgstr "يوجد مؤسسة بهذا المعرف. يرجى المحاولة بمعرف مختلف"
+
+msgid "Institution already exist with this ID. Please try again with different name"
+msgstr "يوجد مؤسسة بهذا المعرف. يرجى المحاولة باسم مختلف"
+
+msgid "Institution deleted successfully"
+msgstr "تم حذف المؤسسة بنجاح"
+
+msgid "Institution details updated successfully"
+msgstr "تم تحديث تفاصيل المؤسسة بنجاح"
+
+msgid "Institution not found"
+msgstr "المؤسسة غير موجودة"
+
+msgid "Invalid Role ID"
+msgstr "معرف الدور غير صالح"
+
+msgid "Invalid User"
+msgstr "مستخدم غير صالح"
+
+msgid "Invalid User role selected"
+msgstr "تم اختيار دور مستخدم غير صالح"
+
+msgid "Invalid action"
+msgstr "إجراء غير صالح"
+
+msgid "Invalid backend selected"
+msgstr "تم اختيار خلفية غير صالحة"
+
+msgid "Invalid institution selected"
+msgstr "تم اختيار مؤسسة غير صالحة"
+
+msgid "Missing required fields."
+msgstr "الحقول المطلوبة مفقودة."
+
+msgid "New Category added successfully"
+msgstr "تم إضافة تصنيف جديد بنجاح"
+
+msgid "New Coupon added successfully"
+msgstr "تم إضافة قسيمة جديدة بنجاح"
+
+msgid "New Hierarchy added successfully"
+msgstr "تم إضافة تسلسل هرمي جديد بنجاح"
+
+msgid "New Institution created successfully"
+msgstr "تم إنشاء مؤسسة جديدة بنجاح"
+
+msgid "New Organization added successfully"
+msgstr "تم إضافة منظمة جديدة بنجاح"
+
+msgid "New footer link added successfully"
+msgstr "تم إضافة رابط تذييل جديد بنجاح"
+
+msgid "No action specified."
+msgstr "لم يتم تحديد أي إجراء."
+
+msgid "OK"
+msgstr "حسناً"
+
+msgid "Organization already exist with this code. Please try again with different name"
+msgstr "يوجد منظمة بهذا الرمز. يرجى المحاولة باسم مختلف"
+
+msgid "Organization already exist with this name. Please try again with different name"
+msgstr "يوجد منظمة بهذا الاسم. يرجى المحاولة باسم مختلف"
+
+msgid "Organization deleted successfully"
+msgstr "تم حذف المنظمة بنجاح"
+
+msgid "Organization details updated successfully"
+msgstr "تم تحديث تفاصيل المنظمة بنجاح"
+
+msgid "Organization not found"
+msgstr "المنظمة غير موجودة"
+
+msgid "Page already exist with this url. Please try again with different url"
+msgstr "يوجد صفحة بهذا الرابط. يرجى المحاولة برابط مختلف"
+
+msgid "Password successfully changed."
+msgstr "تم تغيير كلمة المرور بنجاح."
+
+msgid "Please upload only CSV files."
+msgstr "يرجى رفع ملفات CSV فقط."
+
+msgid "Quantity must be an integer."
+msgstr "يجب أن تكون الكمية عدداً صحيحاً."
+
+msgid "Quantity must be between 1 and 1000."
+msgstr "يجب أن تكون الكمية بين 1 و 1000."
+
+msgid "Role updated successfully"
+msgstr "تم تحديث الدور بنجاح"
+
+msgid "Site Configuration updated successfully"
+msgstr "تم تحديث إعدادات الموقع بنجاح"
+
+msgid "Site assets updated successfully"
+msgstr "تم تحديث أصول الموقع بنجاح"
+
+msgid "Site configuration not found for the current site."
+msgstr "لم يتم العثور على إعدادات الموقع الحالي."
+
+msgid "Site information not found."
+msgstr "معلومات الموقع غير موجودة."
+
+msgid "Something went wrong. Please try again after sometime"
+msgstr "حدث خطأ ما. يرجى المحاولة مرة أخرى بعد قليل"
+
+msgid "The bulk user creation process is now underway. You will be notified via email with a detailed report once the operation is complete."
+msgstr "عملية إنشاء المستخدمين جارية الآن. ستتلقى إشعاراً بالبريد الإلكتروني مع تقرير مفصل عند اكتمال العملية."
+
+msgid "Theme colors updated successfully."
+msgstr "تم تحديث ألوان السمة بنجاح."
+
+msgid "This Hierarchy already exist."
+msgstr "هذا التسلسل الهرمي موجود بالفعل."
+
+msgid "This User account has already been activated."
+msgstr "هذا الحساب مفعّل بالفعل."
+
+msgid "This feature is not available in your subscription plan"
+msgstr "هذه الميزة غير متاحة في خطة اشتراكك"
+
+msgid "User Badge Detail Placeholder"
+msgstr "عنصر نائب لتفاصيل شارة المستخدم"
+
+msgid "User Badge List Placeholder"
+msgstr "عنصر نائب لقائمة شارات المستخدم"
+
+msgid "User already exist with this email address"
+msgstr "يوجد مستخدم بهذا البريد الإلكتروني"
+
+msgid "User created successfully"
+msgstr "تم إنشاء المستخدم بنجاح"
+
+msgid "User deleted successfully"
+msgstr "تم حذف المستخدم بنجاح"
+
+msgid "User details updated successfully"
+msgstr "تم تحديث تفاصيل المستخدم بنجاح"
+
+msgid "User must be a staff or superuser to rerun courses."
+msgstr "يجب أن يكون المستخدم موظفاً أو مشرفاً لإعادة تشغيل المساقات."
+
+msgid "We've e-mailed instructions to user for setting password. User should be receiving it shortly."
+msgstr "تم إرسال تعليمات تعيين كلمة المرور للمستخدم. يجب أن يصله قريباً."
+
+msgid "Your application has been submitted. We will contact you soon."
+msgstr "تم تقديم طلبك. سنتواصل معك قريباً."
+
+msgid "Your previous application is pending. You cannot submit an application again."
+msgstr "طلبك السابق قيد الانتظار. لا يمكنك تقديم طلب آخر."
+
+msgid "Your request could not be processed due to invalid data."
+msgstr "لا يمكن معالجة طلبك بسبب بيانات غير صالحة."
+
+msgid "{count} coupon entries were successfully deleted."
+msgstr "تم حذف {count} إدخال قسيمة بنجاح."
+
+msgid "Academic Progress"
+msgstr "التقدم الأكاديمي"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "Activate Google Analytics and Tag Manager to track your website's performance with detailed insights."
+msgstr "قم بتفعيل Google Analytics وTag Manager لتتبع أداء موقعك بتحليلات تفصيلية."
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Add Footer Link"
+msgstr "إضافة رابط التذييل"
+
+msgid "Add Widget"
+msgstr "إضافة أداة"
+
+msgid "Add a Child"
+msgstr "إضافة طفل"
+
+msgid "Add-ons"
+msgstr "الإضافات"
+
+msgid "Add-ons Configuration"
+msgstr "إعداد الإضافات"
+
+msgid "Additional Platform Language(s) (Optional)"
+msgstr "لغات إضافية للمنصة (اختياري)"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Amount"
+msgstr "المبلغ"
+
+msgid "Announcement"
+msgstr "الإعلان"
+
+msgid "Apply Coupon"
+msgstr "تطبيق القسيمة"
+
+msgid "Approve"
+msgstr "موافقة"
+
+msgid "Are you sure you want to delete this blog?"
+msgstr "هل أنت متأكد من حذف هذه المدوّنة؟"
+
+msgid "Are you sure you want to delete this category?"
+msgstr "هل أنت متأكد من حذف هذه الفئة؟"
+
+msgid "Assign Courses"
+msgstr "تعيين المساقات"
+
+msgid "Author"
+msgstr "المؤلف"
+
+msgid "Average Rating"
+msgstr "متوسط التقييم"
+
+msgid "Back"
+msgstr "رجوع"
+
+msgid "Banner Image"
+msgstr "صورة البانر"
+
+msgid "Billing"
+msgstr "الفواتير"
+
+msgid "Billing Dashboard"
+msgstr "لوحة الفواتير"
+
+msgid "Billing Info"
+msgstr "معلومات الفواتير"
+
+msgid "Block"
+msgstr "حظر"
+
+msgid "Blog Title"
+msgstr "عنوان المدوّنة"
+
+msgid "Blogs"
+msgstr "المدونات"
+
+msgid "Brand your learning platform"
+msgstr "أضف هوية بصرية لمنصة التعلم"
+
+msgid "Branding"
+msgstr "العلامة التجارية"
+
+msgid "Bulk Enroll"
+msgstr "التحضير الجماعي"
+
+msgid "CMS"
+msgstr "نظام إدارة المحتوى"
+
+msgid "CMS/Studio Domain"
+msgstr "نطاق CMS/Studio"
+
+msgid "Callback URL"
+msgstr "عنوان URL للاستجابة"
+
+msgid "Card Image"
+msgstr "صورة البطاقة"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Category Name"
+msgstr "اسم الفئة"
+
+msgid "Certificate Analytics"
+msgstr "تحليلات الشهادات"
+
+msgid "Certificate Issuance Over Time"
+msgstr "إصدار الشهادات عبر الزمن"
+
+msgid "Certificates Issued"
+msgstr "الشهادات الصادرة"
+
+msgid "Change Password"
+msgstr "تغيير كلمة المرور"
+
+msgid "Chat Service Provider Name..."
+msgstr "اسم مزوّد خدمة الدردشة..."
+
+msgid "Chat Support Widget Configuration"
+msgstr "إعداد أداة دعم الدردشة"
+
+msgid "Chat Widget Snippet Code"
+msgstr "كود مقتطف أداة الدردشة"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Child Email:"
+msgstr "بريد الطفل الإلكتروني:"
+
+msgid "Child Name:"
+msgstr "اسم الطفل:"
+
+msgid "Class"
+msgstr "الصف"
+
+msgid "Client ID"
+msgstr "معرف العميل"
+
+msgid "Client Secret"
+msgstr "سر العميل"
+
+msgid "Completed Courses"
+msgstr "المساقات المكتملة"
+
+msgid "Configuration"
+msgstr "الإعدادات"
+
+msgid "Connect"
+msgstr "اتصال"
+
+msgid "Connect to a Child"
+msgstr "الاتصال بطفل"
+
+msgid "Connect to your child"
+msgstr "اتصل بطفلك"
+
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+msgid "Control Hub"
+msgstr "مركز التحكم"
+
+msgid "Coupons"
+msgstr "القسائم"
+
+msgid "Course Authoring Organizations"
+msgstr "منظمات تأليف المساق"
+
+msgid "Course Creators"
+msgstr "منشئو المساقات"
+
+msgid "Course Enrollment Management"
+msgstr "إدارة التحضير في المساق"
+
+msgid "Course Management"
+msgstr "إدارة المساقات"
+
+msgid "Course Performance"
+msgstr "أداء المساق"
+
+msgid "Create Blog"
+msgstr "إنشاء مدوّنة"
+
+msgid "Create Category"
+msgstr "إنشاء فئة"
+
+msgid "Create Metric"
+msgstr "إنشاء مقياس"
+
+msgid "Create New Blog"
+msgstr "إنشاء مدونة جديدة"
+
+msgid "Create New Category"
+msgstr "إنشاء فئة جديدة"
+
+msgid "Create New Coupon"
+msgstr "إنشاء قسيمة جديدة"
+
+msgid "Create New Hierarchy"
+msgstr "إنشاء تسلسل هرمي جديد"
+
+msgid "Create New Institution"
+msgstr "إنشاء مؤسسة جديدة"
+
+msgid "Create New Role"
+msgstr "إنشاء دور جديد"
+
+msgid "Create New User"
+msgstr "إنشاء مستخدم جديد"
+
+msgid "Create Organization Unit"
+msgstr "إنشاء وحدة منظمة"
+
+msgid "Created"
+msgstr "أنشئ في"
+
+msgid "Created By"
+msgstr "أنشئ بواسطة"
+
+msgid "Creator Details"
+msgstr "تفاصيل المنشئ"
+
+msgid "Creator Request"
+msgstr "طلب المنشئ"
+
+msgid "Dashboard Builder"
+msgstr "منشئ اللوحة"
+
+msgid "Date Range"
+msgstr "نطاق التاريخ"
+
+msgid "Deactivate"
+msgstr "تعطيل"
+
+msgid "Default From Email"
+msgstr "البريد الإلكتروني الافتراضي للإرسال"
+
+msgid "Default Platform Language"
+msgstr "لغة المنصة الافتراضية"
+
+msgid "Delete Blog"
+msgstr "حذف المدوّنة"
+
+msgid "Delete Category"
+msgstr "حذف الفئة"
+
+msgid "Delete Footer Link"
+msgstr "حذف رابط التذييل"
+
+msgid "Discount"
+msgstr "الخصم"
+
+msgid "Discount (%)"
+msgstr "الخصم (%)"
+
+msgid "Don't let limitations hold you back - elevate your potential with our premium features today."
+msgstr "لا تدع القيود تعيقك - ارتقِ بإمكانياتك مع ميزاتنا المميزة اليوم."
+
+msgid "Ecommerce"
+msgstr "التجارة الإلكترونية"
+
+msgid "Edit Blog"
+msgstr "تعديل المدوّنة"
+
+msgid "Edit Category"
+msgstr "تعديل الفئة"
+
+msgid "Edit Footer Link"
+msgstr "تعديل رابط التذييل"
+
+msgid "Email Configuration"
+msgstr "إعداد البريد الإلكتروني"
+
+msgid "Enable Ecommerce"
+msgstr "تفعيل التجارة الإلكترونية"
+
+msgid "Enable SSO"
+msgstr "تفعيل الدخول الموحد"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "Engagement"
+msgstr "التفاعل"
+
+msgid "Enroll User"
+msgstr "تحضير مستخدم"
+
+msgid "Enrolled Courses"
+msgstr "المساقات المحضَّرة"
+
+msgid "Enrollment Analytics"
+msgstr "تحليلات التحضيرات"
+
+msgid "Enrollment End"
+msgstr "نهاية التحضير"
+
+msgid "Enrollment Start"
+msgstr "بداية التحضير"
+
+msgid "Enrollments"
+msgstr "التحضيرات"
+
+msgid "Enrollments Over Time"
+msgstr "التحضيرات عبر الزمن"
+
+msgid "Enrollments Vs Completed"
+msgstr "التحضيرات مقابل المكتملة"
+
+msgid "Enter Mobile Number"
+msgstr "أدخل رقم الجوال"
+
+msgid "Enter Your OpenAI API Key here"
+msgstr "أدخل مفتاح API لـ OpenAI هنا"
+
+msgid "Enter email"
+msgstr "أدخل البريد الإلكتروني"
+
+msgid "Expiry Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "Finalized at"
+msgstr "اكتمل في"
+
+msgid "Footer"
+msgstr "تذييل الصفحة"
+
+msgid "Footer Links"
+msgstr "روابط التذييل"
+
+msgid "From"
+msgstr "من"
+
+msgid "G-XXXXXXXXXX"
+msgstr "G-XXXXXXXXXX"
+
+msgid "GTM-XXXXXXX"
+msgstr "GTM-XXXXXXX"
+
+msgid "Generate Report"
+msgstr "إنشاء تقرير"
+
+msgid "Get an OpenAI API key"
+msgstr "احصل على مفتاح API لـ OpenAI"
+
+msgid "Google Analytics (GA4) ID"
+msgstr "معرف Google Analytics (GA4)"
+
+msgid "Google Analytics Configuration"
+msgstr "إعداد Google Analytics"
+
+msgid "Google Tag Manger (GTM) ID"
+msgstr "معرف Google Tag Manager"
+
+msgid "Grade"
+msgstr "الصف الدراسي"
+
+msgid "Grant Access"
+msgstr "منح الصلاحية"
+
+msgid "Hierarchy"
+msgstr "التسلسل الهرمي"
+
+msgid "Hierarchy Key"
+msgstr "مفتاح التسلسل الهرمي"
+
+msgid "Hierarchy Name"
+msgstr "اسم التسلسل الهرمي"
+
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+msgid "Home Page Configuration"
+msgstr "إعداد الصفحة الرئيسية"
+
+msgid "INSTITUTION"
+msgstr "المؤسسة التعليمية"
+
+msgid "INSTRUCTOR"
+msgstr "المدرّس"
+
+msgid "Image"
+msgstr "الصورة"
+
+msgid "Inactive"
+msgstr "غير نشط"
+
+msgid "Industry"
+msgstr "القطاع"
+
+msgid "Institution"
+msgstr "المؤسسة"
+
+msgid "Institution Dashboard"
+msgstr "لوحة المؤسسة"
+
+msgid "Institution Details"
+msgstr "تفاصيل المؤسسة"
+
+msgid "Institution ID"
+msgstr "معرف المؤسسة"
+
+msgid "Institution Management"
+msgstr "إدارة المؤسسات"
+
+msgid "Institution Name"
+msgstr "اسم المؤسسة"
+
+msgid "Institution Type"
+msgstr "نوع المؤسسة"
+
+msgid "Institutions"
+msgstr "المؤسسات"
+
+msgid "Integration"
+msgstr "التكامل"
+
+msgid "Invitation Status"
+msgstr "حالة الدعوة"
+
+msgid "Invitations"
+msgstr "الدعوات"
+
+msgid "Invoice Details"
+msgstr "تفاصيل الفاتورة"
+
+msgid "Invoice ID"
+msgstr "معرف الفاتورة"
+
+msgid "Invoices"
+msgstr "الفواتير"
+
+msgid "Is Active"
+msgstr "نشط"
+
+msgid "Is Published"
+msgstr "منشور"
+
+msgid "Joined Date"
+msgstr "تاريخ الانضمام"
+
+msgid "LMS Domain"
+msgstr "نطاق نظام إدارة التعلم"
+
+msgid "Last 24 Hours Enrollments"
+msgstr "التحضيرات في آخر 24 ساعة"
+
+msgid "Last Week Enrollments"
+msgstr "تحضيرات الأسبوع الماضي"
+
+msgid "Learn how to find your keys"
+msgstr "تعرّف على كيفية إيجاد مفاتيحك"
+
+msgid "Levels"
+msgstr "المستويات"
+
+msgid "Link Text"
+msgstr "نص الرابط"
+
+msgid "Link URL"
+msgstr "عنوان URL للرابط"
+
+msgid "Loading..."
+msgstr "جارٍ التحميل..."
+
+msgid "Manage Blogs"
+msgstr "إدارة المدونات"
+
+msgid "Manage Categories"
+msgstr "إدارة الفئات"
+
+msgid "Manage Coupons"
+msgstr "إدارة القسائم"
+
+msgid "Manage Courses"
+msgstr "إدارة المساقات"
+
+msgid "Manage Hierarchy"
+msgstr "إدارة التسلسل الهرمي"
+
+msgid "Manage Institutions"
+msgstr "إدارة المؤسسات"
+
+msgid "Manage Roles"
+msgstr "إدارة الأدوار"
+
+msgid "Manage Users"
+msgstr "إدارة المستخدمين"
+
+msgid "Messages"
+msgstr "الرسائل"
+
+msgid "Metric Label"
+msgstr "تسمية المقياس"
+
+msgid "Metric Type"
+msgstr "نوع المقياس"
+
+msgid "Metric Value"
+msgstr "قيمة المقياس"
+
+msgid "Metrics Library"
+msgstr "مكتبة المقاييس"
+
+msgid "My Invoices"
+msgstr "فواتيري"
+
+msgid "NAVIGATION"
+msgstr "التنقل"
+
+msgid "Negative Datapoints"
+msgstr "نقاط البيانات السلبية"
+
+msgid "New Users"
+msgstr "المستخدمون الجدد"
+
+msgid "New Users Over Time"
+msgstr "المستخدمون الجدد بمرور الوقت"
+
+msgid "No data available"
+msgstr "لا توجد بيانات"
+
+msgid "No records found"
+msgstr "لا توجد سجلات"
+
+msgid "No. of Certificate"
+msgstr "عدد الشهادات"
+
+msgid "No. of Enrollments"
+msgstr "عدد التحضيرات"
+
+msgid "ORGANIZATION"
+msgstr "المؤسسة"
+
+msgid "OpenAI API Key"
+msgstr "مفتاح API لـ OpenAI"
+
+msgid "OpenAI Configuration"
+msgstr "إعداد OpenAI"
+
+msgid "Org"
+msgstr "المنظمة"
+
+msgid "Organization Unit"
+msgstr "وحدة المنظمة"
+
+msgid "PARENT"
+msgstr "ولي الأمر"
+
+msgid "Pacing"
+msgstr "الوتيرة"
+
+msgid "Parent Email"
+msgstr "بريد ولي الأمر الإلكتروني"
+
+msgid "Parent Unit"
+msgstr "الوحدة الأب"
+
+msgid "Parents"
+msgstr "أولياء الأمور"
+
+msgid "Paste Your Chat Widget Code Snippet Here"
+msgstr "الصق كود مقتطف أداة الدردشة هنا"
+
+msgid "Pay Now"
+msgstr "ادفع الآن"
+
+msgid "Payment Gateway"
+msgstr "بوابة الدفع"
+
+msgid "Primary Color"
+msgstr "اللون الأساسي"
+
+msgid "Print"
+msgstr "طباعة"
+
+msgid "Provider"
+msgstr "المزوّد"
+
+msgid "Published"
+msgstr "منشور"
+
+msgid "Quantity"
+msgstr "الكمية"
+
+msgid "Registration Analytics"
+msgstr "تحليلات التسجيلات"
+
+msgid "Registrations"
+msgstr "التسجيلات"
+
+msgid "Reject"
+msgstr "رفض"
+
+msgid "Rejected"
+msgstr "مرفوض"
+
+msgid "Report"
+msgstr "تقرير"
+
+msgid "Resend"
+msgstr "إعادة الإرسال"
+
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+msgid "Revenue"
+msgstr "الإيرادات"
+
+msgid "Revenue Analytics"
+msgstr "تحليلات الإيرادات"
+
+msgid "Reviews"
+msgstr "التقييمات"
+
+msgid "Revoke Access"
+msgstr "سحب الصلاحية"
+
+msgid "Revoked"
+msgstr "ملغى"
+
+msgid "Role"
+msgstr "الدور"
+
+msgid "Role Details"
+msgstr "تفاصيل الدور"
+
+msgid "Role Name"
+msgstr "اسم الدور"
+
+msgid "Role Tag"
+msgstr "علامة الدور"
+
+msgid "Roles"
+msgstr "الأدوار"
+
+msgid "SMTP Host"
+msgstr "خادم SMTP"
+
+msgid "SMTP Password"
+msgstr "كلمة مرور SMTP"
+
+msgid "SMTP Port"
+msgstr "منفذ SMTP"
+
+msgid "SMTP Username"
+msgstr "اسم مستخدم SMTP"
+
+msgid "SSO (Single Sign On)"
+msgstr "الدخول الموحد (SSO)"
+
+msgid "SSO Configuration"
+msgstr "إعداد الدخول الموحد"
+
+msgid "School"
+msgstr "المدرسة"
+
+msgid "Search User"
+msgstr "بحث عن مستخدم"
+
+msgid "Secondary Color"
+msgstr "اللون الثانوي"
+
+msgid "Select"
+msgstr "اختر"
+
+msgid "Send Activation Email"
+msgstr "إرسال بريد التفعيل"
+
+msgid "Service Name"
+msgstr "اسم الخدمة"
+
+msgid "Shopping Cart"
+msgstr "سلة التسوق"
+
+msgid "Short Description"
+msgstr "وصف مختصر"
+
+msgid "Show on Homepage"
+msgstr "عرض في الصفحة الرئيسية"
+
+msgid "Showing"
+msgstr "عرض"
+
+msgid "Since last week"
+msgstr "منذ الأسبوع الماضي"
+
+msgid "Site Name"
+msgstr "اسم الموقع"
+
+msgid "Sr. No"
+msgstr "الرقم التسلسلي"
+
+msgid "Student Email"
+msgstr "بريد الطالب الإلكتروني"
+
+msgid "Student Performance"
+msgstr "أداء الطالب"
+
+msgid "Subclass"
+msgstr "الفئة الفرعية"
+
+msgid "Subscription"
+msgstr "الاشتراك"
+
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+msgid "Tags"
+msgstr "الوسوم"
+
+msgid "Tax Rate"
+msgstr "معدل الضريبة"
+
+msgid "Thank you for exploring our services! It looks like your current plan limits access to this feature."
+msgstr "شكراً لاستكشاف خدماتنا! يبدو أن خطتك الحالية تقيّد الوصول إلى هذه الميزة."
+
+msgid "Theme Colors"
+msgstr "ألوان السمة"
+
+msgid "To"
+msgstr "إلى"
+
+msgid "To stay involved in your child's learning journey, you can connect to your child's account."
+msgstr "لتظل على اطلاع برحلة تعلم طفلك، يمكنك الاتصال بحساب طفلك."
+
+msgid "Top Enrolled Courses"
+msgstr "أكثر المساقات تحضيراً"
+
+msgid "Total Active Users"
+msgstr "إجمالي المستخدمين النشطين"
+
+msgid "Total Courses"
+msgstr "إجمالي المساقات"
+
+msgid "Total Enrollments"
+msgstr "إجمالي التحضيرات"
+
+msgid "Total Inactive Users"
+msgstr "إجمالي المستخدمين غير النشطين"
+
+msgid "Total Instructors"
+msgstr "إجمالي المدرّسين"
+
+msgid "Total Reviews"
+msgstr "إجمالي التقييمات"
+
+msgid "Total Users"
+msgstr "إجمالي المستخدمين"
+
+msgid "Traffic"
+msgstr "الزيارات"
+
+msgid "Traffic Analytics"
+msgstr "تحليلات الزيارات"
+
+msgid "Unblock"
+msgstr "إلغاء الحظر"
+
+msgid "Unenroll User"
+msgstr "إلغاء تحضير مستخدم"
+
+msgid "Unlock Full Access"
+msgstr "فتح الوصول الكامل"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Upgrading your plan unlocks a suite of powerful tools designed to enhance your experience and success. From advanced customization options to premium support, everything you need for a seamless workflow is just a step away."
+msgstr "ترقية خطتك تفتح مجموعة من الأدوات القوية المصممة لتحسين تجربتك ونجاحك. من خيارات التخصيص المتقدمة إلى الدعم المميز، كل ما تحتاجه لسير عمل سلس على بعد خطوة."
+
+msgid "Upload"
+msgstr "رفع"
+
+msgid "Use SSL"
+msgstr "استخدام SSL"
+
+msgid "Use TLS"
+msgstr "استخدام TLS"
+
+msgid "User Details"
+msgstr "تفاصيل المستخدم"
+
+msgid "User Management"
+msgstr "إدارة المستخدمين"
+
+msgid "User Performance"
+msgstr "أداء المستخدم"
+
+msgid "Users"
+msgstr "المستخدمون"
+
+msgid "View Invoice"
+msgstr "عرض الفاتورة"
+
+msgid "Visibility"
+msgstr "الظهور"
+
+msgid "Visitors Over Time"
+msgstr "الزوار بمرور الوقت"
+
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+msgid "Weekly Visitors"
+msgstr "الزوار الأسبوعيون"
+
+msgid "Welcome to Parent Dashboard"
+msgstr "مرحباً بك في لوحة ولي الأمر"
+
+msgid "Welcome to Your Control Hub"
+msgstr "مرحباً بك في مركز التحكم"
+
+msgid "Widget Library"
+msgstr "مكتبة الأدوات"
+
+msgid "Widget Manager"
+msgstr "مدير الأدوات"
+
+msgid "Youth Safeguard"
+msgstr "حماية الشباب"
+
+msgid "entries"
+msgstr "إدخالات"
+
+msgid "(File type: ICO/PNG/JPG/JPEG; File-size < 250KB: Hight to Width ratio: 1 to 1 - think of a small square)"
+msgstr "(نوع الملف: ICO/PNG/JPG/JPEG؛ الحجم < 250KB؛ نسبة الارتفاع إلى العرض: 1:1 - فكّر في مربع صغير)"
+
+msgid "(File type: JPG/PNG/JPEG; File-size < 500KB; Logo Height to Width ratio: 1:3 - think of a wide rectangle)"
+msgstr "(نوع الملف: JPG/PNG/JPEG؛ الحجم < 500KB؛ نسبة ارتفاع إلى عرض الشعار: 1:3 - فكّر في مستطيل عريض)"
+
+msgid "1. What Data We Get"
+msgstr "1. البيانات التي نجمعها"
+
+msgid "1.0 Accounts"
+msgstr "1.0 الحسابات"
+
+msgid "1.1 Data You Provide to Us"
+msgstr "1.1 البيانات التي تقدمها لنا"
+
+msgid "1.2 Data We Collect through Automated Means"
+msgstr "1.2 البيانات التي نجمعها بالوسائل الآلية"
+
+msgid "1.3 Data From Third Parties"
+msgstr "1.3 البيانات من أطراف ثالثة"
+
+msgid "10. Dispute Resolution"
+msgstr "10. حل النزاعات"
+
+msgid "11. Updating These Terms"
+msgstr "11. تحديث هذه الشروط"
+
+msgid "12. How to Contact Us"
+msgstr "12. كيفية الاتصال بنا"
+
+msgid "2. Content Enrollment and Lifetime Access"
+msgstr "2. التحضير في المحتوى والوصول مدى الحياة"
+
+msgid "2. How We Get Data About You"
+msgstr "2. كيف نحصل على بياناتك"
+
+msgid "2.1 Cookies and Data Collection Tools"
+msgstr "2.1 ملفات الارتباط وأدوات جمع البيانات"
+
+msgid "2.2 Why We Use Data Collection Tools"
+msgstr "2.2 لماذا نستخدم أدوات جمع البيانات"
+
+msgid "3. Payments, Credits, and Refunds"
+msgstr "3. المدفوعات والاعتمادات والمبالغ المستردة"
+
+msgid "3. What We Use Your Data For"
+msgstr "3. ما نستخدم بياناتك من أجله"
+
+msgid "3.1 Pricing"
+msgstr "3.1 التسعير"
+
+msgid "3.2 Payments"
+msgstr "3.2 المدفوعات"
+
+msgid "3.3 Refunds and Refund Credits"
+msgstr "3.3 المبالغ المستردة واعتمادات الاسترداد"
+
+msgid "3.4 Gift and Promotional Codes"
+msgstr "3.4 الرموز الترويجية وبطاقات الهدايا"
+
+msgid "4. Content and Behavior Rules"
+msgstr "4. قواعد المحتوى والسلوك"
+
+msgid "4. Who We Share Your Data With"
+msgstr "4. مع من نشارك بياناتك"
+
+msgid "5. Security"
+msgstr "5. الأمان"
+
+msgid "5. Titan Education and Learning System Rights to Content You Post"
+msgstr "5. حقوق نظام TELS في المحتوى الذي تنشره"
+
+msgid "6. Using Titan Education and Learning System at Your Own Risk"
+msgstr "6. استخدام نظام TELS على مسؤوليتك الخاصة"
+
+msgid "6. Your Rights"
+msgstr "6. حقوقك"
+
+msgid "6.1 Your Choices About the Use of Your Data"
+msgstr "6.1 خياراتك بشأن استخدام بياناتك"
+
+msgid "6.2 Accessing, Updating, and Deleting Your Personal Data"
+msgstr "6.2 الوصول إلى بياناتك الشخصية وتحديثها وحذفها"
+
+msgid "6.3 Our Policy Concerning Children"
+msgstr "6.3 سياستنا بشأن الأطفال"
+
+msgid "7. Titan Education and Learning System Rights"
+msgstr "7. حقوق نظام TELS"
+
+msgid "7. Updates & Contact Info"
+msgstr "7. التحديثات ومعلومات الاتصال"
+
+msgid "7.1 Modifications to This Privacy Policy"
+msgstr "7.1 تعديلات على سياسة الخصوصية"
+
+msgid "7.2 Interpretation"
+msgstr "7.2 التفسير"
+
+msgid "7.3 Questions"
+msgstr "7.3 الأسئلة"
+
+msgid "8. Subscription Terms"
+msgstr "8. شروط الاشتراك"
+
+msgid "8.1 Subscription Plans"
+msgstr "8.1 خطط الاشتراك"
+
+msgid "8.2 Account Management"
+msgstr "8.2 إدارة الحساب"
+
+msgid "8.3 Free Trials & Renewals"
+msgstr "8.3 التجارب المجانية والتجديدات"
+
+msgid "8.4 Payments and Billing"
+msgstr "8.4 المدفوعات والفواتير"
+
+msgid "8.5 Subscription Disclaimers"
+msgstr "8.5 إخلاءات مسؤولية الاشتراك"
+
+msgid "9. Miscellaneous Legal Terms"
+msgstr "9. الشروط القانونية المتنوعة"
+
+msgid "9.1 Binding Agreement"
+msgstr "9.1 الاتفاقية الملزمة"
+
+msgid "9.2 Disclaimers"
+msgstr "9.2 إخلاءات المسؤولية"
+
+msgid "9.3 Indemnification"
+msgstr "9.3 التعويض"
+
+msgid "9.4 Governing Law and Jurisdiction"
+msgstr "9.4 القانون المحكوم به والاختصاص القضائي"
+
+msgid "9.6 Legal Actions and Notices"
+msgstr "9.6 الإجراءات القانونية والإشعارات"
+
+msgid "9.7 Relationship Between Us"
+msgstr "9.7 العلاقة بيننا"
+
+msgid "9.8 No Assignment"
+msgstr "9.8 عدم التنازل"
+
+msgid "9:30 AM to 11:30 AM"
+msgstr "9:30 صباحاً إلى 11:30 صباحاً"
+
+msgid "A hierarchy is organized into a pyramid-like structure, with executives, directors, managers, and employees in order from the highest level to the lowest in the chain."
+msgstr "يتنظم التسلسل الهرمي في بنية هرمية، مع المديرين التنفيذيين والمدراء والمشرفين والموظفين من المستوى الأعلى إلى الأدنى."
+
+msgid "About Us Content"
+msgstr "محتوى صفحة من نحن"
+
+msgid "About Us Page"
+msgstr "صفحة من نحن"
+
+msgid "Account Data"
+msgstr "بيانات الحساب"
+
+msgid "Activate Google Analytics and Tag Manager to gain deep insights into user behavior and optimize your LMS for better engagement and learning outcomes."
+msgstr "قم بتفعيل Google Analytics وTag Manager للحصول على رؤى عميقة حول سلوك المستخدم وتحسين نظام إدارة التعلم."
+
+msgid "Active state for secondary elements."
+msgstr "الحالة النشطة للعناصر الثانوية."
+
+msgid "Active this month:"
+msgstr "نشط هذا الشهر:"
+
+msgid "Active:"
+msgstr "نشط:"
+
+msgid "Add Course"
+msgstr "إضافة مساق"
+
+msgid "Add Instructor Info"
+msgstr "إضافة معلومات المدرّس"
+
+msgid "Add Users"
+msgstr "إضافة مستخدمين"
+
+msgid "Add/Edit Widget"
+msgstr "إضافة/تعديل أداة"
+
+msgid "Additional information"
+msgstr "معلومات إضافية"
+
+msgid "Address:"
+msgstr "العنوان:"
+
+msgid "Advanced settings(JSON):"
+msgstr "الإعدادات المتقدمة (JSON):"
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 1.5MB, 1920w*820h."
+msgstr "الصيغ المقبولة: PNG، JPEG، JPG. حتى 1.5MB، 1920×820."
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 100KB, 1:3 height:width ratio."
+msgstr "الصيغ المقبولة: PNG، JPEG، JPG. حتى 100KB، نسبة الارتفاع:العرض 1:3."
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 500KB, 1920w*820h."
+msgstr "الصيغ المقبولة: PNG، JPEG، JPG. حتى 500KB، 1920×820."
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 500KB, 800w*400h."
+msgstr "الصيغ المقبولة: PNG، JPEG، JPG. حتى 500KB، 800×400."
+
+msgid "Already Enrolled/Unenrolled"
+msgstr "مُحضَّر/ملغى التحضير بالفعل"
+
+msgid "Alternative secondary shade."
+msgstr "ظل ثانوي بديل."
+
+msgid "Alternative shade for variety."
+msgstr "ظل بديل للتنوع."
+
+msgid "Amount Due 2/22/2014"
+msgstr "المبلغ المستحق 22/2/2014"
+
+msgid "Approved Profiles"
+msgstr "الملفات الشخصية الموافق عليها"
+
+msgid "Approximate Geographic Data"
+msgstr "البيانات الجغرافية التقريبية"
+
+msgid "Are you sure you want to activate this user? This action will activate their account, send a confirmation email, and provide an auto-generated password."
+msgstr "هل أنت متأكد من تفعيل هذا المستخدم؟ سيتم تفعيل حسابه وإرسال بريد تأكيد وكلمة مرور تلقائية."
+
+msgid "Are you sure you want to delete Blog?"
+msgstr "هل أنت متأكد من حذف المدوّنة؟"
+
+msgid "Are you sure you want to delete Category?"
+msgstr "هل أنت متأكد من حذف الفئة؟"
+
+msgid "Are you sure you want to delete Class?"
+msgstr "هل أنت متأكد من حذف الصف؟"
+
+msgid "Are you sure you want to delete Course Authoring Organization?"
+msgstr "هل أنت متأكد من حذف منظمة تأليف المساق؟"
+
+msgid "Are you sure you want to delete Hierarchy?"
+msgstr "هل أنت متأكد من حذف التسلسل الهرمي؟"
+
+msgid "Are you sure you want to delete School?"
+msgstr "هل أنت متأكد من حذف المدرسة؟"
+
+msgid "Are you sure you want to delete SubClass?"
+msgstr "هل أنت متأكد من حذف الفئة الفرعية؟"
+
+msgid "Are you sure you want to delete coupon?"
+msgstr "هل أنت متأكد من حذف القسيمة؟"
+
+msgid "Are you sure you want to delete course?"
+msgstr "هل أنت متأكد من حذف المساق؟"
+
+msgid "Are you sure you want to delete metric?"
+msgstr "هل أنت متأكد من حذف المقياس؟"
+
+msgid "Are you sure you want to delete this distribution entry?"
+msgstr "هل أنت متأكد من حذف إدخال التوزيع هذا؟"
+
+msgid "Are you sure you want to delete this field set?"
+msgstr "هل أنت متأكد من حذف مجموعة الحقول هذه؟"
+
+msgid "Are you sure you want to delete this footer link?"
+msgstr "هل أنت متأكد من حذف رابط التذييل هذا؟"
+
+msgid "Are you sure you want to delete user?"
+msgstr "هل أنت متأكد من حذف المستخدم؟"
+
+msgid "Are you sure you want to delete widget?"
+msgstr "هل أنت متأكد من حذف الأداة؟"
+
+msgid "Are you sure you want to resend the account activation email to this user?"
+msgstr "هل تريد إعادة إرسال بريد تفعيل الحساب لهذا المستخدم؟"
+
+msgid "Are you sure you want to send account activation emails to all inactive users?"
+msgstr "هل تريد إرسال رسائل تفعيل الحساب لجميع المستخدمين غير النشطين؟"
+
+msgid "Assessment"
+msgstr "التقييم"
+
+msgid "Assign New Course"
+msgstr "تعيين مساق جديد"
+
+msgid "Auto (Based on most enrolled courses)"
+msgstr "تلقائي (بناءً على أكثر المساقات تحضيراً)"
+
+msgid "Automatically activate accounts"
+msgstr "تفعيل الحسابات تلقائياً"
+
+msgid "Automatically enroll new users"
+msgstr "تحضير المستخدمين الجدد تلقائياً"
+
+msgid "Autoplay"
+msgstr "التشغيل التلقائي"
+
+msgid "Average Completion rate"
+msgstr "معدل الإتمام المتوسط"
+
+msgid "Average Passing Rate"
+msgstr "معدل الاجتياز المتوسط"
+
+msgid "Banner Section"
+msgstr "قسم البانر"
+
+msgid "Banner Text"
+msgstr "نص البانر"
+
+msgid "Billed Yearly"
+msgstr "يُفوتر سنوياً"
+
+msgid "Billing Cycle"
+msgstr "دورة الفوترة"
+
+msgid "Billing Information"
+msgstr "معلومات الفواتير"
+
+msgid "Blocked Profiles"
+msgstr "الملفات الشخصية المحظورة"
+
+msgid "Blocked:"
+msgstr "محظور:"
+
+msgid "Blog Banner Image"
+msgstr "صورة بانر المدوّنة"
+
+msgid "Blog Card Image"
+msgstr "صورة بطاقة المدوّنة"
+
+msgid "Brand"
+msgstr "العلامة التجارية"
+
+msgid "Bulk Account Activation Email"
+msgstr "بريد التفعيل الجماعي للحسابات"
+
+msgid "CSV File Guidelines:"
+msgstr "إرشادات ملف CSV:"
+
+msgid "Cart Details"
+msgstr "تفاصيل السلة"
+
+msgid "Certificate Acquisition Time"
+msgstr "وقت الحصول على الشهادة"
+
+msgid "Certificate Awarded"
+msgstr "الشهادة الممنوحة"
+
+msgid "Certificate Awarded Reports"
+msgstr "تقارير الشهادات الممنوحة"
+
+msgid "Certificate Delivered"
+msgstr "الشهادة المسلّمة"
+
+msgid "Chat Service Provider Name (e.g., Zendesk,  Freshdesk, LiveChat)"
+msgstr "اسم مزوّد خدمة الدردشة (مثال: Zendesk، Freshdesk، LiveChat)"
+
+msgid "Child Email"
+msgstr "بريد الطفل الإلكتروني"
+
+msgid "Child Name"
+msgstr "اسم الطفل"
+
+msgid "Children"
+msgstr "الأطفال"
+
+msgid "Choose file"
+msgstr "اختر ملفاً"
+
+msgid "City:"
+msgstr "المدينة:"
+
+msgid "Class ID"
+msgstr "معرف الصف"
+
+msgid "Class Name"
+msgstr "اسم الصف"
+
+msgid "Color Scheme"
+msgstr "نظام الألوان"
+
+msgid "Color for active/pressed states."
+msgstr "اللون للحالات النشطة/المضغوطة."
+
+msgid "Color for light states."
+msgstr "اللون للحالات الفاتحة."
+
+msgid "Color on hover states."
+msgstr "اللون عند التمرير."
+
+msgid "Comments"
+msgstr "التعليقات"
+
+msgid "Communications and Support"
+msgstr "الاتصالات والدعم"
+
+msgid "Complete billing address, including street address, city, state/province, and zip/postal code."
+msgstr "عنوان الفوترة الكامل، بما في ذلك الشارع والمدينة والولاية/المقاطعة والرمز البريدي."
+
+msgid "Confirm Activation"
+msgstr "تأكيد التفعيل"
+
+msgid "Confirm Course Unmapping"
+msgstr "تأكيد إلغاء تعيين المساق"
+
+msgid "Confirm Delete"
+msgstr "تأكيد الحذف"
+
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Confirm Unmapping"
+msgstr "تأكيد إلغاء التعيين"
+
+msgid "Connect with your learners on social media platforms -"
+msgstr "تواصل مع المتعلمين على منصات التواصل الاجتماعي -"
+
+msgid "Contact Email"
+msgstr "بريد الاتصال الإلكتروني"
+
+msgid "Contact Us Content"
+msgstr "محتوى صفحة اتصل بنا"
+
+msgid "Contact Us Page"
+msgstr "صفحة اتصل بنا"
+
+msgid "Copyright Text"
+msgstr "نص حقوق النشر"
+
+msgid "Country:"
+msgstr "البلد:"
+
+msgid "Coupon Description"
+msgstr "وصف القسيمة"
+
+msgid "Courpon Code"
+msgstr "رمز القسيمة"
+
+msgid "Course Authoring Organization Name"
+msgstr "اسم منظمة تأليف المساق"
+
+msgid "Course Creators/Tutors"
+msgstr "منشئو/مدرّسو المساقات"
+
+msgid "Course Distribution Progress"
+msgstr "تقدم توزيع المساق"
+
+msgid "Course Enrollments"
+msgstr "تحضيرات المساق"
+
+msgid "Course Enrollments Vs Completed"
+msgstr "تحضيرات المساق مقابل المكتملة"
+
+msgid "Course Reviews"
+msgstr "تقييمات المساق"
+
+msgid "Course Selection"
+msgstr "اختيار المساق"
+
+msgid "Course wise Certificate Awarded"
+msgstr "الشهادات الممنوحة حسب المساق"
+
+msgid "Course wise Enrollments"
+msgstr "التحضيرات حسب المساق"
+
+msgid "Coursewise Grade"
+msgstr "الدرجات حسب المساق"
+
+msgid "Create Class"
+msgstr "إنشاء صف"
+
+msgid "Create Coupon"
+msgstr "إنشاء قسيمة"
+
+msgid "Create Course Authoring Organization"
+msgstr "إنشاء منظمة تأليف مساق"
+
+msgid "Create Hierarchy"
+msgstr "إنشاء تسلسل هرمي"
+
+msgid "Create Institution"
+msgstr "إنشاء مؤسسة"
+
+msgid "Create Link"
+msgstr "إنشاء رابط"
+
+msgid "Create New Class"
+msgstr "إنشاء صف جديد"
+
+msgid "Create New Course Authoring Organization"
+msgstr "إنشاء منظمة تأليف مساق جديدة"
+
+msgid "Create New Footer Link"
+msgstr "إنشاء رابط تذييل جديد"
+
+msgid "Create New Link"
+msgstr "إنشاء رابط جديد"
+
+msgid "Create New Organization"
+msgstr "إنشاء منظمة جديدة"
+
+msgid "Create New Provider Configuration (SAML IdP)"
+msgstr "إنشاء إعداد مزوّد جديد (SAML IdP)"
+
+msgid "Create New School"
+msgstr "إنشاء مدرسة جديدة"
+
+msgid "Create New SubClass"
+msgstr "إنشاء فئة فرعية جديدة"
+
+msgid "Create School"
+msgstr "إنشاء مدرسة"
+
+msgid "Create SubClass"
+msgstr "إنشاء فئة فرعية"
+
+msgid "Create User"
+msgstr "إنشاء مستخدم"
+
+msgid "Create a New Hierarchy"
+msgstr "إنشاء تسلسل هرمي جديد"
+
+msgid "Create your top level hierarchy"
+msgstr "إنشاء التسلسل الهرمي الأعلى مستوى"
+
+msgid "Created at"
+msgstr "أنشئ في"
+
+msgid "Customize the primary and secondary colors for your platform's theme. These will apply to buttons, links, and accents."
+msgstr "خصّص الألوان الأساسية والثانوية لسمة منصتك. ستُطبَّق على الأزرار والروابط والتشديد."
+
+msgid "Data About Your Accounts on Other Services"
+msgstr "البيانات المتعلقة بحساباتك على خدمات أخرى"
+
+msgid "Define organizations that can be designated as sponsors during the course creation workflow."
+msgstr "حدّد المنظمات التي يمكن تعيينها كرعاة أثناء سير عمل إنشاء المساق."
+
+msgid "Delete Class"
+msgstr "حذف الصف"
+
+msgid "Delete Coupon"
+msgstr "حذف القسيمة"
+
+msgid "Delete Course"
+msgstr "حذف المساق"
+
+msgid "Delete Course Authoring Organization"
+msgstr "حذف منظمة تأليف المساق"
+
+msgid "Delete Distribution Progress"
+msgstr "حذف تقدم التوزيع"
+
+msgid "Delete Hierarchy"
+msgstr "حذف التسلسل الهرمي"
+
+msgid "Delete Metric"
+msgstr "حذف المقياس"
+
+msgid "Delete School"
+msgstr "حذف المدرسة"
+
+msgid "Delete SubClass"
+msgstr "حذف الفئة الفرعية"
+
+msgid "Delete User"
+msgstr "حذف المستخدم"
+
+msgid "Delete Widget"
+msgstr "حذف الأداة"
+
+msgid "Deleting this Blog is permanent and cannot be undone."
+msgstr "حذف هذه المدوّنة دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this Category is permanent and cannot be undone."
+msgstr "حذف هذه الفئة دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this Class is permanent and cannot be undone."
+msgstr "حذف هذا الصف دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this Coupon is permanent and cannot be undone."
+msgstr "حذف هذه القسيمة دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this Course Authoring Organization is permanent and cannot be undone."
+msgstr "حذف هذه المنظمة دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this Hierarchy is permanent and cannot be undone."
+msgstr "حذف هذا التسلسل الهرمي دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this School is permanent and cannot be undone."
+msgstr "حذف هذه المدرسة دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this SubClass is permanent and cannot be undone."
+msgstr "حذف هذه الفئة الفرعية دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this course is permanent and cannot be undone."
+msgstr "حذف هذا المساق دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this link is permanent and cannot be undone."
+msgstr "حذف هذا الرابط دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this metric is permanent and cannot be undone."
+msgstr "حذف هذا المقياس دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this user is permanent and cannot be undone."
+msgstr "حذف هذا المستخدم دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this widget is permanent and cannot be undone."
+msgstr "حذف هذه الأداة دائم ولا يمكن التراجع عنه."
+
+msgid "Descriptions"
+msgstr "الأوصاف"
+
+msgid "Designation"
+msgstr "المسمى الوظيفي"
+
+msgid "Discount(%)"
+msgstr "الخصم (%)"
+
+msgid "Discussion Post Created"
+msgstr "تم إنشاء منشور النقاش"
+
+msgid "Display your company logo in the footer to reinforce your brand."
+msgstr "اعرض شعار شركتك في التذييل لتعزيز هويتك التجارية."
+
+msgid "Distribute Course"
+msgstr "توزيع المساق"
+
+msgid "Distribution Progress"
+msgstr "تقدم التوزيع"
+
+msgid "Documents Downloaded"
+msgstr "المستندات المنزّلة"
+
+msgid "Ecommerce Configuration"
+msgstr "إعداد التجارة الإلكترونية"
+
+msgid "Edit Coupon"
+msgstr "تعديل القسيمة"
+
+msgid "Edit Course Authoring Organization"
+msgstr "تعديل منظمة تأليف المساق"
+
+msgid "Edit Education Class"
+msgstr "تعديل صف التعليم"
+
+msgid "Edit Essential LMS Details"
+msgstr "تعديل التفاصيل الأساسية لنظام إدارة التعلم"
+
+msgid "Edit Hierarchy"
+msgstr "تعديل التسلسل الهرمي"
+
+msgid "Edit Role"
+msgstr "تعديل الدور"
+
+msgid "Edit School"
+msgstr "تعديل المدرسة"
+
+msgid "Education Class ID"
+msgstr "معرف صف التعليم"
+
+msgid "Education Classes"
+msgstr "صفوف التعليم"
+
+msgid "Education SubClasses"
+msgstr "فئات التعليم الفرعية"
+
+msgid "Educational Content Data"
+msgstr "بيانات المحتوى التعليمي"
+
+msgid "Email Addresses/Usernames (e.g., user@example.com, username)"
+msgstr "عناوين البريد الإلكتروني/أسماء المستخدمين"
+
+msgid "Email Attribute:"
+msgstr "سمة البريد الإلكتروني:"
+
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "Email address where the client wants to receive invoices and billing-related communications."
+msgstr "عنوان البريد الإلكتروني لاستقبال الفواتير والاتصالات المتعلقة بها."
+
+msgid "Email verified:"
+msgstr "البريد الإلكتروني مُتحقَّق منه:"
+
+msgid "Email*"
+msgstr "البريد الإلكتروني*"
+
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+msgid "Enable"
+msgstr "تفعيل"
+
+msgid "Enable Paid Course"
+msgstr "تفعيل المساق المدفوع"
+
+msgid "Enable/Configuration SSO (Single Sign On)"
+msgstr "تفعيل/إعداد الدخول الموحد"
+
+msgid "Enable/Disable"
+msgstr "تفعيل/تعطيل"
+
+msgid "Enable:"
+msgstr "تفعيل:"
+
+msgid "Engagement Metrics"
+msgstr "مقاييس التفاعل"
+
+msgid "Enrolled/Unenrolled"
+msgstr "مُحضَّر/ملغى التحضير"
+
+msgid "Enrollments Reports"
+msgstr "تقارير التحضيرات"
+
+msgid "Enter ..."
+msgstr "أدخل ..."
+
+msgid "Enter Contact Number Here."
+msgstr "أدخل رقم الاتصال هنا."
+
+msgid "Enter Course Price"
+msgstr "أدخل سعر المساق"
+
+msgid "Enter Organization Name"
+msgstr "أدخل اسم المنظمة"
+
+msgid "Enter PayPal Merchant ID"
+msgstr "أدخل معرف تاجر PayPal"
+
+msgid "Enter PayPal Secret"
+msgstr "أدخل سر PayPal"
+
+msgid "Enter PayU Merchant ID"
+msgstr "أدخل معرف تاجر PayU"
+
+msgid "Enter Paytm Customer ID"
+msgstr "أدخل معرف عميل Paytm"
+
+msgid "Enter Paytm Merchant ID"
+msgstr "أدخل معرف تاجر Paytm"
+
+msgid "Enter Paytm Merchant Key"
+msgstr "أدخل مفتاح تاجر Paytm"
+
+msgid "Enter Razorpay Key"
+msgstr "أدخل مفتاح Razorpay"
+
+msgid "Enter Razorpay Merchant ID"
+msgstr "أدخل معرف تاجر Razorpay"
+
+msgid "Enter Razorpay Secret"
+msgstr "أدخل سر Razorpay"
+
+msgid "Enter Receipt Billing Address"
+msgstr "أدخل عنوان الفواتير"
+
+msgid "Enter SMTP Password"
+msgstr "أدخل كلمة مرور SMTP"
+
+msgid "Enter SMTP Port"
+msgstr "أدخل منفذ SMTP"
+
+msgid "Enter SMTP Username"
+msgstr "أدخل اسم مستخدم SMTP"
+
+msgid "Enter SMTP host"
+msgstr "أدخل خادم SMTP"
+
+msgid "Enter TAX ID"
+msgstr "أدخل رقم التعريف الضريبي"
+
+msgid "Enter TAX ID Label"
+msgstr "أدخل تسمية رقم التعريف الضريبي"
+
+msgid "Enter URL to your Twitter handle."
+msgstr "أدخل عنوان URL لحساب Twitter."
+
+msgid "Enter URL to your Youtube channel."
+msgstr "أدخل عنوان URL لقناة YouTube."
+
+msgid "Enter URL to your instagram page."
+msgstr "أدخل عنوان URL لصفحة Instagram."
+
+msgid "Enter blog title"
+msgstr "أدخل عنوان المدوّنة"
+
+msgid "Enter designation"
+msgstr "أدخل المسمى الوظيفي"
+
+msgid "Enter email addresses and/or usernames, separated by commas or new lines. Ensure all entries are accurate as you will not receive notifications for failed email deliveries."
+msgstr "أدخل عناوين البريد الإلكتروني و/أو أسماء المستخدمين مفصولة بفواصل أو أسطر جديدة."
+
+msgid "Enter label (letters and numbers only)"
+msgstr "أدخل التسمية (حروف وأرقام فقط)"
+
+msgid "Enter name"
+msgstr "أدخل الاسم"
+
+msgid "Enter overview content"
+msgstr "أدخل محتوى النظرة العامة"
+
+msgid "Enter short text"
+msgstr "أدخل نصاً قصيراً"
+
+msgid "Enter title for Top Courses"
+msgstr "أدخل عنوان أفضل المساقات"
+
+msgid "Enter title for popular courses"
+msgstr "أدخل عنوان المساقات الشائعة"
+
+msgid "Enter value manually"
+msgstr "أدخل القيمة يدوياً"
+
+msgid "Enter video description"
+msgstr "أدخل وصف الفيديو"
+
+msgid "Enter widget order"
+msgstr "أدخل ترتيب الأداة"
+
+msgid "Enter your Facebook page URL"
+msgstr "أدخل عنوان URL لصفحة Facebook"
+
+msgid "Entity ID:"
+msgstr "معرف الكيان:"
+
+msgid "Expired At:"
+msgstr "انتهت صلاحيته في:"
+
+msgid "Facebook"
+msgstr "فيسبوك"
+
+msgid "Favicon"
+msgstr "أيقونة الموقع (Favicon)"
+
+msgid "Fields"
+msgstr "الحقول"
+
+msgid "Filter by Created Date"
+msgstr "تصفية حسب تاريخ الإنشاء"
+
+msgid "Filter by Instructor:"
+msgstr "تصفية حسب المدرّس:"
+
+msgid "Filter by Status"
+msgstr "تصفية حسب الحالة"
+
+msgid "First Name Attribute:"
+msgstr "سمة الاسم الأول:"
+
+msgid "First Name*"
+msgstr "الاسم الأول*"
+
+msgid "Footer Configuration"
+msgstr "إعداد التذييل"
+
+msgid "Footer Logo"
+msgstr "شعار التذييل"
+
+msgid "Friday, 01 December, 2021"
+msgstr "الجمعة، 01 ديسمبر 2021"
+
+msgid "Full Name Attribute:"
+msgstr "سمة الاسم الكامل:"
+
+msgid "Full name of the person or company responsible for paying for the LMS platform."
+msgstr "الاسم الكامل للشخص أو الشركة المسؤولة عن دفع تكاليف منصة التعلم."
+
+msgid "Google"
+msgstr "غوغل"
+
+msgid "Grade(%)"
+msgstr "الدرجة (%)"
+
+msgid "Hierarchy Position"
+msgstr "موضع التسلسل الهرمي"
+
+msgid "Hover state for secondary elements."
+msgstr "حالة التمرير للعناصر الثانوية."
+
+msgid "Icon"
+msgstr "الأيقونة"
+
+msgid "If checked:"
+msgstr "إذا كان مفعّلاً:"
+
+msgid "If unchecked:"
+msgstr "إذا لم يكن مفعّلاً:"
+
+msgid "Import Users Using CSV File"
+msgstr "استيراد المستخدمين باستخدام ملف CSV"
+
+msgid "Importance"
+msgstr "الأهمية"
+
+msgid "Important Notes:"
+msgstr "ملاحظات مهمة:"
+
+msgid "Initiator"
+msgstr "المبادر"
+
+msgid "Instagram Link"
+msgstr "رابط Instagram"
+
+msgid "Instructor Payment Data"
+msgstr "بيانات دفع المدرّس"
+
+msgid "Interest"
+msgstr "الاهتمام"
+
+msgid "Invoice Status:"
+msgstr "حالة الفاتورة:"
+
+msgid "Last 24h Active Users"
+msgstr "المستخدمون النشطون في آخر 24 ساعة"
+
+msgid "Last Month Active Students"
+msgstr "الطلاب النشطون الشهر الماضي"
+
+msgid "Last Month Active Users"
+msgstr "المستخدمون النشطون الشهر الماضي"
+
+msgid "Last Name Attribute:"
+msgstr "سمة اللقب:"
+
+msgid "Last Name*"
+msgstr "اللقب*"
+
+msgid "Last Week Active Users"
+msgstr "المستخدمون النشطون الأسبوع الماضي"
+
+msgid "Latest login:"
+msgstr "آخر تسجيل دخول:"
+
+msgid "Linkedin"
+msgstr "لينكدإن"
+
+msgid "Logo"
+msgstr "الشعار"
+
+msgid "Logo (optional)"
+msgstr "الشعار (اختياري)"
+
+msgid "Logo Configuration"
+msgstr "إعداد الشعار"
+
+msgid "Main brand color (e.g., buttons)."
+msgstr "لون العلامة التجارية الرئيسي (مثال: الأزرار)."
+
+msgid "Manage "
+msgstr "إدارة "
+
+msgid "Manage Course Authoring Organizations"
+msgstr "إدارة منظمات تأليف المساقات"
+
+msgid "Manage Course Creators"
+msgstr "إدارة منشئي المساقات"
+
+msgid "Manage Course Creators/Tutors"
+msgstr "إدارة منشئي/مدرّسي المساقات"
+
+msgid "Manage Course Enrollments"
+msgstr "إدارة تحضيرات المساق"
+
+msgid "Manage Education Classes"
+msgstr "إدارة صفوف التعليم"
+
+msgid "Manage Education SubClasses"
+msgstr "إدارة فئات التعليم الفرعية"
+
+msgid "Manage Schools"
+msgstr "إدارة المدارس"
+
+msgid "Manage Youth SafeGuard"
+msgstr "إدارة حماية الشباب"
+
+msgid "Manually"
+msgstr "يدوياً"
+
+msgid "May 10, 2023"
+msgstr "10 مايو 2023"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "Metadata source:"
+msgstr "مصدر البيانات الوصفية:"
+
+msgid "Metric"
+msgstr "المقياس"
+
+msgid "Metrics Data"
+msgstr "بيانات المقاييس"
+
+msgid "Metrics Form"
+msgstr "نموذج المقاييس"
+
+msgid "Microsoft"
+msgstr "مايكروسوفت"
+
+msgid "Mobile Number"
+msgstr "رقم الجوال"
+
+msgid "Mobile Number*"
+msgstr "رقم الجوال*"
+
+msgid "Modified"
+msgstr "عُدِّل"
+
+msgid "Negative Datapoint"
+msgstr "نقطة بيانات سلبية"
+
+msgid "Negative Datapoints Dashboard"
+msgstr "لوحة نقاط البيانات السلبية"
+
+msgid "Negative Datapoints Reports"
+msgstr "تقارير نقاط البيانات السلبية"
+
+msgid "New Course ID"
+msgstr "معرف المساق الجديد"
+
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "No. of Certificate Awarded"
+msgstr "عدد الشهادات الممنوحة"
+
+msgid "No. of Users"
+msgstr "عدد المستخدمين"
+
+msgid "No. of users"
+msgstr "عدد المستخدمين"
+
+msgid "Notes:"
+msgstr "ملاحظات:"
+
+msgid "Notify User"
+msgstr "إشعار المستخدم"
+
+msgid "Order"
+msgstr "الترتيب"
+
+msgid "Organization Info(JSON):"
+msgstr "معلومات المنظمة (JSON):"
+
+msgid "Other config(JSON):"
+msgstr "إعدادات أخرى (JSON):"
+
+msgid "Our Testimonials"
+msgstr "شهاداتنا"
+
+msgid "Parent"
+msgstr "ولي الأمر"
+
+msgid "Parent Dashboard"
+msgstr "لوحة ولي الأمر"
+
+msgid "Parent Mobile"
+msgstr "جوال ولي الأمر"
+
+msgid "Parent Name"
+msgstr "اسم ولي الأمر"
+
+msgid "Parent Registration"
+msgstr "تسجيل ولي الأمر"
+
+msgid "Parent-Teacher Conference"
+msgstr "اجتماع أولياء الأمور والمعلمين"
+
+msgid "Passing Rate"
+msgstr "معدل الاجتياز"
+
+msgid "Password Column:"
+msgstr "عمود كلمة المرور:"
+
+msgid "PayPal Merchant ID:"
+msgstr "معرف تاجر PayPal:"
+
+msgid "PayPal Merchant Secret:"
+msgstr "سر تاجر PayPal:"
+
+msgid "PayU Merchant ID:"
+msgstr "معرف تاجر PayU:"
+
+msgid "PayU Merchant SALT"
+msgstr "SALT تاجر PayU"
+
+msgid "PayU Merchant SALT:"
+msgstr "SALT تاجر PayU:"
+
+msgid "Payment Methods:"
+msgstr "طرق الدفع:"
+
+msgid "Paytm Customer ID:"
+msgstr "معرف عميل Paytm:"
+
+msgid "Paytm Merchant ID:"
+msgstr "معرف تاجر Paytm:"
+
+msgid "Paytm Merchant Key:"
+msgstr "مفتاح تاجر Paytm:"
+
+msgid "Performance Details"
+msgstr "تفاصيل الأداء"
+
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+msgid "Phone Number:"
+msgstr "رقم الهاتف:"
+
+msgid "Phone number where the client can be reached if there are any issues or questions related to billing."
+msgstr "رقم الهاتف للتواصل مع العميل بشأن أي مسائل أو استفسارات تتعلق بالفوترة."
+
+msgid "Popular Courses"
+msgstr "المساقات الشائعة"
+
+msgid "Position"
+msgstr "الموضع"
+
+msgid "Post Liked"
+msgstr "تم إعجاب المنشور"
+
+msgid "Post Raised"
+msgstr "تم رفع منشور"
+
+msgid "Preview updates in real time as you select colors."
+msgstr "معاينة التحديثات في الوقت الفعلي عند اختيار الألوان."
+
+msgid "Primary"
+msgstr "أساسي"
+
+msgid "Primary Active"
+msgstr "أساسي نشط"
+
+msgid "Primary Alt"
+msgstr "أساسي بديل"
+
+msgid "Primary Button"
+msgstr "زر أساسي"
+
+msgid "Primary Colors"
+msgstr "الألوان الأساسية"
+
+msgid "Primary Hover"
+msgstr "أساسي عند التمرير"
+
+msgid "Primary Light"
+msgstr "أساسي فاتح"
+
+msgid "Privacy and Policy"
+msgstr "الخصوصية والسياسة"
+
+msgid "Privacy and Policy Content"
+msgstr "محتوى الخصوصية والسياسة"
+
+msgid "Privacy and Policy Page"
+msgstr "صفحة الخصوصية والسياسة"
+
+msgid "Processing and Notifications:"
+msgstr "المعالجة والإشعارات:"
+
+msgid "Profile Data"
+msgstr "بيانات الملف الشخصي"
+
+msgid "Profile Guard fileds configuration:"
+msgstr "إعداد حقول حارس الملف الشخصي:"
+
+msgid "Profile Picture"
+msgstr "صورة الملف الشخصي"
+
+msgid "Profile Status"
+msgstr "حالة الملف الشخصي"
+
+msgid "Provide your company's physical address for transparency and trust."
+msgstr "أدخل العنوان الفيزيائي لشركتك للشفافية والثقة."
+
+msgid "Provider Name"
+msgstr "اسم المزوّد"
+
+msgid "Public key:"
+msgstr "المفتاح العام:"
+
+msgid "Publish"
+msgstr "نشر"
+
+msgid "Published On"
+msgstr "نُشر في"
+
+msgid "Qty"
+msgstr "الكمية"
+
+msgid "Quiz Submitted"
+msgstr "تم تقديم الاختبار"
+
+msgid "Quiz/Assignment Submitted"
+msgstr "تم تقديم الاختبار/الواجب"
+
+msgid "Quote"
+msgstr "الاقتباس"
+
+msgid "Rating"
+msgstr "التقييم"
+
+msgid "Razorpay Key:"
+msgstr "مفتاح Razorpay:"
+
+msgid "Razorpay Merchant ID:"
+msgstr "معرف تاجر Razorpay:"
+
+msgid "Razorpay Secret:"
+msgstr "سر Razorpay:"
+
+msgid "Reading Materials Watched"
+msgstr "المواد التعليمية المُشاهدة"
+
+msgid "Reason:"
+msgstr "السبب:"
+
+msgid "Registration"
+msgstr "التسجيل"
+
+msgid "Registration Reports"
+msgstr "تقارير التسجيل"
+
+msgid "Regunite Software Private Limited"
+msgstr "Regunite Software Private Limited"
+
+msgid "Requested"
+msgstr "مطلوب"
+
+msgid "Requested At:"
+msgstr "طُلب في:"
+
+msgid "Required in Profile"
+msgstr "مطلوب في الملف الشخصي"
+
+msgid "Required in Registration"
+msgstr "مطلوب في التسجيل"
+
+msgid "Required in Youth Guard"
+msgstr "مطلوب في حماية الشباب"
+
+msgid "Resend Account Activation Email"
+msgstr "إعادة إرسال بريد تفعيل الحساب"
+
+msgid "Revenue Reports"
+msgstr "تقارير الإيرادات"
+
+msgid "Review Submitted"
+msgstr "تم تقديم التقييم"
+
+msgid "Review/Update Course Creator"
+msgstr "مراجعة/تحديث منشئ المساق"
+
+msgid "Role Title"
+msgstr "عنوان الدور"
+
+msgid "SSO URL:"
+msgstr "عنوان URL للدخول الموحد:"
+
+msgid "School ID"
+msgstr "معرف المدرسة"
+
+msgid "School Name"
+msgstr "اسم المدرسة"
+
+msgid "Search Course"
+msgstr "البحث عن مساق"
+
+msgid "Secondary"
+msgstr "ثانوي"
+
+msgid "Secondary Active"
+msgstr "ثانوي نشط"
+
+msgid "Secondary Alt"
+msgstr "ثانوي بديل"
+
+msgid "Secondary Button"
+msgstr "زر ثانوي"
+
+msgid "Secondary Colors"
+msgstr "الألوان الثانوية"
+
+msgid "Secondary Hover"
+msgstr "ثانوي عند التمرير"
+
+msgid "Secondary Light"
+msgstr "ثانوي فاتح"
+
+msgid "Sections"
+msgstr "الأقسام"
+
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+msgid "Select Class"
+msgstr "اختر الصف"
+
+msgid "Select Course"
+msgstr "اختر المساق"
+
+msgid "Select Difficulty Level"
+msgstr "اختر مستوى الصعوبة"
+
+msgid "Select Gender"
+msgstr "اختر الجنس"
+
+msgid "Select Hierarchy Position"
+msgstr "اختر موضع التسلسل الهرمي"
+
+msgid "Select Institution"
+msgstr "اختر المؤسسة"
+
+msgid "Select Instructor"
+msgstr "اختر المدرّس"
+
+msgid "Select Parent"
+msgstr "اختر ولي الأمر"
+
+msgid "Select Parent Hierarchy"
+msgstr "اختر التسلسل الهرمي الأب"
+
+msgid "Select Role"
+msgstr "اختر الدور"
+
+msgid "Select School"
+msgstr "اختر المدرسة"
+
+msgid "Select a Course"
+msgstr "اختر مساقاً"
+
+msgid "Select a Course Authoring Organizations"
+msgstr "اختر منظمة تأليف مساق"
+
+msgid "Select a Language"
+msgstr "اختر لغة"
+
+msgid "Send Emails"
+msgstr "إرسال رسائل بريد إلكتروني"
+
+msgid "Send email notifications to users"
+msgstr "إرسال إشعارات بريد إلكتروني للمستخدمين"
+
+msgid "Set a New Password"
+msgstr "تعيين كلمة مرور جديدة"
+
+msgid "Set password for the user"
+msgstr "تعيين كلمة مرور للمستخدم"
+
+msgid "Shared Content"
+msgstr "المحتوى المشترك"
+
+msgid "Shipping:"
+msgstr "الشحن:"
+
+msgid "Short Text"
+msgstr "نص قصير"
+
+msgid "Show on Home Page"
+msgstr "عرض في الصفحة الرئيسية"
+
+msgid "Signed up:"
+msgstr "مسجّل:"
+
+msgid "Site Visitors"
+msgstr "زوار الموقع"
+
+msgid "Social Media Links"
+msgstr "روابط وسائل التواصل الاجتماعي"
+
+msgid "Source Course ID"
+msgstr "معرف المساق المصدر"
+
+msgid "Standard approach is that the user will receive an email with a link to set their password and other required information. You can also select to manually set a password for the user - the user will not get the email in that situation."
+msgstr "النهج القياسي هو أن يتلقى المستخدم بريداً إلكترونياً برابط لتعيين كلمة المرور. يمكنك أيضاً تعيين كلمة مرور يدوياً."
+
+msgid "State:"
+msgstr "الولاية/المنطقة:"
+
+msgid "Student Payment Data"
+msgstr "بيانات دفع الطالب"
+
+msgid "Student/Child:"
+msgstr "الطالب/الطفل:"
+
+msgid "SubClass ID"
+msgstr "معرف الفئة الفرعية"
+
+msgid "SubClass Name"
+msgstr "اسم الفئة الفرعية"
+
+msgid "Subscription Plan"
+msgstr "خطة الاشتراك"
+
+msgid "Subscription Plan Details"
+msgstr "تفاصيل خطة الاشتراك"
+
+msgid "Subscription Plans"
+msgstr "خطط الاشتراك"
+
+msgid "Subtotal:"
+msgstr "المجموع الفرعي:"
+
+msgid "Supporting color (e.g., text)."
+msgstr "لون الدعم (مثال: النص)."
+
+msgid "Sweepstakes, Promotions, and Surveys"
+msgstr "المسابقات والترقيات والاستطلاعات"
+
+msgid "System Data"
+msgstr "بيانات النظام"
+
+msgid "Tax (10%)"
+msgstr "الضريبة (10%)"
+
+msgid "Tax (9.3%)"
+msgstr "الضريبة (9.3%)"
+
+msgid "Tax ID:"
+msgstr "رقم التعريف الضريبي:"
+
+msgid "Tax Identification Number associated with your business for tax processing.."
+msgstr "رقم التعريف الضريبي المرتبط بعملك لأغراض المعالجة الضريبية."
+
+msgid "Terms of Service Content"
+msgstr "محتوى شروط الخدمة"
+
+msgid "Terms of Service Page"
+msgstr "صفحة شروط الخدمة"
+
+msgid "Testimonial"
+msgstr "الشهادة"
+
+msgid "The data listed above is stored by us and associated with your account."
+msgstr "البيانات المذكورة أعلاه مخزّنة لدينا ومرتبطة بحسابك."
+
+msgid "This action is permanent and cannot be undone."
+msgstr "هذا الإجراء دائم ولا يمكن التراجع عنه."
+
+msgid "This action will send a new activation link to the registered email address, allowing the user to activate their account."
+msgstr "سيرسل هذا الإجراء رابط تفعيل جديداً إلى عنوان البريد المسجّل."
+
+msgid "This action will send activation links and login details to their registered email addresses, allowing them to activate their accounts."
+msgstr "سيرسل هذا الإجراء روابط التفعيل وتفاصيل تسجيل الدخول إلى عناوين البريد المسجّلة."
+
+msgid "This includes:"
+msgstr "يشمل ذلك:"
+
+msgid "Title For Popular Courses"
+msgstr "عنوان المساقات الشائعة"
+
+msgid "Title For Top Courses"
+msgstr "عنوان أفضل المساقات"
+
+msgid "To stay involved in your child's learning journey and receive classroom updates, please connect with your child's account"
+msgstr "للبقاء على اطلاع برحلة تعلم طفلك وتلقي تحديثات الفصل الدراسي، يرجى الاتصال بحساب طفلك"
+
+msgid "Top Banner"
+msgstr "البانر العلوي"
+
+msgid "Top Courses"
+msgstr "أفضل المساقات"
+
+msgid "Total Amount:"
+msgstr "المبلغ الإجمالي:"
+
+msgid "Total Certificate Issued"
+msgstr "إجمالي الشهادات الصادرة"
+
+msgid "Total Minors"
+msgstr "إجمالي القاصرين"
+
+msgid "Total Parent/Guardian"
+msgstr "إجمالي أولياء الأمور/الأوصياء"
+
+msgid "Traffic Reports"
+msgstr "تقارير الزيارات"
+
+msgid "Twitter"
+msgstr "تويتر"
+
+msgid "URL"
+msgstr "عنوان URL"
+
+msgid "Unique Slug:"
+msgstr "الرابط الفريد:"
+
+msgid "Update Course Configuration"
+msgstr "تحديث إعداد المساق"
+
+msgid "Update essential settings for your LMS platform"
+msgstr "تحديث الإعدادات الأساسية لمنصة التعلم"
+
+msgid "Updated"
+msgstr "محدَّث"
+
+msgid "Upload CSV File"
+msgstr "رفع ملف CSV"
+
+msgid "Upload a favicon to customize the icon displayed in browser tabs."
+msgstr "ارفع أيقونة موقع (favicon) لتخصيص الأيقونة المعروضة في علامات تبويب المتصفح."
+
+msgid "Upload your company logo for easy brand recognition."
+msgstr "ارفع شعار شركتك للتعرف السهل على العلامة التجارية."
+
+msgid "Uploaded At"
+msgstr "رُفع في"
+
+msgid "Usage Data"
+msgstr "بيانات الاستخدام"
+
+msgid "User ID Attribute:"
+msgstr "سمة معرف المستخدم:"
+
+msgid "User Role"
+msgstr "دور المستخدم"
+
+msgid "Username Hint Attribute:"
+msgstr "سمة تلميح اسم المستخدم:"
+
+msgid "Username*"
+msgstr "اسم المستخدم*"
+
+msgid "Users Role"
+msgstr "أدوار المستخدمين"
+
+msgid "Value"
+msgstr "القيمة"
+
+msgid "Video Description"
+msgstr "وصف الفيديو"
+
+msgid "Video Title"
+msgstr "عنوان الفيديو"
+
+msgid "Video Watched"
+msgstr "الفيديو المُشاهد"
+
+msgid "Video watched"
+msgstr "الفيديو المُشاهد"
+
+msgid "Visible on Home Page"
+msgstr "مرئي في الصفحة الرئيسية"
+
+msgid "We couldn't create your account."
+msgstr "لم نتمكن من إنشاء حسابك."
+
+msgid "Website (optional)"
+msgstr "الموقع الإلكتروني (اختياري)"
+
+msgid "Website URL"
+msgstr "عنوان URL للموقع الإلكتروني"
+
+msgid "Weighted Grade"
+msgstr "الدرجة الموزونة"
+
+msgid "Welcome to Analytics Dashboard"
+msgstr "مرحباً بك في لوحة التحليلات"
+
+msgid "What is Hierarchy ?"
+msgstr "ما هو التسلسل الهرمي؟"
+
+msgid "Widget Title"
+msgstr "عنوان الأداة"
+
+msgid "Widget Type"
+msgstr "نوع الأداة"
+
+msgid "Widgets for CMS Dashboard"
+msgstr "الأدوات للوحة CMS"
+
+msgid "Widgets for LMS Dashboard"
+msgstr "الأدوات للوحة LMS"
+
+msgid "Write Custom Query"
+msgstr "كتابة استعلام مخصص"
+
+msgid "Write Query"
+msgstr "كتابة الاستعلام"
+
+msgid "Yes, Activate it"
+msgstr "نعم، قم بتفعيله"
+
+msgid "Yes, Delete it"
+msgstr "نعم، احذفه"
+
+msgid "Yes, Send it"
+msgstr "نعم، أرسله"
+
+msgid "You are invited to"
+msgstr "مدعو إلى"
+
+msgid "You can use this dialog to create new a new user in your Organization, with a preset user role.."
+msgstr "يمكنك استخدام هذا الحوار لإنشاء مستخدم جديد في منظمتك مع دور مستخدم محدد مسبقاً."
+
+msgid "You will not be able to continue with the upgrade until you update your billing information."
+msgstr "لن تتمكن من متابعة الترقية حتى تقوم بتحديث معلومات الفواتير."
+
+msgid "Youth SafeGuard"
+msgstr "حماية الشباب"
+
+msgid "Youth and Profile SafeGuard Configuration"
+msgstr "إعداد حماية الشباب والملف الشخصي"
+
+msgid "Youtube"
+msgstr "يوتيوب"
+
+msgid "Zip/Postal Code:"
+msgstr "الرمز البريدي:"
+
+msgid "contact@example.com"
+msgstr "contact@example.com"
+
+msgid "course@example.com"
+msgstr "course@example.com"
+
+msgid "e.g., 23HFxAPyJ9U"
+msgstr "مثال: 23HFxAPyJ9U"
+
+msgid "e.g., Welcome Video"
+msgstr "مثال: فيديو ترحيبي"
+
+msgid "e.g., Welcome to the Course"
+msgstr "مثال: مرحباً بك في المساق"
+
+msgid "info@example.com"
+msgstr "info@example.com"
+
+msgid "{point.key}"
+msgstr "{point.key}"
+
+msgid "{point.percentage:.1f}%"
+msgstr "{point.percentage:.1f}%"
+
+msgid "Connect with your learners on social media platforms - "
+msgstr "تواصل مع المتعلمين على منصات التواصل الاجتماعي - "
+
+msgid "A confirmation email has been sent to your registered email address."
+msgstr "تم إرسال بريد إلكتروني للتأكيد إلى عنوان بريدك الإلكتروني المسجَّل."
+
+msgid "API Key"
+msgstr "مفتاح API"
+
+msgid "API Key:"
+msgstr "مفتاح API:"
+
+msgid "Accept"
+msgstr "قبول"
+
+msgid "Achievements"
+msgstr "الإنجازات"
+
+msgid "Add Confluence Connector"
+msgstr "إضافة موصِّل Confluence"
+
+msgid "Add Connector"
+msgstr "إضافة موصِّل"
+
+msgid "Add File Connector"
+msgstr "إضافة موصِّل ملفات"
+
+msgid "Add Sharepoint Connector"
+msgstr "إضافة موصِّل SharePoint"
+
+msgid "Add Slack Connector"
+msgstr "إضافة موصِّل Slack"
+
+msgid "Add Video Connector"
+msgstr "إضافة موصِّل فيديو"
+
+msgid "Add Web Connector"
+msgstr "إضافة موصِّل ويب"
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 5MB, with dimensions 2560px (width) x 1130px (height)."
+msgstr "الصيغ المقبولة: PNG، JPEG، JPG. حتى 5 ميغابايت، بأبعاد 2560 بكسل (عرض) × 1130 بكسل (ارتفاع)."
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Apply Discount Coupon"
+msgstr "تطبيق كوبون الخصم"
+
+msgid "Are you sure you want to delete badge?"
+msgstr "هل أنت متأكد من حذف الشارة؟"
+
+msgid "Are you sure you want to delete event?"
+msgstr "هل أنت متأكد من حذف الحدث؟"
+
+msgid "Are you sure you want to withdraw from the 'Fashion Styling And Personal Image' course? We'll miss having you!"
+msgstr "هل أنت متأكد من الانسحاب من مساق 'تنسيق الأزياء والصورة الشخصية'؟ سنشتاق إليك!"
+
+msgid "Badge For"
+msgstr "شارة لـ"
+
+msgid "Badge Image/Icon"
+msgstr "صورة/أيقونة الشارة"
+
+msgid "Badge Name"
+msgstr "اسم الشارة"
+
+msgid "Badge Title"
+msgstr "عنوان الشارة"
+
+msgid "Badges"
+msgstr "الشارات"
+
+msgid "Base URL"
+msgstr "عنوان URL الأساسي"
+
+msgid "Base URL:"
+msgstr "عنوان URL الأساسي:"
+
+msgid "Best Blogs"
+msgstr "أفضل المدونات"
+
+msgid "Bill To"
+msgstr "فاتورة إلى"
+
+msgid "Billed Monthly"
+msgstr "يُفوتر شهرياً"
+
+msgid "Billing Details"
+msgstr "تفاصيل الفواتير"
+
+msgid "Billing Email:"
+msgstr "بريد الفواتير:"
+
+msgid "Buy Now"
+msgstr "اشترِ الآن"
+
+msgid "Cancel Subscription"
+msgstr "إلغاء الاشتراك"
+
+msgid "Cancel subscription"
+msgstr "إلغاء الاشتراك"
+
+msgid "Cancel your subscription"
+msgstr "إلغاء اشتراكك"
+
+msgid "Check out this blog: {title} via {url}"
+msgstr "تحقق من هذه المدونة: {title} عبر {url}"
+
+msgid "Checkout Details"
+msgstr "تفاصيل الدفع"
+
+msgid "Choose files"
+msgstr "اختر الملفات"
+
+msgid "Confluence"
+msgstr "Confluence"
+
+msgid "Confluence Access Token"
+msgstr "رمز وصول Confluence"
+
+msgid "Confluence Username"
+msgstr "اسم مستخدم Confluence"
+
+msgid "Confluence domain"
+msgstr "نطاق Confluence"
+
+msgid "Confluence domain (e.g., xxxx.atlassian.net)"
+msgstr "نطاق Confluence (مثال: xxxx.atlassian.net)"
+
+msgid "Connect to cloud storage and file hosting services."
+msgstr "الاتصال بخدمات التخزين السحابي واستضافة الملفات."
+
+msgid "Connect to other miscellaneous knowledge sources."
+msgstr "الاتصال بمصادر معرفة متنوعة أخرى."
+
+msgid "Connector Name"
+msgstr "اسم الموصِّل"
+
+msgid "Courses will be assigned to you by your academic team or faculty. Please check back later or reach out to them for more information. Happy learning!"
+msgstr "ستُسنَد إليك المساقات من قِبل فريقك الأكاديمي أو أعضاء هيئة التدريس. يرجى المراجعة لاحقاً أو التواصل معهم للمزيد. تعلّم ممتع!"
+
+msgid "Crawl Depth (Between 1 to 10)"
+msgstr "عمق الزحف (بين 1 و10)"
+
+msgid "Crawl Depth:"
+msgstr "عمق الزحف:"
+
+msgid "Create Badge"
+msgstr "إنشاء شارة"
+
+msgid "Create New Badge"
+msgstr "إنشاء شارة جديدة"
+
+msgid "Create New Badges"
+msgstr "إنشاء شارات جديدة"
+
+msgid "Create New Event"
+msgstr "إنشاء حدث جديد"
+
+msgid "Create New Events"
+msgstr "إنشاء أحداث جديدة"
+
+msgid "Create event"
+msgstr "إنشاء حدث"
+
+msgid "Created At:"
+msgstr "أُنشئ في:"
+
+msgid "Current Subscription"
+msgstr "الاشتراك الحالي"
+
+msgid "Curriculum"
+msgstr "المنهج الدراسي"
+
+msgid "Deadline"
+msgstr "الموعد النهائي"
+
+msgid "Dedicated Volunteers"
+msgstr "متطوع مخلص"
+
+msgid "Delete Badge"
+msgstr "حذف الشارة"
+
+msgid "Delete Event"
+msgstr "حذف الحدث"
+
+msgid "Deleting this badge is permanent and cannot be undone."
+msgstr "حذف هذه الشارة دائم ولا يمكن التراجع عنه."
+
+msgid "Deleting this event is permanent and cannot be undone."
+msgstr "حذف هذا الحدث دائم ولا يمكن التراجع عنه."
+
+msgid "Discover this blog on {platform}"
+msgstr "اكتشف هذه المدونة على {platform}"
+
+msgid "Domain"
+msgstr "النطاق"
+
+msgid "Domain:"
+msgstr "النطاق:"
+
+msgid "Download PDF"
+msgstr "تنزيل PDF"
+
+msgid "Earned Badges"
+msgstr "الشارات المكتسبة"
+
+msgid "Earned Users"
+msgstr "المستخدمون الحاصلون عليها"
+
+msgid "Edit Badge"
+msgstr "تعديل الشارة"
+
+msgid "Edit Event"
+msgstr "تعديل الحدث"
+
+msgid "Editing in:"
+msgstr "تحرير بـ:"
+
+msgid "Enable TitanAI"
+msgstr "تفعيل TitanAI"
+
+msgid "Enrolled"
+msgstr "ملتحق"
+
+msgid "Enter Connector Name"
+msgstr "أدخل اسم الموصِّل"
+
+msgid "Enter Coupon Code"
+msgstr "أدخل رمز الكوبون"
+
+msgid "Enter SharePoint Client ID"
+msgstr "أدخل معرف عميل SharePoint"
+
+msgid "Enter SharePoint Client Secret"
+msgstr "أدخل سر عميل SharePoint"
+
+msgid "Enter Slack Bot Token"
+msgstr "أدخل رمز Slack Bot"
+
+msgid "Enter Tenant ID"
+msgstr "أدخل معرف المستأجر"
+
+msgid "Enter YouTube video URL"
+msgstr "أدخل عنوان URL لفيديو YouTube"
+
+msgid "Enter confluence access token"
+msgstr "أدخل رمز وصول Confluence"
+
+msgid "Enter confluence username"
+msgstr "أدخل اسم مستخدم Confluence"
+
+msgid "Enter connector name"
+msgstr "أدخل اسم الموصِّل"
+
+msgid "Enter connector name (e.g., xxxx.sharepoint.com)"
+msgstr "أدخل اسم الموصِّل (مثال: xxxx.sharepoint.com)"
+
+msgid "Enter title"
+msgstr "أدخل العنوان"
+
+msgid "Event Type"
+msgstr "نوع الحدث"
+
+msgid "Events"
+msgstr "الأحداث"
+
+msgid "Existing Connectors"
+msgstr "الموصِّلات الحالية"
+
+msgid "Explore More"
+msgstr "استكشف المزيد"
+
+msgid "Extensive Chapters"
+msgstr "فصل دراسي شامل"
+
+msgid "File Name"
+msgstr "اسم الملف"
+
+msgid "File Name:"
+msgstr "اسم الملف:"
+
+msgid "Filter Courses"
+msgstr "تصفية المساقات"
+
+msgid "Get rid of"
+msgstr "تخلَّص من"
+
+msgid "Gurugram, Haryana - 122 018, India."
+msgstr "جوروجرام، هاريانا - 122018، الهند."
+
+msgid "Happy Students"
+msgstr "طالب سعيد"
+
+msgid "I assist learners in finding new effective belief and get rid of the outdated, discouraged and irrelevant life attitudes. You're upgrading to be a better you."
+msgstr "أساعد المتعلمين في اكتشاف معتقدات فعّالة جديدة والتخلص من المواقف الحياتية القديمة والمثبِّطة. أنت في طريقك لأن تكون نسخة أفضل من نفسك."
+
+msgid "I just enrolled in {title} through {url}"
+msgstr "لقد سجّلت للتو في {title} عبر {url}"
+
+msgid "If you change your mind, you can renew your subscription."
+msgstr "إذا غيّرت رأيك، يمكنك تجديد اشتراكك."
+
+msgid "Integrate with messaging and communication platforms."
+msgstr "التكامل مع منصات المراسلة والتواصل."
+
+msgid "Invoice Date"
+msgstr "تاريخ الفاتورة"
+
+msgid "Invoice Information"
+msgstr "معلومات الفاتورة"
+
+msgid "Last Indexed"
+msgstr "آخر فهرسة"
+
+msgid "Last Indexed:"
+msgstr "آخر فهرسة:"
+
+msgid "Learn the secrets to"
+msgstr "تعلَّم أسرار"
+
+msgid "Lectures"
+msgstr "محاضرات"
+
+msgid "Life Success"
+msgstr "النجاح في الحياة"
+
+msgid "Link to wiki and knowledge base platforms."
+msgstr "الربط بمنصات الويكي وقواعد المعرفة."
+
+msgid "Llm model:"
+msgstr "نموذج اللغة:"
+
+msgid "Llm provider:"
+msgstr "مزوّد نموذج اللغة:"
+
+msgid "MAXIMIZE YOUR POTENTIALS and possibilities"
+msgstr "حقِّق إمكاناتك وعظِّم فرصك"
+
+msgid "Manage Badges"
+msgstr "إدارة الشارات"
+
+msgid "Manage Events"
+msgstr "إدارة الأحداث"
+
+msgid "Maximum file size is 25MB. Supported file types: .html, .ppt, .docx, .txt, .pdf, .csv, .xlsx."
+msgstr "الحجم الأقصى للملف 25 ميغابايت. أنواع الملفات المدعومة: .html، .ppt، .docx، .txt، .pdf، .csv، .xlsx."
+
+msgid "Maximum file size is 50MB. Supported file types: .mp4, .mov, .m4v."
+msgstr "الحجم الأقصى للملف 50 ميغابايت. أنواع الملفات المدعومة: .mp4، .mov، .m4v."
+
+msgid "Messaging"
+msgstr "المراسلة"
+
+msgid "Monthly"
+msgstr "شهري"
+
+msgid "Most Viewed"
+msgstr "الأكثر مشاهدة"
+
+msgid "Multi-language"
+msgstr "متعدد اللغات"
+
+msgid "No items in this course curriculum."
+msgstr "لا توجد عناصر في منهج هذا المساق."
+
+msgid "No items in this section"
+msgstr "لا توجد عناصر في هذا القسم"
+
+msgid "Old School Assumptions"
+msgstr "المفاهيم القديمة"
+
+msgid "Order Date"
+msgstr "تاريخ الطلب"
+
+msgid "Order ID"
+msgstr "رقم الطلب"
+
+msgid "Order Summary"
+msgstr "ملخص الطلب"
+
+msgid "Our Blogs"
+msgstr "مدوناتنا"
+
+msgid "Overview"
+msgstr "نظرة عامة"
+
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+msgid "Plan"
+msgstr "الخطة"
+
+msgid "Platform Name"
+msgstr "اسم المنصة"
+
+msgid "Platform/Site Name"
+msgstr "اسم المنصة/الموقع"
+
+msgid "Points To Award"
+msgstr "النقاط الممنوحة"
+
+msgid "Points to award"
+msgstr "النقاط الممنوحة"
+
+msgid "Popular posts"
+msgstr "المنشورات الشائعة"
+
+msgid "Powered by"
+msgstr "مدعوم من"
+
+msgid "Print Invoice"
+msgstr "طباعة الفاتورة"
+
+msgid "Print Receipt"
+msgstr "طباعة الإيصال"
+
+msgid "Public Course"
+msgstr "مساق عام"
+
+msgid "Purchase Receipt"
+msgstr "إيصال الشراء"
+
+msgid "Re-Index"
+msgstr "إعادة الفهرسة"
+
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+msgid "Related Courses"
+msgstr "مساقات ذات صلة"
+
+msgid "Save applies to the active language above."
+msgstr "الحفظ يُطبَّق على اللغة النشطة أعلاه."
+
+msgid "Saving applies to the currently selected language tab."
+msgstr "الحفظ يُطبَّق على تبويب اللغة المحدد حالياً."
+
+msgid "Share this course"
+msgstr "شارك هذا المساق"
+
+msgid "Share this post"
+msgstr "شارك هذا المنشور"
+
+msgid "SharePoint"
+msgstr "SharePoint"
+
+msgid "SharePoint Client ID"
+msgstr "معرف عميل SharePoint"
+
+msgid "SharePoint Client ID:"
+msgstr "معرف عميل SharePoint:"
+
+msgid "SharePoint Client Secret"
+msgstr "سر عميل SharePoint"
+
+msgid "SharePoint Directory (Tenant ID)"
+msgstr "دليل SharePoint (معرف المستأجر)"
+
+msgid "SharePoint Directory (Tenant ID):"
+msgstr "دليل SharePoint (معرف المستأجر):"
+
+msgid "SharePoint Site Name"
+msgstr "اسم موقع SharePoint"
+
+msgid "SharePoint Site Name:"
+msgstr "اسم موقع SharePoint:"
+
+msgid "SharePoint Site URL"
+msgstr "عنوان URL لموقع SharePoint"
+
+msgid "SharePoint Site URL:"
+msgstr "عنوان URL لموقع SharePoint:"
+
+msgid "Sharepoint"
+msgstr "SharePoint"
+
+msgid "Showing {start_count} to {end_count} of {total_count} courses matching your search"
+msgstr "يعرض {start_count} إلى {end_count} من أصل {total_count} مساق يطابق بحثك"
+
+msgid "Slack"
+msgstr "Slack"
+
+msgid "Slack Bot Token"
+msgstr "رمز Slack Bot"
+
+msgid "Slack workspace URL"
+msgstr "عنوان URL لمساحة عمل Slack"
+
+msgid "Slack workspace URL (e.g., https://your-workspace.slack.com)"
+msgstr "عنوان URL لمساحة عمل Slack (مثال: https://your-workspace.slack.com)"
+
+msgid "Slack workspace URL:"
+msgstr "عنوان URL لمساحة عمل Slack:"
+
+msgid "Specific SharePoint site name (optional; e.g., EXTRANET)"
+msgstr "اسم موقع SharePoint المحدد (اختياري؛ مثال: EXTRANET)"
+
+msgid "Storage"
+msgstr "التخزين"
+
+msgid "Studio/CMS"
+msgstr "الاستوديو/CMS"
+
+msgid "Target Count"
+msgstr "العدد المستهدف"
+
+msgid "Temperature (Between 0 to 1)"
+msgstr "درجة الحرارة (بين 0 و1)"
+
+msgid "Temperature:"
+msgstr "درجة الحرارة:"
+
+msgid "Thank you for your purchase!"
+msgstr "شكراً لعملية الشراء!"
+
+msgid "TitanAI"
+msgstr "TitanAI"
+
+msgid "TitanAI Configuration"
+msgstr "إعداد TitanAI"
+
+msgid "TitanAI Enabled"
+msgstr "TitanAI مفعّل"
+
+msgid "TitanBI"
+msgstr "TitanBI"
+
+msgid "Trigger Event"
+msgstr "حدث التفعيل"
+
+msgid "Upgrade Subscription"
+msgstr "ترقية الاشتراك"
+
+msgid "Upload Files"
+msgstr "رفع ملفات"
+
+msgid "Useful Links"
+msgstr "روابط مفيدة"
+
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+msgid "Video File"
+msgstr "ملف الفيديو"
+
+msgid "Video File:"
+msgstr "ملف الفيديو:"
+
+msgid "Video Type"
+msgstr "نوع الفيديو"
+
+msgid "Video Type:"
+msgstr "نوع الفيديو:"
+
+msgid "View in Cart"
+msgstr "عرض في السلة"
+
+msgid "We sent an email to {strong_start}{email}{strong_end} with a link to activate your account. Can't find it? Check your spam folder or {link_start}resend the email{link_end}."
+msgstr "أرسلنا بريداً إلكترونياً إلى {strong_start}{email}{strong_end} يحتوي رابطاً لتفعيل حسابك. لم تجده؟ تحقق من مجلد البريد المزعج أو {link_start}أعِد الإرسال{link_end}."
+
+msgid "We've got a world of knowledge waiting for you! Click on 'Browse Courses'. Happy learning!"
+msgstr "لدينا عالم من المعرفة ينتظرك! انقر على 'تصفح المساقات'. تعلّم ممتع!"
+
+msgid "Web"
+msgstr "ويب"
+
+msgid "Work Experience"
+msgstr "خبرة عملية"
+
+msgid "Workspace URL"
+msgstr "عنوان URL لمساحة العمل"
+
+msgid "Yearly"
+msgstr "سنوي"
+
+msgid "YouTube video URL"
+msgstr "عنوان URL لفيديو YouTube"
+
+msgid "YouTube video URL:"
+msgstr "عنوان URL لفيديو YouTube:"
+
+msgid "Your Email"
+msgstr "بريدك الإلكتروني"
+
+msgid "Your Plan Benefits"
+msgstr "مزايا خطتك"
+
+msgid "Youtube URL"
+msgstr "عنوان URL لـ YouTube"
+
+msgid "billing@titaned.com"
+msgstr "billing@titaned.com"
+
+msgid "these people have got the key."
+msgstr "وهؤلاء الأشخاص يمتلكون المفتاح."
+
+msgid "years"
+msgstr "سنة"
+
+msgid "{currency_symbol}{price} {currency_abbr}"
+msgstr "{currency_symbol}{price} {currency_abbr}"
+
+msgid "{price} {currency_abbr}"
+msgstr "{price} {currency_abbr}"
+
+msgid "{price} {currency}"
+msgstr "{price} {currency}"
+
+msgid "-- Any --"
+msgstr "-- أي --"
+
+msgid "-- None --"
+msgstr "-- لا شيء --"
+
+msgid "-- Select Event --"
+msgstr "-- اختر حدثاً --"
+
+msgid "-- Select State --"
+msgstr "-- اختر حالة --"
+
+msgid "About The Event"
+msgstr "عن الحدث"
+
+msgid "Access to valuable and portable program which allow you to setup and live anywhere you want."
+msgstr "الوصول إلى برنامج قيّم ومرن يتيح لك الإعداد والعيش في أي مكان تريده."
+
+msgid "Activate Course Enrollment"
+msgstr "تفعيل تحضير المساق"
+
+msgid "Activate User"
+msgstr "تفعيل المستخدم"
+
+msgid "Add Individual User"
+msgstr "إضافة مستخدم فردي"
+
+msgid "Additional CC Emails"
+msgstr "عناوين بريد إضافية للنسخة"
+
+msgid "Additional Receipt Recipient"
+msgstr "مستلم إيصال إضافي"
+
+msgid "Address 1"
+msgstr "العنوان 1"
+
+msgid "Address 2"
+msgstr "العنوان 2"
+
+msgid "After"
+msgstr "بعد"
+
+msgid "After this purchase is complete, a receipt is generated with relative billing details and registration codes for students."
+msgstr "بعد اكتمال هذه العملية، سيتم إنشاء إيصال مع تفاصيل الفواتير ورموز التسجيل للطلاب."
+
+msgid "After this purchase is complete, {username} will be enrolled in this course."
+msgstr "بعد اكتمال هذه العملية، سيتم تحضير {username} في هذا المساق."
+
+msgid "All Approval"
+msgstr "كل الموافقات"
+
+msgid "All Channels"
+msgstr "كل القنوات"
+
+msgid "All Kinds"
+msgstr "كل الأنواع"
+
+msgid "All Rules"
+msgstr "كل القواعد"
+
+msgid "All Status"
+msgstr "كل الحالات"
+
+msgid "All Statuses"
+msgstr "كل الحالات"
+
+msgid "All of our classes are created with you in mind. We want to help you develop your skills so you can competently and confidently prepare delicious, nutritious meals for yourself, your family, and friends. You are going to learn all you need to know about health & vibrant living."
+msgstr "جميع دروسنا مصمّمة مع مراعاة احتياجاتك. نريد مساعدتك على تطوير مهاراتك لتحضير وجبات لذيذة ومغذية."
+
+msgid "Anywhere"
+msgstr "في أي مكان"
+
+msgid "Approval"
+msgstr "الموافقة"
+
+msgid "As learners, people can enjoy great companionship from TitanEd mentors and educators. We can help you develop and grow at your best."
+msgstr "يمكن للمتعلمين الاستمتاع برفقة رائعة من مرشدي ومعلّمي TitanEd. يمكننا مساعدتك على التطوير والنمو."
+
+msgid "Authorize Payment Through Parent"
+msgstr "تفويض الدفع عبر ولي الأمر"
+
+msgid "Based on your subscription level, enable additional languages to make your LMS accessible to a wider audience."
+msgstr "بناءً على مستوى اشتراكك، فعّل لغات إضافية لجعل منصتك متاحة لجمهور أوسع."
+
+msgid "Be Happy, Healthy And Successful Simplified"
+msgstr "كن سعيداً وصحيحاً وناجحاً بطريقة مبسّطة"
+
+msgid "Before"
+msgstr "قبل"
+
+msgid "Before you hire someone to gut your kitchen: Kitchen designers and/or architects don't necessarily cook or bake. Creating a thing of beauty, in kitchen-language, means much more than having attractive counters and cabinetry - This truth applies to cooking lovers."
+msgstr "قبل توظيف شخص لتجديد مطبخك: المصمّمون والمعماريون لا يطبخون بالضرورة. جمال المطبخ يعني أكثر بكثير من الديكور الجميل."
+
+msgid "Bellezza"
+msgstr "بيلتسا"
+
+msgid "Better care for yourself and your family"
+msgstr "رعاية أفضل لنفسك وعائلتك"
+
+msgid "Billed To Details"
+msgstr "تفاصيل الفواتير إلى"
+
+msgid "Body"
+msgstr "النص"
+
+msgid "Breadcrumb"
+msgstr "مسار التنقل"
+
+msgid "Build Your Own Life Coaching Business"
+msgstr "ابنِ عملك الخاص في مجال تدريب الحياة"
+
+msgid "Business"
+msgstr "الأعمال"
+
+msgid "Business Coaching often keep your focus and develop you both in a professional and personal way."
+msgstr "يحافظ التدريب التجاري في الغالب على تركيزك ويطوّرك مهنياً وشخصياً."
+
+msgid "Buy Membership"
+msgstr "شراء العضوية"
+
+msgid "CC Instructors"
+msgstr "نسخة إلى المدرّسين"
+
+msgid "CC Platform Staff"
+msgstr "نسخة إلى طاقم المنصة"
+
+msgid "CMS Dashboard"
+msgstr "لوحة نظام إدارة المحتوى"
+
+msgid "CMS/Studio"
+msgstr "CMS/الاستوديو"
+
+msgid "CMS/Studio Dashboard"
+msgstr "لوحة CMS/الاستوديو"
+
+msgid "Cancel Pay by Parent"
+msgstr "إلغاء الدفع عبر ولي الأمر"
+
+msgid "Cart Lock:"
+msgstr "قفل السلة:"
+
+msgid "Certiciate Status"
+msgstr "حالة الشهادة"
+
+msgid "Channel"
+msgstr "القناة"
+
+msgid "Channels"
+msgstr "القنوات"
+
+msgid "Charts"
+msgstr "الرسوم البيانية"
+
+msgid "Choose primary active color"
+msgstr "اختر اللون الأساسي النشط"
+
+msgid "Choose primary alt color"
+msgstr "اختر اللون الأساسي البديل"
+
+msgid "Choose primary color"
+msgstr "اختر اللون الأساسي"
+
+msgid "Choose primary hover color"
+msgstr "اختر لون التمرير الأساسي"
+
+msgid "Choose primary light color"
+msgstr "اختر اللون الأساسي الفاتح"
+
+msgid "Choose secondary active color"
+msgstr "اختر اللون الثانوي النشط"
+
+msgid "Choose secondary alt color"
+msgstr "اختر اللون الثانوي البديل"
+
+msgid "Choose secondary color"
+msgstr "اختر اللون الثانوي"
+
+msgid "Choose secondary hover color"
+msgstr "اختر لون التمرير الثانوي"
+
+msgid "Choose secondary light color"
+msgstr "اختر اللون الثانوي الفاتح"
+
+msgid "Choose the primary language for your LMS platform interface."
+msgstr "اختر اللغة الأساسية لواجهة منصة التعلم الخاصة بك."
+
+msgid "Choose the service that will process and handle payments made on the platform."
+msgstr "اختر الخدمة التي ستعالج المدفوعات على المنصة."
+
+msgid "Click Action"
+msgstr "إجراء النقر"
+
+msgid "Click Action URL"
+msgstr "عنوان URL لإجراء النقر"
+
+msgid "Coaching"
+msgstr "التدريب"
+
+msgid "Company Contact Email"
+msgstr "بريد جهة اتصال الشركة"
+
+msgid "Company Contact Name"
+msgstr "اسم جهة اتصال الشركة"
+
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+msgid "Conceptual Cooking"
+msgstr "الطهي المفاهيمي"
+
+msgid "Confirm Enrollment"
+msgstr "تأكيد التحضير"
+
+msgid "Confirm your enrollment for:"
+msgstr "تأكيد تحضيرك في:"
+
+msgid "Confirm your enrollment for: {span_start}course dates{span_end}"
+msgstr "تأكيد تحضيرك في: {span_start}تواريخ المساق{span_end}"
+
+msgid "Confirmation"
+msgstr "التأكيد"
+
+msgid "Consulting"
+msgstr "الاستشارات"
+
+msgid "Consumer Food Safety Education Conference"
+msgstr "مؤتمر تثقيف سلامة الغذاء للمستهلكين"
+
+msgid "Contests"
+msgstr "المسابقات"
+
+msgid "Cook with me!"
+msgstr "اطبخ معي!"
+
+msgid "Cover Image"
+msgstr "صورة الغلاف"
+
+msgid "Create Email Template"
+msgstr "إنشاء قالب بريد إلكتروني"
+
+msgid "Create New Course"
+msgstr "إنشاء مساق جديد"
+
+msgid "Create Push Template"
+msgstr "إنشاء قالب إشعار فوري"
+
+msgid "Create SMS Template"
+msgstr "إنشاء قالب رسالة قصيرة"
+
+msgid "Create WhatsApp Template"
+msgstr "إنشاء قالب واتساب"
+
+msgid "Create new SMS template"
+msgstr "إنشاء قالب رسالة قصيرة جديد"
+
+msgid "Create new WhatsApp template"
+msgstr "إنشاء قالب واتساب جديد"
+
+msgid "Create new email template"
+msgstr "إنشاء قالب بريد إلكتروني جديد"
+
+msgid "Create new push template"
+msgstr "إنشاء قالب إشعار فوري جديد"
+
+msgid "Customize the domain name of your course creation studio."
+msgstr "خصّص اسم النطاق لاستوديو إنشاء المساقات."
+
+msgid "Date of purchase"
+msgstr "تاريخ الشراء"
+
+msgid "Decrease"
+msgstr "تقليل"
+
+msgid "Default"
+msgstr "افتراضي"
+
+msgid "Delete Email Template"
+msgstr "حذف قالب البريد الإلكتروني"
+
+msgid "Delete Push Template"
+msgstr "حذف قالب الإشعار الفوري"
+
+msgid "Delete Rule"
+msgstr "حذف القاعدة"
+
+msgid "Delete SMS Template"
+msgstr "حذف قالب الرسالة القصيرة"
+
+msgid "Delete WhatsApp Template"
+msgstr "حذف قالب واتساب"
+
+msgid "Discount Applied:"
+msgstr "الخصم المطبَّق:"
+
+msgid "Discount or activation code"
+msgstr "كوبون الخصم أو رمز التفعيل"
+
+msgid "Distant Learning"
+msgstr "التعلم عن بُعد"
+
+msgid "Distant Mentoring Program"
+msgstr "برنامج الإرشاد عن بُعد"
+
+msgid "Download CSV Data"
+msgstr "تنزيل بيانات CSV"
+
+msgid "Download CSV Reports"
+msgstr "تنزيل تقارير CSV"
+
+msgid "Download CSV Templates"
+msgstr "تنزيل قوالب CSV"
+
+msgid "Download my"
+msgstr "تنزيل"
+
+msgid "EMAIL TEMPLATE"
+msgstr "قالب البريد الإلكتروني"
+
+msgid "Eat Well Guidance"
+msgstr "إرشادات التغذية الصحية"
+
+msgid "Edit Email Template"
+msgstr "تعديل قالب البريد الإلكتروني"
+
+msgid "Edit Push Template"
+msgstr "تعديل قالب الإشعار الفوري"
+
+msgid "Edit SMS Template"
+msgstr "تعديل قالب الرسالة القصيرة"
+
+msgid "Edit User"
+msgstr "تعديل المستخدم"
+
+msgid "Edit WhatsApp Template"
+msgstr "تعديل قالب واتساب"
+
+msgid "Email *"
+msgstr "البريد الإلكتروني *"
+
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "Email Signature (HTML)"
+msgstr "توقيع البريد (HTML)"
+
+msgid "Email Templates"
+msgstr "قوالب البريد الإلكتروني"
+
+msgid "Email body (plain text) *"
+msgstr "نص البريد (نص عادي) *"
+
+msgid "Emerson"
+msgstr "إيمرسون"
+
+msgid "Empty Cart"
+msgstr "إفراغ السلة"
+
+msgid "End Date: "
+msgstr "تاريخ النهاية: "
+
+msgid "End Letter: "
+msgstr "حرف النهاية: "
+
+msgid "English"
+msgstr "الإنجليزية"
+
+msgid "Enrollment Link"
+msgstr "رابط التحضير"
+
+msgid "Ensure the list of users is accurate and correctly formatted before submission, as input errors may lead to failed enrollments or missed notifications."
+msgstr "تأكد من دقة قائمة المستخدمين وتنسيقها الصحيح قبل الإرسال، إذ قد تؤدي أخطاء الإدخال إلى فشل التحضيرات."
+
+msgid "Ensure your CSV file is formatted correctly with required fields such as First Name, Last Name, Email, Gender, and optionally Password. For the exact format, download our provided template to avoid errors."
+msgstr "تأكد من تنسيق ملف CSV بشكل صحيح مع الحقول المطلوبة كالاسم الأول والأخير والبريد الإلكتروني والجنس وكلمة المرور (اختياري)."
+
+msgid "Enter minor Age Threshold here. Upto this age user considered minor and parent/guardian consent required "
+msgstr "أدخل هنا حد عمر القاصر. حتى هذا العمر يُعتبر المستخدم قاصراً ويُطلب موافقة ولي أمره."
+
+msgid "Enter the address of the SMTP server that will handle outgoing emails."
+msgstr "أدخل عنوان خادم SMTP الذي سيتعامل مع رسائل البريد الصادرة."
+
+msgid "Enter the email address where billing inquiries and notifications will be sent."
+msgstr "أدخل عنوان البريد الإلكتروني الذي ستُرسَل إليه استفسارات الفواتير والإشعارات."
+
+msgid "Enter the password for the SMTP account to authenticate email sending requests."
+msgstr "أدخل كلمة مرور حساب SMTP للمصادقة على طلبات إرسال البريد الإلكتروني."
+
+msgid "Enter the primary email address for support inquiries, visible to users in need of assistance."
+msgstr "أدخل عنوان البريد الإلكتروني الرئيسي للاستفسارات، وهو مرئي للمستخدمين الذين يحتاجون إلى مساعدة."
+
+msgid "Enter your OpenAI API key to integrate AI capabilities into course creation."
+msgstr "أدخل مفتاح API الخاص بـ OpenAI لدمج قدرات الذكاء الاصطناعي في إنشاء المساقات."
+
+msgid "Enter your company or organization name to personalize your learning platform."
+msgstr "أدخل اسم شركتك أو مؤسستك لتخصيص منصة التعلم."
+
+msgid "Event Details"
+msgstr "تفاصيل الحدث"
+
+msgid "Every great entrepreneur is surrounded by coaches and advisors. A great business coach will listen and guide you to success."
+msgstr "كل رائد أعمال عظيم محاط بمدرّبين ومستشارين. مدرّب أعمال رائع سيستمع ويرشدك نحو النجاح."
+
+msgid "Extra Data (JSON)"
+msgstr "بيانات إضافية (JSON)"
+
+msgid "FREE Herbalism - Medicinal Kitchen Spices Ebook"
+msgstr "كتاب إلكتروني مجاني: الأعشاب الطبية في المطبخ"
+
+msgid "False"
+msgstr "خاطئ"
+
+msgid "Fill in the physical address used for billing purposes."
+msgstr "أدخل العنوان الفيزيائي المستخدم لأغراض الفواتير."
+
+msgid "Filter End Date"
+msgstr "تاريخ انتهاء الفلتر"
+
+msgid "Filter Start Date"
+msgstr "تاريخ بدء الفلتر"
+
+msgid "Finished Sessions"
+msgstr "الجلسات المنتهية"
+
+msgid "Finished sessions"
+msgstr "الجلسات المنتهية"
+
+msgid "Gamification"
+msgstr "التلعيب"
+
+msgid "Get Started Now"
+msgstr "ابدأ الآن"
+
+msgid "Get started by making a note in something you just read, like {section_link}."
+msgstr "ابدأ بإنشاء ملاحظة في شيء قرأته للتو، مثل {section_link}."
+
+msgid "Get started for free"
+msgstr "ابدأ مجاناً"
+
+msgid "Get ticket"
+msgstr "احصل على تذكرة"
+
+msgid "Getting the necessary clarity about the current state to help you improve your game."
+msgstr "الحصول على الوضوح الضروري حول الوضع الراهن لمساعدتك على تحسين أدائك."
+
+msgid "Guiding the Future Generation through our Learning Journey Program"
+msgstr "توجيه الجيل القادم من خلال برنامج رحلة التعلم"
+
+msgid "HTML Body"
+msgstr "نص HTML"
+
+msgid "Healthy Cooking Fundamentals That Save Time, Money & Stress"
+msgstr "أساسيات الطهي الصحي التي توفر الوقت والمال والضغط"
+
+msgid "Help you love the dish"
+msgstr "نساعدك على محبة الطبق"
+
+msgid "Highlight important information to review later in the course or in future courses."
+msgstr "تسليط الضوء على المعلومات المهمة لمراجعتها لاحقاً."
+
+msgid "How many courses you've been on, using however many techniques and methods. Unless you've come to realize the value of mindset, then you've yet to understand how success comes."
+msgstr "بغض النظر عن كمية الدورات التي أخذتها والتقنيات التي استخدمتها، ما لم تدرك قيمة العقلية فلن تفهم كيف يأتي النجاح."
+
+msgid "If checked, users who are not registered in the LMS will be automatically enrolled. If unchecked, only existing users will be enrolled. New users will need to create an account before enrolling."
+msgstr "إذا كان مفعّلاً، سيتم تسجيل المستخدمين غير المسجّلين تلقائياً. وإلا سيُحضَّر المستخدمون الحاليون فقط."
+
+msgid "If checked, users will receive an email notification about their enrollment or unenrollment status."
+msgstr "إذا كان مفعّلاً، سيتلقى المستخدمون إشعار بريد إلكتروني بشأن حالة تحضيرهم."
+
+msgid "If no additional billing details are populated the payment confirmation will be sent to the user making the purchase."
+msgstr "إذا لم تُدخل تفاصيل فوترة إضافية، سيُرسل تأكيد الدفع للمستخدم المشتري."
+
+msgid "Image URL"
+msgstr "عنوان URL للصورة"
+
+msgid "Increase"
+msgstr "زيادة"
+
+msgid "Input quantity and press enter."
+msgstr "أدخل الكمية واضغط إنتر."
+
+msgid "Input the Tax Identification Number associated with your business for tax processing."
+msgstr "أدخل رقم التعريف الضريبي المرتبط بعملك لأغراض المعالجة الضريبية."
+
+msgid "International Art Fair 2020"
+msgstr "معرض الفن الدولي 2020"
+
+msgid "International Art Fair is a contemporary art fair that presents collective and solo projects by leading and emerging international artists. The 12th edition will represent a forum for direct exchange of ideas and contacts between collectors, artists, photographers, designers and art professionals. The art fair features paintings, sculptures, photography art, installations, video art and live performance."
+msgstr "معرض الفن الدولي معرض فن معاصر يقدّم مشاريع جماعية وفردية لفنانين دوليين بارزين وناشئين."
+
+msgid "International Art Fair provides artists and exhibitors with the unique opportunity to present their works to an international audience of professionals as curators, gallerists, collectors, editors and publishers who seek to acquire, publish and encourage the best contemporary art talents."
+msgstr "يتيح معرض الفن الدولي للفنانين والعارضين فرصة فريدة لتقديم أعمالهم لجمهور دولي متخصص."
+
+msgid "International Art Fair, organized by ITSLIQUID Group in collaboration with Art Events and Ca' Zanardi, will be held in Venice, at THE ROOM Contemporary Art Space from April 09 to May 10 2020, at Palazzo Ca' Zanardi from April 10 to May 10 2020 and in other prestigious venues and historical buildings."
+msgstr "معرض الفن الدولي، المنظَّم من قبل مجموعة ITSLIQUID، سيُقام في فينيسيا من 9 أبريل إلى 10 مايو 2020."
+
+msgid "Invalid"
+msgstr "غير صالح"
+
+msgid "Invoice Update:"
+msgstr "تحديث الفاتورة:"
+
+msgid "Itemized Purchase Report"
+msgstr "تقرير المشتريات التفصيلي"
+
+msgid "Kind"
+msgstr "النوع"
+
+msgid "LMS Dashboard"
+msgstr "لوحة نظام إدارة التعلم"
+
+msgid "Latest"
+msgstr "الأحدث"
+
+msgid "Learning Journey"
+msgstr "رحلة التعلم"
+
+msgid "Leave your thought here"
+msgstr "اترك فكرتك هنا"
+
+msgid "Left"
+msgstr "يسار"
+
+msgid "Lilybelle"
+msgstr "ليليبيل"
+
+msgid "Loading rule data..."
+msgstr "جارٍ تحميل بيانات القاعدة..."
+
+msgid "Lucinda"
+msgstr "لوسيندا"
+
+msgid "Master Skills"
+msgstr "إتقان المهارات"
+
+msgid "Master cooking skills"
+msgstr "إتقان مهارات الطهي"
+
+msgid "Message (max 160 chars) *"
+msgstr "الرسالة (حد 160 حرفاً) *"
+
+msgid "Message *"
+msgstr "الرسالة *"
+
+msgid "Modern Schooling"
+msgstr "التعليم الحديث"
+
+msgid "N/A"
+msgstr "غير متاح"
+
+msgid "NOTIFICATION CONTENT"
+msgstr "محتوى الإشعار"
+
+msgid "Newsletter to get in touch"
+msgstr "النشرة الإخبارية للتواصل"
+
+msgid "Note: This option does not apply if 'Unenroll' is selected."
+msgstr "ملاحظة: لا تنطبق هذا الخيار عند اختيار 'إلغاء التحضير'."
+
+msgid "Note: items with strikethough like <del>this</del> have been refunded."
+msgstr "ملاحظة: العناصر المشطوبة كـ <del>هذه</del> قد استُردّت."
+
+msgid "Notes 2"
+msgstr "ملاحظات 2"
+
+msgid "Notification Logs"
+msgstr "سجلات الإشعارات"
+
+msgid "Notification Rules"
+msgstr "قواعد الإشعارات"
+
+msgid "Notification body"
+msgstr "نص الإشعار"
+
+msgid "Notification body text. Use {{ variable }}."
+msgstr "نص الإشعار. استخدم {{ variable }}."
+
+msgid "Notification title *"
+msgstr "عنوان الإشعار *"
+
+msgid "Notification title. Use {{ variable }}."
+msgstr "عنوان الإشعار. استخدم {{ variable }}."
+
+msgid "On Time"
+msgstr "في الوقت"
+
+msgid "One to One"
+msgstr "فردي"
+
+msgid "Online Coaching"
+msgstr "التدريب الإلكتروني"
+
+msgid "Online Coures"
+msgstr "مساقات إلكترونية"
+
+msgid "Online Enrollment"
+msgstr "التحضير الإلكتروني"
+
+msgid "Online business coaching now offers you a very powerful way to empower your business into success."
+msgstr "يوفّر التدريب التجاري الإلكتروني الآن طريقة قوية لتمكين أعمالك نحو النجاح."
+
+msgid "Orabelle"
+msgstr "أورابيل"
+
+msgid "Our Learning Journey Program is designed to support K-12 students in achieving their career goals, enhancing their social skills, and fostering a sense of community."
+msgstr "برنامجنا لرحلة التعلم مصمّم لدعم طلاب K-12 في تحقيق أهدافهم المهنية وتعزيز مهاراتهم الاجتماعية."
+
+msgid "Our Speakers"
+msgstr "متحدّثونا"
+
+msgid "PUSH TEMPLATE"
+msgstr "قالب الإشعار الفوري"
+
+msgid "Pay by Parent"
+msgstr "الدفع عبر ولي الأمر"
+
+msgid "Payment"
+msgstr "الدفع"
+
+msgid "Payment Error"
+msgstr "خطأ في الدفع"
+
+msgid "Payment Responsibility:"
+msgstr "مسؤولية الدفع:"
+
+msgid "Payment processing occurs on a separate secure site."
+msgstr "تتم معالجة الدفع على موقع آمن منفصل."
+
+msgid "Perhaps most importantly, a business coach will make you focus on your goals and hold you accountable to the things you should do, and to where you want your business to be."
+msgstr "والأهم أن مدرّب الأعمال سيجعلك تركّز على أهدافك ويحاسبك على ما يجب عليك فعله لتحقيق رؤيتك."
+
+msgid "Plain Text Body"
+msgstr "النص العادي"
+
+msgid "Plain text fallback (used when HTML is not supported)"
+msgstr "نص احتياطي عادي (يُستخدم عندما لا يُدعم HTML)"
+
+msgid "Please enter only letters, numbers, and spaces"
+msgstr "يرجى إدخال حروف وأرقام ومسافات فقط"
+
+msgid "Please send each professional one of these unique registration codes to enroll into the course. The confirmation/receipt email you will receive has an example email template with directions for the individuals enrolling."
+msgstr "يرجى إرسال رمز تسجيل فريد لكل مشارك للتحضير في المساق. بريد التأكيد الذي ستتلقاه يحتوي نموذج بريد إلكتروني نموذجي."
+
+msgid "Popularity"
+msgstr "الشعبية"
+
+msgid "Price per student:"
+msgstr "السعر لكل طالب:"
+
+msgid "Price: high to low"
+msgstr "السعر: من الأعلى إلى الأدنى"
+
+msgid "Price: low to high"
+msgstr "السعر: من الأدنى إلى الأعلى"
+
+msgid "Provide a contact phone number for billing questions and support."
+msgstr "أدخل رقم هاتف الاتصال لأسئلة الدعم والفواتير."
+
+msgid "Provide the SMTP account username, often the email address used to authenticate with the server."
+msgstr "أدخل اسم مستخدم حساب SMTP، وهو غالباً عنوان البريد الإلكتروني للمصادقة."
+
+msgid "Punctuality is our top priority because it's an essential criteria to assess a program quality."
+msgstr "الالتزام بالمواعيد أولويتنا القصوى لأنه معيار أساسي لتقييم جودة البرنامج."
+
+msgid "Purchase Order Number"
+msgstr "رقم أمر الشراء"
+
+msgid "Purchase order number (if any)"
+msgstr "رقم أمر الشراء (إن وجد)"
+
+msgid "Purchasing Organizational Details"
+msgstr "تفاصيل مؤسسة الشراء"
+
+msgid "Purchasing organization"
+msgstr "مؤسسة الشراء"
+
+msgid "Push"
+msgstr "إشعار فوري"
+
+msgid "Push Notification Templates"
+msgstr "قوالب الإشعارات الفورية"
+
+msgid "Push Templates"
+msgstr "قوالب الإشعارات الفورية"
+
+msgid "Qty:"
+msgstr "الكمية:"
+
+msgid "Recipes"
+msgstr "وصفات"
+
+msgid "Recipient"
+msgstr "المستلم"
+
+msgid "Recipient Email"
+msgstr "بريد المستلم"
+
+msgid "Recipient Name"
+msgstr "اسم المستلم"
+
+msgid "Refund Report"
+msgstr "تقرير المبالغ المستردة"
+
+msgid "Registered Enrolls"
+msgstr "التحضيرات المسجّلة"
+
+msgid "Registration for:"
+msgstr "التسجيل لـ:"
+
+msgid "Request a Tutor"
+msgstr "طلب مدرّس"
+
+msgid "Request a Tutor Form"
+msgstr "نموذج طلب مدرّس"
+
+msgid "Resend Activation Email"
+msgstr "إعادة إرسال بريد التفعيل"
+
+msgid "Right"
+msgstr "يمين"
+
+msgid "Rows per page"
+msgstr "صفوف في الصفحة"
+
+msgid "Rule"
+msgstr "القاعدة"
+
+msgid "Rule Active"
+msgstr "القاعدة نشطة"
+
+msgid "Rules"
+msgstr "القواعد"
+
+msgid "SMS Templates"
+msgstr "قوالب الرسائل القصيرة"
+
+msgid "SMS text (max 480 chars)."
+msgstr "نص SMS (حد 480 حرفاً)."
+
+msgid "SMS text (max 480 chars). Use {{ username }}, {{ course_name }}, etc."
+msgstr "نص SMS (حد 480 حرفاً). استخدم {{ username }}، {{ course_name }}، إلخ."
+
+msgid "Satisfaction rate"
+msgstr "معدل الرضا"
+
+msgid "Save lessons for later and revise or write notes at any time and on multiple devices on your way. Never interfere with activities of enjoyment or other precious moments."
+msgstr "حفظ الدروس للمراجعة لاحقاً وكتابة الملاحظات في أي وقت وعلى أجهزة متعددة."
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "احفظ اسمي وبريدي الإلكتروني وموقعي في هذا المتصفح للمرة القادمة."
+
+msgid "Search…"
+msgstr "بحث…"
+
+msgid "Seeking for verbals of our service quality? Find them here. Everything is transparent and straightforward for your sense of jusitifcation."
+msgstr "تبحث عن شهادات على جودة خدمتنا؟ اجدها هنا. كل شيء شفاف ومباشر."
+
+msgid "Select Chart Type"
+msgstr "اختر نوع المخطط"
+
+msgid "Select Metric"
+msgstr "اختر المقياس"
+
+msgid "Select Payment Gateway"
+msgstr "اختر بوابة الدفع"
+
+msgid "Select Position"
+msgstr "اختر الموضع"
+
+msgid "Select Type"
+msgstr "اختر النوع"
+
+msgid "Select a value from API"
+msgstr "اختر قيمة من API"
+
+msgid "Select an icon"
+msgstr "اختر أيقونة"
+
+msgid "Select the currency type for transactions within the LMS system."
+msgstr "اختر نوع العملة للمعاملات داخل نظام إدارة التعلم."
+
+msgid "Select your industry to help personalize relevant learning content for your learners."
+msgstr "اختر قطاعك لمساعدتنا في تخصيص المحتوى التعليمي المناسب."
+
+msgid "Self Development"
+msgstr "التطوير الذاتي"
+
+msgid "Send to User"
+msgstr "أرسل للمستخدم"
+
+msgid "Sent At"
+msgstr "أُرسل في"
+
+msgid "Set the 'from' email address used for system notifications and communications to learners."
+msgstr "حدّد عنوان البريد الإلكتروني للمُرسِل المستخدم في إشعارات النظام."
+
+msgid "Set the web address for your learners to access your LMS platform."
+msgstr "حدّد عنوان الويب الذي سيستخدمه المتعلمون للوصول إلى منصتك."
+
+msgid "Shopping cart"
+msgstr "سلة التسوق"
+
+msgid "Since peer tutors are students just like you and have busy schedules, your first choice of tutor may not be able to accommodate your initial tutor request.  If this is the case, you will be given the opportunity to schedule a session with another tutor."
+msgstr "نظراً لأن مدرّسي الأقران طلاب مثلك ولديهم جداول مزدحمة، قد لا يتمكن خيارك الأول من تلبية طلبك الأولي. في هذه الحالة، ستُتاح لك فرصة جدولة جلسة مع مدرّس آخر."
+
+msgid "Solomon"
+msgstr "سليمان"
+
+msgid "Specify an email address for dispatching course-related notifications to learners."
+msgstr "حدّد عنوان بريد إلكتروني لإرسال إشعارات المساقات للمتعلمين."
+
+msgid "Specify the display label for tax charges on receipts and in the checkout process."
+msgstr "حدّد التسمية المعروضة لرسوم الضريبة على الإيصالات وفي عملية الدفع."
+
+msgid "Specify the port number for connecting to your SMTP server (commonly 25, 465 for SSL, or 587 for TLS)."
+msgstr "حدّد رقم المنفذ للاتصال بخادم SMTP (عادةً 25، أو 465 لـ SSL، أو 587 لـ TLS)."
+
+msgid "Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month."
+msgstr "خذ بعض الوقت لزيارة موقعنا أو مقرّنا الرئيسي واكتشف مساقاتنا الحالية وإجراءات التسجيل."
+
+msgid "Start Date: "
+msgstr "تاريخ البداية: "
+
+msgid "Start Letter: "
+msgstr "حرف البداية: "
+
+msgid "State"
+msgstr "الحالة"
+
+msgid "Subject (default)"
+msgstr "الموضوع (افتراضي)"
+
+msgid "Subject *"
+msgstr "الموضوع *"
+
+msgid "Subjects Taught"
+msgstr "المواد التي تُدرَّس"
+
+msgid "Subscribe"
+msgstr "اشترك"
+
+msgid "TOTAL:"
+msgstr "الإجمالي:"
+
+msgid "Take Your Food to The Next Level With These Methods"
+msgstr "ارفع مستوى طعامك باستخدام هذه الأساليب"
+
+msgid "Template name *"
+msgstr "اسم القالب *"
+
+msgid "The course you are enrolling for is closed."
+msgstr "المساق الذي تحاول التحضير فيه مغلق."
+
+msgid "The course you are enrolling for is full."
+msgstr "المساق الذي تحاول التحضير فيه ممتلئ."
+
+msgid "The enrollment process may take some time to complete. It will run in the background, allowing you to continue with other tasks without interruption."
+msgstr "قد تستغرق عملية التحضير بعض الوقت. ستعمل في الخلفية مما يتيح لك الاستمرار في المهام الأخرى."
+
+msgid "The following receipt has been emailed to {receipient_emails}"
+msgstr "تم إرسال الإيصال التالي بالبريد الإلكتروني إلى {receipient_emails}"
+
+msgid "The goal of TitanEd Kitchen Coach is to educate, motivate and inspire by teaching you how to prepare, cook, and eat the best plant-based food in the world! The food philosophy of the TitanEd Kitchen Coach is: Prepare food that is fresh & fantastic tasting."
+msgstr "هدف TitanEd Kitchen Coach هو التثقيف والتحفيز والإلهام بتعليمك كيفية تحضير أفضل الأطعمة النباتية في العالم!"
+
+msgid "The participation includes the following services"
+msgstr "تشمل المشاركة الخدمات التالية"
+
+msgid "The truth about dieting for weight loss, healthy eating"
+msgstr "الحقيقة حول الحمية لفقدان الوزن والأكل الصحي"
+
+msgid "There was an error in your date input.  It should be formatted as YYYY-MM-DD"
+msgstr "حدث خطأ في إدخال التاريخ. يجب أن يكون التنسيق YYYY-MM-DD."
+
+msgid "There was an error processing your order!"
+msgstr "حدث خطأ أثناء معالجة طلبك!"
+
+msgid "There was an error processing your redeem code."
+msgstr "حدث خطأ أثناء معالجة رمز الاسترداد."
+
+msgid "These reports are delimited alphabetically by university name.  i.e., generating a report with 'Start Letter' A and 'End Letter' C will generate reports for all universities starting with A, B, and C."
+msgstr "تُرتَّب هذه التقارير أبجدياً حسب اسم الجامعة. أي: إنشاء تقرير بـ 'حرف البداية' A و'حرف النهاية' C سيولّد تقارير لجميع الجامعات التي تبدأ بـ A أو B أو C."
+
+msgid "These reports are delimited by start and end dates."
+msgstr "تُحدَّد هذه التقارير بتواريخ البداية والنهاية."
+
+msgid "This one-to-one course is made to help you learn & cook exactly everything you need"
+msgstr "هذا المساق الفردي مصمّم لمساعدتك على تعلّم وطهي كل ما تحتاجه"
+
+msgid "Time of Day"
+msgstr "وقت اليوم"
+
+msgid "Timing"
+msgstr "التوقيت"
+
+msgid "Timing Type"
+msgstr "نوع التوقيت"
+
+msgid "TitanEd"
+msgstr "TitanEd"
+
+msgid "TitanEd Online Learning and Education"
+msgstr "TitanEd للتعلم والتعليم الإلكتروني"
+
+msgid "To Thrive In Business Today, You'll Need a Good Plan"
+msgstr "للازدهار في عالم الأعمال اليوم، ستحتاج إلى خطة جيدة"
+
+msgid "Trigger / State"
+msgstr "المحفّز / الحالة"
+
+msgid "True"
+msgstr "صحيح"
+
+msgid "Tutor Guidelines:"
+msgstr "إرشادات المدرّس:"
+
+msgid "Tutors are likely to be busy during the same times as you, particularly around prelims and finals. Thus, it is important that you make a request and schedule a tutoring session far enough in advance to accommodate both your and your tutor's schedules."
+msgstr "من المحتمل أن يكون المدرّسون مشغولين في نفس الأوقات التي تكون فيها مشغولاً، لا سيما خلال فترات الاختبارات. لذا من المهم تقديم طلبك وجدولة الجلسة مسبقاً بما يكفي."
+
+msgid "Tutors are not available for help with homework or projects: please consult your course's office hours for assistance."
+msgstr "لا يقدّم المدرّسون المساعدة في الواجبات أو المشاريع: يرجى الاستعانة بساعات العمل المكتبية لمساقك."
+
+msgid "University Revenue Share"
+msgstr "مشاركة إيرادات الجامعة"
+
+msgid "Used"
+msgstr "مستخدم"
+
+msgid "User Analytics"
+msgstr "تحليلات المستخدمين"
+
+msgid "View Dashboard"
+msgstr "عرض اللوحة"
+
+msgid "View in the new experience"
+msgstr "عرض في التجربة الجديدة"
+
+msgid "We are passionate about empowering learners to become critical thinkers, problem-solvers, and lifelong learners."
+msgstr "نحن شغوفون بتمكين المتعلمين ليصبحوا مفكّرين ناقدين وحالّي مشكلات ومتعلّمين مدى الحياة."
+
+msgid "We are pioneers of the digital approach, using leading-edge technology to simplify procedures and apply executive coaching in the new age of digitalization."
+msgstr "نحن روّاد النهج الرقمي، نستخدم أحدث التقنيات لتبسيط الإجراءات وتطبيق التدريب التنفيذي في عصر الرقمنة."
+
+msgid "We create a special recipe plan based on your interest & health-situation to make sure you'll love it"
+msgstr "نضع خطة وصفات خاصة بناءً على اهتماماتك وصحتك للتأكد من إعجابك بها"
+
+msgid "We organise educational contests for K-12 grade students in the US. Through the years, our students of have always succeeded in securing one of the Top 10 spots."
+msgstr "ننظّم مسابقات تعليمية لطلاب K-12. عبر السنين، نجح طلابنا دائماً في تأمين مراكز ضمن أفضل 10."
+
+msgid "We organize webinars and workshops for the children and youth to mentor them on various aspects of the world."
+msgstr "ننظّم ندوات عبر الإنترنت وورش عمل للأطفال والشباب لإرشادهم في مختلف جوانب الحياة."
+
+msgid "We provide the best quality education to enrich student learning beyond the conventional academics."
+msgstr "نقدّم أفضل جودة تعليمية لإثراء تعلّم الطلاب بما يتجاوز الأكاديميات التقليدية."
+
+msgid "We understand that every business is at a different stage of development; this is why we've also developed multiple Group Coaching programs to fit the needs of every kind of business."
+msgstr "ندرك أن كل عمل في مرحلة تطوير مختلفة؛ لذلك طوّرنا برامج تدريب جماعي متعددة تناسب كل نوع من الأعمال."
+
+msgid "Weekday"
+msgstr "يوم الأسبوع"
+
+msgid "What make they love us?"
+msgstr "لماذا يحبّوننا؟"
+
+msgid "WhatsApp Templates"
+msgstr "قوالب واتساب"
+
+msgid "When enabled, admin must manually verify each parent-child profile connection. If disabled, connections are automatically approved."
+msgstr "عند التفعيل، يجب على المشرف التحقق يدوياً من كل اتصال بين الوالد والطفل. وإلا تُوافَق الاتصالات تلقائياً."
+
+msgid "When requesting a tutor, please keep in mind the following policies:"
+msgstr "عند طلب مدرّس، يرجى مراعاة السياسات التالية:"
+
+msgid "Whole-Life Business Coaching for committed entrepreneurs"
+msgstr "تدريب تجاري شامل لرجال الأعمال الملتزمين"
+
+msgid "Why do people love me?"
+msgstr "لماذا يحبّني الناس؟"
+
+msgid "With everyone else's mindset involved impacting too. Hence why business coaching is so crucial for success."
+msgstr "مع تأثير عقلية الجميع أيضاً. لهذا يُعدّ التدريب التجاري بالغ الأهمية للنجاح."
+
+msgid "With our specialised Learning Journey Program, we prepare kids aged 6 to 16 achieve their career milestones, build social skills and gain a sense of community!"
+msgstr "من خلال برنامج رحلة التعلم المتخصص، نُعِدّ الأطفال من سن 6 إلى 16 لتحقيق أهدافهم المهنية وبناء مهاراتهم الاجتماعية."
+
+msgid "Workshops"
+msgstr "ورش عمل"
+
+msgid "You can be your own guiding star with our help!"
+msgstr "يمكنك أن تكون نجمتك الإرشادية بمساعدتنا!"
+
+msgid "You can learn any lesson on-the-go. You will be more confident creating your own healthy meals"
+msgstr "يمكنك تعلم أي درس أثناء التنقل. ستكون أكثر ثقة في تحضير وجباتك الصحية الخاصة"
+
+msgid "You can proceed to payment at any point in time. Any additional information you provide will be included in your receipt."
+msgstr "يمكنك المتابعة إلى الدفع في أي وقت. ستُضمَّن أي معلومات إضافية في إيصالك."
+
+msgid "You can revisit this page at any time to check the status of the task and view detailed updates."
+msgstr "يمكنك زيارة هذه الصفحة في أي وقت للتحقق من حالة المهمة وعرض التحديثات."
+
+msgid "You have not made any notes in this course yet. Other students in this course are using notes to:"
+msgstr "لم تُنشئ أي ملاحظات في هذا المساق بعد. يستخدم الطلاب الآخرون الملاحظات لـ:"
+
+msgid "You will get a clear sense of direction for your business, thorough assessment and faster results."
+msgstr "ستحصل على توجيه واضح لعملك، وتقييم شامل ونتائج أسرع."
+
+msgid "Your Address"
+msgstr "عنوانك"
+
+msgid "Your Comment"
+msgstr "تعليقك"
+
+msgid "Your E-mail"
+msgstr "بريدك الإلكتروني"
+
+msgid "Your Interest"
+msgstr "اهتمامك"
+
+msgid "Your Message"
+msgstr "رسالتك"
+
+msgid "Your Name *"
+msgstr "اسمك *"
+
+msgid "Your Shopping cart is currently empty."
+msgstr "سلة التسوق فارغة حالياً."
+
+msgid "Your e-mail"
+msgstr "بريدك الإلكتروني"
+
+msgid "Your phone number"
+msgstr "رقم هاتفك"
+
+msgid "Your skills will be upgraded at any level you are. We will make a 30 minutes phone-assistance before start"
+msgstr "ستُحسَّن مهاراتك بغض النظر عن مستواك. سنجري مساعدة هاتفية لمدة 30 دقيقة قبل البدء"
+
+msgid "code has been applied"
+msgstr "تم تطبيق الرمز"
+
+msgid "discount or activation code"
+msgstr "كوبون الخصم أو رمز التفعيل"
+
+msgid "e.g. 3"
+msgstr "مثال: 3"
+
+msgid "e.g. 7"
+msgstr "مثال: 7"
+
+msgid "e.g. Course Reminder Push"
+msgstr "مثال: إشعار تذكير بالمساق"
+
+msgid "e.g. Enrollment Reminder"
+msgstr "مثال: تذكير بالتحضير"
+
+msgid "e.g. Login OTP"
+msgstr "مثال: OTP تسجيل الدخول"
+
+msgid "e.g. Welcome Email"
+msgstr "مثال: بريد ترحيب"
+
+msgid "e.g. Welcome Email on Signup"
+msgstr "مثال: بريد ترحيب عند التسجيل"
+
+msgid "e.g. Welcome, {{ full_name }}!"
+msgstr "مثال: مرحباً، {{ full_name }}!"
+
+msgid "email1@example.com, email2@example.com"
+msgstr "email1@example.com, email2@example.com"
+
+msgid "email@example.com"
+msgstr "email@example.com"
+
+msgid "preference api"
+msgstr "preference api"
+
+msgid "session update url"
+msgstr "session update url"
+
+msgid "{course_names}"
+msgstr "{course_names}"
+
+msgid "{course_name}"
+msgstr "{course_name}"
+
+msgid "{course_number} {course_title} Cover Image"
+msgstr "صورة غلاف {course_number} {course_title}"
+
+msgid "{number} course registration code"
+msgstr "{number} رمز تسجيل مساق"
+
+msgid "{number} course registration codes"
+msgstr "{number} رموز تسجيل مساق"
+
+msgid "{platform_name} -  Confirm Enrollment"
+msgstr "{platform_name} - تأكيد التحضير"
+
+msgid "{platform_name} -  Shopping Cart"
+msgstr "{platform_name} - سلة التسوق"
+
+msgid "{receipient_emails}"
+msgstr "{receipient_emails}"
+
+msgid "{site_name} -  Confirm Enrollment"
+msgstr "{site_name} - تأكيد التحضير"
+
+msgid "{username}"
+msgstr "{username}"
+
+msgid "New Challenges, New Skills"
+msgstr "تحديات جديدة، مهارات جديدة"
+
+msgid "Get started today"
+msgstr "ابدأ اليوم"
+
+msgid "Let's Dream Big Together"
+msgstr "دعونا نحلم بأهداف كبيرة معاً"
+
+msgid "Get Free Quote"
+msgstr "احصل على عرض مجاني"
+
+msgid "Learn New Skills"
+msgstr "تعلم مهارات جديدة"
+
+msgid "Our Featured Courses"
+msgstr "دوراتنا المميزة"
+
+msgid "How can we help?"
+msgstr "كيف يمكننا المساعدة؟"
+
+msgid "Why would I need a business COACH?"
+msgstr "لماذا أحتاج إلى مدرب أعمال؟"
+
+msgid "What is one-on-one coaching?"
+msgstr "ما هو التدريب الفردي؟"
+
+msgid "70 views"
+msgstr "70 مشاهدة"
+
+msgid "People are praising TitanEd"
+msgstr "الناس يُثنون على TitanEd"
+
+msgid "Newsletters"
+msgstr "النشرات الإخبارية"
+
+msgid "Enter your email address to register to our newsletter subscription"
+msgstr "أدخل بريدك الإلكتروني للاشتراك في نشرتنا الإخبارية"
+
+msgid "delivered on a regular basis!"
+msgstr "تُسلَّم بشكل منتظم!"
+
+msgid "Discover now"
+msgstr "اكتشف الآن"
+
+msgid "Start Learning Coding Languages"
+msgstr "ابدأ تعلم لغات البرمجة"
+
+msgid "Build Your Dream"
+msgstr "ابنِ حلمك"
+
+msgid "TODAY"
+msgstr "اليوم"
+
+msgid "Everything"
+msgstr "كل شيء"
+
+msgid "Construct A"
+msgstr "بناء"
+
+msgid "Stunning"
+msgstr "مذهل"
+
+msgid "Career Perspective"
+msgstr "منظور مهني"
+
+msgid "Multiple Platforms Supported for Teaching & Studying"
+msgstr "منصات متعددة لدعم التعليم والدراسة"
+
+msgid "TitanEd supports the act of teaching and learning on multiple platforms like online or offline via material downloads. We know things aren't supposed to be devoured in a short time, you can always access our knowledge base from any device."
+msgstr "تدعم TitanEd عملية التعليم والتعلم على منصات متعددة سواء عبر الإنترنت أو دون اتصال من خلال تنزيل المواد. نعلم أن الأمور لا ينبغي استيعابها في وقت قصير، ويمكنك دائماً الوصول إلى قاعدة معارفنا من أي جهاز."
+
+msgid "Multiple Course Participation at the Same Time"
+msgstr "المشاركة في دورات متعددة في نفس الوقت"
+
+msgid "Study for a number of courses at the same time is possible as long as you can afford the fee and time for completing them in the proper time. Learn at your own desired timeline and timetable. Maximum up to 5 course at a time for a learner at TitanEd."
+msgstr "الدراسة في عدد من الدورات في نفس الوقت ممكنة طالما يمكنك تحمل الرسوم والوقت لإتمامها في الوقت المناسب. تعلم وفق جدولك الزمني الخاص. الحد الأقصى 5 دورات في وقت واحد للمتعلم في TitanEd."
+
+msgid "Track Study Progress & Deliver Prompt Feedback"
+msgstr "تتبع التقدم الدراسي وتقديم ملاحظات فورية"
+
+msgid "It's not just a normal thing to be able to build such a solid online educational system like TitanEd where your progress is easily tracked and feedback is properly delivered. We promise to keep improving our system for better stability and flexibility."
+msgstr "ليس من الأمور العادية بناء نظام تعليمي إلكتروني متين كـ TitanEd حيث يُتابع تقدمك بسهولة وتُقدَّم الملاحظات بشكل صحيح. نعدك بمواصلة تحسين نظامنا لتحقيق استقرار ومرونة أفضل."
+
+msgid "Choose where you'd like to begin"
+msgstr "اختر من أين تريد أن تبدأ"
+
+msgid "View all courses"
+msgstr "عرض جميع الدورات"
+
+msgid "Why hesitate to register?"
+msgstr "لماذا التردد في التسجيل؟"
+
+msgid "Learn At Your"
+msgstr "تعلم وفق"
+
+msgid "Own"
+msgstr "وتيرتك"
+
+msgid "Pace"
+msgstr "الخاصة"
+
+msgid "Select & customize courses to your preferences"
+msgstr "اختر وخصص الدورات وفق تفضيلاتك"
+
+msgid "Change the tutor and make arrangements"
+msgstr "غيّر المدرب وأجرِ الترتيبات اللازمة"
+
+msgid "Participate in events to join others"
+msgstr "شارك في الفعاليات للانضمام إلى الآخرين"
+
+msgid "Get the desired certificate delivered at house"
+msgstr "احصل على الشهادة المطلوبة موصلة إلى منزلك"
+
+msgid "What are you looking for?"
+msgstr "ماذا تبحث عن؟"
+
+msgid "Learn on your"
+msgstr "تعلم على"
+
+msgid "mobile"
+msgstr "هاتفك المحمول"
+
+msgid "anytime!"
+msgstr "في أي وقت!"
+
+msgid "What make they"
+msgstr "ما الذي يجعلهم"
+
+msgid "love us?"
+msgstr "يحبوننا؟"
+
+msgid "Start today for getting"
+msgstr "ابدأ اليوم للحصول على"
+
+msgid "Online Certification"
+msgstr "شهادة إلكترونية"
+
+msgid "Commence Business"
+msgstr "ابدأ عملك"
+
+msgid "Get to know about"
+msgstr "تعرف على"
+
+msgid "Learn about our"
+msgstr "تعرف على"
+
+msgid "Work Culture"
+msgstr "ثقافة العمل"
+
+msgid "at TitanEd"
+msgstr "في TitanEd"
+
+msgid "how we work"
+msgstr "كيف نعمل"
+
+msgid "Upgrade Your Skills"
+msgstr "طور مهاراتك"
+
+msgid "Upgrade Your Life"
+msgstr "غير حياتك"
+
+msgid "Testimonials"
+msgstr "شهادات العملاء"
+
+msgid "Why Do People"
+msgstr "لماذا يحب الناس"
+
+msgid "love"
+msgstr "TitanEd"
+
+msgid "Us?"
+msgstr "؟"
+
+msgid "Everything in"
+msgstr "كل شيء في"
+
+msgid "We're Here To"
+msgstr "نحن هنا لـ"
+
+msgid "Transform"
+msgstr "تحويلك"
+
+msgid "You!"
+msgstr ""
+
+msgid "Read for more enjoyment"
+msgstr "اقرأ للمزيد من المتعة"
+
+msgid "Latest From"
+msgstr "أحدث من"
+
+msgid "Sign up for our"
+msgstr "سجل في"
+
+msgid "Family Nutrition"
+msgstr "التغذية الأسرية"
+
+msgid "Life Mastery"
+msgstr "إتقان الحياة"
+
+msgid "I create an environment that will support you in achieving the goals you have set for yourself for being successful in the kitchen. You will love your kitchen like never before! I'm here to hold your hand as you learn the skills needed to feel confident and competent."
+msgstr "أنا أخلق بيئة تدعمك في تحقيق الأهداف التي حددتها لنفسك لتكون ناجحاً في المطبخ. ستحب مطبخك كما لم يحدث من قبل! أنا هنا لأمسك بيدك وأنت تتعلم المهارات اللازمة لتشعر بالثقة والكفاءة."
+
+msgid "Made Fresh Weekly"
+msgstr "جديد كل أسبوع"
+
+msgid "View Blog"
+msgstr "عرض المدونة"
+
