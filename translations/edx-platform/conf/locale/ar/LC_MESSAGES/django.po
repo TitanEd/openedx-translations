@@ -19136,7 +19136,7 @@ msgstr ""
 
 #: cms/templates/maintenance/_announcement_delete.html:35
 msgid "Confirm"
-msgstr ""
+msgstr "يتأكد"
 
 #: cms/templates/maintenance/_announcement_edit.html:8
 #: cms/templates/maintenance/_announcement_edit.html:11
@@ -19151,7 +19151,7 @@ msgstr "حفظ"
 
 #: cms/templates/maintenance/_announcement_index.html:42
 msgid "Create New"
-msgstr ""
+msgstr "إنشاء جديد"
 
 #: cms/templates/maintenance/_announcement_index.html:47
 msgid "previous"
@@ -26696,7 +26696,7 @@ msgid "Code Editor"
 msgstr "محرر الرمز"
 
 
-#Added by TitanEd
+# Added by TitanEd
 msgid "Discover"
 msgstr "اكتشف"
 
@@ -26810,6 +26810,7 @@ msgstr "كن مدرسًا"
 
 msgid "views"
 msgstr "مشاهدات"
+
 msgid "1 coupon entry was successfully deleted."
 msgstr "تم حذف إدخال القسيمة بنجاح."
 
@@ -30638,9 +30639,6 @@ msgstr "التلعيب"
 msgid "Get Started Now"
 msgstr "ابدأ الآن"
 
-msgid "Get started by making a note in something you just read, like {section_link}."
-msgstr "ابدأ بإنشاء ملاحظة في شيء قرأته للتو، مثل {section_link}."
-
 msgid "Get started for free"
 msgstr "ابدأ مجاناً"
 
@@ -30661,9 +30659,6 @@ msgstr "أساسيات الطهي الصحي التي توفر الوقت وال
 
 msgid "Help you love the dish"
 msgstr "نساعدك على محبة الطبق"
-
-msgid "Highlight important information to review later in the course or in future courses."
-msgstr "تسليط الضوء على المعلومات المهمة لمراجعتها لاحقاً."
 
 msgid "How many courses you've been on, using however many techniques and methods. Unless you've come to realize the value of mindset, then you've yet to understand how success comes."
 msgstr "بغض النظر عن كمية الدورات التي أخذتها والتقنيات التي استخدمتها، ما لم تدرك قيمة العقلية فلن تفهم كيف يأتي النجاح."
@@ -31205,9 +31200,6 @@ msgstr "يمكنك المتابعة إلى الدفع في أي وقت. ستُض
 msgid "You can revisit this page at any time to check the status of the task and view detailed updates."
 msgstr "يمكنك زيارة هذه الصفحة في أي وقت للتحقق من حالة المهمة وعرض التحديثات."
 
-msgid "You have not made any notes in this course yet. Other students in this course are using notes to:"
-msgstr "لم تُنشئ أي ملاحظات في هذا المساق بعد. يستخدم الطلاب الآخرون الملاحظات لـ:"
-
 msgid "You will get a clear sense of direction for your business, thorough assessment and faster results."
 msgstr "ستحصل على توجيه واضح لعملك، وتقييم شامل ونتائج أسرع."
 
@@ -31497,7 +31489,7 @@ msgid "Transform"
 msgstr "تحويلك"
 
 msgid "You!"
-msgstr ""
+msgstr "أنت!"
 
 msgid "Read for more enjoyment"
 msgstr "اقرأ للمزيد من المتعة"
@@ -31523,3 +31515,2586 @@ msgstr "جديد كل أسبوع"
 msgid "View Blog"
 msgstr "عرض المدونة"
 
+
+# Added by TitanEd - themes/indigo templates
+
+msgid ""
+"\n                                            If you access or use our Services through a third-party platform or service, or click on any third-party links, the collection, use, and sharing of your data will also be subject to the privacy policies and other agreements of that third party.\n                                        "
+msgstr ""
+"\nإذا قمت بالوصول إلى خدماتنا أو استخدامها من خلال منصة أو خدمة تابعة لجهة خارجية، أو قمت بالنقر فوق أي روابط تابعة لجهة خارجية، فإن جمع بياناتك واستخدامها ومشاركتها سيخضع أيضًا لسياسات الخصوصية والاتفاقيات الأخرى الخاصة بهذا الطرف الثالث."
+
+msgid ""
+"\n                                            Those platforms and services make information available to us through their APIs. The information we receive depends on what information you (via your privacy settings) or the platform or service decide to give us. \n                                        "
+msgstr ""
+"\nتتيح لنا هذه المنصات والخدمات المعلومات من خلال واجهات برمجة التطبيقات الخاصة بها. تعتمد المعلومات التي نتلقاها على المعلومات التي تقرر (عبر إعدادات الخصوصية الخاصة بك) أو النظام الأساسي أو الخدمة تقديمها لنا."
+
+msgid ""
+"\n                                            We may obtain certain information through your social media or other online accounts if they are connected to your Titan Education and Learning System account. If you login to Titan Education and Learning System via Facebook or another third-party platform or service, we ask for your permission to access certain information about that other account. For example, depending on the platform or service we may collect your name, profile picture, account ID"
+" number, login email address, location, physical location of your access devices, gender, birthday, and list of friends or contacts. \n                                        "
+msgstr ""
+"\nقد نحصل على معلومات معينة من خلال وسائل التواصل الاجتماعي أو الحسابات الأخرى عبر الإنترنت إذا كانت مرتبطة بحساب Titan Education and Learning System الخاص بك. إذا قمت بتسجيل الدخول إلى Titan Education and Learning System عبر Facebook أو منصة أو خدمة أخرى تابعة لجهة خارجية، فإننا نطلب إذنك للوصول إلى معلومات معينة حول هذا الحساب الآخر. على سبيل المثال، اعتمادًا على النظام الأساسي أو الخدمة، قد نقوم بجمع اسمك وصورة ملفك الشخصي ورقم معرف الحساب وعنوان البريد الإلكتروني لتسجيل الدخول والموقع والموقع الفعلي لأجهزة الوصول الخاصة بك والجنس وتاريخ الميلاد وقائمة الأصدقاء أو جهات الاتصال."
+
+msgid ""
+"\n                                        If you are a student, visit your profile settings page and follow the steps detailed here. \n                                        \n                                    "
+msgstr ""
+"\nإذا كنت طالبًا، فتفضل بزيارة صفحة إعدادات ملفك الشخصي واتبع الخطوات المفصلة هنا."
+
+msgid ""
+"\n                                        If you are an instructor, follow the steps detailed here. \n                                        \n                                    "
+msgstr ""
+"\nإذا كنت مدرسًا، فاتبع الخطوات المفصلة هنا."
+
+msgid ""
+"\n                                        If you have any issues terminating your account, please contact our Support Team. \n                                        \n                                    "
+msgstr ""
+"\nإذا كانت لديك أية مشكلات في إنهاء حسابك، فيرجى الاتصال بفريق الدعم لدينا."
+
+msgid ""
+"\n                                        Please note: even after your account is terminated, some or all of your data may still be visible to others, including without limitation any data that has been (a) copied, stored, or disseminated by other users (including comments on content); (b) shared or disseminated by you or others (including in your shared content); or (c) posted to a third-party platform. Even after your account is terminated, we retain your data for as long as we have a legitimat"
+"e purpose to do so (and in accordance with applicable law), including to assist with legal obligations, resolve disputes, and enforce our agreements. We may retain and disclose such data pursuant to this Privacy Policy after your account has been terminated. \n                                    "
+msgstr ""
+"\nيرجى ملاحظة: حتى بعد إنهاء حسابك، قد تظل بعض أو كل بياناتك مرئية للآخرين، بما في ذلك، على سبيل المثال لا الحصر، أي بيانات تم (أ) نسخها أو تخزينها أو نشرها بواسطة مستخدمين آخرين (بما في ذلك التعليقات على المحتوى)؛ (ب) تمت مشاركتها أو نشرها بواسطتك أو بواسطتك أو بواسطة آخرين (بما في ذلك المحتوى المشترك الخاص بك)؛ أو (ج) تم نشرها على منصة خارجية. حتى بعد إنهاء حسابك، نحتفظ ببياناتك طالما كان لدينا غرض مشروع للقيام بذلك (وبموجب القانون المعمول به)، بما في ذلك المساعدة في الالتزامات القانونية وحل النزاعات وإنفاذ اتفاقياتنا. يجوز لنا الاحتفاظ بهذه البيانات والكشف عنها وفقًا لسياسة الخصوصية هذه بعد إنهاء حسابك."
+
+msgid ""
+"\n                                    access or search or attempt to access or search our platform by any means (automated or otherwise) other than through our currently available search functionalities that are provided via our website, mobile apps, or API (and only pursuant to those API terms and conditions). You may not scrape, spider, use a robot, or use other automated means of any kind to access the Services. \n                                    \n                                "
+msgstr ""
+"\nالوصول أو البحث أو محاولة الوصول إلى منصتنا أو البحث فيها بأي وسيلة (آلية أو غير ذلك) بخلاف وظائف البحث المتاحة لدينا حاليًا والتي يتم توفيرها عبر موقعنا الإلكتروني أو تطبيقات الهاتف المحمول أو واجهة برمجة التطبيقات (وفقط وفقًا لشروط وأحكام واجهة برمجة التطبيقات). لا يجوز لك استخراج روبوت أو عنكبوته أو استخدامه أو استخدام وسائل آلية أخرى من أي نوع للوصول إلى الخدمات."
+
+msgid ""
+"\n                                    access, tamper with, or use non-public areas of the platform (including content storage), Titan Education and Learning System computer systems, or the technical delivery systems of Titan Education and Learning System service providers. \n                                    \n                                "
+msgstr ""
+"\nالوصول إلى المناطق غير العامة في النظام الأساسي أو التلاعب بها أو استخدامها (بما في ذلك تخزين المحتوى)، أو أنظمة كمبيوتر Titan Education and Learning System، أو أنظمة التسليم الفنية لمقدمي خدمات Titan Education and Learning System."
+
+msgid ""
+"\n                                    copy, modify, create a derivative work of, reverse engineer, reverse assemble, or otherwise attempt to discover any source code of or content on the Titan Education and Learning System platform or Services. \n                                    \n                                "
+msgstr ""
+"\nنسخ أو تعديل أو إنشاء عمل مشتق أو إجراء هندسة عكسية أو تجميع عكسي أو محاولة اكتشاف أي كود مصدر أو محتوى على منصة أو خدمات Titan Education and Learning System."
+
+msgid ""
+"\n                                    disable, interfere with, or try to circumvent any of the features of the platforms related to security or probe, scan, or test the vulnerability of any of our systems. \n                                    \n                                "
+msgstr ""
+"\nتعطيل أو التدخل في أو محاولة التحايل على أي من ميزات الأنظمة الأساسية المتعلقة بالأمان أو فحص أو فحص أو اختبار نقاط الضعف في أي من أنظمتنا."
+
+msgid ""
+"\n                                    in any way use the Services to send altered, deceptive, or false source-identifying information (such as sending email communications falsely appearing as Titan Education and Learning System); or interfere with, or disrupt, (or attempt to do so), the access of any user, host, or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the platforms or services, or in any other manner interfering with or creatin"
+"g an undue burden on the Services. \n                                "
+msgstr ""
+"\nاستخدام الخدمات بأي شكل من الأشكال لإرسال معلومات تعريف المصدر المعدلة أو الخادعة أو الزائفة (مثل إرسال اتصالات البريد الإلكتروني التي تظهر بشكل خاطئ على أنها Titan Education and Learning System)؛ أو التدخل في أو تعطيل (أو محاولة القيام بذلك) وصول أي مستخدم أو مضيف أو شبكة، بما في ذلك، على سبيل المثال لا الحصر، إرسال فيروس أو تحميل زائد أو إغراق أو إرسال بريد عشوائي أو قصف المنصات أو الخدمات عبر البريد، أو بأي طريقة أخرى التدخل في الخدمات أو خلق عبء لا مبرر له عليها."
+
+msgid ""
+"\n                                Advertising: These Data Collection Tools are used to deliver relevant ads (on the site and/or other sites) based on things we know about you like your Usage and System Data (as detailed in Section 1), and things that the ad service providers know about you based on their tracking data. The ads can be based on your recent activity or activity over time and across other sites and services. To help deliver tailored advertising, we may provide these service providers"
+" with a hashed, anonymized version of your email address (in a non-human-readable form) and content that you share publicly on the Services.\n                            "
+msgstr ""
+"\nالإعلان: تُستخدم أدوات جمع البيانات هذه لتقديم الإعلانات ذات الصلة (على الموقع و/أو المواقع الأخرى) بناءً على الأشياء التي نعرفها عنك مثل بيانات الاستخدام والنظام (كما هو مفصل في القسم 1)، والأشياء التي يعرفها مقدمو خدمة الإعلانات عنك بناءً على بيانات التتبع الخاصة بهم. يمكن أن تعتمد الإعلانات على نشاطك الأخير أو نشاطك بمرور الوقت وعبر المواقع والخدمات الأخرى. للمساعدة في تقديم إعلانات مخصصة، قد نزود موفري الخدمة هؤلاء بنسخة مجزأة ومجهولة المصدر من عنوان بريدك الإلكتروني (في نموذج غير قابل للقراءة البشرية) والمحتوى الذي تشاركه بشكل عام على الخدمات."
+
+msgid ""
+"\n                                After Aggregation/De-identification: We may disclose or use aggregated or de-identified data for any purpose. \n                            "
+msgstr ""
+"\nبعد التجميع/إلغاء تحديد الهوية: يجوز لنا الكشف عن البيانات المجمعة أو التي تم إلغاء تحديد هويتها أو استخدامها لأي غرض من الأغراض."
+
+msgid ""
+"\n                                All right, title, and interest in and to the Titan Education and Learning System platform and Services, including our website, our existing or future applications, our APIs, databases, and the content our employees or partners submit or provide through our Services (but excluding content provided by instructors and students) are and will remain the exclusive property of Titan Education and Learning System and its licensors. Our platforms and services are protecte"
+"d by copyright, trademark, and other laws of both India and foreign countries. Nothing gives you a right to use the Titan Education and Learning System name or any of the Titan Education and Learning System trademarks, logos, domain names, and other distinctive brand features. Any feedback, comments, or suggestions you may provide regarding Titan Education and Learning System or the Services is entirely voluntary and we will be free to use such feedback, comments, or suggestions as we see fit an"
+"d without any obligation to you. \n                                You may not do any of the following while accessing or using the Titan Education and Learning System platform and Services: \n                            "
+msgstr ""
+"\nجميع الحقوق والملكية والاهتمام بمنصة وخدمات Titan Education and Learning System، بما في ذلك موقعنا الإلكتروني وتطبيقاتنا الحالية أو المستقبلية وواجهات برمجة التطبيقات وقواعد البيانات الخاصة بنا والمحتوى الذي يقدمه موظفونا أو شركاؤنا أو يقدمونه من خلال خدماتنا (ولكن باستثناء المحتوى المقدم من المعلمين والطلاب) هي وستظل ملكية حصرية لشركة Titan Education and Learning System والجهات المرخصة لها. منصاتنا وخدماتنا محمية بموجب حقوق الطبع والنشر والعلامات التجارية والقوانين الأخرى في كل من الهند والدول الأجنبية. لا شيء يمنحك الحق في استخدام اسم Titan Education and Learning System أو أي من العلامات التجارية والشعارات وأسماء النطاقات وغيرها من ميزات العلامة التجارية المميزة الخاصة بـ Titan Education and Learning System. أي تعليقات أو تعليقات أو اقتراحات قد تقدمها فيما يتعلق بنظام Titan للتعليم والتعلم أو الخدمات هي طوعية تمامًا وسنكون أحرارًا في استخدام هذه التعليقات أو التعليقات أو الاقتراحات على النحو الذي نراه مناسبًا ودون أي التزام تجاهك. \n                                لا يجوز لك القيام بأي مما يلي أثناء الوصول إلى أو استخدام منصة وخدمات نظام Titan للتعليم والتعلم:"
+
+msgid ""
+"\n                                Any notice or other communication to be given hereunder will be in writing and given by registered or certified mail return receipt requested, or email (by us to the email associated with your account or by you to info@titaned.com). \n                            "
+msgstr ""
+"\nأي إشعار أو اتصال آخر يتم تقديمه بموجب هذه الاتفاقية سيكون كتابيًا ويتم تقديمه عن طريق إيصال إرجاع بالبريد المسجل أو المعتمد المطلوب، أو عبر البريد الإلكتروني (بواسطتنا إلى البريد الإلكتروني المرتبط بحسابك أو بواسطتك إلى info@titaned.com)."
+
+msgid ""
+"\n                                Any version of these Terms in a language other than English is provided for convenience and you understand and agree that the English language will control if there is any conflict. \n                                \n                            "
+msgstr ""
+"\nيتم توفير أي إصدار من هذه الشروط بلغة غير الإنجليزية من أجل الراحة، وأنت تفهم وتوافق على أن اللغة الإنجليزية هي التي ستتحكم في حالة وجود أي تعارض."
+
+msgid ""
+"\n                                Anyone can use Titan Education and Learning System to create and publish content and instructors and we enable instructors and students to interact for teaching and learning. Like other platforms where people can post content and interact, some things can go wrong, and you use Titan Education and Learning System at your own risk. \n                                \n                            "
+msgstr ""
+"\nيمكن لأي شخص استخدام نظام Titan للتعليم والتعلم لإنشاء ونشر المحتوى والمعلمين، كما نقوم بتمكين المعلمين والطلاب من التفاعل من أجل التدريس والتعلم. مثل الأنظمة الأساسية الأخرى حيث يمكن للأشخاص نشر المحتوى والتفاعل، قد تسوء بعض الأمور، ويمكنك استخدام Titan Education and Learning System على مسؤوليتك الخاصة."
+
+msgid ""
+"\n                                At our discretion, if we believe you are abusing our refund policy, such as if you’ve consumed a significant portion of the content that you want to refund or if you’ve previously refunded the content, we reserve the right to deny your refund, restrict you from other future refunds, ban your account, and/or restrict all future use of the Services. If we ban your account or disable your access to the content due to your violation of these Terms or our Trust & Safe"
+"ty Guidelines, you will not be eligible to receive a refund. Additional information on our refund policy is available here. \n                                \n                            "
+msgstr ""
+"\nوفقًا لتقديرنا، إذا اعتقدنا أنك تسيء استخدام سياسة استرداد الأموال الخاصة بنا، مثل إذا استهلكت جزءًا كبيرًا من المحتوى الذي تريد استرداده أو إذا قمت باسترداد المحتوى مسبقًا، فإننا نحتفظ بالحق في رفض استرداد أموالك، وتقييدك من عمليات استرداد الأموال الأخرى في المستقبل، وحظر حسابك، و/أو تقييد جميع الاستخدامات المستقبلية للخدمات. إذا قمنا بحظر حسابك أو تعطيل وصولك إلى المحتوى بسبب انتهاكك لهذه الشروط أو إرشادات الثقة والسلامة الخاصة بنا، فلن تكون مؤهلاً لاسترداد الأموال. تتوفر معلومات إضافية حول سياسة استرداد الأموال لدينا هنا."
+
+msgid ""
+"\n                                By using the Services, you may be exposed to content that you consider offensive, indecent, or objectionable. Titan Education and Learning System has no responsibility to keep such content from you and no liability for your access or enrollment in any course or other content, to the extent permissible under applicable law. This also applies to any content relating to health, wellness, and physical exercise. You acknowledge the inherent risks and dangers in the st"
+"renuous nature of these types of content, and by accessing such content you choose to assume those risks voluntarily, including risk of illness, bodily injury, disability, or death. You assume full responsibility for the choices you make before, during, and after your access to the content. \n                                \n                            "
+msgstr ""
+"\nباستخدام الخدمات، قد تتعرض لمحتوى تعتبره مسيئًا أو غير لائق أو غير مرغوب فيه. لا تتحمل Titan Education and Learning System أي مسؤولية عن الاحتفاظ بهذا المحتوى منك ولا تتحمل أي مسؤولية عن وصولك أو تسجيلك في أي دورة تدريبية أو محتوى آخر، إلى الحد الذي يسمح به القانون المعمول به. وينطبق هذا أيضًا على أي محتوى يتعلق بالصحة والعافية والتمارين البدنية. أنت تقر بالمخاطر والمخاطر الكامنة في الطبيعة الشاقة لهذه الأنواع من المحتوى، ومن خلال الوصول إلى هذا المحتوى، فإنك تختار تحمل تلك المخاطر طواعية، بما في ذلك خطر المرض أو الإصابة الجسدية أو الإعاقة أو الوفاة. أنت تتحمل المسؤولية الكاملة عن الاختيارات التي تقوم بها قبل وأثناء وبعد وصولك إلى المحتوى."
+
+msgid ""
+"\n                                During a Change in Control: If Titan Education and Learning System undergoes a business transaction like a merger, acquisition, corporate divestiture, or dissolution (including bankruptcy), or a sale of all or some of its assets, we may share, disclose, or transfer all of your data to the successor organization during such transition or in contemplation of a transition (including during due diligence).\n                            "
+msgstr ""
+"\nأثناء تغيير السيطرة: إذا خضعت Titan Education and Learning System لمعاملة تجارية مثل الاندماج أو الاستحواذ أو تصفية الشركة أو حلها (بما في ذلك الإفلاس)، أو بيع كل أو بعض أصولها، فيجوز لنا مشاركة جميع بياناتك أو الكشف عنها أو نقلها إلى المؤسسة اللاحقة أثناء هذا التحول أو عند التفكير في النقل (بما في ذلك أثناء العناية الواجبة)."
+
+msgid ""
+"\n                                During your subscription to a Subscription Plan, you get a limited, non-exclusive, non-transferable license from us to access and view the content included in that Subscription Plan via the Services. With the exception of the lifetime access license grant, the terms included in the “Content Enrollment and Lifetime Access” section above apply to enrollments via Subscription Plans. \n                                \n                            "
+msgstr ""
+"\nأثناء اشتراكك في خطة الاشتراك، تحصل على ترخيص محدود وغير حصري وغير قابل للتحويل منا للوصول إلى المحتوى المضمن في خطة الاشتراك وعرضه عبر الخدمات. باستثناء منحة ترخيص الوصول مدى الحياة، تنطبق الشروط المضمنة في قسم \"تسجيل المحتوى والوصول مدى الحياة\" أعلاه على عمليات التسجيل عبر خطط الاشتراك."
+
+msgid ""
+"\n                                Even if we are delayed in exercising our rights or fail to exercise a right in one case, it doesn’t mean we waive our rights under these Terms, and we may decide to enforce them in the future. If we decide to waive any of our rights in a particular instance, it doesn’t mean we waive our rights generally or in the future. \n                                The following sections shall survive the expiration or termination of these Terms: Sections 2 (Content Enrollme"
+"nt and Lifetime Access), 5 (Titan Education and Learning System Rights to Content You Post), 6 (Using Titan Education and Learning System at Your Own Risk), 7 (Titan Education and Learning System Rights), 8.5 (Subscription Disclaimers), 9 (Miscellaneous Legal Terms), and 10 (Dispute Resolution). \n                                \n                            "
+msgstr ""
+"\nحتى لو تأخرنا في ممارسة حقوقنا أو فشلنا في ممارسة حق في حالة واحدة، فهذا لا يعني أننا نتنازل عن حقوقنا بموجب هذه الشروط، وقد نقرر تنفيذها في المستقبل. إذا قررنا التنازل عن أي من حقوقنا في حالة معينة، فهذا لا يعني أننا نتنازل عن حقوقنا بشكل عام أو في المستقبل. \n                                تظل الأقسام التالية سارية بعد انتهاء هذه الشروط أو إنهائها: الأقسام 2 (تسجيل المحتوى والوصول إليه مدى الحياة)، و5 (حقوق نظام Titan Education and Learning للمحتوى الذي تنشره)، و6 (استخدام نظام Titan Education and Learning على مسؤوليتك الخاصة)، و7 (حقوق نظام Titan Education and Learning System)، و8.5 (إخلاء مسؤولية الاشتراك)، و9 (شروط قانونية متنوعة)، و10 (حل النزاعات)."
+
+msgid ""
+"\n                                Facilitate the Services’ technical functioning, including troubleshooting and resolving issues, securing the Services, and preventing fraud and abuse; \n                            "
+msgstr ""
+"\nتسهيل الأداء الفني للخدمات، بما في ذلك استكشاف الأخطاء وإصلاحها وحل المشكلات، وتأمين الخدمات، ومنع الاحتيال وإساءة الاستخدام؛"
+
+msgid ""
+"\n                                For Advertising: If we decide to use an advertising-supported revenue model in the future, we may use and share certain System Data and Usage Data with third-party advertisers and networks to show general demographic and preference information among our users. We may also allow advertisers to collect System Data through Data Collection Tools (as detailed in Section 2.1), to use this data to offer you targeted ad delivery to personalize your user experience (throu"
+"gh behavioral advertising), and to undertake web analytics. Advertisers may also share with us the data they collect about you. To learn more or opt out from participating ad networks’ behavioral advertising, see Section 6.1 (Your Choices About the Use of Your Data) below. Note that if you opt out, you’ll continue to be served generic ads. \n                                \n                            "
+msgstr ""
+"\nللإعلان: إذا قررنا استخدام نموذج الإيرادات المدعوم بالإعلانات في المستقبل، فقد نستخدم ونشارك بعض بيانات النظام وبيانات الاستخدام مع معلنين وشبكات خارجية لعرض معلومات ديموغرافية وتفضيلية عامة بين مستخدمينا. قد نسمح أيضًا للمعلنين بجمع بيانات النظام من خلال أدوات جمع البيانات (كما هو مفصل في القسم 2.1)، لاستخدام هذه البيانات لنقدم لك عرضًا مستهدفًا للإعلانات لتخصيص تجربة المستخدم الخاصة بك (من خلال الإعلانات السلوكية)، ولإجراء تحليلات الويب. قد يشارك المعلنون أيضًا البيانات التي يجمعونها عنك. لمعرفة المزيد أو إلغاء الاشتراك في الإعلانات السلوكية لشبكات الإعلانات المشاركة، راجع القسم 6.1 (اختياراتك حول استخدام بياناتك) أدناه. لاحظ أنه إذا قمت بإلغاء الاشتراك، فسوف يستمر عرض الإعلانات العامة عليك."
+
+msgid ""
+"\n                                From time to time, we may update these Terms to clarify our practices or to reflect new or different practices (such as when we add new features), and Titan Education and Learning System reserves the right in its sole discretion to modify and/or make changes to these Terms at any time. If we make any material change, we will notify you using prominent means, such as by email notice sent to the email address specified in your account or by posting a notice through"
+" our Services. Modifications will become effective on the day they are posted unless stated otherwise. \n                            "
+msgstr ""
+"\nمن وقت لآخر، قد نقوم بتحديث هذه الشروط لتوضيح ممارساتنا أو لتعكس ممارسات جديدة أو مختلفة (على سبيل المثال عندما نضيف ميزات جديدة)، ويحتفظ Titan Education and Learning System بالحق وفقًا لتقديره الخاص في تعديل و/أو إجراء تغييرات على هذه الشروط في أي وقت. إذا أجرينا أي تغيير جوهري، فسنخطرك باستخدام وسائل بارزة، مثل إشعار عبر البريد الإلكتروني يتم إرساله إلى عنوان البريد الإلكتروني المحدد في حسابك أو عن طريق نشر إشعار عبر خدماتنا. ستصبح التعديلات سارية المفعول في يوم نشرها ما لم ينص على خلاف ذلك."
+
+msgid ""
+"\n                                Functional: These Data Collection Tools remember data about your browser and your preferences, provide additional site functionality, customize content to be more relevant to you, and remember settings affecting the appearance and behavior of the Services (like your preferred language or volume level for video playback).\n                            "
+msgstr ""
+"\nالوظيفية: تتذكر أدوات جمع البيانات هذه البيانات المتعلقة بالمتصفح الخاص بك وتفضيلاتك، وتوفر وظائف إضافية للموقع، وتخصيص المحتوى ليكون أكثر ملاءمة لك، وتذكر الإعدادات التي تؤثر على مظهر الخدمات وسلوكها (مثل اللغة المفضلة لديك أو مستوى الصوت لتشغيل الفيديو)."
+
+msgid ""
+"\n                                If a user has published content that infringes your copyright or trademark rights, please let us know. Our Instructor Terms require our instructors to follow the law and respect the intellectual property rights of others. For more details on how to file a copyright or trademark infringement claim with us, see our Intellectual Property Policy. \n                            "
+msgstr ""
+"\nإذا قام أحد المستخدمين بنشر محتوى ينتهك حقوق الطبع والنشر أو حقوق العلامات التجارية الخاصة بك، فيرجى إخبارنا بذلك. تتطلب شروط المدرب الخاصة بنا من المدرسين اتباع القانون واحترام حقوق الملكية الفكرية للآخرين. لمزيد من التفاصيل حول كيفية تقديم مطالبة بانتهاك حقوق الطبع والنشر أو العلامات التجارية لدينا، راجع سياسة الملكية الفكرية الخاصة بنا."
+
+msgid ""
+"\n                                If the content you purchased is not what you were expecting, you can request, within 15 days of your purchase of the content, that Titan Education and Learning System apply a refund to your account. This refund option does not apply to Subscription Plan purchases, which are covered in Section 8.4 below. We reserve the right to apply your refund as a refund credit or a refund to your original payment method, at our discretion, depending on capabilities of our paym"
+"ent service providers, the platform from which you purchased your content (website, mobile or TV app), and other factors. No refund is due to you if you request it after the 15-day guarantee time limit has passed. However, if the content you previously purchased is disabled for legal or policy reasons, you are entitled to a refund beyond this 15-day limit. Titan Education and Learning System also reserves the right to refund students beyond the 15-day limit in cases of suspected or confirmed acc"
+"ount fraud. \n                                \n                            "
+msgstr ""
+"\nإذا لم يكن المحتوى الذي اشتريته هو ما كنت تتوقعه، فيمكنك أن تطلب، في غضون 15 يومًا من شراء المحتوى، أن يقوم Titan Education and Learning System باسترداد الأموال إلى حسابك. لا ينطبق خيار استرداد الأموال هذا على مشتريات خطة الاشتراك، والتي يتم تناولها في القسم 8.4 أدناه. نحن نحتفظ بالحق في تطبيق المبلغ المسترد كرصيد استرداد أو استرداد إلى طريقة الدفع الأصلية الخاصة بك، وفقًا لتقديرنا، اعتمادًا على قدرات موفري خدمة الدفع لدينا، والنظام الأساسي الذي اشتريت منه المحتوى الخاص بك (موقع الويب، أو تطبيق الهاتف المحمول أو التلفزيون)، وعوامل أخرى. لا يوجد أي رد مستحق لك إذا طلبت ذلك بعد انقضاء فترة الضمان البالغة 15 يومًا. ومع ذلك، إذا تم تعطيل المحتوى الذي اشتريته مسبقًا لأسباب قانونية أو تتعلق بالسياسة، فيحق لك استرداد أموالك بعد حد الـ 15 يومًا هذا. تحتفظ Titan Education and Learning System أيضًا بالحق في استرداد الأموال للطلاب بما يتجاوز حد الـ 15 يومًا في حالات الاحتيال في الحساب المشتبه به أو المؤكد."
+
+msgid ""
+"\n                                If there’s a dispute, our Support Team is happy to help resolve the issue. \n                            "
+msgstr ""
+"\nإذا كان هناك نزاع، فسيسعد فريق الدعم لدينا بالمساعدة في حل المشكلة."
+
+msgid ""
+"\n                                If we are put on notice that your course or content violates the law or the rights of others (for example, if it is established that it violates intellectual property or image rights of others, or is about an illegal activity), if we discover that your content or behavior violates our Trust & Safety Guidelines, or if we believe your content or behavior is unlawful, inappropriate, or objectionable (for example if you impersonate someone else), we may remove your c"
+"ontent from our platform. Titan Education and Learning System complies with copyright laws. Check out our Intellectual Property Policy for more details. \n                                \n                            "
+msgstr ""
+"\nإذا تم إخطارنا بأن الدورة التدريبية أو المحتوى الخاص بك ينتهك القانون أو حقوق الآخرين (على سبيل المثال، إذا ثبت أنه ينتهك الملكية الفكرية أو حقوق الصور للآخرين، أو يتعلق بنشاط غير قانوني)، إذا اكتشفنا أن المحتوى أو السلوك الخاص بك ينتهك إرشادات الثقة والسلامة الخاصة بنا، أو إذا كنا نعتقد أن المحتوى أو السلوك الخاص بك غير قانوني أو غير مناسب أو مرفوض (على سبيل المثال، إذا كنت تنتحل شخصية شخص آخر)، فقد نقوم بإزالة المحتوى الخاص بك من نظامنا الأساسي. يتوافق نظام تيتان للتعليم والتعلم مع قوانين حقوق النشر. تحقق من سياسة الملكية الفكرية لدينا لمزيد من التفاصيل."
+
+msgid ""
+"\n                                If we are unable to process payment through the payment method we have on file for you, or if you file a chargeback disputing charges made to your payment method and the chargeback is granted, we may suspend or terminate your subscription. \n                                \n                            "
+msgstr ""
+"\nإذا لم نتمكن من معالجة الدفع من خلال طريقة الدفع الموجودة لدينا في ملفك، أو إذا قمت بتقديم طلب استرداد المبالغ المدفوعة متعارضًا مع الرسوم المفروضة على طريقة الدفع الخاصة بك وتم قبول استرداد المبالغ المدفوعة، فيجوز لنا تعليق اشتراكك أو إنهائه."
+
+msgid ""
+"\n                                If we decide to issue refund credits to your account, they will be automatically applied towards your next content purchase on our website. Refund credits may expire if not used within the specified period and have no cash value, in each case unless otherwise required by applicable law. \n                                \n                            "
+msgstr ""
+"\nإذا قررنا إصدار أرصدة استرداد إلى حسابك، فسيتم تطبيقها تلقائيًا على عملية شراء المحتوى التالية على موقعنا. قد تنتهي صلاحية الاعتمادات المستردة إذا لم يتم استخدامها خلال الفترة المحددة وليس لها قيمة نقدية، في كل حالة ما لم ينص القانون المعمول به على خلاف ذلك."
+
+msgid ""
+"\n                                If you are a student located in a country where use and sales tax, goods and services tax, or value added tax is applicable to consumer sales, we are responsible for collecting and remitting that tax to the proper tax authorities. Depending on your location, the price you see may include such taxes, or tax may be added at checkout. \n                                \n                            "
+msgstr ""
+"\nإذا كنت طالبًا مقيمًا في بلد تنطبق فيه ضريبة الاستخدام والمبيعات، أو ضريبة السلع والخدمات، أو ضريبة القيمة المضافة على مبيعات المستهلكين، فنحن مسؤولون عن تحصيل تلك الضريبة وتحويلها إلى السلطات الضريبية المختصة. اعتمادًا على موقعك، قد يشمل السعر الذي تراه هذه الضرائب، أو قد يتم إضافة الضريبة عند الخروج."
+
+msgid ""
+"\n                                If you are a student, the Services enable you to ask questions to the instructors of courses or other content you are enrolled in, and to post reviews of content. For certain content, the instructor may invite you to submit content as “homework” or tests. Don’t post or submit anything that is not yours. \n                                \n                            "
+msgstr ""
+"\nإذا كنت طالبًا، فإن الخدمات تمكنك من طرح الأسئلة على مدرسي الدورات أو المحتوى الآخر الذي قمت بالتسجيل فيه، ونشر مراجعات للمحتوى. بالنسبة لمحتوى معين، قد يدعوك المعلم لإرسال المحتوى كـ \"واجب منزلي\" أو اختبارات. لا تنشر أو ترسل أي شيء ليس لك."
+
+msgid ""
+"\n                                If you are an instructor accepting these Terms and using our Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so. \n                                \n                            "
+msgstr ""
+"\nإذا كنت مدرسًا تقبل هذه الشروط وتستخدم خدماتنا نيابة عن شركة أو مؤسسة أو حكومة أو كيان قانوني آخر، فإنك تقر وتضمن أنك مرخص للقيام بذلك."
+
+msgid ""
+"\n                                If you are an instructor, you can submit content for publication on the platform and you can also communicate with the students who have enrolled in your courses or other content. In both cases, you must abide by the law and respect the rights of others: you cannot post any course, question, answer, review or other content that violates applicable local or national laws or regulations of your country. You are solely responsible for any courses, content, and actio"
+"ns you post or take via the platform and Services and their consequences. Make sure you understand all the copyright restrictions set forth in the Instructor Terms before you submit any content for publication on Titan Education and Learning System. \n                                \n                            "
+msgstr ""
+"\nإذا كنت مدرسًا، يمكنك إرسال محتوى للنشر على المنصة ويمكنك أيضًا التواصل مع الطلاب الذين قاموا بالتسجيل في دوراتك أو أي محتوى آخر. في كلتا الحالتين، يجب عليك الالتزام بالقانون واحترام حقوق الآخرين: لا يمكنك نشر أي دورة أو سؤال أو إجابة أو مراجعة أو أي محتوى آخر ينتهك القوانين أو اللوائح المحلية أو الوطنية المعمول بها في بلدك. أنت وحدك المسؤول عن أي دورات ومحتوى وإجراءات تنشرها أو تتخذها عبر النظام الأساسي والخدمات وعواقبها. تأكد من أنك تفهم جميع قيود حقوق الطبع والنشر المنصوص عليها في شروط المدرب قبل إرسال أي محتوى للنشر على Titan Education and Learning System."
+
+msgid ""
+"\n                                If you are logged into your account, the listed currency you see is based on your location when you created your account. If you are not logged into your account, the price currency is based on the country where you are located. We do not enable users to see pricing in other currencies. \n                                \n                            "
+msgstr ""
+"\nإذا قمت بتسجيل الدخول إلى حسابك، فإن العملة المدرجة التي تراها تعتمد على موقعك عند إنشاء حسابك. إذا لم تقم بتسجيل الدخول إلى حسابك، فستعتمد عملة السعر على البلد الذي تتواجد فيه. نحن لا نمكن المستخدمين من رؤية الأسعار بالعملات الأخرى."
+
+msgid ""
+"\n                                If you behave in a way that gets us in legal trouble, we may exercise legal recourse against you. You agree to indemnify, defend (if we so request), and hold harmless Titan Education and Learning System, our group companies, and their officers, directors, suppliers, partners, and agents from an against any third-party claims, demands, losses, damages, or expenses (including reasonable attorney fees) arising from (a) the content you post or submit, (b) your use of"
+" the Services (c) your violation of these Terms, or (d) your violation of any rights of a third party. Your indemnification obligation will survive the termination of these Terms and your use of the Services. \n                            "
+msgstr ""
+"\nإذا تصرفت بطريقة تسبب لنا مشكلة قانونية، فقد نمارس حق اللجوء القانوني ضدك. أنت توافق على تعويض Titan Education and Learning System وشركاتها ومسؤوليها ومديريها ومورديها وشركائها ووكلائها والدفاع عنها (إذا طلبنا ذلك) وحمايتها من أي مطالبات أو طلبات أو خسائر أو أضرار أو نفقات من طرف ثالث (بما في ذلك أتعاب المحاماة المعقولة) الناشئة عن (أ) المحتوى الذي تنشره أو ترسله، (ب) استخدامك للخدمات، (ج) انتهاكك لهذه الشروط، أو (د) انتهاكك لأي حقوق لطرف ثالث. وسيظل التزامك بالتعويض ساريًا بعد إنهاء هذه الشروط واستخدامك للخدمات."
+
+msgid ""
+"\n                                If you publish a course on the Titan Education and Learning System platform, you must also agree to the Instructor Terms. We also provide details regarding our processing of personal data of our students and instructors in our Privacy Policy. If you are using Titan Education and Learning System as part of your employer’s Titan Education and Learning System Business learning and development program, you can consult our Titan Education and Learning System Business "
+"Privacy Statement. \n                            "
+msgstr ""
+"\nإذا قمت بنشر دورة تدريبية على منصة Titan Education and Learning System، فيجب عليك أيضًا الموافقة على شروط المدرب. نقدم أيضًا تفاصيل تتعلق بمعالجتنا للبيانات الشخصية لطلابنا ومدرسينا في سياسة الخصوصية الخاصة بنا. إذا كنت تستخدم نظام Titan للتعليم والتعلم كجزء من برنامج تعلم وتطوير الأعمال الخاص بنظام Titan للتعليم والتعلم الخاص بصاحب العمل، فيمكنك الرجوع إلى بيان خصوصية أعمال نظام Titan للتعليم والتعلم الخاص بنا."
+
+msgid ""
+"\n                                If you’re a student located in India, you’re contracting with Titan Education and Learning System Pvt Ltd and these Terms are governed by the laws of India, without reference to its choice or conflicts of law principles, and you consent to the exclusive jurisdiction and venue of the courts in Bangalore, India.\n                            "
+msgstr ""
+"\nإذا كنت طالبًا مقيمًا في الهند، فأنت تتعاقد مع شركة Titan Education and Learning System Pvt Ltd وتخضع هذه الشروط لقوانين الهند، دون الرجوع إلى اختيارها أو تضارب مبادئ القانون، وأنت توافق على الاختصاص القضائي الحصري ومكان انعقاد المحاكم في بنغالور، الهند."
+
+msgid ""
+"\n                                In legal language, by submitting or posting content on or through the platforms, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, and distribute your content (including your name and image) in any and all media or distribution methods (existing now or later developed). This includes making your content available to other companies, organization"
+"s, or individuals who partner with Titan Education and Learning System for the syndication, broadcast, distribution, or publication of content on other media, as well as using your content for marketing purposes. You also waive any rights of privacy, publicity, or other rights of a similar nature applicable to all these uses, to the extent permissible under applicable law. You represent and warrant that you have all the rights, power, and authority necessary to authorize us to use any content th"
+"at you submit. You also agree to all such uses of your content with no compensation paid to you. \n                            "
+msgstr ""
+"\nباللغة القانونية، من خلال إرسال محتوى أو نشره على المنصات أو من خلالها، فإنك تمنحنا ترخيصًا عالميًا وغير حصري وخالي من حقوق الملكية (مع الحق في الترخيص من الباطن) لاستخدام المحتوى الخاص بك ونسخه وإعادة إنتاجه ومعالجته وتكييفه وتعديله ونشره ونقله وعرضه وتوزيعه (بما في ذلك اسمك وصورتك) في أي وجميع الوسائط أو طرق التوزيع (الموجودة الآن أو التي تم تطويرها لاحقًا). يتضمن ذلك إتاحة المحتوى الخاص بك للشركات أو المؤسسات أو الأفراد الآخرين الذين يتشاركون مع Titan Education and Learning System من أجل مشاركة المحتوى أو بثه أو توزيعه أو نشره على وسائط أخرى، بالإضافة إلى استخدام المحتوى الخاص بك لأغراض تسويقية. كما أنك تتنازل عن أي حقوق تتعلق بالخصوصية أو الدعاية أو أي حقوق أخرى ذات طبيعة مماثلة تنطبق على جميع هذه الاستخدامات، إلى الحد الذي يسمح به القانون المعمول به. أنت تقر وتضمن أن لديك جميع الحقوق والسلطة والسلطة اللازمة للسماح لنا باستخدام أي محتوى ترسله. أنت توافق أيضًا على جميع هذه الاستخدامات للمحتوى الخاص بك دون دفع أي تعويض لك."
+
+msgid ""
+"\n                                In legal, more complete terms, Titan Education and Learning System grants you (as a student) a limited, non-exclusive, non-transferable license to access and view the content for which you have paid all required fees, solely for your personal, non-commercial, educational purposes through the Services, in accordance with these Terms and any conditions or restrictions associated with the particular content or feature of our Services. All other uses are expressly pr"
+"ohibited. You may not reproduce, redistribute, transmit, assign, sell, broadcast, rent, share, lend, modify, adapt, edit, create derivative works of, sublicense, or otherwise transfer or use any content unless we give you explicit permission to do so in a written agreement signed by a Titan Education and Learning System authorized representative. This also applies to content you can access via any of our APIs. \n                                \n                            "
+msgstr ""
+"\nمن الناحية القانونية الأكثر اكتمالاً، يمنحك Titan Education and Learning System (كطالب) ترخيصًا محدودًا وغير حصري وغير قابل للتحويل للوصول إلى المحتوى الذي دفعت جميع الرسوم المطلوبة وعرضه، فقط لأغراضك الشخصية وغير التجارية والتعليمية من خلال الخدمات، وفقًا لهذه الشروط وأي شروط أو قيود مرتبطة بالمحتوى أو الميزة المحددة لخدماتنا. جميع الاستخدامات الأخرى محظورة صراحة. لا يجوز لك إعادة إنتاج أو إعادة توزيع أو نقل أو تعيين أو بيع أو بث أو تأجير أو مشاركة أو إقراض أو تعديل أو تكييف أو تحرير أو إنشاء أعمال مشتقة أو ترخيص من الباطن أو نقل أو استخدام أي محتوى ما لم نمنحك إذنًا صريحًا للقيام بذلك في اتفاقية مكتوبة موقعة من ممثل معتمد من Titan Education and Learning System. وينطبق هذا أيضًا على المحتوى الذي يمكنك الوصول إليه عبر أي من واجهات برمجة التطبيقات الخاصة بنا."
+
+msgid ""
+"\n                                In the event that we update your payment method using information provided by our payment service providers (as described in the “Payments, Credits, and Refunds” section above), you authorize us to continue to charge the then-applicable fees to your updated payment method. \n                            "
+msgstr ""
+"\nفي حالة قيامنا بتحديث طريقة الدفع الخاصة بك باستخدام المعلومات المقدمة من موفري خدمات الدفع لدينا (كما هو موضح في قسم \"المدفوعات والائتمانات والمبالغ المستردة\" أعلاه)، فإنك تسمح لنا بمواصلة تحصيل الرسوم المطبقة آنذاك على طريقة الدفع المحدثة الخاصة بك."
+
+msgid ""
+"\n                                Instructors may not grant licenses to their content to students directly, and any such direct license shall be null and void and a violation of these Terms. \n                            "
+msgstr ""
+"\nلا يجوز للمدربين منح تراخيص لمحتواهم للطلاب مباشرة، ويعتبر أي ترخيص مباشر من هذا القبيل لاغيًا وباطلاً ويمثل انتهاكًا لهذه الشروط."
+
+msgid ""
+"\n                                It may happen that our platform is down, either for planned maintenance or because something goes down with the site. It may happen that one of our instructors is making misleading statements in their content. It may also happen that we encounter security issues. These are just examples. You accept that you will not have any recourse against us in any of these types of cases where things don’t work out right. In legal, more complete language, the Services and the"
+"ir content are provided on an “as is” and “as available” basis. We (and our affiliates, suppliers, partners, and agents) make no representations or warranties about the suitability, reliability, availability, timeliness, security, lack of errors, or accuracy of the Services or their content, and expressly disclaim any warranties or conditions (express or implied), including implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. We (and our affiliate"
+"s, suppliers, partners, and agents) make no warranty that you will obtain specific results from use of the Services. Your use of the Services (including any content) is entirely at your own risk. Some jurisdictions don’t allow the exclusion of implied warranties, so some of the above exclusions may not apply to you. \n                                \n                            "
+msgstr ""
+"\nقد يحدث أن تكون منصتنا معطلة، إما بسبب الصيانة المخطط لها أو بسبب عطل ما في الموقع. قد يحدث أن أحد مدرسينا يدلي ببيانات مضللة في محتواه. قد يحدث أيضًا أن نواجه مشكلات أمنية. هذه مجرد أمثلة. أنت توافق على أنه لن يكون لديك أي حق الرجوع ضدنا في أي من هذه الحالات التي لا تسير فيها الأمور على ما يرام. بلغة قانونية أكثر اكتمالًا، يتم توفير الخدمات ومحتواها على أساس \"كما هي\" و\"كما هو متاح\". نحن (والشركات التابعة لنا والموردين والشركاء والوكلاء) لا نقدم أي تعهدات أو ضمانات بشأن الملاءمة أو الموثوقية أو التوفر أو التوقيت أو الأمان أو عدم وجود أخطاء أو دقة الخدمات أو محتواها، وننكر صراحة أي ضمانات أو شروط (صريحة أو ضمنية)، بما في ذلك الضمانات الضمنية الخاصة بالتسويق والملاءمة لغرض معين والملكية وعدم الانتهاك. نحن (والشركات التابعة لنا والموردين والشركاء والوكلاء) لا نقدم أي ضمان بأنك ستحصل على نتائج محددة من استخدام الخدمات. إن استخدامك للخدمات (بما في ذلك أي محتوى) يكون على مسؤوليتك الخاصة بالكامل. لا تسمح بعض الولايات القضائية باستثناء الضمانات الضمنية، لذلك قد لا تنطبق عليك بعض الاستثناءات المذكورة أعلاه."
+
+msgid ""
+"\n                                Manage your account and account preferences; \n                            "
+msgstr ""
+"\nإدارة حسابك وتفضيلات الحساب؛"
+
+msgid ""
+"\n                                No action, regardless of form, arising out of or relating to this Agreement may be brought by either party more than one (1) year after the cause of action has accrued, except where this limitation cannot be imposed by law. \n                            "
+msgstr ""
+"\nلا يجوز لأي من الطرفين رفع أي إجراء، بغض النظر عن الشكل، ينشأ عن هذه الاتفاقية أو يتعلق بها بعد أكثر من عام واحد (1) من نشوء سبب الدعوى، باستثناء الحالات التي لا يمكن فيها فرض هذا القيد بموجب القانون."
+
+msgid ""
+"\n                                Our platform model means we do not review or edit the content for legal issues, and we are not in a position to determine the legality of content. We do not exercise any editorial control over the content that is available on the platform and, as such, do not guarantee in any manner the reliability, validity, accuracy, or truthfulness of the content. If you access content, you rely on any information provided by an instructor at your own risk. \n                  "
+"              \n                            "
+msgstr ""
+"\nنموذج النظام الأساسي الخاص بنا يعني أننا لا نقوم بمراجعة المحتوى أو تحريره لأسباب قانونية، ولسنا في وضع يسمح لنا بتحديد شرعية المحتوى. نحن لا نمارس أي سيطرة تحريرية على المحتوى المتوفر على المنصة، وعلى هذا النحو، لا نضمن بأي شكل من الأشكال موثوقية المحتوى أو صحته أو دقته أو صدقه. إذا تمكنت من الوصول إلى المحتوى، فإنك تعتمد على أي معلومات يقدمها المعلم على مسؤوليتك الخاصة."
+
+msgid ""
+"\n                                Performance: These Data Collection Tools help measure and improve the Services by providing usage and performance data, visit counts, traffic sources, or where an application was downloaded from. These tools can help us test different versions of Titan Education and Learning System to see which features or content users prefer and determine which email messages are opened.\n                            "
+msgstr ""
+"\nالأداء: تساعد أدوات جمع البيانات هذه في قياس الخدمات وتحسينها من خلال توفير بيانات الاستخدام والأداء، أو عدد الزيارات، أو مصادر حركة المرور، أو المكان الذي تم تنزيل التطبيق منه. يمكن أن تساعدنا هذه الأدوات في اختبار إصدارات مختلفة من Titan Education and Learning System لمعرفة الميزات أو المحتوى الذي يفضله المستخدمون وتحديد رسائل البريد الإلكتروني التي يتم فتحها."
+
+msgid ""
+"\n                                Process payments to instructors and other third parties; \n                            "
+msgstr ""
+"\nمعالجة المدفوعات للمعلمين والأطراف الثالثة الأخرى؛"
+
+msgid ""
+"\n                                Process your requests and orders for educational content, products, specific services, information, or features;\n                            "
+msgstr ""
+"\nمعالجة طلباتك وأوامرك الخاصة بالمحتوى التعليمي أو المنتجات أو الخدمات أو المعلومات أو الميزات المحددة؛"
+
+msgid ""
+"\n                                Provide and administer the Services, including to facilitate participation in educational content, issue completion certificates, display customized content, and facilitate communication with other users; \n                            "
+msgstr ""
+"\nتوفير الخدمات وإدارتها، بما في ذلك تسهيل المشاركة في المحتوى التعليمي، وإصدار شهادات الإنجاز، وعرض المحتوى المخصص، وتسهيل التواصل مع المستخدمين الآخرين؛"
+
+msgid ""
+"\n                                Social Media: These Data Collection Tools enable social media functionality, like sharing content with friends and networks. These cookies may track a user or device across other sites and build a profile of user interests for targeted advertising purposes.\n                            "
+msgstr ""
+"\nوسائل التواصل الاجتماعي: تتيح أدوات جمع البيانات هذه وظائف الوسائط الاجتماعية، مثل مشاركة المحتوى مع الأصدقاء والشبكات. قد تقوم ملفات تعريف الارتباط هذه بتتبع مستخدم أو جهاز عبر مواقع أخرى وإنشاء ملف تعريف لاهتمامات المستخدم لأغراض إعلانية مستهدفة."
+
+msgid ""
+"\n                                Solicit feedback from users; \n                            "
+msgstr ""
+"\nالتماس ردود الفعل من المستخدمين؛"
+
+msgid ""
+"\n                                Strictly Necessary: These Data Collection Tools enable you to access the site, provide basic functionality (like logging in or accessing content), secure the site, protect against fraudulent logins, and detect and prevent abuse or unauthorized use of your account. These are required for the Services to work properly, so if you disable them, parts of the site will break or be unavailable. \n                            "
+msgstr ""
+"\nضرورية للغاية: تمكّنك أدوات جمع البيانات هذه من الوصول إلى الموقع، وتوفير الوظائف الأساسية (مثل تسجيل الدخول أو الوصول إلى المحتوى)، وتأمين الموقع، والحماية من عمليات تسجيل الدخول الاحتيالية، واكتشاف ومنع إساءة الاستخدام أو الاستخدام غير المصرح به لحسابك. وهي ضرورية لكي تعمل الخدمات بشكل صحيح، لذا إذا قمت بتعطيلها، فسوف تتعطل أجزاء من الموقع أو تصبح غير متوفرة."
+
+msgid ""
+"\n                                Students and instructors must be at least 18 years of age to create an account on Titan Education and Learning System and use the Services. If you are younger than 18 but above the required age for consent to use online services where you live (for example, 13 in the US or 16 in Ireland), you may not set up an account, but we encourage you to invite a parent or guardian to open an account and help you access content that is appropriate for you. If you are below t"
+"his age of consent to use online services, you may not create a Titan Education and Learning System account. If we discover that you have created an account that violates these rules, we will terminate your account. Under our Instructor Terms, you may be requested to verify your identity before you are authorized to submit content for publication on Titan Education and Learning System. \n                                \n                            "
+msgstr ""
+"\nيجب أن يكون عمر الطلاب والمعلمين 18 عامًا على الأقل حتى يتمكنوا من إنشاء حساب على نظام Titan للتعليم والتعلم واستخدام الخدمات. إذا كان عمرك أقل من 18 عامًا ولكن فوق السن المطلوب للموافقة على استخدام الخدمات عبر الإنترنت في المكان الذي تعيش فيه (على سبيل المثال، 13 عامًا في الولايات المتحدة أو 16 عامًا في أيرلندا)، فلا يجوز لك إنشاء حساب، ولكننا نشجعك على دعوة أحد الوالدين أو الوصي لفتح حساب ومساعدتك في الوصول إلى المحتوى المناسب لك. إذا كنت أقل من سن الموافقة لاستخدام الخدمات عبر الإنترنت، فلا يجوز لك إنشاء حساب Titan Education and Learning System. إذا اكتشفنا أنك قمت بإنشاء حساب ينتهك هذه القواعد، فسنقوم بإنهاء حسابك. بموجب شروط المدرب الخاصة بنا، قد يُطلب منك التحقق من هويتك قبل أن يُسمح لك بإرسال محتوى للنشر على نظام Titan للتعليم والتعلم."
+
+msgid ""
+"\n                                Thanks for teaching and learning with us! \n                            "
+msgstr ""
+"\nشكرا للتعليم والتعلم معنا!"
+
+msgid ""
+"\n                                The best way to get in touch with us is to contact our Support Team or mail us at info@titaned.com. We’d love to hear your questions, concerns, and feedback about our Services. \n                            "
+msgstr ""
+"\nأفضل طريقة للتواصل معنا هي الاتصال بفريق الدعم لدينا أو مراسلتنا عبر البريد الإلكتروني على info@titaned.com. نود أن نسمع أسئلتك واهتماماتك وتعليقاتك حول خدماتنا."
+
+msgid ""
+"\n                                The prices of content on Titan Education and Learning System are determined based on the terms of the Instructor Terms and our Promotions Policy. In some instances, the price of content offered on the Titan Education and Learning System website may not be exactly the same as the price offered on our mobile or TV applications, due to mobile platform providers’ pricing systems and their policies around implementing sales and promotions. \n                           "
+"     \n                            "
+msgstr ""
+"\nيتم تحديد أسعار المحتوى الموجود على Titan Education and Learning System بناءً على شروط المدرب وسياسة العروض الترويجية الخاصة بنا. في بعض الحالات، قد لا يكون سعر المحتوى المعروض على موقع Titan Education and Learning System الإلكتروني هو نفس السعر المعروض على تطبيقات الهاتف المحمول أو التلفزيون لدينا، وذلك بسبب أنظمة التسعير الخاصة بموفري منصات الهاتف المحمول وسياساتهم المتعلقة بتنفيذ المبيعات والعروض الترويجية."
+
+msgid ""
+"\n                                The subscription fee will be listed at the time of your purchase. You can visit our Support Page to learn more about where to find the fees and dates applicable to your subscription. We may also be required to add taxes to your subscription fee as described in the “Payments, Credits, and Refunds” section above. Payments are non-refundable and there are no refunds or credits for partially used periods, unless otherwise required by applicable law. Depending on wher"
+"e you are located, you may qualify for a refund. See our Refund Policy for Subscription Plans for additional information. \n                            "
+msgstr ""
+"\nسيتم إدراج رسوم الاشتراك في وقت الشراء. يمكنك زيارة صفحة الدعم الخاصة بنا لمعرفة المزيد حول مكان العثور على الرسوم والتواريخ المطبقة على اشتراكك. قد يُطلب منا أيضًا إضافة ضرائب إلى رسوم اشتراكك كما هو موضح في قسم \"المدفوعات والائتمانات والمبالغ المستردة\" أعلاه. المدفوعات غير قابلة للاسترداد ولا توجد مبالغ مستردة أو أرصدة لفترات الاستخدام جزئيًا، ما لم ينص القانون المعمول به على خلاف ذلك. اعتمادًا على مكان تواجدك، قد تكون مؤهلاً لاسترداد الأموال. راجع سياسة استرداد الأموال الخاصة بنا لخطط الاشتراك للحصول على معلومات إضافية."
+
+msgid ""
+"\n                                The subscription that you purchase or renew determines the scope, features, and price of your access to a Subscription Plan. You may not transfer, assign, or share your subscription with anyone else. \n                                \n                            "
+msgstr ""
+"\nيحدد الاشتراك الذي تشتريه أو تجدده نطاق وميزات وسعر وصولك إلى خطة الاشتراك. لا يجوز لك نقل اشتراكك أو تعيينه أو مشاركته مع أي شخص آخر."
+
+msgid ""
+"\n                                These codes and credits, as well as any promotional value linked to them, may expire if not used within the period specified in your Titan Education and Learning System account. Gift and promotional codes offered by Titan Education and Learning System may not be refunded for cash, unless otherwise specified in the terms included with your codes or as required by applicable law. Gift and promotional codes offered by a partner are subject to that partner’s refund p"
+"olicies. If you have multiple saved credit amounts, Titan Education and Learning System may determine which of your credits to apply to your purchase. Check out our Support Page and any terms included with your codes for more details. \n                            "
+msgstr ""
+"\nقد تنتهي صلاحية هذه الرموز والأرصدة، بالإضافة إلى أي قيمة ترويجية مرتبطة بها، إذا لم يتم استخدامها خلال الفترة المحددة في حساب Titan Education and Learning System الخاص بك. لا يجوز استرداد الهدايا والرموز الترويجية التي تقدمها Titan Education and Learning System نقدًا، ما لم يُنص على خلاف ذلك في الشروط المضمنة مع الرموز الخاصة بك أو كما يقتضي القانون المعمول به. تخضع الهدايا والرموز الترويجية التي يقدمها الشريك لسياسات استرداد الأموال الخاصة بهذا الشريك. إذا كان لديك مبالغ ائتمانية متعددة محفوظة، فقد يحدد Titan Education and Learning System أي من الاعتمادات الخاصة بك سيتم تطبيقه على عملية الشراء. قم بمراجعة صفحة الدعم الخاصة بنا وأي شروط مضمنة مع الرموز الخاصة بك لمزيد من التفاصيل."
+
+msgid ""
+"\n                                These Terms (including any agreements and policies linked from these Terms) constitute the entire agreement between you and us (which include, if you are an instructor, the Instructor Terms and the Promotions Policy). \n                                If any part of these Terms is found to be invalid or unenforceable by applicable law, then that provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the origin"
+"al provision and the remainder of these Terms will continue in effect. \n                                \n                            "
+msgstr ""
+"\nتشكل هذه الشروط (بما في ذلك أي اتفاقيات وسياسات مرتبطة بهذه الشروط) الاتفاقية الكاملة بينك وبيننا (والتي تشمل، إذا كنت مدرسًا، شروط المدرب وسياسة العروض الترويجية). \n                                إذا تبين أن أي جزء من هذه الشروط غير صالح أو غير قابل للتنفيذ بموجب القانون المعمول به، فسيتم اعتبار هذا الحكم محله حكم صالح وقابل للتنفيذ يتطابق بشكل وثيق مع غرض الحكم الأصلي وستظل بقية هذه الشروط سارية."
+
+msgid ""
+"\n                                These Terms are like any other contract, and they have boring but important legal terms that protect us from the countless things that could happen and that clarify the legal relationship between us and you. \n                            "
+msgstr ""
+"\nهذه الشروط مثل أي عقد آخر، ولها شروط قانونية مملة ولكنها مهمة تحمينا من أشياء لا حصر لها يمكن أن تحدث وتوضح العلاقة القانونية بيننا وبينك."
+
+msgid ""
+"\n                                These Terms of Use (\\\"Terms\\\") were last updated on May 10, 2023. \n                            "
+msgstr ""
+"\nتم تحديث شروط الاستخدام هذه (\\\"الشروط\\\") آخر مرة في 10 مايو 2023."
+
+msgid ""
+"\n                                This section covers additional terms that apply to your use of our subscription-based collections as a student (“Subscription Plans”). By using a Subscription Plan, you agree to the additional terms in this section. Note that use of Titan Education and Learning System Business is not subject to these Terms, but is instead governed by the agreement between Titan Education and Learning System and the subscribing organization. \n                                \n     "
+"                       "
+msgstr ""
+"\nيغطي هذا القسم الشروط الإضافية التي تنطبق على استخدامك لمجموعاتنا القائمة على الاشتراك كطالب (\"خطط الاشتراك\"). باستخدام خطة الاشتراك، فإنك توافق على الشروط الإضافية الواردة في هذا القسم. لاحظ أن استخدام Titan Education and Learning System Business لا يخضع لهذه الشروط، ولكنه بدلاً من ذلك يخضع للاتفاقية المبرمة بين Titan Education and Learning System والمؤسسة المشتركة."
+
+msgid ""
+"\n                                Titan Education and Learning System has discretion in enforcing these Terms and our Trust & Safety Guidelines. We may restrict or terminate your permission to use our platform and Services or ban your account at any time, with or without notice, for any or no reason, including for any violation of these Terms, if you fail to pay any fees when due, for fraudulent chargeback requests, upon the request of law enforcement or government agencies, for extended periods "
+"of inactivity, for unexpected technical issues or problems, if we suspect that you engage in fraudulent or illegal activities, or for any other reason in our sole discretion. Upon any such termination we may delete your account and content, and we may prevent you from further access to the platforms and use of our Services. Your content may still be available on the platforms even if your account is terminated or suspended. You agree that we will have no liability to you or any third party for t"
+"ermination of your account, removal of your content, or blocking of your access to our platforms and services.             \n                            "
+msgstr ""
+"\nتتمتع شركة Titan Education and Learning System بسلطة تقديرية في تنفيذ هذه الشروط وإرشادات الثقة والسلامة الخاصة بنا. يجوز لنا تقييد أو إنهاء إذنك لاستخدام منصتنا وخدماتنا أو حظر حسابك في أي وقت، مع أو بدون إشعار، لأي سبب أو بدون سبب، بما في ذلك أي انتهاك لهذه الشروط، إذا فشلت في دفع أي رسوم عند الاستحقاق، لطلبات رد المبالغ المدفوعة الاحتيالية، بناءً على طلب سلطات إنفاذ القانون أو الوكالات الحكومية، لفترات طويلة من عدم النشاط، أو بسبب مشكلات أو مشكلات فنية غير متوقعة، إذا اشتبهنا في أنك تشارك في أنشطة احتيالية أو غير قانونية، أو لأي سبب آخر وفقًا لتقديرنا الخاص. عند أي إنهاء من هذا القبيل، يجوز لنا حذف حسابك والمحتوى الخاص بك، وقد نمنعك من الوصول إلى المنصات واستخدام خدماتنا. قد يظل المحتوى الخاص بك متاحًا على الأنظمة الأساسية حتى إذا تم إنهاء حسابك أو تعليقه. أنت توافق على أننا لن نتحمل أي مسؤولية تجاهك أو تجاه أي طرف ثالث عن إنهاء حسابك، أو إزالة المحتوى الخاص بك، أو حظر وصولك إلى منصاتنا وخدماتنا."
+
+msgid ""
+"\n                                Titan Education and Learning System mission is to improve lives through learning. We enable anyone anywhere to create and share educational content (instructors) and to access that educational content to learn (students). We consider our marketplace model the best way to offer valuable educational content to our users. We need rules to keep our platform and services safe for you, us, and our student and instructor community. These Terms apply to all your activiti"
+"es on the Titan Education and Learning System website, the Titan Education and Learning System mobile applications, other applications, our APIs, and other related services (“Services”). \n                            "
+msgstr ""
+"\nتتمثل مهمة Titan Education and Learning System في تحسين الحياة من خلال التعلم. نحن نمكن أي شخص في أي مكان من إنشاء ومشاركة المحتوى التعليمي (المدرسين) والوصول إلى هذا المحتوى التعليمي للتعلم (الطلاب). نحن نعتبر نموذج السوق الخاص بنا أفضل طريقة لتقديم محتوى تعليمي قيم لمستخدمينا. نحن بحاجة إلى قواعد للحفاظ على منصتنا وخدماتنا آمنة لك ولنا ولمجتمع الطلاب والمدرسين. تنطبق هذه الشروط على جميع أنشطتك على موقع Titan Education and Learning System الإلكتروني، وتطبيقات الهاتف المحمول Titan Education and Learning System، والتطبيقات الأخرى، وواجهات برمجة التطبيقات الخاصة بنا، والخدمات الأخرى ذات الصلة (\"الخدمات\")."
+
+msgid ""
+"\n                                Titan Education and Learning System or our partners may offer gift and promotional codes to students. Certain codes may be redeemed for gift or promotional credits applied to your Titan Education and Learning System account, which then may be used to purchase eligible content on our platform, subject to the terms included with your codes. Other codes may be directly redeemable for specific content. \n                            "
+msgstr ""
+"\nقد يقدم Titan Education and Learning System أو شركاؤنا هدايا وأكوادًا ترويجية للطلاب. قد يتم استبدال بعض الرموز مقابل هدايا أو أرصدة ترويجية مطبقة على حساب Titan Education and Learning System الخاص بك، والتي يمكن استخدامها بعد ذلك لشراء محتوى مؤهل على منصتنا، وفقًا للشروط المضمنة في الرموز الخاصة بك. قد تكون الرموز الأخرى قابلة للاسترداد مباشرةً لمحتوى محدد."
+
+msgid ""
+"\n                                To Administer Promotions and Surveys: We may share your data as necessary to administer, market, or sponsor promotions and surveys you choose to participate in, as required by applicable law (like to provide a winners list or make required filings), or in accordance with the rules of the promotion or survey. \n                                \n                            "
+msgstr ""
+"\nلإدارة العروض الترويجية والاستطلاعات: قد نشارك بياناتك عند الضرورة لإدارة العروض الترويجية والاستطلاعات أو تسويقها أو رعايتها التي تختار المشاركة فيها، وفقًا لما يقتضيه القانون المعمول به (مثل تقديم قائمة الفائزين أو تقديم الملفات المطلوبة)، أو وفقًا لقواعد الترويج أو الاستطلاع."
+
+msgid ""
+"\n                                To Power Social Media Features: The social media features in the Services (like the Facebook Like button) may allow the third-party social media provider to collect things like your IP address and which page of the Services you’re visiting, and to set a cookie to enable the feature. Your interactions with these features are governed by the third-party company’s privacy policy. \n                                \n                            "
+msgstr ""
+"\nلتشغيل ميزات الوسائط الاجتماعية: قد تسمح ميزات الوسائط الاجتماعية في الخدمات (مثل زر Facebook Like) لموفر الوسائط الاجتماعية التابع لجهة خارجية بجمع أشياء مثل عنوان IP الخاص بك وصفحة الخدمات التي تزورها، وتعيين ملف تعريف ارتباط لتمكين الميزة. تخضع تفاعلاتك مع هذه الميزات لسياسة الخصوصية الخاصة بشركة الطرف الثالث."
+
+msgid ""
+"\n                                To request a refund, follow the steps here. As detailed in the Instructor Terms, instructors agree that students have the right to receive these refunds. \n                                \n                            "
+msgstr ""
+"\nلطلب استرداد الأموال، اتبع الخطوات هنا. كما هو مفصل في شروط المدرب، يوافق المعلمون على أن للطلاب الحق في الحصول على هذه المبالغ المستردة."
+
+msgid ""
+"\n                                To request to access, correct, or delete your personal data, please use our online form here. You can also submit these requests by emailing privacy@titaned.com. Please allow up to 30 days for a response. For your protection, we may require that the request be sent through the email address associated with your account, and we may need to verify your identity before implementing your request. Please note that we retain certain data where we have a lawful basis to"
+" do so, including for mandatory record-keeping and to complete transactions. \n                            "
+msgstr ""
+"\nلطلب الوصول إلى بياناتك الشخصية أو تصحيحها أو حذفها، يرجى استخدام النموذج عبر الإنترنت هنا. يمكنك أيضًا إرسال هذه الطلبات عن طريق إرسال بريد إلكتروني إلى العنوان Privacy@titaned.com. يرجى السماح بما يصل إلى 30 يومًا للرد. لحمايتك، قد نطلب إرسال الطلب عبر عنوان البريد الإلكتروني المرتبط بحسابك، وقد نحتاج إلى التحقق من هويتك قبل تنفيذ طلبك. يرجى ملاحظة أننا نحتفظ ببعض البيانات عندما يكون لدينا أساس قانوني للقيام بذلك، بما في ذلك حفظ السجلات الإلزامية وإكمال المعاملات."
+
+msgid ""
+"\n                                To subscribe to a Subscription Plan, you must provide a payment method. By subscribing to a Subscription Plan and providing your billing information during checkout, you grant us and our payment service providers the right to process payment for the then-applicable fees via the payment method we have on record for you. At the end of each subscription term, we will automatically renew your subscription for the same length of term and process your payment method fo"
+"r payment of the then-applicable fees. \n                            "
+msgstr ""
+"\nللاشتراك في خطة الاشتراك، يجب عليك توفير طريقة الدفع. من خلال الاشتراك في خطة الاشتراك وتقديم معلومات الفواتير الخاصة بك أثناء الخروج، فإنك تمنحنا ولمقدمي خدمات الدفع لدينا الحق في معالجة الدفع مقابل الرسوم المطبقة آنذاك عبر طريقة الدفع المسجلة لك. في نهاية كل مدة اشتراك، سنقوم تلقائيًا بتجديد اشتراكك لنفس مدة المدة ومعالجة طريقة الدفع الخاصة بك لدفع الرسوم المطبقة في ذلك الوقت."
+
+msgid ""
+"\n                                To update data you provide directly, log into your account and update your account at any time. \n                            "
+msgstr ""
+"\nلتحديث البيانات التي تقدمها مباشرة، قم بتسجيل الدخول إلى حسابك وقم بتحديث حسابك في أي وقت."
+
+msgid ""
+"\n                                Under our Instructor Terms, when instructors publish content on Titan Education and Learning System, they grant Titan Education and Learning System a license to offer a license to the content to students. This means that we have the right to sublicense the content to enrolled students. As a student, when you enroll in a course or other content, whether it’s free or paid content, you are getting a license from Titan Education and Learning System to view the conten"
+"t via the Titan Education and Learning System platform and Services, and Titan Education and Learning System is the licensor of record. Content is licensed, and not sold, to you. This license does not give you any right to resell the content in any manner (including by sharing account information with a purchaser or illegally downloading the content and sharing it on torrent sites). \n                            "
+msgstr ""
+"\nبموجب شروط المدرب الخاصة بنا، عندما ينشر المعلمون محتوى على Titan Education and Learning System، فإنهم يمنحون Titan Education and Learning System ترخيصًا لتقديم ترخيص للمحتوى للطلاب. وهذا يعني أن لدينا الحق في ترخيص المحتوى من الباطن للطلاب المسجلين. كطالب، عندما تقوم بالتسجيل في دورة تدريبية أو محتوى آخر، سواء كان محتوى مجانيًا أو مدفوعًا، فإنك تحصل على ترخيص من Titan Education and Learning System لعرض المحتوى عبر منصة وخدمات Titan Education and Learning System، وTitan Education and Learning System هو مرخص السجل. المحتوى مرخص، ولا يتم بيعه لك. لا يمنحك هذا الترخيص أي حق في إعادة بيع المحتوى بأي شكل من الأشكال (بما في ذلك مشاركة معلومات الحساب مع المشتري أو تنزيل المحتوى بشكل غير قانوني ومشاركته على مواقع التورنت)."
+
+msgid ""
+"\n                                We are not responsible for delay or failure of our performance of any of the Services caused by events beyond our reasonable control, like an act of war, hostility, or sabotage; natural disaster; electrical, internet, or telecommunication outage; or government restrictions. \n                            "
+msgstr ""
+"\nنحن لسنا مسؤولين عن تأخير أو فشل أدائنا لأي من الخدمات بسبب أحداث خارجة عن سيطرتنا المعقولة، مثل أعمال الحرب أو الأعمال العدائية أو التخريب؛ كارثة طبيعية؛ انقطاع الكهرباء أو الإنترنت أو الاتصالات؛ أو القيود الحكومية"
+
+msgid ""
+"\n                                We do not hire or employ instructors nor are we responsible or liable for any interactions involved between instructors and students. We are not liable for disputes, claims, losses, injuries, or damage of any kind that might arise out of or relate to the conduct of instructors or students. \n                                \n                            "
+msgstr ""
+"\nنحن لا نقوم بتعيين أو توظيف معلمين ولا نتحمل المسؤولية عن أي تفاعلات بين المعلمين والطلاب. نحن لسنا مسؤولين عن النزاعات أو المطالبات أو الخسائر أو الإصابات أو الأضرار من أي نوع والتي قد تنشأ عن أو تتعلق بسلوك المعلمين أو الطلاب."
+
+msgid ""
+"\n                                We generally give a lifetime access license to our students when they enroll in a course or other content. However, we reserve the right to revoke any license to access and use any content at any point in time in the event where we decide or are obligated to disable access to the content due to legal or policy reasons, for example, if the course or other content you enrolled in is the object of a copyright complaint, or if we determine it violates our Trust & Saf"
+"ety Guidelines. This lifetime access license does not apply to enrollments via Subscription Plans or to add-on features and services associated with the course or other content you enroll in. For example, instructors may decide at any time to no longer provide teaching assistance or Q&A services in association with the content. To be clear, the lifetime access is to the course content but not to the instructor. \n                            "
+msgstr ""
+"\nنمنح عمومًا ترخيص وصول مدى الحياة لطلابنا عند تسجيلهم في دورة تدريبية أو أي محتوى آخر. ومع ذلك، فإننا نحتفظ بالحق في إلغاء أي ترخيص للوصول إلى أي محتوى واستخدامه في أي وقت في حالة قررنا أو كنا ملزمين بتعطيل الوصول إلى المحتوى لأسباب قانونية أو تتعلق بالسياسة، على سبيل المثال، إذا كانت الدورة التدريبية أو أي محتوى آخر قمت بالتسجيل فيه هو موضوع شكوى حقوق الطبع والنشر، أو إذا قررنا أنه ينتهك إرشادات الثقة والسلامة الخاصة بنا. لا ينطبق ترخيص الوصول مدى الحياة هذا على عمليات التسجيل عبر خطط الاشتراك أو على الميزات والخدمات الإضافية المرتبطة بالدورة التدريبية أو أي محتوى آخر تقوم بالتسجيل فيه. على سبيل المثال، قد يقرر المعلمون في أي وقت التوقف عن تقديم المساعدة التعليمية أو خدمات الأسئلة والأجوبة المرتبطة بالمحتوى. للتوضيح، حق الوصول مدى الحياة هو الوصول إلى محتوى الدورة التدريبية وليس المعلم."
+
+msgid ""
+"\n                                We make no guarantees as to the availability of any specific content in any Subscription Plan or as to any minimum amount of content in any Subscription Plan. At any point in the future, we reserve the right to offer or cease to offer additional features to any Subscription Plan, or to otherwise modify or terminate a Subscription Plan at our sole discretion. These disclaimers are in addition to those listed in the “Disclaimers” section below. \n                   "
+"         "
+msgstr ""
+"\nنحن لا نقدم أي ضمانات فيما يتعلق بتوفر أي محتوى محدد في أي خطة اشتراك أو فيما يتعلق بأي حد أدنى من المحتوى في أي خطة اشتراك. في أي وقت في المستقبل، نحتفظ بالحق في عرض أو التوقف عن تقديم ميزات إضافية لأي خطة اشتراك، أو تعديل خطة الاشتراك أو إنهاؤها وفقًا لتقديرنا الخاص. تُضاف إخلاءات المسؤولية هذه إلى تلك المذكورة في قسم \"إخلاء المسؤولية\" أدناه."
+
+msgid ""
+"\n                                We may decide to cease making available certain features of the Services at any time and for any reason. Under no circumstances will Titan Education and Learning System or its affiliates, suppliers, partners or agents be held liable for any damages due to such interruptions or lack of availability of such features. \n                            "
+msgstr ""
+"\nقد نقرر التوقف عن إتاحة ميزات معينة للخدمات في أي وقت ولأي سبب. لن تتحمل شركة Titan Education and Learning System أو الشركات التابعة لها أو الموردين أو الشركاء أو الوكلاء تحت أي ظرف من الظروف المسؤولية عن أي أضرار ناجمة عن مثل هذه الانقطاعات أو عدم توفر مثل هذه الميزات."
+
+msgid ""
+"\n                                We occasionally run promotions and sales for our content, during which certain content is available at discounted prices for a set period of time. The price applicable to the content will be the price at the time you complete your purchase of the content (at checkout). Any price offered for particular content may also be different when you are logged into your account from the price available to users who aren’t registered or logged in, because some of our promot"
+"ions are available only to new users. \n                                \n                            "
+msgstr ""
+"\nنقوم أحيانًا بإجراء عروض ترويجية ومبيعات للمحتوى الخاص بنا، حيث يتوفر محتوى معين بأسعار مخفضة لفترة زمنية محددة. سيكون السعر المطبق على المحتوى هو السعر عند إكمال عملية شراء المحتوى (عند الدفع). قد يختلف أيضًا أي سعر معروض لمحتوى معين عند تسجيل الدخول إلى حسابك عن السعر المتاح للمستخدمين غير المسجلين أو غير المسجلين، لأن بعض عروضنا الترويجية متاحة فقط للمستخدمين الجدد."
+
+msgid ""
+"\n                                We own the Titan Education and Learning System platform and Services, including the website, present or future apps and services, and things like our logos, API, code, and content created by our employees. You can’t tamper with those or use them without authorization. \n                            "
+msgstr ""
+"\nنحن نملك منصة وخدمات نظام Titan للتعليم والتعلم، بما في ذلك موقع الويب والتطبيقات والخدمات الحالية أو المستقبلية وأشياء مثل شعاراتنا وواجهة برمجة التطبيقات (API) والتعليمات البرمجية والمحتوى الذي أنشأه موظفونا. ولا يمكنك العبث بها أو استخدامها دون تصريح."
+
+msgid ""
+"\n                                We reserve the right to change our Subscription Plans or adjust pricing for our Services at our sole discretion. Any price changes or changes to your subscription will take effect following notice to you, except as otherwise required by applicable law. \n                                \n                            "
+msgstr ""
+"\nنحن نحتفظ بالحق في تغيير خطط الاشتراك الخاصة بنا أو تعديل أسعار خدماتنا وفقًا لتقديرنا الخاص. ستدخل أي تغييرات في الأسعار أو تغييرات في اشتراكك حيز التنفيذ بعد إشعارك بذلك، باستثناء ما يقتضيه القانون المعمول به."
+
+msgid ""
+"\n                                We reserve the right to revoke any license to use the content in our Subscription Plans for legal or policy reasons at any time and at our sole discretion, such as if we no longer have the right to offer the content through a Subscription Plan. Additional information on our right to revoke is included in the “Content Enrollment and Lifetime Access” section. \n                                \n                            "
+msgstr ""
+"\nنحن نحتفظ بالحق في إلغاء أي ترخيص لاستخدام المحتوى الموجود في خطط الاشتراك الخاصة بنا لأسباب قانونية أو تتعلق بالسياسة في أي وقت ووفقًا لتقديرنا الخاص، على سبيل المثال، إذا لم يعد لدينا الحق في تقديم المحتوى من خلال خطة الاشتراك. يتم تضمين معلومات إضافية حول حقنا في الإلغاء في قسم \"تسجيل المحتوى والوصول إليه مدى الحياة\"."
+
+msgid ""
+"\n                                We will charge the subscription fee for your next billing cycle at the end of the free trial period. Your subscription will automatically renew according to your subscription settings (e.g., monthly or annually) unless you cancel your subscription prior to the end of the free trial period. For more information on how to view applicable fees and dates of your free trial period, visit our Support Page. \n                            "
+msgstr ""
+"\nسنقوم بتحصيل رسوم الاشتراك لدورة الفوترة التالية في نهاية الفترة التجريبية المجانية. سيتم تجديد اشتراكك تلقائيًا وفقًا لإعدادات اشتراكك (على سبيل المثال، شهريًا أو سنويًا) ما لم تقم بإلغاء اشتراكك قبل نهاية الفترة التجريبية المجانية. لمزيد من المعلومات حول كيفية عرض الرسوم المطبقة وتواريخ الفترة التجريبية المجانية، تفضل بزيارة صفحة الدعم الخاصة بنا."
+
+msgid ""
+"\n                                When these Terms mention “Titan Education and Learning System,” they’re referring to the Titan Education and Learning System entity that you’re contracting with. If you’re a student, your contracting entity and governing law will generally be determined based on your location. \n                            "
+msgstr ""
+"\nعندما تشير هذه الشروط إلى \"Titan Education and Learning System\"، فهي تشير إلى كيان Titan Education and Learning System الذي تتعاقد معه. إذا كنت طالبًا، فسيتم تحديد الكيان المتعاقد والقانون الحاكم بشكل عام بناءً على موقعك."
+
+msgid ""
+"\n                                When you enroll in a course or other content, you get a license from us to view it via the Titan Education and Learning System Services and no other use. Don’t try to transfer or resell content in any way. We generally grant you a lifetime access license, except when we must disable the content because of legal or policy reasons or for enrollments via Subscription Plans. \n                                \n                            "
+msgstr ""
+"\nعندما تقوم بالتسجيل في دورة تدريبية أو أي محتوى آخر، فإنك تحصل على ترخيص منا لمشاهدته عبر خدمات نظام التعليم والتعلم Titan وليس لأي استخدام آخر. لا تحاول نقل المحتوى أو إعادة بيعه بأي شكل من الأشكال. نمنحك عمومًا ترخيص وصول مدى الحياة، إلا عندما يتعين علينا تعطيل المحتوى لأسباب قانونية أو تتعلق بالسياسة أو للتسجيل عبر خطط الاشتراك."
+
+msgid ""
+"\n                                When you interact directly with a student or an instructor, you must be careful about the types of personal information that you share. While we restrict the types of information instructors may request from students, we do not control what students and instructors do with the information they obtain from other users on the platform. You should not share your email or other personal information about you for your safety. \n                                \n        "
+"                    "
+msgstr ""
+"\nعندما تتفاعل بشكل مباشر مع طالب أو مدرس، يجب عليك توخي الحذر بشأن أنواع المعلومات الشخصية التي تشاركها. على الرغم من أننا نقوم بتقييد أنواع المعلومات التي قد يطلبها المعلمون من الطلاب، إلا أننا لا نتحكم في ما يفعله الطلاب والمعلمون بالمعلومات التي يحصلون عليها من المستخدمين الآخرين على النظام الأساسي. يجب ألا تشارك بريدك الإلكتروني أو أي معلومات شخصية أخرى عنك من أجل سلامتك."
+
+msgid ""
+"\n                                When you make a payment, you agree to use a valid payment method. If you aren’t happy with your content, Titan Education and Learning System offers a 30-day refund or credit for most content purchases. \n                            "
+msgstr ""
+"\nعندما تقوم بالدفع، فإنك توافق على استخدام طريقة دفع صالحة. إذا لم تكن راضيًا عن المحتوى الخاص بك، فإن Titan Education and Learning System يقدم استردادًا أو رصيدًا لمدة 30 يومًا لمعظم عمليات شراء المحتوى."
+
+msgid ""
+"\n                                When you make a purchase, you agree not to use an invalid or unauthorized payment method. If your payment method fails and you still get access to the content you are enrolling in, you agree to pay us the corresponding fees within thirty (30) days of notification from us. We reserve the right to disable access to any content for which we have not received adequate payment. \n                            "
+msgstr ""
+"\nعند إجراء عملية شراء، فإنك توافق على عدم استخدام طريقة دفع غير صالحة أو غير مصرح بها. إذا فشلت طريقة الدفع الخاصة بك ولا يزال بإمكانك الوصول إلى المحتوى الذي تقوم بالتسجيل فيه، فإنك توافق على دفع الرسوم المقابلة لنا خلال ثلاثين (30) يومًا من إخطارنا. نحن نحتفظ بالحق في تعطيل الوصول إلى أي محتوى لم نتلق مقابله المبلغ الكافي."
+
+msgid ""
+"\n                                When you post content, comments, questions, reviews, and when you submit to us ideas and suggestions for new features or improvements, you authorize Titan Education and Learning System to use and share this content with anyone, distribute it and promote it on any platform and in any media, and to make modifications or edits to it as we see fit. \n                                \n                            "
+msgstr ""
+"\nعندما تنشر محتوى وتعليقات وأسئلة ومراجعات وعندما ترسل إلينا أفكارًا واقتراحات بشأن ميزات أو تحسينات جديدة، فإنك تأذن لـ Titan Education and Learning System باستخدام هذا المحتوى ومشاركته مع أي شخص وتوزيعه والترويج له على أي نظام أساسي وفي أي وسائط، وإجراء تعديلات أو تعديلات عليه كما نراه مناسبًا."
+
+msgid ""
+"\n                                When you use our Services, you will find links to other websites that we don’t own or control. We are not responsible for the content or any other aspect of these third-party sites, including their collection of information about you. You should also read their terms and conditions and privacy policies. \n                                \n                            "
+msgstr ""
+"\nعندما تستخدم خدماتنا، ستجد روابط لمواقع ويب أخرى لا نملكها أو نتحكم فيها. نحن لسنا مسؤولين عن المحتوى أو أي جانب آخر من مواقع الطرف الثالث هذه، بما في ذلك جمعها للمعلومات عنك. يجب عليك أيضًا قراءة الشروط والأحكام وسياسات الخصوصية الخاصة بهم."
+
+msgid ""
+"\n                                With Analytics and Data Enrichment Services: As part of our use of third-party analytics tools like Google Analytics and data enrichment services like ZoomInfo, we share certain contact information, Account Data, System Data, Usage Data (as detailed in Section 1), or de-identified data as needed. De-identified data means data where we’ve removed things like your name and email address and replaced it with a token ID. This allows these providers to provide analyti"
+"cs services or match your data with publicly-available database information (including contact and social information from other sources). We do this to communicate with you in a more effective and customized manner. \n                                \n                            "
+msgstr ""
+"\nمن خلال خدمات التحليلات وإثراء البيانات: كجزء من استخدامنا لأدوات التحليل التابعة لجهات خارجية مثل Google Analytics وخدمات إثراء البيانات مثل ZoomInfo، فإننا نشارك معلومات اتصال معينة أو بيانات الحساب أو بيانات النظام أو بيانات الاستخدام (كما هو مفصل في القسم 1)، أو البيانات غير المحددة حسب الحاجة. البيانات التي تم إلغاء تحديد هويتها تعني البيانات التي قمنا بإزالة أشياء مثل اسمك وعنوان بريدك الإلكتروني واستبدلناها بمعرف رمزي. يتيح ذلك لمقدمي الخدمة تقديم خدمات تحليلية أو مطابقة بياناتك مع معلومات قاعدة البيانات المتاحة للجمهور (بما في ذلك معلومات الاتصال والمعلومات الاجتماعية من مصادر أخرى). نحن نفعل ذلك للتواصل معك بطريقة أكثر فعالية ومخصصة."
+
+msgid ""
+"\n                                With Business Partners: We have agreements with other websites and platforms to distribute our Services and drive traffic to Titan Education and Learning System. For example, we work with Benesse in Japan. Depending on your location, we may share your data with these partners. \n                                \n                            "
+msgstr ""
+"\nمع شركاء الأعمال: لدينا اتفاقيات مع مواقع ومنصات إلكترونية أخرى لتوزيع خدماتنا وتوجيه حركة المرور إلى نظام Titan للتعليم والتعلم. على سبيل المثال، نحن نعمل مع Benesse في اليابان. اعتمادًا على موقعك، قد نشارك بياناتك مع هؤلاء الشركاء."
+
+msgid ""
+"\n                                With Other Students and Instructors: Depending on your settings, your shared content and profile data may be publicly viewable, including to other students and instructors. If you ask a question to an instructor or teaching assistant, your information (including your name) may also be publicly viewable. \n                                \n                            "
+msgstr ""
+"\nمع الطلاب والمدرسين الآخرين: وفقًا لإعداداتك، قد يكون المحتوى المشترك وبيانات الملف الشخصي قابلة للعرض بشكل عام، بما في ذلك الطلاب والمدرسون الآخرون. إذا قمت بطرح سؤال على مدرس أو مساعد تدريس، فقد تكون معلوماتك (بما في ذلك اسمك) قابلة للعرض بشكل عام أيضًا."
+
+msgid ""
+"\n                                With Service Providers, Contractors, and Agents: We share your data with third-party companies who perform services on our behalf, like payment processing, fraud and abuse prevention, data analysis, marketing and advertising services (including retargeted advertising), email and hosting services, and customer services and support. These service providers may access your personal data and are required to use it solely as we direct, to provide our requested service"
+". \n                                \n                            "
+msgstr ""
+"\nمع مقدمي الخدمات والمقاولين والوكلاء: نشارك بياناتك مع شركات خارجية تؤدي خدمات نيابة عنا، مثل معالجة الدفع، ومنع الاحتيال وإساءة الاستخدام، وتحليل البيانات، وخدمات التسويق والإعلان (بما في ذلك الإعلانات المعاد توجيهها)، وخدمات البريد الإلكتروني والاستضافة، وخدمات العملاء والدعم. يجوز لمقدمي الخدمة هؤلاء الوصول إلى بياناتك الشخصية ويطلب منهم استخدامها فقط وفقًا لتوجيهاتنا، لتقديم الخدمة المطلوبة."
+
+msgid ""
+"\n                                With Titan Education and Learning System Affiliates: We may share your data within our corporate family of companies that are related by common ownership or control to enable or support us in providing the Services. \n                                \n                            "
+msgstr ""
+"\nمع الشركات التابعة لـ Titan Education and Learning System: يجوز لنا مشاركة بياناتك داخل مجموعة شركاتنا المرتبطة بالملكية المشتركة أو السيطرة لتمكيننا أو دعمنا في تقديم الخدمات."
+
+msgid ""
+"\n                                With Your Instructors: We share data that we have about you (except your email address) with instructors or teaching assistants for educational content you access or request information about, so they can improve their content for you and other students. This data may include things like your city, country, browser language, operating system, device settings, the site that brought you to Titan Education and Learning System, and your activities on Titan Education "
+"and Learning System. If we collect additional data about you (like age or gender), we may share that too. We will not share your email address with instructors or teaching assistants. \n                            "
+msgstr ""
+"\nمع معلميك: نشارك البيانات التي لدينا عنك (باستثناء عنوان بريدك الإلكتروني) مع المعلمين أو مساعدي التدريس فيما يتعلق بالمحتوى التعليمي الذي تصل إليه أو تطلب معلومات عنه، حتى يتمكنوا من تحسين محتواهم لك وللطلاب الآخرين. قد تتضمن هذه البيانات أشياء مثل مدينتك، وبلدك، ولغة المتصفح، ونظام التشغيل، وإعدادات الجهاز، والموقع الذي أوصلك إلى Titan Education and Learning System، وأنشطتك على Titan Education and Learning System. إذا قمنا بجمع بيانات إضافية عنك (مثل العمر أو الجنس)، فقد نشاركها أيضًا. لن نشارك عنوان بريدك الإلكتروني مع المدرسين أو مساعدي التدريس."
+
+msgid ""
+"\n                                With Your Permission: With your consent, we may share data to third parties outside the scope of this Privacy Policy. \n                            "
+msgstr ""
+"\nبعد إذنك: بموافقتك، يجوز لنا مشاركة البيانات مع أطراف ثالثة خارج نطاق سياسة الخصوصية هذه."
+
+msgid ""
+"\n                                You agree that by registering, accessing, or using our Services, you are agreeing to enter into a legally binding contract with Titan Education and Learning System. If you do not agree to these Terms, do not register, access, or otherwise use any of our Services. \n                                \n                            "
+msgstr ""
+"\nأنت توافق على أنه من خلال التسجيل في خدماتنا أو الوصول إليها أو استخدامها، فإنك توافق على الدخول في عقد ملزم قانونًا مع Titan Education and Learning System. إذا كنت لا توافق على هذه الشروط، فلا تقم بالتسجيل أو الوصول إلى أو استخدام أي من خدماتنا."
+
+msgid ""
+"\n                                You agree to pay the fees for content that you purchase, and you authorize us to charge your debit or credit card or process other means of payment (such as direct debit, or mobile wallet) for those fees. Titan Education and Learning System works with payment service providers to offer you the most convenient payment methods in your country and to keep your payment information secure. We may update your payment methods using information provided by our payment se"
+"rvice providers. Check out our Privacy Policy for more details. \n                            "
+msgstr ""
+"\nأنت توافق على دفع رسوم المحتوى الذي تشتريه، وتأذن لنا بتحصيل الرسوم من بطاقة الخصم أو الائتمان الخاصة بك أو معالجة وسائل الدفع الأخرى (مثل الخصم المباشر أو المحفظة المحمولة) مقابل تلك الرسوم. يعمل Titan Education and Learning System مع موفري خدمات الدفع لتزويدك بطرق الدفع الأكثر ملاءمة في بلدك وللحفاظ على أمان معلومات الدفع الخاصة بك. قد نقوم بتحديث طرق الدفع الخاصة بك باستخدام المعلومات المقدمة من مزودي خدمة الدفع لدينا. تحقق من سياسة الخصوصية لدينا لمزيد من التفاصيل."
+
+msgid ""
+"\n                                You and we agree that no joint venture, partnership, employment, contractor, or agency relationship exists between us. \n                            "
+msgstr ""
+"\nنحن وأنت نتفق على عدم وجود أي مشروع مشترك أو شراكة أو توظيف أو مقاول أو علاقة وكالة بيننا."
+
+msgid ""
+"\n                                You can only use Titan Education and Learning System for lawful purposes. You’re responsible for all the content that you post on our platform. You should keep the reviews, questions, posts, courses and other content you upload in line with our Trust & Safety Guidelines and the law, and respect the intellectual property rights of others. We can ban your account for repeated or major offenses. If you think someone is infringing your copyright on our platform, let "
+"us know. \n                            "
+msgstr ""
+"\nلا يمكنك استخدام نظام Titan Education and Learning System إلا للأغراض القانونية. أنت مسؤول عن كل المحتوى الذي تنشره على منصتنا. يجب عليك الحفاظ على المراجعات والأسئلة والمشاركات والدورات والمحتويات الأخرى التي تقوم بتحميلها بما يتماشى مع إرشادات الثقة والسلامة الخاصة بنا والقانون، واحترام حقوق الملكية الفكرية للآخرين. يمكننا حظر حسابك بسبب المخالفات المتكررة أو الجسيمة. إذا كنت تعتقد أن شخصًا ما ينتهك حقوق الطبع والنشر الخاصة بك على منصتنا، فأخبرنا بذلك."
+
+msgid ""
+"\n                                You can terminate your account at any time by following the steps here. Check our Privacy Policy to see what happens when you terminate your account. \n                                \n                            "
+msgstr ""
+"\nيمكنك إنهاء حسابك في أي وقت باتباع الخطوات الواردة هنا. تحقق من سياسة الخصوصية الخاصة بنا لمعرفة ما يحدث عند إنهاء حسابك."
+
+msgid ""
+"\n                                You may cancel your subscription by following the steps outlined on our Support Page. If you cancel your subscription to a Subscription Plan, your access to that Subscription Plan will automatically end on the last day of your billing period. On cancellation, you will not be entitled to receive a refund or credit of any fees already paid for your subscription, unless otherwise required by applicable law. For clarity, cancellation of a subscription does not termin"
+"ate your Titan Education and Learning System account. \n                                \n                            "
+msgstr ""
+"\nيمكنك إلغاء اشتراكك باتباع الخطوات الموضحة في صفحة الدعم الخاصة بنا. إذا قمت بإلغاء اشتراكك في خطة الاشتراك، فسينتهي وصولك إلى خطة الاشتراك هذه تلقائيًا في اليوم الأخير من فترة الفاتورة الخاصة بك. عند الإلغاء، لن يحق لك الحصول على استرداد أو رصيد لأي رسوم تم دفعها بالفعل مقابل اشتراكك، ما لم ينص القانون المعمول به على خلاف ذلك. للتوضيح، لا يؤدي إلغاء الاشتراك إلى إنهاء حساب Titan Education and Learning System الخاص بك."
+
+msgid ""
+"\n                                You may not access or use the Services or create an account for unlawful purposes. Your use of the Services and behavior on our platform must comply with applicable local or national laws or regulations of your country. You are solely responsible for the knowledge of and compliance with such laws and regulations that are applicable to you. \n                                \n                            "
+msgstr ""
+"\nلا يجوز لك الوصول إلى الخدمات أو استخدامها أو إنشاء حساب لأغراض غير قانونية. يجب أن يتوافق استخدامك للخدمات وسلوكك على منصتنا مع القوانين أو اللوائح المحلية أو الوطنية المعمول بها في بلدك. أنت وحدك المسؤول عن المعرفة والامتثال لهذه القوانين واللوائح التي تنطبق عليك."
+
+msgid ""
+"\n                                You may not assign or transfer these Terms (or the rights and licenses granted under them). For example, if you registered an account as an employee of a company, your account cannot be transferred to another employee. We may assign these Terms (or the rights and licenses granted under them) to another company or person without restriction. Nothing in these Terms confers any right, benefit, or remedy on any third-party person or entity. You agree that your accoun"
+"t is non-transferable and that all rights to your account and other rights under these Terms terminate upon your death. \n                            "
+msgstr ""
+"\nلا يجوز لك التنازل عن هذه الشروط أو نقلها (أو الحقوق والتراخيص الممنوحة بموجبها). على سبيل المثال، إذا قمت بتسجيل حساب كموظف في شركة، فلا يمكن نقل حسابك إلى موظف آخر. يجوز لنا التنازل عن هذه الشروط (أو الحقوق والتراخيص الممنوحة بموجبها) لشركة أو شخص آخر دون قيود. لا يوجد في هذه الشروط ما يمنح أي حق أو منفعة أو تعويض لأي شخص أو كيان تابع لجهة خارجية. أنت توافق على أن حسابك غير قابل للتحويل وأن جميع الحقوق المتعلقة بحسابك والحقوق الأخرى بموجب هذه الشروط تنتهي عند وفاتك."
+
+msgid ""
+"\n                                You may not share your account login credentials with anyone else. You are responsible for what happens with your account and Titan Education and Learning System will not intervene in disputes between students or instructors who have shared account login credentials. You must notify us immediately upon learning that someone else may be using your account without your permission (or if you suspect any other breach of security) by contacting our Support Team. We ma"
+"y request some information from you to confirm that you are indeed the owner of your account. \n                            "
+msgstr ""
+"\nلا يجوز لك مشاركة بيانات اعتماد تسجيل الدخول إلى حسابك مع أي شخص آخر. أنت مسؤول عما يحدث لحسابك ولن يتدخل Titan Education and Learning System في النزاعات بين الطلاب أو المعلمين الذين شاركوا بيانات اعتماد تسجيل الدخول إلى الحساب. يجب عليك إخطارنا فور علمك بأن شخصًا آخر ربما يستخدم حسابك دون إذنك (أو إذا كنت تشك في أي خرق آخر للأمان) عن طريق الاتصال بفريق الدعم لدينا. قد نطلب منك بعض المعلومات للتأكد من أنك مالك حسابك بالفعل."
+
+msgid ""
+"\n                                You need an account for most activities on our platform, including to purchase and access content or to submit content for publication. When setting up and maintaining your account, you must provide and continue to provide accurate and complete information, including a valid email address. You have complete responsibility for your account and everything that happens on your account, including for any harm or damage (to us or anyone else) caused by someone using y"
+"our account without your permission. This means you need to be careful with your password. You may not transfer your account to someone else or use someone else’s account. If you contact us to request access to an account, we will not grant you such access unless you can provide us with the information that we need to prove you are the owner of that account. In the event of the death of a user, the account of that user will be closed. \n                            "
+msgstr ""
+"\nأنت بحاجة إلى حساب لمعظم الأنشطة على منصتنا، بما في ذلك شراء المحتوى والوصول إليه أو إرسال محتوى للنشر. عند إعداد حسابك والحفاظ عليه، يجب عليك تقديم معلومات دقيقة وكاملة والاستمرار في تقديمها، بما في ذلك عنوان بريد إلكتروني صالح. تتحمل المسؤولية الكاملة عن حسابك وكل ما يحدث في حسابك، بما في ذلك أي ضرر أو ضرر (لنا أو لأي شخص آخر) يحدث بسبب استخدام شخص ما لحسابك دون إذنك. هذا يعني أنك بحاجة إلى توخي الحذر بشأن كلمة المرور الخاصة بك. لا يجوز لك نقل حسابك إلى شخص آخر أو استخدام حساب شخص آخر. إذا اتصلت بنا لطلب الوصول إلى حساب ما، فلن نمنحك هذا الوصول ما لم تتمكن من تزويدنا بالمعلومات التي نحتاجها لإثبات أنك مالك هذا الحساب. في حالة وفاة أحد المستخدمين، سيتم إغلاق حساب ذلك المستخدم."
+
+msgid ""
+"\n                                You need an account for most activities on our platform. Keep your password somewhere safe, because you’re responsible for all activity associated with your account. If you suspect someone else is using your account, let us know by contacting our Support Team. You must have reached the age of consent for online services in your country to use Titan Education and Learning System. \n                            "
+msgstr ""
+"\nأنت بحاجة إلى حساب لمعظم الأنشطة على منصتنا. احتفظ بكلمة المرور الخاصة بك في مكان آمن، لأنك مسؤول عن جميع الأنشطة المرتبطة بحسابك. إذا كنت تشك في أن شخصًا آخر يستخدم حسابك، فأخبرنا بذلك عن طريق الاتصال بفريق الدعم لدينا. يجب أن تكون قد بلغت سن الموافقة على الخدمات عبر الإنترنت في بلدك حتى تتمكن من استخدام نظام Titan للتعليم والتعلم."
+
+msgid ""
+"\n                                You retain ownership of content you post to our platform, including your courses. We’re allowed to share your content to anyone through any media, including promoting it via advertising on other websites. \n                                The content you post as a student or instructor (including courses) remains yours. By posting courses and other content, you allow Titan Education and Learning System to reuse and share it but you do not lose any ownership rights"
+" you may have over your content. If you are an instructor, be sure to understand the content licensing terms that are detailed in the Instructor Terms. \n                                \n                            "
+msgstr ""
+"\nأنت تحتفظ بملكية المحتوى الذي تنشره على منصتنا، بما في ذلك الدورات التدريبية الخاصة بك. يُسمح لنا بمشاركة المحتوى الخاص بك مع أي شخص عبر أي وسائط، بما في ذلك الترويج له عبر الإعلان على مواقع الويب الأخرى. \n                                يظل المحتوى الذي تنشره كطالب أو مدرس (بما في ذلك الدورات التدريبية) ملكًا لك. من خلال نشر الدورات التدريبية والمحتويات الأخرى، فإنك تسمح لـ Titan Education and Learning System بإعادة استخدامها ومشاركتها ولكنك لا تفقد أي حقوق ملكية قد تكون لديك على المحتوى الخاص بك. إذا كنت مدرسًا، فتأكد من فهم شروط ترخيص المحتوى المفصلة في شروط المدرب."
+
+msgid ""
+"\n                                Your continued use of our Services after changes become effective shall mean that you accept those changes. Any revised Terms shall supersede all previous Terms. \n                            "
+msgstr ""
+"\nإن استمرارك في استخدام خدماتنا بعد أن تصبح التغييرات سارية يعني أنك تقبل هذه التغييرات. تحل أي شروط منقحة محل جميع الشروط السابقة."
+
+msgid ""
+"\n                                Your subscription may start with a free trial. The duration of the free trial period of your subscription will be specified during sign-up. Titan Education and Learning System determines free trial eligibility at our sole discretion and may limit eligibility or duration. We reserve the right to terminate the free trial and suspend your subscription if we determine that you aren’t eligible. \n                            "
+msgstr ""
+"\nقد يبدأ اشتراكك بتجربة مجانية. سيتم تحديد مدة الفترة التجريبية المجانية لاشتراكك أثناء التسجيل. يحدد Titan Education and Learning System أهلية الإصدار التجريبي المجاني وفقًا لتقديرنا الخاص وقد يحد من الأهلية أو المدة. نحن نحتفظ بالحق في إنهاء النسخة التجريبية المجانية وتعليق اشتراكك إذا قررنا أنك غير مؤهل."
+
+msgid ""
+"\n                            Any capitalized terms not defined in this policy are defined as specified in Titan Education and Learning System's Terms of Use. Any version of this Privacy Policy in a language other than English is provided for convenience. If there is any conflict with a non-English version, you agree that the English language version will control. \n                        "
+msgstr ""
+"\nأي مصطلحات مكتوبة بأحرف كبيرة غير محددة في هذه السياسة يتم تعريفها على النحو المحدد في شروط استخدام نظام Titan Education and Learning System. يتم توفير أي نسخة من سياسة الخصوصية هذه بلغة غير اللغة الإنجليزية من أجل الراحة. إذا كان هناك أي تعارض مع إصدار غير الإنجليزية، فإنك توافق على أن إصدار اللغة الإنجليزية هو الذي سيحكم."
+
+msgid ""
+"\n                            As permitted by applicable law, if you continue to use the Services after the effective date of any change, then your access and/or use will be deemed an acceptance of (and agreement to follow and be bound by) the revised Privacy Policy. The revised Privacy Policy supersedes all previous Privacy Policies. \n                        "
+msgstr ""
+"\nوفقًا لما يسمح به القانون المعمول به، إذا واصلت استخدام الخدمات بعد تاريخ سريان أي تغيير، فسيتم اعتبار وصولك و/أو استخدامك بمثابة قبول (وموافقة على المتابعة والالتزام) بسياسة الخصوصية المنقحة. تحل سياسة الخصوصية المعدلة محل جميع سياسات الخصوصية السابقة."
+
+msgid ""
+"\n                            By using the Services, you agree to the terms of this Privacy Policy. You shouldn’t use the Services if you don’t agree with this Privacy Policy or any other agreement that governs your use of the Services. \n                        "
+msgstr ""
+"\nباستخدام الخدمات، فإنك توافق على شروط سياسة الخصوصية هذه. لا ينبغي لك استخدام الخدمات إذا كنت لا توافق على سياسة الخصوصية هذه أو أي اتفاقية أخرى تحكم استخدامك للخدمات."
+
+msgid ""
+"\n                            From time to time, we may update this Privacy Policy. If we make any material change to it, we will notify you via email, through a notification posted on the Services, or as required by applicable law. We will also include a summary of the key changes. Unless stated otherwise, modifications will become effective on the day they are posted. \n                        "
+msgstr ""
+"\nمن وقت لآخر، قد نقوم بتحديث سياسة الخصوصية هذه. إذا أجرينا أي تغيير جوهري عليها، فسنخطرك عبر البريد الإلكتروني، من خلال إشعار منشور على الخدمات، أو وفقًا لما يقتضيه القانون المعمول به. سنقوم أيضًا بتضمين ملخص للتغييرات الرئيسية. وما لم يُنص على خلاف ذلك، ستصبح التعديلات سارية في يوم نشرها."
+
+msgid ""
+"\n                            If you are a Titan Education and Learning System Business enterprise or corporate prospect, we may collect certain business contact information from third-party commercial sources. \n                        "
+msgstr ""
+"\nإذا كنت مؤسسة أعمال تابعة لنظام Titan Education and Learning System Business أو شركة محتملة، فقد نقوم بجمع معلومات اتصال تجارية معينة من مصادر تجارية تابعة لجهات خارجية."
+
+msgid ""
+"\n                            If you have any questions about your data, our use of it, or your rights, contact us at privacy@titaned.com. \n                        "
+msgstr ""
+"\nإذا كانت لديك أي أسئلة حول بياناتك، أو استخدامنا لها، أو حقوقك، فاتصل بنا على العنوان التالي: Privacy@titaned.com."
+
+msgid ""
+"\n                            If you have any questions, concerns, or disputes regarding our Privacy Policy, please feel free to contact our privacy team (including our designated personal information protection manager) at privacy@titaned.com. \n                        "
+msgstr ""
+"\nإذا كانت لديك أي أسئلة أو مخاوف أو نزاعات بخصوص سياسة الخصوصية الخاصة بنا، فلا تتردد في الاتصال بفريق الخصوصية لدينا (بما في ذلك مدير حماية المعلومات الشخصية المعين لدينا) على العنوان التالي:privacy@titaned.com."
+
+msgid ""
+"\n                            Parents who believe that Titan Education and Learning System may have collected personal data from a child under those ages can submit a request that it be removed to privacy@titaned.com. \n                        "
+msgstr ""
+"\nيمكن للوالدين الذين يعتقدون أن Titan Education and Learning System ربما قام بجمع بيانات شخصية من طفل تحت هذه الأعمار تقديم طلب لإزالتها إلى العنوان التالي: Privacy@titaned.com."
+
+msgid ""
+"\n                            Thank you for joining one of the world’s largest online learning marketplaces. We at Titan Education and Learning System respect your privacy and want you to understand how we collect, use, and share data about you. This Privacy Policy covers our data collection practices and describes your rights to access, correct, or restrict our use of your personal data. \n                        "
+msgstr ""
+"\nشكرًا لانضمامك إلى أحد أكبر أسواق التعلم عبر الإنترنت في العالم. نحن في Titan Education and Learning System نحترم خصوصيتك ونريدك أن تفهم كيف نقوم بجمع البيانات الخاصة بك واستخدامها ومشاركتها. تغطي سياسة الخصوصية هذه ممارسات جمع البيانات لدينا وتصف حقوقك في الوصول إلى بياناتك الشخصية أو تصحيحها أو تقييد استخدامها."
+
+msgid ""
+"\n                            The data listed above is collected through the use of server log files and tracking technologies, as detailed in the “Cookies and Data Collection Tools” section below. It is stored by us and associated with your account. \n                        "
+msgstr ""
+"\nيتم جمع البيانات المذكورة أعلاه من خلال استخدام ملفات سجل الخادم وتقنيات التتبع، كما هو مفصل في قسم \"ملفات تعريف الارتباط وأدوات جمع البيانات\" أدناه. يتم تخزينها من قبلنا وربطها بحسابك."
+
+msgid ""
+"\n                            Titan Education and Learning System and service providers acting on our behalf (like Google Analytics and third-party advertisers) use server log files and automated data collection tools like cookies, tags, scripts, customized links, device or browser fingerprints, and web beacons (together, “Data Collection Tools“) when you access and use the Services. These Data Collection Tools automatically track and collect certain System Data and Usage Data (as detailed in Sec"
+"tion 1) when you use the Services. In some cases, we tie data gathered through those Data Collection Tools to other data that we collect as described in this Privacy Policy. \n                        "
+msgstr ""
+"\nيستخدم نظام Titan Education and Learning System ومقدمو الخدمات الذين يعملون بالنيابة عنا (مثل Google Analytics والمعلنين الخارجيين) ملفات سجل الخادم وأدوات جمع البيانات الآلية مثل ملفات تعريف الارتباط والعلامات والبرامج النصية والروابط المخصصة وبصمات أصابع الجهاز أو المتصفح وإشارات الويب (يشار إليها معًا باسم \"أدوات جمع البيانات\") عند الوصول إلى الخدمات واستخدامها. تقوم أدوات جمع البيانات هذه تلقائيًا بتتبع وجمع بعض بيانات النظام وبيانات الاستخدام (كما هو مفصل في القسم 1) عند استخدام الخدمات. في بعض الحالات، نربط البيانات التي تم جمعها من خلال أدوات جمع البيانات تلك بالبيانات الأخرى التي نجمعها كما هو موضح في سياسة الخصوصية هذه."
+
+msgid ""
+"\n                            Titan Education and Learning System takes appropriate security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal data that we collect and store. These measures vary based on the type and sensitivity of the data. Unfortunately, however, no system can be 100% secured, so we cannot guarantee that communications between you and Titan Education and Learning System, the Services, or any information provided to us in co"
+"nnection with the data we collect through the Services will be free from unauthorized access by third parties. Your password is an important part of our security system, and it is your responsibility to protect it. You should not share your password with any third party, and if you believe your password or account has been compromised, you should change it immediately and contact our Support Team with any concerns. \n                        "
+msgstr ""
+"\nيتخذ Titan Education and Learning System الإجراءات الأمنية المناسبة للحماية من الوصول غير المصرح به أو التغيير أو الكشف أو تدمير بياناتك الشخصية التي نجمعها ونخزنها. وتختلف هذه التدابير بناءً على نوع البيانات وحساسيتها. ومع ذلك، لسوء الحظ، لا يمكن تأمين أي نظام بنسبة 100%، لذلك لا يمكننا ضمان أن الاتصالات بينك وبين Titan Education and Learning System، أو الخدمات، أو أي معلومات مقدمة لنا فيما يتعلق بالبيانات التي نجمعها من خلال الخدمات ستكون خالية من الوصول غير المصرح به من قبل أطراف ثالثة. تعد كلمة المرور الخاصة بك جزءًا مهمًا من نظام الأمان الخاص بنا، وتقع على عاتقك مسؤولية حمايتها. يجب عليك عدم مشاركة كلمة المرور الخاصة بك مع أي طرف ثالث، وإذا كنت تعتقد أن كلمة المرور أو حسابك قد تم اختراقهما، فيجب عليك تغييرها على الفور والاتصال بفريق الدعم لدينا بشأن أي مخاوف."
+
+msgid ""
+"\n                            Titan Education and Learning System uses the following types of Data Collection Tools for the purposes described: \n                        "
+msgstr ""
+"\nيستخدم نظام Titan للتعليم والتعلم الأنواع التالية من أدوات جمع البيانات للأغراض الموضحة:"
+
+msgid ""
+"\n                            Unless we link to a different policy or state otherwise, this Privacy Policy applies when you visit or use the Titan Education and Learning System websites, mobile applications, APIs or related services (the “Services”). It also applies to prospective customers of our business and enterprise products. \n                        "
+msgstr ""
+"\nما لم نرتبط بسياسة أو حالة مختلفة بخلاف ذلك، تنطبق سياسة الخصوصية هذه عند زيارتك أو استخدام مواقع Titan Education and Learning System أو تطبيقات الهاتف المحمول أو واجهات برمجة التطبيقات أو الخدمات ذات الصلة (\"الخدمات\"). وينطبق هذا أيضًا على العملاء المحتملين لمنتجات أعمالنا ومؤسساتنا."
+
+msgid ""
+"\n                            We collect certain data from you directly, like information you enter yourself, data about your consumption of content, and data from third-party platforms you connect with Titan Education and Learning System. We also collect some data automatically, like information about your device and what parts of our Services you interact with or spend time using. \n                        "
+msgstr ""
+"\nنقوم بجمع بيانات معينة منك مباشرة، مثل المعلومات التي تدخلها بنفسك، والبيانات حول استهلاكك للمحتوى، والبيانات من منصات الطرف الثالث التي تتصل بها مع Titan Education and Learning System. نقوم أيضًا بجمع بعض البيانات تلقائيًا، مثل المعلومات المتعلقة بجهازك وأجزاء خدماتنا التي تتفاعل معها أو تقضي وقتًا في استخدامها."
+
+msgid ""
+"\n                            We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect. \n                        "
+msgstr ""
+"\nقد نقوم بجمع بيانات مختلفة منك أو عنك اعتمادًا على كيفية استخدامك للخدمات. فيما يلي بعض الأمثلة لمساعدتك على فهم البيانات التي نجمعها بشكل أفضل."
+
+msgid ""
+"\n                            We may share your data with third parties under the following circumstances or as otherwise described in this Privacy Policy: \n                        "
+msgstr ""
+"\nيجوز لنا مشاركة بياناتك مع أطراف ثالثة في ظل الظروف التالية أو كما هو موضح في سياسة الخصوصية هذه:"
+
+msgid ""
+"\n                            We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children’s online activities and interests. Individuals younger than 18 years of age may not use the Services. If we learn that we’ve collected personal data from a child under those ages, we will take reasonable steps to delete it. \n                        "
+msgstr ""
+"\nنحن ندرك مصالح الخصوصية للأطفال ونشجع الآباء والأوصياء على القيام بدور نشط في أنشطة واهتمامات أطفالهم عبر الإنترنت. لا يجوز للأفراد الذين تقل أعمارهم عن 18 عامًا استخدام الخدمات. إذا علمنا أننا قمنا بجمع بيانات شخصية من طفل تحت هذه الأعمار، فسنتخذ خطوات معقولة لحذفها."
+
+msgid ""
+"\n                            We share certain data about you with instructors, other students, companies performing services for us, Titan Education and Learning System affiliates, our business partners, analytics and data enrichment providers, your social media providers, companies helping us run promotions and surveys, and advertising companies who help us promote our Services. We may also share your data as needed for security, legal compliance, or as part of a corporate restructuring. Lastly"
+", we can share data in other ways if it is aggregated or de-identified or if we get your consent. \n                        "
+msgstr ""
+"\nنحن نشارك بيانات معينة عنك مع المدرسين، والطلاب الآخرين، والشركات التي تقدم خدمات لنا، والشركات التابعة لـ Titan Education and Learning System، وشركاء العمل لدينا، ومقدمي التحليلات وإثراء البيانات، ومقدمي وسائل التواصل الاجتماعي، والشركات التي تساعدنا في إجراء العروض الترويجية والاستطلاعات، وشركات الإعلان التي تساعدنا في الترويج لخدماتنا. يجوز لنا أيضًا مشاركة بياناتك حسب الحاجة للأمان أو الامتثال القانوني أو كجزء من إعادة هيكلة الشركة. وأخيرًا، يمكننا مشاركة البيانات بطرق أخرى إذا تم تجميعها أو إلغاء تحديدها أو إذا حصلنا على موافقتك."
+
+msgid ""
+"\n                            We use appropriate security based on the type and sensitivity of data being stored. As with any internet-enabled system, there is always a risk of unauthorized access, so it’s important to protect your password and to contact us if you suspect any unauthorized access to your account. \n                        "
+msgstr ""
+"\nنحن نستخدم الأمان المناسب بناءً على نوع البيانات المخزنة وحساسيتها. كما هو الحال مع أي نظام متصل بالإنترنت، هناك دائمًا خطر الوصول غير المصرح به، لذلك من المهم حماية كلمة المرور الخاصة بك والاتصال بنا إذا كنت تشك في أي وصول غير مصرح به إلى حسابك."
+
+msgid ""
+"\n                            We use cookies, which are small text files stored by your browser, to collect, store, and share data about your activities across websites, including on Titan Education and Learning System. They allow us to remember things about your visits to Titan Education and Learning System, like your preferred language, and to make the site easier to use. \n                        "
+msgstr ""
+"\nنحن نستخدم ملفات تعريف الارتباط، وهي ملفات نصية صغيرة يخزنها متصفحك، لجمع وتخزين ومشاركة البيانات حول أنشطتك عبر مواقع الويب، بما في ذلك نظام Titan للتعليم والتعلم. فهي تسمح لنا بتذكر أشياء تتعلق بزياراتك إلى Titan Education and Learning System، مثل لغتك المفضلة، ولجعل استخدام الموقع أسهل."
+
+msgid ""
+"\n                            We use the data we collect through your use of the Services to: \n                        "
+msgstr ""
+"\nنحن نستخدم البيانات التي نجمعها من خلال استخدامك للخدمات من أجل:"
+
+msgid ""
+"\n                            We use tools like cookies, web beacons, and similar tracking technologies to gather the data listed above. Some of these tools offer you the ability to opt out of data collection. \n                        "
+msgstr ""
+"\nنحن نستخدم أدوات مثل ملفات تعريف الارتباط وإشارات الويب وتقنيات التتبع المماثلة لجمع البيانات المذكورة أعلاه. توفر لك بعض هذه الأدوات القدرة على إلغاء الاشتراك في جمع البيانات."
+
+msgid ""
+"\n                            We use your data to do things like provide our Services, communicate with you, troubleshoot issues, secure against fraud and abuse, improve and update our Services, analyze how people use our Services, serve personalized advertising, and as required by law or necessary for safety and integrity. \n                        "
+msgstr ""
+"\nنستخدم بياناتك للقيام بأشياء مثل تقديم خدماتنا، والتواصل معك، واستكشاف المشكلات وإصلاحها، والحماية من الاحتيال وإساءة الاستخدام، وتحسين خدماتنا وتحديثها، وتحليل كيفية استخدام الأشخاص لخدماتنا، وتقديم الإعلانات المخصصة، ووفقًا لما يقتضيه القانون أو ضروري للسلامة والنزاهة."
+
+msgid ""
+"\n                            When we make a material change to this policy, we’ll notify users via email, in-product notice, or another mechanism required by law. Changes become effective the day they’re posted. Please contact us via email or postal mail with any questions, concerns, or disputes. \n                        "
+msgstr ""
+"\nعندما نجري تغييرًا جوهريًا على هذه السياسة، سنقوم بإخطار المستخدمين عبر البريد الإلكتروني أو إشعار داخل المنتج أو أي آلية أخرى يقتضيها القانون. تصبح التغييرات سارية المفعول في يوم نشرها. يرجى الاتصال بنا عبر البريد الإلكتروني أو البريد العادي إذا كانت لديك أية أسئلة أو مخاوف أو نزاعات."
+
+msgid ""
+"\n                            When you access the Services (including browsing content), we collect certain data by automated means, including: \n                        "
+msgstr ""
+"\nعند وصولك إلى الخدمات (بما في ذلك محتوى التصفح)، نقوم بجمع بيانات معينة بوسائل آلية، بما في ذلك:"
+
+msgid ""
+"\n                            When you create an account and use the Services, including through a third-party platform, we collect any data you provide directly, including: \n                        "
+msgstr ""
+"\nعندما تقوم بإنشاء حساب واستخدام الخدمات، بما في ذلك من خلال نظام أساسي تابع لجهة خارجية، فإننا نجمع أي بيانات تقدمها مباشرة، بما في ذلك:"
+
+msgid ""
+"\n                            You can access and update your personal data that Titan Education and Learning System collects and maintains as follows: \n                        "
+msgstr ""
+"\nيمكنك الوصول إلى بياناتك الشخصية وتحديثها التي يقوم نظام تيتان للتعليم والتعلم بجمعها والاحتفاظ بها على النحو التالي:"
+
+msgid ""
+"\n                            You can choose not to provide certain data to us, but you may not be able to use certain features of the Services. \n                        "
+msgstr ""
+"\nيمكنك اختيار عدم تقديم بيانات معينة إلينا، ولكن قد لا تتمكن من استخدام ميزات معينة من الخدمات."
+
+msgid ""
+"\n                            You can set your web browser to alert you about attempts to place cookies on your computer, limit the types of cookies you allow, or refuse cookies altogether. If you do, you may not be able to use some or all features of the Services, and your experience may be different or less functional. To learn more about managing Data Collection Tools, refer to Section 6.1 (Your Choices About the Use of Your Data) below. \n                        "
+msgstr ""
+"\nيمكنك ضبط متصفح الويب الخاص بك لتنبيهك بشأن محاولات وضع ملفات تعريف الارتباط على جهاز الكمبيوتر الخاص بك، أو الحد من أنواع ملفات تعريف الارتباط التي تسمح بها، أو رفض ملفات تعريف الارتباط تمامًا. إذا قمت بذلك، فقد لا تتمكن من استخدام بعض أو كل ميزات الخدمات، وقد تكون تجربتك مختلفة أو أقل وظيفية. لمعرفة المزيد حول إدارة أدوات جمع البيانات، راجع القسم 6.1 (اختياراتك حول استخدام بياناتك) أدناه."
+
+msgid ""
+"\n                            You have certain rights around the use of your data, including the ability to opt out of promotional emails, cookies, and collection of your data by certain third parties. You can update or terminate your account from within our Services, and can also contact us for individual rights requests about your personal data. Parents who believe we’ve unintentionally collected personal data about their underage child should contact us for help deleting that information. \n   "
+"                     "
+msgstr ""
+"\nلديك حقوق معينة فيما يتعلق باستخدام بياناتك، بما في ذلك القدرة على إلغاء الاشتراك في رسائل البريد الإلكتروني الترويجية وملفات تعريف الارتباط وجمع بياناتك بواسطة أطراف ثالثة معينة. يمكنك تحديث حسابك أو إنهائه من داخل خدماتنا، ويمكنك أيضًا الاتصال بنا للحصول على طلبات الحقوق الفردية المتعلقة ببياناتك الشخصية. يجب على الآباء الذين يعتقدون أننا قمنا بجمع بيانات شخصية عن طفلهم القاصر عن غير قصد الاتصال بنا للمساعدة في حذف تلك المعلومات."
+
+msgid ""
+"\"My mother gave me a real kick toward cooking, if I wanted to eat, I\\'d better know how to do it myself.\""
+msgstr ""
+"\"لقد أعطتني والدتي دفعة حقيقية نحو الطهي، فإذا أردت أن آكل، فمن الأفضل أن أعرف كيف أفعل ذلك بنفسي.\""
+
+msgid ", etc. for dynamic values."
+msgstr "وما إلى ذلك للقيم الديناميكية."
+
+msgid "/month"
+msgstr "/شهر"
+
+msgid "/year"
+msgstr "/سنة"
+
+msgid "10% of users report experiencing slow loading times"
+msgstr "أبلغ 10% من المستخدمين عن تعرضهم لأوقات تحميل بطيئة"
+
+msgid "12 hrs 55 Mins"
+msgstr "12 ساعة و55 دقيقة"
+
+msgid "5 hours"
+msgstr "5 ساعات"
+
+msgid "50% of users drop out of the courses before completing it"
+msgstr "50% من المستخدمين ينسحبون من الدورات قبل إكمالها"
+
+msgid "A new application has been submitted by {{ applicant_name }}."
+msgstr "تم تقديم طلب جديد بواسطة {{ applicant_name }}."
+
+msgid ""
+"A non-recurring session cannot be converted to recurring after it is scheduled."
+msgstr "لا يمكن تحويل الجلسة غير المتكررة إلى جلسة متكررة بعد جدولتها."
+
+msgid "About Recurring Sessions"
+msgstr "حول الجلسات المتكررة"
+
+msgid "Account Activation Message"
+msgstr "رسالة تفعيل الحساب"
+
+msgid ""
+"Add internal attendees from the list, or paste external emails separated by commas."
+msgstr ""
+"أضف الحاضرين الداخليين من القائمة، أو الصق رسائل البريد الإلكتروني الخارجية مفصولة بفواصل."
+
+msgid "Add Metric"
+msgstr "إضافة متري"
+
+msgid "Add New User"
+msgstr "إضافة مستخدم جديد"
+
+msgid "Additional key-value payload sent with the push notification."
+msgstr "يتم إرسال حمولة إضافية ذات قيمة أساسية مع إشعار الدفع."
+
+msgid "Advertise the Services on third-party websites and applications;"
+msgstr "الإعلان عن الخدمات على مواقع وتطبيقات الطرف الثالث؛"
+
+msgid "Age Threshold Configuration"
+msgstr "تكوين عتبة العمر"
+
+msgid "All associated conditions and notification logs will also be removed."
+msgstr "ستتم أيضًا إزالة جميع الشروط وسجلات الإشعارات المرتبطة."
+
+msgid "All occurrences"
+msgstr "جميع الأحداث"
+
+msgid "Allowed formats: PNG, JPEG, JPG."
+msgstr "التنسيقات المسموح بها: PNG، JPEG، JPG."
+
+msgid "Alternative Hosts"
+msgstr "المضيفين البديلين"
+
+msgid "American Express"
+msgstr "أمريكان إكسبريس"
+
+msgid ""
+"An error occurred while you submitted your order. If you are trying to make a purchase, please contact the merchant."
+msgstr ""
+"حدث خطأ أثناء تقديم طلبك. إذا كنت تحاول إجراء عملية شراء، يرجى الاتصال بالتاجر."
+
+msgid "An error occurred. Please try again."
+msgstr "حدث خطأ. يرجى المحاولة مرة أخرى."
+
+msgid ""
+"Analyze course content and structure to determine why completion rates are low. Consider revising course content, offering additional support, or providing incentives for course completion."
+msgstr ""
+"قم بتحليل محتوى الدورة التدريبية وبنيتها لتحديد سبب انخفاض معدلات الإنجاز. فكر في مراجعة محتوى الدورة التدريبية، أو تقديم دعم إضافي، أو تقديم حوافز لإكمال الدورة التدريبية."
+
+msgid "Analyze trends and traffic, track purchases, and track usage data;"
+msgstr ""
+"تحليل الاتجاهات وحركة المرور، وتتبع عمليات الشراء، وتتبع بيانات الاستخدام؛"
+
+msgid ""
+"Analyze user behavior to determine why engagement is low. Consider adding new features or improving existing ones."
+msgstr ""
+"قم بتحليل سلوك المستخدم لتحديد سبب انخفاض المشاركة. فكر في إضافة ميزات جديدة أو تحسين الميزات الموجودة."
+
+msgid ""
+"Apple iOS, Android OS, and Microsoft Windows each provide their own instructions on how to control in-app tailored advertising. For other devices and operating systems, you should review your privacy settings on that platform."
+msgstr ""
+"يوفر كل من Apple iOS وAndroid OS وMicrosoft Windows تعليماتهم الخاصة حول كيفية التحكم في الإعلانات المخصصة داخل التطبيق. بالنسبة للأجهزة وأنظمة التشغيل الأخرى، يجب عليك مراجعة إعدادات الخصوصية الخاصة بك على هذا النظام الأساسي."
+
+msgid "Are you sure you want to block this user?"
+msgstr "هل أنت متأكد أنك تريد حظر هذا المستخدم؟"
+
+msgid "Are you sure you want to delete"
+msgstr "هل أنت متأكد أنك تريد الحذف"
+
+msgid "Are you sure you want to delete this Event?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا الحدث؟"
+
+msgid ""
+"Are you sure you want to end this session? All participants will be disconnected."
+msgstr "هل أنت متأكد أنك تريد إنهاء هذه الجلسة؟ سيتم قطع اتصال كافة المشاركين."
+
+msgid "Are you sure you want to unblock this user?"
+msgstr "هل أنت متأكد أنك تريد إلغاء حظر هذا المستخدم؟"
+
+msgid "artist, education"
+msgstr "الفنان والتعليم"
+
+msgid "As required or permitted by law; or"
+msgstr "وفقًا لما يقتضيه القانون أو يسمح به؛ أو"
+
+msgid ""
+"As we, in our sole discretion, otherwise determine to be necessary to ensure the safety or integrity of our users, employees, third parties, the public, or our Services."
+msgstr ""
+"كما نقرر، وفقًا لتقديرنا الخاص، أنه ضروري لضمان سلامة أو سلامة مستخدمينا أو موظفينا أو الأطراف الثالثة أو الجمهور أو خدماتنا."
+
+msgid "At least one of HTML Body or Plain Text Body is required."
+msgstr "مطلوب نص HTML أو نص عادي على الأقل."
+
+msgid "Attendees"
+msgstr "الحضور"
+
+msgid "Attendees will receive an update email after you save changes."
+msgstr "سيتلقى الحضور رسالة بريد إلكتروني محدثة بعد حفظ التغييرات."
+
+msgid "Average Weekly Learning Time"
+msgstr "متوسط ​​وقت التعلم الأسبوعي"
+
+msgid "Back to Invoices"
+msgstr "العودة إلى الفواتير"
+
+msgid "Basic Details"
+msgstr "التفاصيل الأساسية"
+
+msgid ""
+"Before uploading, ensure that your CSV file is formatted correctly. It should include the necessary fields such as First Name, Last Name, Email, Gender etc. For a smooth experience, download our template which provides the exact format required."
+msgstr ""
+"قبل التحميل، تأكد من تنسيق ملف CSV بشكل صحيح. ويجب أن يتضمن الحقول الضرورية مثل الاسم الأول واسم العائلة والبريد الإلكتروني والجنس وما إلى ذلك. للحصول على تجربة سلسة، قم بتنزيل القالب الخاص بنا الذي يوفر التنسيق الدقيق المطلوب."
+
+msgid ""
+"Before you hire someone to gut your kitchen: Kitchen designers and/or architects don’t necessarily cook or bake. Creating a thing of beauty, in kitchen-language, means much more than having attractive counters and cabinetry - This truth applies to cooking lovers."
+msgstr ""
+"قبل أن تقوم بتعيين شخص ما لتنظيف مطبخك: ليس من الضروري أن يقوم مصممو المطبخ و/أو المهندسون المعماريون بالطهي أو الخبز. إن خلق شيء من الجمال، بلغة المطبخ، يعني أكثر بكثير من مجرد وجود طاولات وخزائن جذابة - تنطبق هذه الحقيقة على محبي الطبخ."
+
+msgid "BEHAVIOUR"
+msgstr "سلوك"
+
+msgid "Billing Address:"
+msgstr "عنوان إرسال الفواتير:"
+
+msgid "Billing Cycle:"
+msgstr "دورة الفوترة:"
+
+msgid "Billing Phone No.:"
+msgstr "رقم هاتف الفواتير:"
+
+msgid "Block User"
+msgstr "حظر المستخدم"
+
+msgid ""
+"Blocking will prevent the user from logging into the LMS until they are unblocked by an administrator."
+msgstr ""
+"سيؤدي الحظر إلى منع المستخدم من تسجيل الدخول إلى نظام إدارة التعلم (LMS) حتى يتم إلغاء حظره بواسطة المسؤول."
+
+msgid "Blog Categories"
+msgstr "فئات المدونة"
+
+msgid "Blog Image"
+msgstr "صورة المدونة"
+
+msgid "Brief description of this session…"
+msgstr "وصف مختصر لهذه الدورة..."
+
+msgid ""
+"By clicking on the activation link below, you agree to the User Terms and Conditions."
+msgstr "بالضغط على رابط التفعيل أدناه، فإنك توافق على شروط وأحكام المستخدم."
+
+msgid "Cancel Edit"
+msgstr "إلغاء التحرير"
+
+msgid "Certificates Earned"
+msgstr "الشهادات المكتسبة"
+
+msgid ""
+"Changes will apply to all future occurrences of this recurring session."
+msgstr ""
+"سيتم تطبيق التغييرات على كافة التكرارات المستقبلية لهذه الجلسة المتكررة."
+
+msgid ""
+"Changing the institution will unenroll the user from all courses associated with their current institution. The admin needs to enroll the user in courses for the new institution manually"
+msgstr ""
+"سيؤدي تغيير المؤسسة إلى إلغاء تسجيل المستخدم من كافة المقررات الدراسية المرتبطة بمؤسسته الحالية. يحتاج المسؤول إلى تسجيل المستخدم في الدورات التدريبية للمؤسسة الجديدة يدويًا"
+
+msgid "characters"
+msgstr "الشخصيات"
+
+msgid "Chart Data"
+msgstr "بيانات الرسم البياني"
+
+msgid "Chart Type"
+msgstr "نوع الرسم البياني"
+
+msgid "Choose which occurrences to remove."
+msgstr "اختر التكرارات التي تريد إزالتها."
+
+msgid "Complete Billing Information!"
+msgstr "معلومات الفواتير كاملة!"
+
+msgid "Configure and enable SSO with Facebook"
+msgstr "تكوين وتمكين الدخول الموحّد (SSO) مع فيسبوك"
+
+msgid "Configure and enable SSO with Google"
+msgstr "قم بتكوين وتمكين الدخول الموحّد (SSO) مع Google"
+
+msgid "Configure and enable SSO with Microsoft Azure Active Directory."
+msgstr ""
+"قم بتكوين وتمكين الدخول الموحد (SSO) باستخدام Microsoft Azure Active Directory."
+
+msgid "Confirm User Block"
+msgstr "تأكيد حظر المستخدم"
+
+msgid "Confirm User Unblock"
+msgstr "تأكيد إلغاء حظر المستخدم"
+
+msgid ""
+"Connecting with your parent will allow them to be more involved in your learning journey and provide you with support when needed."
+msgstr ""
+"إن التواصل مع والديك سيسمح لهم بالمشاركة بشكل أكبر في رحلة التعلم الخاصة بك وتزويدك بالدعم عند الحاجة."
+
+msgid "Cost"
+msgstr "يكلف"
+
+msgid "Could not load rule data."
+msgstr "تعذر تحميل بيانات القاعدة."
+
+msgid "Could not load template content."
+msgstr "تعذر تحميل محتوى القالب."
+
+msgid "Course Email:"
+msgstr "البريد الإلكتروني للدورة:"
+
+msgid "Course enrollment"
+msgstr "التسجيل في الدورة"
+
+msgid "Course Mapping with"
+msgstr "رسم خرائط الدورة مع"
+
+msgid "Crawl Depth must be between 1 and 10"
+msgstr "يجب أن يكون عمق الزحف بين 1 و10"
+
+msgid "Create & Select"
+msgstr "إنشاء واختيار"
+
+msgid "Create Event"
+msgstr "إنشاء حدث"
+
+msgid "Create Notification Rule"
+msgstr "إنشاء قاعدة الإخطار"
+
+msgid "Create Rule"
+msgstr "إنشاء القاعدة"
+
+msgid "Create Template"
+msgstr "إنشاء قالب"
+
+msgid "Creating..."
+msgstr "جارٍ الإنشاء..."
+
+msgid "Currency:"
+msgstr "عملة:"
+
+msgid "Currently Active"
+msgstr "نشط حاليا"
+
+msgid "Daily, weekly, or monthly recurrences are supported."
+msgstr "يتم دعم التكرار اليومي أو الأسبوعي أو الشهري."
+
+msgid "Date & Time"
+msgstr "التاريخ والوقت"
+
+msgid "Date, Duration & Timezone"
+msgstr "التاريخ والمدة والمنطقة الزمنية"
+
+msgid "Date:"
+msgstr "تاريخ:"
+
+msgid "Day"
+msgstr "يوم"
+
+msgid "day(s)"
+msgstr "أيام)"
+
+msgid "Dear Admin,"
+msgstr "عزيزي المشرف،"
+
+msgid "Dear {{ applicant_name }},"
+msgstr "عزيزي {{ applicant_name }}،"
+
+msgid "Dear {{ name }},"
+msgstr "عزيزي {{ name }}،"
+
+msgid "Dear {{parent_name}},"
+msgstr "عزيزي {{parent_name}}،"
+
+msgid "Dear {{student}},"
+msgstr "عزيزي {{student}}،"
+
+msgid "Decline"
+msgstr "انخفاض"
+
+msgid "Deep-link opened when user taps the notification."
+msgstr "يتم فتح الرابط العميق عندما ينقر المستخدم على الإشعار."
+
+msgid "Default From Email:"
+msgstr "الافتراضي من البريد الإلكتروني:"
+
+msgid "Delete Recurring"
+msgstr "حذف المتكررة"
+
+msgid "Delete rule"
+msgstr "حذف القاعدة"
+
+msgid "Deleting this"
+msgstr "حذف هذا"
+
+msgid "Deleting this Event is permanent and cannot be undone."
+msgstr "يعد حذف هذا الحدث أمرًا نهائيًا ولا يمكن التراجع عنه."
+
+msgid "Description:"
+msgstr "وصف:"
+
+msgid "Discussion Threads Started"
+msgstr "بدأت مواضيع المناقشة"
+
+msgid "Don't Miss Out"
+msgstr "لا تفوت"
+
+msgid "Duration:"
+msgstr "مدة:"
+
+msgid "e.g. UPSC GS Strategy Session"
+msgstr "على سبيل المثال جلسة استراتيجية UPSC GS"
+
+msgid "Each occurrence can be edited or deleted individually."
+msgstr "يمكن تحرير كل تكرار أو حذفه بشكل فردي."
+
+msgid "Edit Mode"
+msgstr "وضع التحرير"
+
+msgid "Edit Recurring"
+msgstr "تحرير متكرر"
+
+msgid "Edit Rule"
+msgstr "تحرير القاعدة"
+
+msgid "Edit the details below and save your changes."
+msgstr "قم بتحرير التفاصيل أدناه واحفظ تغييراتك."
+
+msgid "Editing"
+msgstr "التحرير"
+
+msgid ""
+"Editing a single occurrence only. Topic, timezone and attendees are locked."
+msgstr "تحرير حدث واحد فقط. يتم قفل الموضوع والمنطقة الزمنية والحضور."
+
+msgid "Email Change Confirmation for {{ platform_name }}"
+msgstr "تأكيد تغيير البريد الإلكتروني لـ {{ platform_name }}"
+
+msgid "Email:  {{ routed_user_email }}"
+msgstr "البريد الإلكتروني: {{ routed_user_email }}"
+
+msgid "Email: {{ email }}"
+msgstr "البريد الإلكتروني: {{ email }}"
+
+msgid "email: {{ email_address }}"
+msgstr "البريد الإلكتروني: {{ email_address }}"
+
+msgid "Empowerment, Lifelong Learning"
+msgstr "التمكين والتعلم مدى الحياة"
+
+msgid "End"
+msgstr "نهاية"
+
+msgid "End Date & Time"
+msgstr "تاريخ ووقت الانتهاء"
+
+msgid "End Now"
+msgstr "انتهى الآن"
+
+msgid "End:"
+msgstr "نهاية:"
+
+msgid "Ends"
+msgstr "ينتهي"
+
+msgid "Enter email addresses separated by new lines or commas."
+msgstr "أدخل عناوين البريد الإلكتروني مفصولة بأسطر أو فواصل جديدة."
+
+msgid "Enter event title"
+msgstr "أدخل عنوان الحدث"
+
+msgid "Enter your Linkedin page URL"
+msgstr "أدخل عنوان URL لصفحة LinkedIn الخاصة بك"
+
+msgid "Event"
+msgstr "حدث"
+
+msgid "event available for you"
+msgstr "الحدث متاح لك"
+
+msgid "Event Banner"
+msgstr "راية الحدث"
+
+msgid "Event Image"
+msgstr "صورة الحدث"
+
+msgid "Event Registrations"
+msgstr "تسجيلات الأحداث"
+
+msgid "Event Title"
+msgstr "عنوان الحدث"
+
+msgid "events available for you"
+msgstr "الأحداث المتاحة لك"
+
+msgid "Execution Timing"
+msgstr "توقيت التنفيذ"
+
+msgid "External Attendees"
+msgstr "الحضور الخارجي"
+
+msgid "First"
+msgstr "أولاً"
+
+msgid "Fourth"
+msgstr "الرابع"
+
+msgid "Go to {{ platform_name }} Home Page"
+msgstr "انتقل إلى {{ platform_name }} الصفحة الرئيسية"
+
+msgid "Gurugram 122018, Haryana, India"
+msgstr "جوروجرام 122018، هاريانا، الهند"
+
+msgid "Hello {{ name }},"
+msgstr "مرحبًا {{ name }}،"
+
+msgid "Hello {{full_name}},"
+msgstr "مرحبًا {{full_name}}،"
+
+msgid "Here is details about your application."
+msgstr "هنا تفاصيل حول طلبك."
+
+msgid "High"
+msgstr "عالي"
+
+msgid "High drop-out rates"
+msgstr "ارتفاع معدلات التسرب"
+
+msgid "host1@email.com, host2@email.com …"
+msgstr "host1@email.com، host2@email.com …"
+
+msgid "Hours"
+msgstr "ساعات"
+
+msgid ""
+"How many courses you’ve been on, using however many techniques and methods. Unless you’ve come to realize the value of mindset, then you’ve yet to understand how success comes."
+msgstr ""
+"كم عدد الدورات التدريبية التي حضرتها، باستخدام العديد من التقنيات والأساليب. ما لم تكن قد أدركت قيمة العقلية، فأنت لم تفهم بعد كيف يأتي النجاح."
+
+msgid ""
+"However, there is currently no user account associated with your email address: {{ email_address }}."
+msgstr ""
+"ومع ذلك، لا يوجد حاليًا أي حساب مستخدم مرتبط بعنوان بريدك الإلكتروني: {{ email_address }}."
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "http://saml.example.com"
+msgstr "http://saml.example.com"
+
+msgid "https://example.com/banner.jpg"
+msgstr "https://example.com/banner.jpg"
+
+msgid "https://example.com/course/123"
+msgstr "https://example.com/course/123"
+
+msgid ""
+"I create an environment that will support you in achieving the goals you have set for yourself for being successful in the kitchen. You will love your kitchen like never before! I’m here to hold your hand as you learn the skills needed to feel confident and competent."
+msgstr ""
+"أقوم بإنشاء بيئة تدعمك في تحقيق الأهداف التي حددتها لنفسك لتحقيق النجاح في المطبخ. سوف تحب مطبخك كما لم يحدث من قبل! أنا هنا لأمسك بيدك وأنت تتعلم المهارات اللازمة للشعور بالثقة والكفاءة."
+
+msgid "ID"
+msgstr "بطاقة تعريف"
+
+msgid ""
+"Identify the root cause of the technical issue and work to resolve it promptly. Communicate with users about the issue and provide updates on progress towards resolution."
+msgstr ""
+"تحديد السبب الجذري للمشكلة الفنية والعمل على حلها على الفور. التواصل مع المستخدمين حول المشكلة وتقديم تحديثات حول التقدم المحرز نحو الحل."
+
+msgid "Identify unique users across devices;"
+msgstr "تحديد المستخدمين الفريدين عبر الأجهزة؛"
+
+msgid ""
+"If a password is provided in the CSV, it will be set for the user account. If left blank, a secure random password will be auto-generated."
+msgstr ""
+"إذا تم توفير كلمة مرور في ملف CSV، فسيتم تعيينها لحساب المستخدم. إذا تركت فارغة، فسيتم إنشاء كلمة مرور عشوائية آمنة تلقائيًا."
+
+msgid ""
+"If you did not request this change or believe this was an error, please contact us immediately at {{contact_email}} to ensure your account remains secure."
+msgstr ""
+"إذا لم تطلب هذا التغيير أو تعتقد أن هذا كان خطأ، فيرجى الاتصال بنا على الفور على {{contact_email}} لضمان بقاء حسابك آمنًا."
+
+msgid ""
+"If you didn't request this, you don't need to do anything; you won't receive any more email from us. Please do not reply to this e-mail; if you require assistance, check the help section of the {{ platform_name }} web site."
+msgstr ""
+"إذا لم تطلب ذلك، فلن تحتاج إلى القيام بأي شيء؛ لن تتلقى أي بريد إلكتروني آخر منا. من فضلك لا ترد على هذا البريد الإلكتروني. إذا كنت بحاجة إلى مساعدة، فراجع قسم المساعدة في موقع الويب {{ platform_name }}."
+
+msgid ""
+"If you encounter any issues or need assistance, feel free to reach out to the support team at {{ support_email }} or use the form on the LMS website."
+msgstr ""
+"إذا واجهت أي مشكلات أو كنت بحاجة إلى المساعدة، فلا تتردد في التواصل مع فريق الدعم على {{ support_email }} أو استخدم النموذج الموجود على موقع LMS الإلكتروني."
+
+msgid ""
+"If you have any questions or need assistance, please don’t hesitate to reach out to us at {{ support_email }}."
+msgstr ""
+"إذا كانت لديك أي أسئلة أو كنت بحاجة إلى المساعدة، فلا تتردد في التواصل معنا على {{ support_email }}."
+
+msgid ""
+"If you need to make any changes to your cart, please do so before confirming. Any changes made after this may require a new invoice to be issued."
+msgstr ""
+"إذا كنت بحاجة إلى إجراء أي تغييرات على سلة التسوق الخاصة بك، يرجى القيام بذلك قبل التأكيد. وأي تغييرات يتم إجراؤها بعد ذلك قد تتطلب إصدار فاتورة جديدة."
+
+msgid "Import User"
+msgstr "استيراد المستخدم"
+
+msgid "Improve our Services and develop new products, services, and features;"
+msgstr "تحسين خدماتنا وتطوير منتجات وخدمات وميزات جديدة؛"
+
+msgid "Institution logo"
+msgstr "شعار المؤسسة"
+
+msgid "Internal Attendees"
+msgstr "الحاضرين الداخليين"
+
+msgid "Invoice"
+msgstr "فاتورة"
+
+msgid "is permanent and cannot be undone."
+msgstr "دائم ولا يمكن التراجع عنه."
+
+msgid ""
+"It’s not just a normal thing to be able to build such a solid online educational system like TitanEd where your progress is easily tracked and feedback is properly delivered. We promise to keep improving our system for better stability and flexibility."
+msgstr ""
+"ليس من الطبيعي أن تكون قادرًا على بناء نظام تعليمي قوي عبر الإنترنت مثل TitanEd حيث يمكن تتبع تقدمك بسهولة ويتم تقديم التعليقات بشكل صحيح. ونعد بمواصلة تحسين نظامنا لتحسين الاستقرار والمرونة."
+
+msgid "Join"
+msgstr "ينضم"
+
+msgid "Join a session 5 minutes early to test your audio and video."
+msgstr "انضم إلى الجلسة مبكرًا بخمس دقائق لاختبار الصوت والفيديو."
+
+msgid "Join Now"
+msgstr "انضم الآن"
+
+msgid "Join URL"
+msgstr "الانضمام إلى URL"
+
+msgid "Join Zoom Meeting"
+msgstr "انضم إلى اجتماع Zoom"
+
+msgid "Join {{ label }}"
+msgstr "انضم إلى {{ label }}"
+
+msgid "Keep participant video on"
+msgstr "احتفظ بفيديو المشارك قيد التشغيل"
+
+msgid "languages."
+msgstr "اللغات."
+
+msgid "Last"
+msgstr "آخر"
+
+msgid "Last Login:"
+msgstr "آخر تسجيل دخول:"
+
+msgid ""
+"Learn more about you by linking your data with additional data through third-party data providers and/or analyzing the data with the help of analytics service providers;"
+msgstr ""
+"تعرف على المزيد عنك من خلال ربط بياناتك ببيانات إضافية من خلال موفري بيانات الطرف الثالث و/أو تحليل البيانات بمساعدة موفري خدمات التحليلات؛"
+
+msgid "Leave blank to keep the existing banner."
+msgstr "اتركه فارغًا للاحتفاظ بالشعار الموجود."
+
+msgid "Let’s Dream Big Together"
+msgstr "دعونا نحلم بشكل كبير معًا"
+
+msgid "LIVE"
+msgstr "يعيش"
+
+msgid "Local Video"
+msgstr "فيديو محلي"
+
+msgid "logo image"
+msgstr "صورة الشعار"
+
+msgid "Low completion rates"
+msgstr "معدلات إنجاز منخفضة"
+
+msgid "Low engagement rates"
+msgstr "معدلات مشاركة منخفضة"
+
+msgid "Manage"
+msgstr "يدير"
+
+msgid "Manage Blog Categories"
+msgstr "إدارة فئات المدونة"
+
+msgid "Market products, services, surveys, and promotions;"
+msgstr "تسويق المنتجات والخدمات والاستطلاعات والعروض الترويجية؛"
+
+msgid "Market Subscription Plans to prospective customers;"
+msgstr "خطط الاشتراك في السوق للعملاء المحتملين؛"
+
+msgid "Mastercard"
+msgstr "ماستر كارد"
+
+msgid "Medium"
+msgstr "واسطة"
+
+msgid "Meeting ID:"
+msgstr "معرف الاجتماع:"
+
+msgid "Meeting scheduled successfully!"
+msgstr "تمت جدولة الاجتماع بنجاح!"
+
+msgid "Meeting Settings"
+msgstr "إعدادات الاجتماع"
+
+msgid "Meeting updated successfully!"
+msgstr "تم تحديث الاجتماع بنجاح!"
+
+msgid "Message is required."
+msgstr "الرسالة مطلوبة."
+
+msgid "messages"
+msgstr "رسائل"
+
+msgid "Microsoft Azure"
+msgstr "مايكروسوفت أزور"
+
+msgid "Minutes"
+msgstr "دقائق"
+
+msgid "month(s)"
+msgstr "شهور)"
+
+msgid "Mute on Entry"
+msgstr "كتم الصوت عند الدخول"
+
+msgid "Mute participants upon entry"
+msgstr "كتم صوت المشاركين عند الدخول"
+
+msgid "My"
+msgstr "لي"
+
+msgid "Name and message are required."
+msgstr "مطلوب الاسم والرسالة."
+
+msgid "Name and title are required."
+msgstr "الاسم والعنوان مطلوبان."
+
+msgid "Name is required."
+msgstr "الاسم مطلوب."
+
+msgid "Name of this provider (shown to users)"
+msgstr "اسم هذا المزود (يظهر للمستخدمين)"
+
+msgid "Name, subject and body are required."
+msgstr "الاسم والموضوع والجسم مطلوبة."
+
+msgid "New Email Template"
+msgstr "قالب بريد إلكتروني جديد"
+
+msgid "New Push Template"
+msgstr "قالب دفع جديد"
+
+msgid "New Rule"
+msgstr "قاعدة جديدة"
+
+msgid "New SMS Template"
+msgstr "قالب الرسائل القصيرة الجديد"
+
+msgid ""
+"New user accounts will be automatically activated upon creation, allowing immediate access to the LMS without requiring manual activation."
+msgstr ""
+"سيتم تنشيط حسابات المستخدمين الجدد تلقائيًا عند إنشائها، مما يسمح بالوصول الفوري إلى نظام إدارة التعلم (LMS) دون الحاجة إلى التنشيط اليدوي."
+
+msgid ""
+"New users will receive an activation email and must complete the activation process themselves before logging in or being enrolled in courses."
+msgstr ""
+"سيتلقى المستخدمون الجدد بريدًا إلكترونيًا للتنشيط ويجب عليهم إكمال عملية التنشيط بأنفسهم قبل تسجيل الدخول أو التسجيل في الدورات التدريبية."
+
+msgid "New WhatsApp Template"
+msgstr "قالب واتساب جديد"
+
+msgid "No description available."
+msgstr "لا يوجد وصف متاح."
+
+msgid "No email templates yet."
+msgstr "لا توجد قوالب بريد إلكتروني حتى الآن."
+
+msgid "No notification logs found."
+msgstr "لم يتم العثور على سجلات الإخطار."
+
+msgid "No previous sessions"
+msgstr "لا توجد جلسات سابقة"
+
+msgid "No push templates yet."
+msgstr "لا توجد قوالب دفع حتى الآن."
+
+msgid "No Records Found"
+msgstr "لم يتم العثور على سجلات"
+
+msgid "No registrations yet."
+msgstr "لا يوجد تسجيلات حتى الآن."
+
+msgid "No rules configured yet."
+msgstr "لم يتم تكوين أي قواعد حتى الآن."
+
+msgid "No sessions today"
+msgstr "لا جلسات اليوم"
+
+msgid "No SMS templates yet."
+msgstr "لا توجد قوالب الرسائل القصيرة حتى الآن."
+
+msgid "No upcoming events at the moment. Check back soon!"
+msgstr "لا توجد أحداث قادمة في الوقت الراهن. التحقق مرة أخرى قريبا!"
+
+msgid "No upcoming sessions"
+msgstr "لا توجد جلسات قادمة"
+
+msgid "No WhatsApp templates yet."
+msgstr "لا توجد قوالب WhatsApp حتى الآن."
+
+msgid "Not Assigned"
+msgstr "لم يتم تعيينه"
+
+msgid "Occurs On"
+msgstr "يحدث في"
+
+msgid "of the month"
+msgstr "من الشهر"
+
+msgid "Offline"
+msgstr "غير متصل"
+
+msgid ""
+"Once processing is complete, each new user will receive an email notification with their account creation details, including login credentials (email and password). You'll also be notified via email with a summary of the import results, including any successes or errors."
+msgstr ""
+"بمجرد اكتمال المعالجة، سيتلقى كل مستخدم جديد إشعارًا بالبريد الإلكتروني يتضمن تفاصيل إنشاء حسابه، بما في ذلك بيانات اعتماد تسجيل الدخول (البريد الإلكتروني وكلمة المرور). سيتم أيضًا إعلامك عبر البريد الإلكتروني بملخص لنتائج الاستيراد، بما في ذلك أي نجاحات أو أخطاء."
+
+msgid ""
+"Once you've created a password [below], you will be able to log in to {{ platform_name }} with this email ({{ email }}) and your new password."
+msgstr ""
+"بمجرد إنشاء كلمة مرور [أدناه]، ستتمكن من تسجيل الدخول إلى {{ platform_name }} باستخدام هذا البريد الإلكتروني ({{ email }}) وكلمة المرور الجديدة."
+
+msgid ""
+"Once you’ve set up your password, you’ll be redirected to the login page where you can access your account and start exploring."
+msgstr ""
+"بمجرد إعداد كلمة المرور الخاصة بك، ستتم إعادة توجيهك إلى صفحة تسجيل الدخول حيث يمكنك الوصول إلى حسابك والبدء في الاستكشاف."
+
+msgid "one@email.com, two@email.com …"
+msgstr "one@email.com، two@email.com …"
+
+msgid "Ongoing"
+msgstr "مستمر"
+
+msgid "Online"
+msgstr "متصل"
+
+msgid "Only 20% of users who start the course complete it"
+msgstr "فقط 20% من المستخدمين الذين بدأوا الدورة يكملونها"
+
+msgid "Only 30% of registered users log in more than once a month"
+msgstr ""
+"فقط 30% من المستخدمين المسجلين يقومون بتسجيل الدخول أكثر من مرة في الشهر"
+
+msgid "Only approved templates shown"
+msgstr "يتم عرض النماذج المعتمدة فقط"
+
+msgid "Only letters, numbers, and spaces are allowed"
+msgstr "يُسمح فقط بالأحرف والأرقام والمسافات"
+
+msgid "Only session creators can edit or delete meetings."
+msgstr "يمكن لمنشئي الجلسة فقط تحرير الاجتماعات أو حذفها."
+
+msgid ""
+"Only the date, time, and duration can be changed. Other fields are locked."
+msgstr "يمكن تغيير التاريخ والوقت والمدة فقط. الحقول الأخرى مقفلة."
+
+msgid "Organization hierarchy structure"
+msgstr "الهيكل الهرمي للمنظمة"
+
+msgid "Organization/Site Name"
+msgstr "اسم المنظمة/الموقع"
+
+msgid "out of your"
+msgstr "خارج الخاص بك"
+
+msgid "Overall Engagement"
+msgstr "المشاركة الشاملة"
+
+msgid "Overview Content"
+msgstr "نظرة عامة على المحتوى"
+
+msgid "Overview Type"
+msgstr "نوع النظرة العامة"
+
+msgid "Page 1"
+msgstr "الصفحة 1"
+
+msgid "Page 2"
+msgstr "الصفحة 2"
+
+msgid "Parent Sign Up"
+msgstr "تسجيل الوالدين"
+
+msgid "Participant Video"
+msgstr "فيديو المشارك"
+
+msgid "Passcode"
+msgstr "رمز المرور"
+
+msgid "Passcode:"
+msgstr "رمز المرور:"
+
+msgid "Password and confirm password do not match"
+msgstr "كلمة المرور وتأكيد كلمة المرور غير متطابقين"
+
+msgid ""
+"Password must include 1 letter, 1 number and at least 8 characters long"
+msgstr "يجب أن تحتوي كلمة المرور على حرف واحد ورقم واحد و8 أحرف على الأقل"
+
+msgid "Password:  {{ routed_user_password }}"
+msgstr "كلمة المرور: {{ routed_user_password }}"
+
+msgid "Password: {{ new_password }}"
+msgstr "كلمة المرور: {{ new_password }}"
+
+msgid "password: {{ password }}"
+msgstr "كلمة المرور: {{ password }}"
+
+msgid "Past"
+msgstr "ماضي"
+
+msgid "Payment Form"
+msgstr "نموذج الدفع"
+
+msgid "Payment Gateway:"
+msgstr "بوابة الدفع:"
+
+msgid "Payment page"
+msgstr "صفحة الدفع"
+
+msgid "Permitted or required by law;"
+msgstr "مسموح به أو مطلوب بموجب القانون؛"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Phone (optional)"
+msgstr "الهاتف (اختياري)"
+
+msgid "Phone:"
+msgstr "هاتف:"
+
+msgid "Plan Name:"
+msgstr "اسم الخطة:"
+
+msgid "Please child email"
+msgstr "يرجى البريد الإلكتروني للطفل"
+
+msgid "Please child name"
+msgstr "من فضلك اسم الطفل"
+
+msgid "Please enter a description."
+msgstr "الرجاء إدخال الوصف."
+
+msgid "Please enter a topic or title."
+msgstr "الرجاء إدخال موضوع أو عنوان."
+
+msgid "Please enter a valid email address for the organization contact."
+msgstr "الرجاء إدخال عنوان بريد إلكتروني صالح لجهة اتصال المنظمة."
+
+msgid "Please enter a valid email address."
+msgstr "يرجى إدخال عنوان بريد إلكتروني صالح."
+
+msgid "Please enter a valid percentage between 0 and 99."
+msgstr "الرجاء إدخال نسبة مئوية صحيحة تتراوح بين 0 و99."
+
+msgid "Please enter address"
+msgstr "الرجاء إدخال العنوان"
+
+msgid "Please enter alternative host email(s)."
+msgstr "الرجاء إدخال البريد الإلكتروني البديل للمضيف."
+
+msgid "Please enter an end date for the recurring session."
+msgstr "الرجاء إدخال تاريخ انتهاء الجلسة المتكررة."
+
+msgid "Please enter billing email"
+msgstr "الرجاء إدخال البريد الإلكتروني للفوترة"
+
+msgid "Please enter blog short description"
+msgstr "الرجاء إدخال وصف مختصر للمدونة"
+
+msgid "Please enter blog title"
+msgstr "الرجاء إدخال عنوان المدونة"
+
+msgid "Please enter city"
+msgstr "الرجاء إدخال المدينة"
+
+msgid "Please enter email"
+msgstr "الرجاء إدخال البريد الإلكتروني"
+
+msgid "Please enter end date"
+msgstr "الرجاء إدخال تاريخ الانتهاء"
+
+msgid "Please enter event title"
+msgstr "الرجاء إدخال عنوان الحدث"
+
+msgid "Please enter first name"
+msgstr "الرجاء إدخال الاسم الأول"
+
+msgid "Please enter last name"
+msgstr "الرجاء إدخال الاسم الأخير"
+
+msgid "Please enter message"
+msgstr "الرجاء إدخال الرسالة"
+
+msgid "Please enter Mobile Number"
+msgstr "الرجاء إدخال رقم الجوال"
+
+msgid "Please enter name of the person or company"
+msgstr "الرجاء إدخال اسم الشخص أو الشركة"
+
+msgid "Please enter password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+msgid "Please enter phone number"
+msgstr "الرجاء إدخال رقم الهاتف"
+
+msgid "Please enter role description"
+msgstr "الرجاء إدخال وصف الدور"
+
+msgid "Please enter role title"
+msgstr "الرجاء إدخال عنوان الدور"
+
+msgid "Please enter start date"
+msgstr "الرجاء إدخال تاريخ البدء"
+
+msgid "Please enter state"
+msgstr "الرجاء إدخال الدولة"
+
+msgid "Please enter the organization contact name."
+msgstr "الرجاء إدخال اسم جهة الاتصال بالمنظمة."
+
+msgid "Please enter the purchasing organization name."
+msgstr "الرجاء إدخال اسم منظمة الشراء."
+
+msgid "Please enter username"
+msgstr "الرجاء إدخال اسم المستخدم"
+
+msgid "Please enter your email"
+msgstr "الرجاء إدخال البريد الإلكتروني الخاص بك"
+
+msgid "Please enter your interest"
+msgstr "الرجاء إدخال اهتمامك"
+
+msgid "Please enter your name"
+msgstr "الرجاء إدخال اسمك"
+
+msgid "Please enter zip/postal code"
+msgstr "الرجاء إدخال الرمز البريدي/الرمز البريدي"
+
+msgid ""
+"Please note that this invitation link will expire in 24 hours for security reasons."
+msgstr ""
+"يرجى ملاحظة أن رابط الدعوة هذا ستنتهي صلاحيته خلال 24 ساعة لأسباب أمنية."
+
+msgid "Please note:"
+msgstr "يرجى الملاحظة:"
+
+msgid "Please select a date and time."
+msgstr "الرجاء تحديد التاريخ والوقت."
+
+msgid "Please select a schedule state."
+msgstr "الرجاء تحديد حالة الجدول الزمني."
+
+msgid "Please select an event."
+msgstr "الرجاء تحديد حدث."
+
+msgid "Primary Active Color"
+msgstr "اللون النشط الأساسي"
+
+msgid "Primary Alt Color"
+msgstr "اللون البديل الأساسي"
+
+msgid "Primary Hover Color"
+msgstr "لون التحويم الأساسي"
+
+msgid "Primary language name is required. Other languages are optional."
+msgstr "اسم اللغة الأساسية مطلوب. اللغات الأخرى اختيارية."
+
+msgid "Primary Light Color"
+msgstr "لون الضوء الأساسي"
+
+msgid "Problem-Solving, Critical Thinking,"
+msgstr "حل المشكلات، التفكير النقدي،"
+
+msgid ""
+"Proctored exams are timed exams that you take while proctoring software monitors your computer's desktop, webcam video, and audio. Your course uses {{ proctoring_provider }} software for proctoring."
+msgstr ""
+"الاختبارات المراقبة هي اختبارات محددة بوقت يتم إجراؤها أثناء قيام برنامج المراقبة بمراقبة سطح مكتب جهاز الكمبيوتر الخاص بك وفيديو كاميرا الويب والصوت. تستخدم الدورة التدريبية الخاصة بك برنامج {{ proctoring_provider }} للمراقبة."
+
+msgid "Proctoring requirements for {{ course_name }}"
+msgstr "متطلبات المراقبة لـ {{ course_name }}"
+
+msgid ""
+"prompt quota. Enter your OpenAI API key to continue enjoying uninterrupted AI capabilities for course creation."
+msgstr ""
+"حصة سريعة. أدخل مفتاح OpenAI API الخاص بك لمواصلة الاستمتاع بقدرات الذكاء الاصطناعي دون انقطاع لإنشاء الدورة التدريبية."
+
+msgid ""
+"Public courses accessible without login and enrollments. For more details refer"
+msgstr ""
+"الدورات العامة يمكن الوصول إليها دون تسجيل الدخول والتسجيل. لمزيد من التفاصيل راجع"
+
+msgid "Quick Create Email Template"
+msgstr "قالب إنشاء بريد إلكتروني سريع"
+
+msgid "Quick Create Push Template"
+msgstr "قالب دفع سريع الإنشاء"
+
+msgid "Quick Create SMS Template"
+msgstr "إنشاء سريع لقالب الرسائل القصيرة"
+
+msgid "Quick Create WhatsApp Template"
+msgstr "إنشاء قالب WhatsApp سريعًا"
+
+msgid "Quick Tips"
+msgstr "نصائح سريعة"
+
+msgid ""
+"Reasonably necessary as part of a valid summon, warrant, or other legally-valid request;"
+msgstr ""
+"ضروري بشكل معقول كجزء من أمر استدعاء أو أمر قضائي أو أي طلب آخر صالح قانونًا؛"
+
+msgid ""
+"Reasonably necessary in our discretion to protect against imminent harm to the rights, property, or safety of Titan Education and Learning System, our users, employees, members of the public, or our Services."
+msgstr ""
+"ضروري بشكل معقول وفقًا لتقديرنا للحماية من أي ضرر وشيك لحقوق أو ملكية أو سلامة نظام Titan Education and Learning System، أو مستخدمينا، أو موظفينا، أو أفراد الجمهور، أو خدماتنا."
+
+msgid ""
+"Reasonably necessary to enforce our Terms of Use, Privacy Policy, and other legal agreements;"
+msgstr ""
+"ضروري بشكل معقول لتنفيذ شروط الاستخدام وسياسة الخصوصية والاتفاقيات القانونية الأخرى؛"
+
+msgid "Recipient Image"
+msgstr "صورة المستلم"
+
+msgid "Recipients"
+msgstr "المستلمون"
+
+msgid "Recurrence"
+msgstr "تكرار"
+
+msgid "Recurrence:"
+msgstr "تكرار:"
+
+msgid "Recurring"
+msgstr "يتكرر"
+
+msgid "Recurring Session"
+msgstr "الجلسة المتكررة"
+
+msgid "Recurring sessions show each occurrence separately."
+msgstr "تُظهر الجلسات المتكررة كل تكرار على حدة."
+
+msgid "Register Now"
+msgstr "سجل الآن"
+
+msgid "Registered On"
+msgstr "مسجل على"
+
+msgid "Registering..."
+msgstr "جاري التسجيل..."
+
+msgid "Registration is closed for this event."
+msgstr "تم إغلاق التسجيل لهذا الحدث."
+
+msgid "Registrations for"
+msgstr "التسجيلات ل"
+
+msgid "Registrations:"
+msgstr "التسجيلات:"
+
+msgid "Renewal/Expiry"
+msgstr "التجديد/انتهاء الصلاحية"
+
+msgid "Repeat Every"
+msgstr "كرر كل"
+
+msgid "Replies to Peers"
+msgstr "الردود على الأقران"
+
+msgid "Request to Tutor"
+msgstr "طلب إلى المعلم"
+
+msgid ""
+"Requested as part of a judicial, governmental, or legal inquiry, order, or proceeding;"
+msgstr "تم طلبه كجزء من تحقيق أو أمر أو إجراء قضائي أو حكومي أو قانوني؛"
+
+msgid ""
+"Required to detect, prevent, or address fraud, abuse, misuse, potential violations of law (or rule or regulation), or security or technical issues; or"
+msgstr ""
+"مطلوب لاكتشاف أو منع أو معالجة الاحتيال أو إساءة الاستخدام أو سوء الاستخدام أو الانتهاكات المحتملة للقانون (أو القواعد أو اللوائح)، أو المشكلات الأمنية أو الفنية؛ أو"
+
+msgid "Reset User Password"
+msgstr "إعادة تعيين كلمة مرور المستخدم"
+
+msgid "Responding to your questions and concerns;"
+msgstr "الرد على أسئلتك واهتماماتك؛"
+
+msgid ""
+"Review course content and structure to identify potential areas for improvement. Solicit feedback from users who dropped out of the course."
+msgstr ""
+"قم بمراجعة محتوى الدورة وهيكلها لتحديد المجالات المحتملة للتحسين. التماس ردود الفعل من المستخدمين الذين تركوا الدورة التدريبية."
+
+msgid ""
+"Review user feedback and identify potential solutions. Consider incorporating interactive elements such as quizzes, videos, or simulations."
+msgstr ""
+"راجع تعليقات المستخدمين وحدد الحلول المحتملة. فكر في دمج عناصر تفاعلية مثل الاختبارات أو مقاطع الفيديو أو عمليات المحاكاة."
+
+msgid "Rule Engine"
+msgstr "محرك القاعدة"
+
+msgid "Rule Identity"
+msgstr "هوية القاعدة"
+
+msgid "Rule Kind"
+msgstr "نوع القاعدة"
+
+msgid "Rule Name"
+msgstr "اسم القاعدة"
+
+msgid "Rule name is required."
+msgstr "اسم القاعدة مطلوب."
+
+msgid "Run At (date &amp; time)"
+msgstr "التشغيل في (التاريخ والوقت)"
+
+msgid "Runs on Tutor"
+msgstr "يعمل على المعلم"
+
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+msgid ""
+"Schedule sessions at least 30 minutes in advance so participants can prepare."
+msgstr ""
+"حدد موعدًا للجلسات قبل 30 دقيقة على الأقل حتى يتمكن المشاركون من الاستعداد."
+
+msgid "Schedule State"
+msgstr "حالة الجدول الزمني"
+
+msgid "Scheduled"
+msgstr "المقرر"
+
+msgid "scheduled for today."
+msgstr "المقرر لهذا اليوم."
+
+msgid "scheduled in the future."
+msgstr "المقرر في المستقبل."
+
+msgid "search wiki"
+msgstr "بحث ويكي"
+
+msgid "Second"
+msgstr "ثانية"
+
+msgid "Secondary Active Color"
+msgstr "اللون النشط الثانوي"
+
+msgid "Secondary Alt Color"
+msgstr "اللون البديل الثانوي"
+
+msgid "Secondary Hover Color"
+msgstr "لون التحويم الثانوي"
+
+msgid "Secondary Light Color"
+msgstr "لون الضوء الثانوي"
+
+msgid "Select from available metrics or enter manually"
+msgstr "اختر من المقاييس المتاحة أو أدخلها يدويًا"
+
+msgid "Send Activation Emails"
+msgstr "إرسال رسائل البريد الإلكتروني التنشيط"
+
+msgid ""
+"Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the “options” or “settings” page of the mobile app);"
+msgstr ""
+"إرسال إشعارات الدفع إلى جهازك اللاسلكي لتوفير التحديثات والرسائل الأخرى ذات الصلة (والتي يمكنك إدارتها من صفحة \"الخيارات\" أو \"الإعدادات\" في تطبيق الهاتف المحمول)؛"
+
+msgid ""
+"Sending you administrative messages and information, including messages from instructors, students, and teaching assistants; notifications about changes to our Service; and updates to our agreements;"
+msgstr ""
+"إرسال الرسائل والمعلومات الإدارية إليك، بما في ذلك الرسائل من المعلمين والطلاب ومساعدي التدريس؛ إشعارات حول التغييرات التي تطرأ على خدمتنا؛ وتحديثات اتفاقياتنا؛"
+
+msgid ""
+"Sending you information, such as by email or text messages, about your progress in courses and related content, rewards programs, new services, new features, promotions, newsletters, and other available instructor-created content (which you can opt out of at any time);"
+msgstr ""
+"إرسال معلومات إليك، مثل البريد الإلكتروني أو الرسائل النصية، حول تقدمك في الدورات التدريبية والمحتوى ذي الصلة، وبرامج المكافآت، والخدمات الجديدة، والميزات الجديدة، والعروض الترويجية، والنشرات الإخبارية، والمحتويات الأخرى المتاحة التي أنشأها المعلم (والتي يمكنك إلغاء الاشتراك فيها في أي وقت)؛"
+
+msgid "Session Overview"
+msgstr "نظرة عامة على الجلسة"
+
+msgid "Set an end date so sessions stop automatically."
+msgstr "قم بتعيين تاريخ انتهاء بحيث تتوقف الجلسات تلقائيًا."
+
+msgid ""
+"Several users have complained about the lack of interactivity in the course"
+msgstr "اشتكى العديد من المستخدمين من قلة التفاعل في الدورة"
+
+msgid "Short description"
+msgstr "وصف قصير"
+
+msgid "Sign In to Register"
+msgstr "تسجيل الدخول للتسجيل"
+
+msgid "Sincerely, {{ platform_name }} Team"
+msgstr "مع خالص التقدير، {{ platform_name }} فريق"
+
+msgid "SMS"
+msgstr "رسالة قصيرة"
+
+msgid "SMS TEMPLATE"
+msgstr "قالب الرسائل القصيرة"
+
+msgid ""
+"SMS template created. It needs approval before it can be used in a rule — go to SMS Templates to approve it."
+msgstr ""
+"تم إنشاء قالب الرسائل القصيرة. يحتاج إلى موافقة قبل أن يمكن استخدامه في القاعدة — انتقل إلى قوالب الرسائل القصيرة للموافقة عليه."
+
+msgid "SMTP Host:"
+msgstr "مضيف SMTP:"
+
+msgid "SMTP Password:"
+msgstr "كلمة مرور SMTP:"
+
+msgid "SMTP Port:"
+msgstr "منفذ SMTP:"
+
+msgid "SMTP Username:"
+msgstr "اسم مستخدم SMTP:"
+
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+msgid "Something went wrong."
+msgstr "حدث خطأ ما."
+
+msgid "Something went wrong. Please try again later."
+msgstr "حدث خطأ ما. يرجى المحاولة مرة أخرى في وقت لاحق."
+
+msgid "Something went wrong. Please try again."
+msgstr "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+
+msgid "Start Date & Time"
+msgstr "تاريخ ووقت البدء"
+
+msgid "Start:"
+msgstr "يبدأ:"
+
+msgid "Started"
+msgstr "بدأت"
+
+msgid "Starts from"
+msgstr "يبدأ من"
+
+msgid "Statistics"
+msgstr "إحصائيات"
+
+msgid "student being tutored"
+msgstr "الطالب الذي يتم تدريسه"
+
+msgid "students"
+msgstr "طلاب"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Subscribe Now"
+msgstr "اشترك الآن"
+
+msgid "Tailor advertisements across devices;"
+msgstr "تخصيص الإعلانات عبر الأجهزة؛"
+
+msgid "TAX ID Label:"
+msgstr "تسمية معرف الضريبة:"
+
+msgid "TAX ID:"
+msgstr "المعرف الضريبي:"
+
+msgid "Technical issues"
+msgstr "القضايا الفنية"
+
+msgid "Template Name"
+msgstr "اسم القالب"
+
+msgid "Templates"
+msgstr "قوالب"
+
+msgid "Templates in use by rules cannot be deleted."
+msgstr "لا يمكن حذف القوالب المستخدمة بواسطة القواعد."
+
+msgid "Templates used by active rules cannot be deleted."
+msgstr "لا يمكن حذف القوالب المستخدمة بواسطة القواعد النشطة."
+
+msgid ""
+"Thank you for choosing {{ platform_name }}. We look forward to supporting your learning journey!"
+msgstr ""
+"شكرًا لاختيارك {{ platform_name }}. ونحن نتطلع إلى دعم رحلتك التعليمية!"
+
+msgid "The {{ platform_name }} Team"
+msgstr "فريق {{ platform_name }}"
+
+msgid ""
+"There have been some updates regarding the {{ label }} you are scheduled to attend on {{ platform }}."
+msgstr ""
+"كانت هناك بعض التحديثات بخصوص {{ label }} الذي من المقرر أن تحضره في {{ platform }}."
+
+msgid "These are details about new tutor application."
+msgstr "هذه تفاصيل حول تطبيق المعلم الجديد."
+
+msgid "Third"
+msgstr "ثالث"
+
+msgid "This action cannot be undone."
+msgstr "لا يمكن التراجع عن هذا الإجراء."
+
+msgid "This email is sent on behalf of {{ platform_name }} by {{ lms_url }}."
+msgstr ""
+"تم إرسال هذا البريد الإلكتروني نيابة عن {{ platform_name }} بواسطة {{ lms_url }}."
+
+msgid "This email was automatically sent from {{ platform_name }}"
+msgstr "تم إرسال هذا البريد الإلكتروني تلقائيًا من {{ platform_name }}"
+
+msgid "This is a one-time session. Recurring settings are permanently locked."
+msgstr "هذه جلسة لمرة واحدة. يتم قفل الإعدادات المتكررة بشكل دائم."
+
+msgid "This is a recurring session"
+msgstr "هذه جلسة متكررة"
+
+msgid ""
+"This is a recurring session. Choose how you'd like to apply your edits."
+msgstr "هذه جلسة متكررة. اختر الطريقة التي تريد بها تطبيق تعديلاتك."
+
+msgid ""
+"This is to confirm that you changed the e-mail associated with {{ platform_name }} from {{ old_email }} to {{ new_email }}. If you did not make this request, please contact us immediately. Contact information is listed at:"
+msgstr ""
+"هذا للتأكيد على أنك قمت بتغيير البريد الإلكتروني المرتبط بـ {{ platform_name }} من {{ old_email }} إلى {{ new_email }}. إذا لم تقم بتقديم هذا الطلب، يرجى الاتصال بنا على الفور. معلومات الاتصال مدرجة في:"
+
+msgid ""
+"This is to confirm that you have successfully changed your password associated with {{ platform_name }} account. Please sign-in to your account."
+msgstr ""
+"هذا للتأكيد على أنك قمت بنجاح بتغيير كلمة المرور المرتبطة بحساب {{ platform_name }}. يرجى تسجيل الدخول إلى حسابك."
+
+msgid "This only"
+msgstr "هذا فقط"
+
+msgid "This Privacy Policy was last updated on"
+msgstr "تم تحديث سياسة الخصوصية هذه آخر مرة في"
+
+msgid "Time:"
+msgstr "وقت:"
+
+msgid "Timezone"
+msgstr "المنطقة الزمنية"
+
+msgid "TitanEd Logo"
+msgstr "شعار تيتان إد"
+
+msgid ""
+"TitanEd supports the act of teaching and learning on multiple platforms like online or offline via material downloads. We know things aren’t supposed to be devoured in a short time, you can always access our knowledge base from any device."
+msgstr ""
+"يدعم TitanEd عملية التدريس والتعلم على منصات متعددة مثل الإنترنت أو دون الاتصال بالإنترنت عبر تنزيلات المواد. نحن نعلم أنه ليس من المفترض أن يتم التهام الأشياء في وقت قصير، ويمكنك دائمًا الوصول إلى قاعدة معارفنا من أي جهاز."
+
+msgid "Title (default)"
+msgstr "العنوان (افتراضي)"
+
+msgid "Title is required."
+msgstr "العنوان مطلوب."
+
+msgid "To accept this invitation, please click on the link below:"
+msgstr "لقبول هذه الدعوة، الرجاء الضغط على الرابط أدناه:"
+
+msgid "To get started, please visit https://{{ site_name }}."
+msgstr "للبدء، يرجى زيارة https://{{ site_name }}."
+
+msgid ""
+"To get started, you need to set up your account password. Click the button below to create your login credentials:"
+msgstr ""
+"للبدء، تحتاج إلى إعداد كلمة مرور حسابك. انقر فوق الزر أدناه لإنشاء بيانات اعتماد تسجيل الدخول الخاصة بك:"
+
+msgid "To log in, please use the following credentials:"
+msgstr "لتسجيل الدخول، يرجى استخدام بيانات الاعتماد التالية:"
+
+msgid ""
+"To opt out of allowing Google Analytics, Mixpanel, ZoomInfo, or Clearbit to use your data for analytics or enrichment, see the Google Analytics Opt-out Browser Add-on, Mixpanel Opt-Out Cookie, ZoomInfo’s policy, and Clearbit data claiming mechanism."
+msgstr ""
+"لإلغاء الاشتراك في السماح لـ Google Analytics، أو Mixpanel، أو ZoomInfo، أو Clearbit باستخدام بياناتك للتحليلات أو الإثراء، راجع الوظيفة الإضافية للمتصفح لإلغاء الاشتراك في Google Analytics، وملفات تعريف الارتباط لإلغاء الاشتراك في Mixpanel، وسياسة ZoomInfo، وآلية المطالبة ببيانات Clearbit."
+
+msgid "to register for this event."
+msgstr "للتسجيل في هذا الحدث."
+
+msgid ""
+"To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies."
+msgstr ""
+"لإيقاف تلقي رسائل ترويجية منا، يمكنك إلغاء الاشتراك باستخدام آلية إلغاء الاشتراك في الرسائل الترويجية التي تتلقاها أو عن طريق تغيير تفضيلات البريد الإلكتروني في حسابك. لاحظ أنه بغض النظر عن إعدادات تفضيلات البريد الإلكتروني الخاصة بك، سنرسل إليك رسائل المعاملات والعلاقات فيما يتعلق بالخدمات، بما في ذلك التأكيدات الإدارية وتأكيدات الطلب والتحديثات المهمة حول الخدمات والإشعارات حول سياساتنا."
+
+msgid "To Thrive In Business Today, You’ll Need a Good Plan"
+msgstr "لكي تزدهر في مجال الأعمال اليوم، ستحتاج إلى خطة جيدة"
+
+msgid ""
+"To view your dashboard and get started, please click the button below::"
+msgstr "لعرض لوحة التحكم الخاصة بك والبدء، يرجى النقر على الزر أدناه::"
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "Toggle Dropdown"
+msgstr "تبديل القائمة المنسدلة"
+
+msgid "Topic / Title"
+msgstr "الموضوع / العنوان"
+
+msgid "Total:"
+msgstr "المجموع:"
+
+msgid "Trial Expiry"
+msgstr "انتهاء المحاكمة"
+
+msgid "Trigger"
+msgstr "مشغل"
+
+msgid "Tumblr"
+msgstr "نعرفكم"
+
+msgid ""
+"Tutors are likely to be busy during the same times as you, particularly around prelims and finals. Thus, it is important that you make a request and schedule a tutoring session far enough in advance to accommodate both your and your tutor’s schedules."
+msgstr ""
+"من المرجح أن يكون المعلمون مشغولين في نفس الأوقات التي تقضيها أنت، خاصة أثناء الاختبارات التمهيدية والنهائيات. وبالتالي، من المهم أن تقوم بتقديم طلب وتحديد موعد لجلسة التدريس مسبقًا بما يكفي لاستيعاب جداولك وجداول معلمك."
+
+msgid ""
+"Tutors are not available for help with homework or projects: please consult your course’s office hours for assistance."
+msgstr ""
+"لا يتوفر مدرسون للمساعدة في الواجبات المنزلية أو المشاريع: يرجى الرجوع إلى ساعات العمل الخاصة بدورتك للحصول على المساعدة."
+
+msgid "Type:"
+msgstr "يكتب:"
+
+msgid "Unblock User"
+msgstr "إلغاء حظر المستخدم"
+
+msgid ""
+"Unblocking will restore the user's access to log into the LMS. Ensure that all reasons for the initial block have been resolved or considered."
+msgstr ""
+"سيؤدي إلغاء الحظر إلى استعادة وصول المستخدم لتسجيل الدخول إلى نظام إدارة التعلم (LMS). تأكد من حل جميع أسباب الحظر الأولي أو أخذها في الاعتبار."
+
+msgid ""
+"Unlike a consultant, your personal TitanEd will do more than just show you what to do – he or she will be with you when you need them most."
+msgstr ""
+"على عكس الاستشاري، فإن TitanEd الخاص بك سيفعل أكثر من مجرد إظهار ما يجب عليك فعله - فهو سيكون معك عندما تكون في أمس الحاجة إليه."
+
+msgid "Update Billing Info"
+msgstr "تحديث معلومات الفواتير"
+
+msgid "Update Metric"
+msgstr "تحديث المقياس"
+
+msgid ""
+"Uploading and processing the CSV file may take some time. Feel free to close this window and continue with other tasks. We will notify you via email once all user accounts have been successfully created, including details of each account."
+msgstr ""
+"قد يستغرق تحميل ملف CSV ومعالجته بعض الوقت. لا تتردد في إغلاق هذه النافذة ومتابعة المهام الأخرى. سنقوم بإخطارك عبر البريد الإلكتروني بمجرد إنشاء جميع حسابات المستخدمين بنجاح، بما في ذلك تفاصيل كل حساب."
+
+msgid ""
+"Uploading and processing the CSV may take some time depending on the file size. You can safely close this modal and continue with other tasks—we'll handle the rest in the background."
+msgstr ""
+"قد يستغرق تحميل ملف CSV ومعالجته بعض الوقت حسب حجم الملف. يمكنك إغلاق هذا النموذج بأمان ومتابعة المهام الأخرى، وسنتولى الباقي في الخلفية."
+
+msgid "URL must be \"/about-us\",\"/contact-us\" format"
+msgstr "يجب أن يكون عنوان URL بتنسيق \"/about-us\"، و/contact-us"
+
+msgid "Use"
+msgstr "يستخدم"
+
+msgid "Use dynamic values"
+msgstr "استخدم القيم الديناميكية"
+
+msgid "Use recurring sessions for regular classes to save scheduling time."
+msgstr "استخدم الجلسات المتكررة للفصول العادية لتوفير وقت الجدولة."
+
+msgid "User complaints"
+msgstr "شكاوى المستخدمين"
+
+msgid "User Image"
+msgstr "صورة المستخدم"
+
+msgid "View All Events"
+msgstr "عرض جميع الأحداث"
+
+msgid "View Registrations"
+msgstr "عرض التسجيلات"
+
+msgid "Visa"
+msgstr "فيزا"
+
+msgid "Warm Regards,"
+msgstr "تحياتي حارة،"
+
+msgid ""
+"Warm regards,<br />\n                The {{ platform_name }} Team"
+msgstr ""
+"تحياتي الحارة، <br />\n                فريق {{ platform_name }}"
+
+msgid ""
+"We are pleased to inform you that your account on {{ platform_name }} has been successfully activated by an administrator. You can now log in and start exploring our platform."
+msgstr ""
+"يسعدنا أن نعلمك أن حسابك على {{ platform_name }} قد تم تنشيطه بنجاح بواسطة أحد المسؤولين. يمكنك الآن تسجيل الدخول والبدء في استكشاف منصتنا."
+
+msgid ""
+"We are reaching out to inform you that your password for your account on {{ platform_name }} has been changed by an administrator. This change was made to ensure the security and integrity of your account."
+msgstr ""
+"نحن نتواصل معك لإخبارك بأن كلمة المرور الخاصة بحسابك على {{ platform_name }} قد تم تغييرها بواسطة أحد المسؤولين. تم إجراء هذا التغيير لضمان أمان وسلامة حسابك."
+
+msgid "We found"
+msgstr "وجدنا"
+
+msgid ""
+"We may also disclose data about you to our auditors and legal advisors in order to assess our disclosure obligations and rights under this Privacy Policy."
+msgstr ""
+"يجوز لنا أيضًا الكشف عن البيانات الخاصة بك لمراجعي الحسابات والمستشارين القانونيين لدينا من أجل تقييم التزاماتنا وحقوق الكشف بموجب سياسة الخصوصية هذه."
+
+msgid ""
+"We received a request to change the e-mail associated with your {{ platform_name }} account from {{ old_email }} to {{ new_email }}. If this is correct, please confirm your new e-mail address by visiting:"
+msgstr ""
+"لقد تلقينا طلبًا لتغيير البريد الإلكتروني المرتبط بحسابك {{ platform_name }} من {{ old_email }} إلى {{ new_email }}. إذا كان هذا صحيحا، يرجى تأكيد عنوان البريد الإلكتروني الجديد الخاص بك عن طريق زيارة:"
+
+msgid ""
+"We understand that every business is at a different stage of development; this is why we’ve also developed multiple Group Coaching programs to fit the needs of every kind of business."
+msgstr ""
+"نحن ندرك أن كل عمل تجاري يمر بمرحلة مختلفة من التطور؛ ولهذا السبب قمنا أيضًا بتطوير العديد من برامج التدريب الجماعي لتناسب احتياجات كل أنواع الأعمال."
+
+msgid ""
+"We're delighted to inform you that {{ student_name }} has accepted your invitation to connect on {{platform_name}}. You are now linked, and you can start following their learning progress right away!"
+msgstr ""
+"يسعدنا أن نعلمك أن {{ student_name }} قد قبل دعوتك للتواصل على {{platform_name}}. أنت الآن مرتبط، ويمكنك البدء في متابعة تقدمهم التعليمي على الفور!"
+
+msgid ""
+"We've restored access to your {{ platform_name }} account using the recovery email you provided at registration."
+msgstr ""
+"لقد استعدنا الوصول إلى حساب {{ platform_name }} الخاص بك باستخدام البريد الإلكتروني المخصص للطوارئ الذي قدمته عند التسجيل."
+
+msgid "week(s)"
+msgstr "الأسبوع (الأسابيع)"
+
+msgid ""
+"Welcome to your LMS - {{ platform_name }} ! You’re just one step away from accessing our diverse and enriching courses designed to enhance your learning journey. To get started, please activate your account using the link below:"
+msgstr ""
+"مرحبًا بك في نظام إدارة التعلم (LMS) - {{ platform_name }}! أنت على بعد خطوة واحدة فقط من الوصول إلى دوراتنا المتنوعة والمثرية المصممة لتعزيز رحلتك التعليمية. للبدء، يرجى تفعيل حسابك باستخدام الرابط أدناه:"
+
+msgid ""
+"Welcome to {{ platform_name }}! We are thrilled to have you as part of our learning community."
+msgstr ""
+"مرحبًا بك في {{ platform_name }}! يسعدنا أن تكون جزءًا من مجتمع التعلم لدينا."
+
+msgid "Welcome to {{platform_name}}."
+msgstr "مرحبًا بك في {{platform_name}}."
+
+msgid "We’re Here To"
+msgstr "نحن هنا ل"
+
+msgid "WhatsApp"
+msgstr "واتساب"
+
+msgid "WHATSAPP TEMPLATE"
+msgstr "قالب واتس اب"
+
+msgid ""
+"WhatsApp template created. It needs approval before it can be used in a rule — go to WhatsApp Templates to approve it."
+msgstr ""
+"تم إنشاء قالب الواتساب. ويحتاج إلى موافقة قبل أن يمكن استخدامه في القاعدة — انتقل إلى قوالب WhatsApp للموافقة عليه."
+
+msgid "will appear here."
+msgstr "سوف تظهر هنا."
+
+msgid ""
+"With everyone else’s mindset involved impacting too. Hence why business coaching is so crucial for success."
+msgstr ""
+"مع عقلية الجميع المشاركة في التأثير أيضًا. ولهذا السبب يعد التدريب على الأعمال أمرًا بالغ الأهمية لتحقيق النجاح."
+
+msgid "You are editing a single occurrence of a recurring"
+msgstr "أنت تقوم بتحرير تكرار واحد لتكرار"
+
+msgid ""
+"You are enrolled in {{ course_name }} at {{ platform_name }}. This course contains proctored exams."
+msgstr ""
+"أنت مسجل في {{ course_name }} في {{ platform_name }}. تحتوي هذه الدورة على اختبارات مراقبة."
+
+msgid ""
+"You are receiving this email because either an administrator invited you or you registered for an account yourself."
+msgstr ""
+"أنت تتلقى هذا البريد الإلكتروني إما لأن أحد المسؤولين قد دعاك أو قمت بالتسجيل للحصول على حساب بنفسك."
+
+msgid "You are registered for this event!"
+msgstr "أنت مسجل لهذا الحدث!"
+
+msgid "You can change course title from"
+msgstr "يمكنك تغيير عنوان الدورة من"
+
+msgid "You can get client ID from your Facebook App."
+msgstr "يمكنك الحصول على معرف العميل من تطبيق Facebook الخاص بك."
+
+msgid "You can get client ID from your Google App."
+msgstr "يمكنك الحصول على معرف العميل من تطبيق Google الخاص بك."
+
+msgid "You can get client ID from your Microsoft Azure App."
+msgstr "يمكنك الحصول على معرف العميل من تطبيق Microsoft Azure الخاص بك."
+
+msgid "You can get client Secret from your Facebook App."
+msgstr "يمكنك الحصول على سر العميل من تطبيق Facebook الخاص بك."
+
+msgid "You can get client Secret from your Google App."
+msgstr "يمكنك الحصول على سر العميل من تطبيق Google الخاص بك."
+
+msgid "You can get client Secret from your Microsoft Azure App."
+msgstr "يمكنك الحصول على سر العميل من تطبيق Microsoft Azure الخاص بك."
+
+msgid ""
+"You can log in to your account using the login details provided. We highly recommend you update your password promptly after logging in."
+msgstr ""
+"يمكنك تسجيل الدخول إلى حسابك باستخدام تفاصيل تسجيل الدخول المقدمة. نوصي بشدة بتحديث كلمة المرور الخاصة بك فورًا بعد تسجيل الدخول."
+
+msgid ""
+"You can log in to your account using the new password provided by your administrator. We highly recommend you update your password promptly after logging in."
+msgstr ""
+"يمكنك تسجيل الدخول إلى حسابك باستخدام كلمة المرور الجديدة التي قدمها المسؤول لديك. نوصي بشدة بتحديث كلمة المرور الخاصة بك فورًا بعد تسجيل الدخول."
+
+msgid "You can select a maximum of"
+msgstr "يمكنك تحديد الحد الأقصى"
+
+msgid ""
+"You have been invited to attend a recurring {{ label }} on {{ platform }}."
+msgstr "لقد تمت دعوتك لحضور {{ label }} متكرر على {{ platform }}."
+
+msgid "You have been invited to attend a {{ label }} on {{ platform }}."
+msgstr "لقد تمت دعوتك لحضور {{ label }} على {{ platform }}."
+
+msgid "You have no"
+msgstr "ليس لديك"
+
+msgid "You have used"
+msgstr "لقد استخدمت"
+
+msgid ""
+"You may access our content management system(CMS) at: {{ studio_url }}."
+msgstr ""
+"يمكنك الوصول إلى نظام إدارة المحتوى (CMS) الخاص بنا على: {{ studio_url }}."
+
+msgid ""
+"You may meet with a tutor once or you may meet regularly throughout the semester, depending on your needs."
+msgstr ""
+"قد تلتقي بمدرس مرة واحدة أو قد تلتقي بانتظام طوال الفصل الدراسي، حسب احتياجاتك."
+
+msgid "You must"
+msgstr "يجب عليك أن"
+
+msgid "You will need to activate your account before you can log in again."
+msgstr "سوف تحتاج إلى تفعيل حسابك قبل أن تتمكن من تسجيل الدخول مرة أخرى."
+
+msgid ""
+"You will need to activate your account before you can log in again. After activation, you may use the following credentials to access your account."
+msgstr ""
+"سوف تحتاج إلى تفعيل حسابك قبل أن تتمكن من تسجيل الدخول مرة أخرى. بعد التنشيط، يمكنك استخدام بيانات الاعتماد التالية للوصول إلى حسابك."
+
+msgid ""
+"You're about to send a request to your parent to pay for the items in your cart. By confirming, your cart will be locked, and a payment invoice will be generated and sent to your parent for approval and payment."
+msgstr ""
+"أنت على وشك إرسال طلب إلى والديك لدفع ثمن العناصر الموجودة في سلة التسوق الخاصة بك. من خلال التأكيد، سيتم قفل سلة التسوق الخاصة بك، وسيتم إنشاء فاتورة الدفع وإرسالها إلى والديك للموافقة عليها والدفع."
+
+msgid ""
+"You're receiving this e-mail because you requested a password reset for your user account at {{ platform_name }}."
+msgstr ""
+"أنت تتلقى هذا البريد الإلكتروني لأنك طلبت إعادة تعيين كلمة المرور لحساب المستخدم الخاص بك على {{ platform_name }}."
+
+msgid ""
+"You're receiving this e-mail because you requested to create a password for your user account at {{ platform_name }}."
+msgstr ""
+"أنت تتلقى هذا البريد الإلكتروني لأنك طلبت إنشاء كلمة مرور لحساب المستخدم الخاص بك على {{ platform_name }}."
+
+msgid "You've registered this recovery email address for {{ platform_name }}."
+msgstr ""
+"لقد قمت بتسجيل عنوان البريد الإلكتروني المخصص للطوارئ لـ {{ platform_name }}."
+
+msgid ""
+"Your application has been approved and it will expired on {{ expired_date }}."
+msgstr "تمت الموافقة على طلبك وستنتهي صلاحيته في {{ expired_date }}."
+
+msgid "Your application has been received and is under review."
+msgstr "لقد تم استلام طلبك وهو قيد المراجعة."
+
+msgid "Your application has been rejected due to {{ reason }} reason."
+msgstr "لقد تم رفض طلبك لسبب {{ reason }}."
+
+msgid "Your application has been revoked due to {{ reason }} reason."
+msgstr "لقد تم إلغاء طلبك لسبب {{ reason }}."
+
+msgid ""
+"Your cart will be temporarily locked to prevent changes during the payment review process by your parent."
+msgstr ""
+"سيتم قفل سلة التسوق الخاصة بك مؤقتًا لمنع حدوث تغييرات أثناء عملية مراجعة الدفع من قبل والديك."
+
+msgid "Your New Password: {{ new_password }}"
+msgstr "كلمة المرور الجديدة: {{ new_password }}"
+
+msgid ""
+"Your parent will have the option to review and complete the payment. You will be notified once the payment is completed or if further action is required."
+msgstr ""
+"سيكون لدى والديك خيار مراجعة الدفع وإكماله. سيتم إعلامك بمجرد اكتمال عملية الدفع أو إذا كان هناك حاجة إلى اتخاذ إجراء آخر."
+
+msgid "Your Password: {{ new_password }}"
+msgstr "كلمة المرور الخاصة بك: {{ new_password }}"
+
+msgid ""
+"Your timezone is auto-detected. Change it if scheduling for a different region."
+msgstr ""
+"يتم اكتشاف المنطقة الزمنية الخاصة بك تلقائيًا. قم بتغييره في حالة الجدولة لمنطقة مختلفة."
+
+msgid "YouTube"
+msgstr "يوتيوب"
+
+msgid "YouTube Video ID"
+msgstr "معرف فيديو يوتيوب"
+
+msgid "Zoom Details"
+msgstr "تفاصيل التكبير"
+
+msgid "Zoom Meeting ID"
+msgstr "معرف اجتماع التكبير"
+
+msgid "{{ platform_name }} Additions:"
+msgstr "{{ platform_name }} الإضافات:"
+
+msgid "{{ platform_name }} on Facebook"
+msgstr "{{ platform_name }} على الفيسبوك"
+
+msgid "{{ platform_name }} on Google Plus"
+msgstr "{{ platform_name }} على جوجل بلس"
+
+msgid "{{ platform_name }} on LinkedIn"
+msgstr "{{ platform_name }} على لينكيدين"
+
+msgid "{{ platform_name }} on Reddit"
+msgstr "{{ platform_name }} على رديت"
+
+msgid "{{ platform_name }} on Twitter"
+msgstr "{{ platform_name }} على تويتر"
+
+msgid "{{ platform_name }} Wiki"
+msgstr "{{ platform_name }} ويكي"
+
+msgid ""
+"{{parent}} ({{parent_email}}) has requested to connect with you on {{platform_name}} to stay updated with your learning progress and classroom activities."
+msgstr ""
+"لقد طلب {{parent}} ({{parent_email}}) التواصل معك على {{platform_name}} للبقاء على اطلاع بتقدم التعلم وأنشطة الفصل الدراسي."
