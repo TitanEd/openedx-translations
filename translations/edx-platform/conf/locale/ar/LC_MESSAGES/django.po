@@ -29068,3 +29068,31 @@ msgstr "رابط تسجيل Zoom"
 #: control-hub/feedbacks/models.py
 msgid "on"
 msgstr "على"
+
+#: themes/indigo/lms/templates/events/event-details.html
+msgid "You are already registered for this event!"
+msgstr "أنت مسجل بالفعل في هذا الحدث!"
+
+#: themes/indigo/lms/templates/events/event-details.html
+msgid "Please fill in your name and email."
+msgstr "يرجى ملء اسمك وبريدك الإلكتروني."
+
+#: themes/indigo/lms/templates/events/event-details.html
+msgid "Registered!"
+msgstr "تم التسجيل!"
+
+#: themes/indigo/lms/templates/control-hub/
+msgid "Browse"
+msgstr "استعراض"
+
+#: themes/indigo/lms/templates/control-hub/admin/pages/home.html
+msgid "Edit Testimonial"
+msgstr "تعديل الشهادة"
+
+#: themes/indigo/lms/templates/control-hub/admin/pages/home.html
+msgid "Choose new picture"
+msgstr "اختر صورة جديدة"
+
+#: themes/indigo/lms/templates/control-hub/admin/pages/home.html
+msgid "Switch tabs to edit each translation. Save applies all languages at once."
+msgstr "انتقل بين الألسنة لتعديل كل ترجمة. يطبّق الحفظ جميع اللغات دفعةً واحدة."

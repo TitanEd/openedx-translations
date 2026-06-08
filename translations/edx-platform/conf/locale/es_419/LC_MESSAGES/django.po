@@ -29470,3 +29470,31 @@ msgstr "URL de grabación de Zoom"
 #: control-hub/feedbacks/models.py
 msgid "on"
 msgstr "en"
+
+#: themes/indigo/lms/templates/events/event-details.html
+msgid "You are already registered for this event!"
+msgstr "¡Ya estás registrado para este evento!"
+
+#: themes/indigo/lms/templates/events/event-details.html
+msgid "Please fill in your name and email."
+msgstr "Por favor, completa tu nombre y correo electrónico."
+
+#: themes/indigo/lms/templates/events/event-details.html
+msgid "Registered!"
+msgstr "¡Registrado!"
+
+#: themes/indigo/lms/templates/control-hub/
+msgid "Browse"
+msgstr "Examinar"
+
+#: themes/indigo/lms/templates/control-hub/admin/pages/home.html
+msgid "Edit Testimonial"
+msgstr "Editar testimonio"
+
+#: themes/indigo/lms/templates/control-hub/admin/pages/home.html
+msgid "Choose new picture"
+msgstr "Elegir nueva imagen"
+
+#: themes/indigo/lms/templates/control-hub/admin/pages/home.html
+msgid "Switch tabs to edit each translation. Save applies all languages at once."
+msgstr "Cambia de pestaña para editar cada traducción. Guardar aplica todos los idiomas a la vez."
