@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-01 00:55+0000\n"
+"POT-Creation-Date: 2026-09-05 02:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,39 +17,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: api.py:125
+#: api.py:123
 msgid ""
 "The CSV does not match this problem. Check that you uploaded the right CSV."
 msgstr ""
 
-#: api.py:130
+#: api.py:128
 msgid "Points must be numbers."
 msgstr ""
 
-#: api.py:132
+#: api.py:130
 msgid "Points must not be greater than {}."
 msgstr ""
 
-#: api.py:134
+#: api.py:132
 msgid "Points must be greater than 0"
 msgstr ""
 
-#: api.py:347
+#: api.py:318
 msgid "Wrong course id {} != {}"
 msgstr ""
 
-#: api.py:366 api.py:368
+#: api.py:337 api.py:339
 msgid "Repeated user_id: "
 msgstr ""
 
-#: api.py:385
+#: api.py:356
 msgid "Grade must be a number"
 msgstr ""
 
-#: api.py:388
+#: api.py:358
 msgid "Grade must not be negative"
 msgstr ""
 
-#: api.py:642
+#: api.py:675
 msgid "score must be positive"
 msgstr ""
