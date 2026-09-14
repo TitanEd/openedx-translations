@@ -262,6 +262,14 @@ git:
     mode: onlyreviewed
     translation_files_expression: 'translations/frontend-app-support-tools/src/i18n/messages/<lang>.json'
 
+  # frontend-app-tels-public
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/frontend-app-tels-public/src/i18n/transifex_input.json
+    mode: onlyreviewed
+    translation_files_expression: 'translations/frontend-app-tels-public/src/i18n/messages/<lang>.json'
+
   # frontend-component-footer
   - filter_type: file
     file_format: KEYVALUEJSON
