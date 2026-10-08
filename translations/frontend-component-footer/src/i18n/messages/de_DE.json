@@ -52,7 +52,6 @@
   "indigo.footer.link.terms": "Allgemeine Geschäftsbedingungen",
   "indigo.footer.contact.emailLabel": "E-Mail:",
   "indigo.footer.contact.webLabel": "Web:",
-  "indigo.footer.contact.supportNotePrefix": "Support anfordern über ",
   "indigo.footer.contact.formLink": "Kontaktformular",
   "indigo.footer.contact.supportNoteSuffix": ".",
   "indigo.footer.copyright": "© {year} {siteName}. Alle Rechte vorbehalten.",

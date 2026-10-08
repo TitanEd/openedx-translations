@@ -52,9 +52,15 @@
   "indigo.footer.link.terms": "नियम और शर्तें",
   "indigo.footer.contact.emailLabel": "ईमेल:",
   "indigo.footer.contact.webLabel": "वेब:",
-  "indigo.footer.contact.supportNotePrefix": "सहायता के लिए ",
+  "indigo.footer.contact.supportNotePrefix": "सहायता के लिए अनुरोध करें: ",
   "indigo.footer.contact.formLink": "संपर्क फ़ॉर्म",
   "indigo.footer.contact.supportNoteSuffix": " का उपयोग करें।",
   "indigo.footer.copyright": "© {year} {siteName}. सर्वाधिकार सुरक्षित।",
-  "indigo.footer.poweredBy": "Open edX® द्वारा संचालित · TitanEd द्वारा TELS"
+  "indigo.footer.poweredBy": "Open edX® द्वारा संचालित · TitanEd द्वारा TELS",
+  "indigo.footer.exploreCoursesCta": "कोर्स देखें",
+  "indigo.footer.link.termsOfUse": "उपयोग की शर्तें",
+  "indigo.footer.links.heading": "फ़ुटर लिंक",
+  "indigo.footer.logo.alt": "{siteName}",
+  "indigo.footer.logo.aria": "{siteName} होम",
+  "indigo.footer.social.mediaLabel": "सोशल मीडिया"
 }

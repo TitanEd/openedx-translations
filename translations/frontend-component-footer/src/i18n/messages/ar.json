@@ -56,5 +56,11 @@
   "indigo.footer.contact.formLink": "نموذج الاتصال",
   "indigo.footer.contact.supportNoteSuffix": ".",
   "indigo.footer.copyright": "© {year} {siteName}. جميع الحقوق محفوظة.",
-  "indigo.footer.poweredBy": "مدعوم بواسطة Open edX® · TELS من TitanEd"
+  "indigo.footer.poweredBy": "مدعوم بواسطة Open edX® · TELS من TitanEd",
+  "indigo.footer.exploreCoursesCta": "استكشف الدورات",
+  "indigo.footer.link.termsOfUse": "شروط الاستخدام",
+  "indigo.footer.links.heading": "روابط التذييل",
+  "indigo.footer.logo.alt": "{siteName}",
+  "indigo.footer.logo.aria": "الصفحة الرئيسية لـ {siteName}",
+  "indigo.footer.social.mediaLabel": "وسائل التواصل الاجتماعي"
 }

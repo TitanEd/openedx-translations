@@ -52,9 +52,15 @@
   "indigo.footer.link.terms": "Terms & Conditions",
   "indigo.footer.contact.emailLabel": "Email:",
   "indigo.footer.contact.webLabel": "Web:",
-  "indigo.footer.contact.supportNotePrefix": "Request support via ",
+  "indigo.footer.contact.supportNotePrefix": "Request support via",
   "indigo.footer.contact.formLink": "Contact form",
   "indigo.footer.contact.supportNoteSuffix": ".",
   "indigo.footer.copyright": "© {year} {siteName}. All rights reserved.",
-  "indigo.footer.poweredBy": "Powered by Open edX® · TELS by TitanEd"
+  "indigo.footer.poweredBy": "Powered by Open edX® · TELS by TitanEd",
+  "indigo.footer.exploreCoursesCta": "Explore courses",
+  "indigo.footer.link.termsOfUse": "Terms of Use",
+  "indigo.footer.links.heading": "Footer Links",
+  "indigo.footer.logo.alt": "{siteName}",
+  "indigo.footer.logo.aria": "{siteName} Home",
+  "indigo.footer.social.mediaLabel": "Social media"
 }
