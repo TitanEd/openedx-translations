@@ -62,5 +62,12 @@
   "indigo.footer.links.heading": "Footer Links",
   "indigo.footer.logo.alt": "{siteName}",
   "indigo.footer.logo.aria": "{siteName} Home",
-  "indigo.footer.social.mediaLabel": "Social media"
+  "indigo.footer.social.mediaLabel": "Social media",
+  "footer.copyright.text": "Copyrights ©. All Rights Reserved.",
+  "footer.social.label": "Social media",
+  "footer.home.label": "Home",
+  "tels.footer.explore.title": "Explore",
+  "tels.footer.information.title": "Information",
+  "tels.footer.contact.title": "Contact",
+  "tels.footer.poweredBy": "Powered by"
 }

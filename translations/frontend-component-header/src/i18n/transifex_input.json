@@ -76,5 +76,12 @@
   "tels.taxonomy.subject.theology": "Theology",
   "header.user.theme": "Toggle Theme",
   "tels.header.theme.switchToLight": "Switch to Light Mode",
-  "tels.header.theme.switchToDark": "Switch to Dark Mode"
+  "tels.header.theme.switchToDark": "Switch to Dark Mode",
+  "mobile.view.header.logo.altText": "My Open edX",
+  "tels.header.sidebar.toggle": "Toggle sidebar",
+  "tels.header.more": "More",
+  "tels.header.notifications.tab.discussion": "Discussion",
+  "tels.header.notifications.tab.updates": "Updates",
+  "tels.header.notifications.tab.grading": "Grading",
+  "tels.header.notifications.preferences": "Notification preferences"
 }

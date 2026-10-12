@@ -76,5 +76,12 @@
   "tels.taxonomy.subject.theology": "धर्मशास्त्र",
   "header.user.theme": "थीम बदलें",
   "tels.header.theme.switchToLight": "लाइट मोड पर जाएँ",
-  "tels.header.theme.switchToDark": "डार्क मोड पर जाएँ"
+  "tels.header.theme.switchToDark": "डार्क मोड पर जाएँ",
+  "mobile.view.header.logo.altText": "My Open edX",
+  "tels.header.sidebar.toggle": "साइडबार दिखाएँ या छिपाएँ",
+  "tels.header.more": "और",
+  "tels.header.notifications.tab.discussion": "चर्चा",
+  "tels.header.notifications.tab.updates": "अपडेट",
+  "tels.header.notifications.tab.grading": "ग्रेडिंग",
+  "tels.header.notifications.preferences": "सूचना प्राथमिकताएँ"
 }

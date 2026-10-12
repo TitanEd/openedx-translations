@@ -62,5 +62,12 @@
   "indigo.footer.links.heading": "Enlaces del pie de página",
   "indigo.footer.logo.alt": "{siteName}",
   "indigo.footer.logo.aria": "Inicio de {siteName}",
-  "indigo.footer.social.mediaLabel": "Redes sociales"
+  "indigo.footer.social.mediaLabel": "Redes sociales",
+  "footer.copyright.text": "© Todos los derechos reservados.",
+  "footer.social.label": "Redes sociales",
+  "footer.home.label": "Inicio",
+  "tels.footer.explore.title": "Explorar",
+  "tels.footer.information.title": "Información",
+  "tels.footer.contact.title": "Contacto",
+  "tels.footer.poweredBy": "Desarrollado por"
 }

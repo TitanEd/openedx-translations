@@ -62,5 +62,12 @@
   "indigo.footer.links.heading": "روابط التذييل",
   "indigo.footer.logo.alt": "{siteName}",
   "indigo.footer.logo.aria": "الصفحة الرئيسية لـ {siteName}",
-  "indigo.footer.social.mediaLabel": "وسائل التواصل الاجتماعي"
+  "indigo.footer.social.mediaLabel": "وسائل التواصل الاجتماعي",
+  "footer.copyright.text": "© جميع الحقوق محفوظة.",
+  "footer.social.label": "وسائل التواصل الاجتماعي",
+  "footer.home.label": "الرئيسية",
+  "tels.footer.explore.title": "استكشف",
+  "tels.footer.information.title": "معلومات",
+  "tels.footer.contact.title": "اتصل بنا",
+  "tels.footer.poweredBy": "مدعوم بواسطة"
 }

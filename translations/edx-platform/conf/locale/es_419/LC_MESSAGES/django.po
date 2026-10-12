@@ -73,6 +73,11 @@ msgstr ""
 msgid "Content Groups"
 msgstr "Grupos de Contenido"
 
+#: openedx/core/djangoapps/course_groups/constants.py:12
+msgid "Use this group configuration to control access to content."
+msgstr ""
+"Usa esta configuración de grupos para controlar el acceso al contenido."
+
 #: cms/djangoapps/contentstore/course_group_config.py:65
 #: cms/djangoapps/contentstore/views/certificate_manager.py:92
 msgid "invalid JSON"
@@ -3997,6 +4002,16 @@ msgstr[2] ""
 "\n"
 "Has establecido una meta de aprender {start_bold}%(days_per_week)s veces a la semana en %(course_name)s{end_bold}. Ahora depende de ti hacer realidad esos objetivos.                "
 
+#: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:79
+msgid ""
+"\n"
+"                        Jump back in\n"
+"                    "
+msgstr ""
+"\n"
+"                        Retomar donde quedaste\n"
+"                    "
+
 #: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:98
 #: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:117
 msgid "Remember: the best goal is one that you can stick to. "
@@ -5825,6 +5840,18 @@ msgstr "Cohortes"
 msgid "Discussions"
 msgstr "Discusiones"
 
+#: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html:26
+msgid "Add a Post"
+msgstr "Agregar una publicación"
+
+#: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html:46
+msgid "New topic form"
+msgstr "Formulario de nuevo tema"
+
+#: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html:50
+msgid "Discussion thread list"
+msgstr "Lista de hilos de discusión"
+
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:579
 msgid "Student Admin"
 msgstr "Administrador de Estudiantes"
@@ -6837,6 +6864,113 @@ msgstr ""
 #, python-format
 msgid "To unsubscribe click here %(unsubscribe_link)s"
 msgstr "Para darse de baja haga clic aquí %(unsubscribe_link)s"
+
+#: lms/templates/discussion/_discussion_inline.html:23
+#, python-format
+msgid "%(title)s"
+msgstr "%(title)s"
+
+#: lms/templates/discussion/_discussion_inline.html:27
+msgid "Topic:"
+msgstr "Tema:"
+
+#: lms/templates/discussion/_discussion_inline.html:37
+msgid "Show Discussion"
+msgstr "Mostrar discusión"
+
+#: lms/templates/discussion/_discussion_inline_studio.html:7
+msgid "To view live discussions, click Preview or View Live in Unit Settings."
+msgstr ""
+"Para ver las discusiones en vivo, haz clic en Vista previa o Ver en vivo en "
+"la configuración de la unidad."
+
+#: lms/templates/discussion/_discussion_inline_studio.html:9
+#, python-format
+msgid "Discussion ID: %(discussion_id)s"
+msgstr "ID de la discusión: %(discussion_id)s"
+
+#: lms/templates/discussion/_discussion_inline_studio.html:12
+msgid ""
+"The discussion block is disabled for this course as it is not using a "
+"compatible discussion provider."
+msgstr ""
+"El bloque de discusión está deshabilitado en este curso porque no usa un "
+"proveedor de discusiones compatible."
+
+#: lms/templates/discussion/_filter_dropdown.html:5
+msgid "Discussion topics list"
+msgstr "Lista de temas de discusión"
+
+#: lms/templates/discussion/_filter_dropdown.html:9
+#: lms/templates/discussion/_filter_dropdown.html:12
+msgid "Filter Topics"
+msgstr "Filtrar temas"
+
+#: lms/templates/discussion/_filter_dropdown.html:21
+msgid "filter topics"
+msgstr "filtrar temas"
+
+#: lms/templates/discussion/_filter_dropdown.html:28
+msgid "All Discussions"
+msgstr "Todas las discusiones"
+
+#: lms/templates/discussion/_filter_dropdown.html:32
+msgid "Posts I'm Following"
+msgstr "Publicaciones que sigo"
+
+#. Translators: This labels a filter menu in forum navigation
+#: lms/templates/discussion/_thread_list_template.html:8
+msgid "Filter:"
+msgstr "Filtro:"
+
+#. Translators: This is a menu option for showing all forum threads unfiltered
+#: lms/templates/discussion/_thread_list_template.html:11
+msgid "Show all posts"
+msgstr "Mostrar todas las publicaciones"
+
+#. Translators: This is a menu option for showing only unread forum threads
+#: lms/templates/discussion/_thread_list_template.html:13
+msgid "Unread posts"
+msgstr "Publicaciones no leídas"
+
+#. Translators: This is a menu option for showing only unanswered forum
+#: lms/templates/discussion/_thread_list_template.html:16
+msgid "Unanswered posts"
+msgstr "Publicaciones sin respuesta"
+
+#. Translators: This is a menu option for showing only forum threads flagged
+#: lms/templates/discussion/_thread_list_template.html:20
+msgid "Flagged"
+msgstr "Reportadas"
+
+#. Translators: This labels a group menu in forum navigation
+#: lms/templates/discussion/_thread_list_template.html:27
+msgid "Group:"
+msgstr "Grupo:"
+
+#: lms/templates/discussion/_thread_list_template.html:29
+msgid "in all groups"
+msgstr "en todos los grupos"
+
+#. Translators: This labels a sort menu in forum navigation
+#: lms/templates/discussion/_thread_list_template.html:41
+msgid "Sort:"
+msgstr "Ordenar:"
+
+#. Translators: This is a menu option for sorting forum threads
+#: lms/templates/discussion/_thread_list_template.html:44
+msgid "by recent activity"
+msgstr "por actividad reciente"
+
+#. Translators: This is a menu option for sorting forum threads
+#: lms/templates/discussion/_thread_list_template.html:46
+msgid "by most activity"
+msgstr "por mayor actividad"
+
+#. Translators: This is a menu option for sorting forum threads
+#: lms/templates/discussion/_thread_list_template.html:48
+msgid "by most votes"
+msgstr "por más votos"
 
 #: lms/templates/instructor/edx_ace/accountcreationandenrollment/email/body.html:12
 #: lms/templates/instructor/edx_ace/accountcreationandenrollment/email/body.txt:1
@@ -13177,6 +13311,19 @@ msgstr "Especifique el idioma del curso."
 #: xmodule/course_block.py:862
 msgid "Teams Configuration"
 msgstr "Configuración de equipos"
+
+#: xmodule/course_block.py:865
+msgid ""
+"Configure team sets, limit team sizes, and set visibility settings using "
+"JSON. See <a target=\"&#95;blank\" "
+"href=\"https://docs.openedx.org/en/latest/educators/references/advanced_features/teams_configuration_options.html>teams"
+" configuration documentation</a> for help and examples."
+msgstr ""
+"Configura los conjuntos de equipos, limita el tamaño de los equipos y define"
+" las opciones de visibilidad mediante JSON. Consulta la <a "
+"target=\"&#95;blank\" "
+"href=\"https://docs.openedx.org/en/latest/educators/references/advanced_features/teams_configuration_options.html>documentación"
+" de configuración de equipos</a> para obtener ayuda y ejemplos."
 
 #: xmodule/course_block.py:874
 msgid "Enable Proctored Exams"

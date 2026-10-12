@@ -1,0 +1,17 @@
+{
+  "tour.action.dismiss": "تجاهل",
+  "tour.action.end": "حسنًا",
+  "tour.example.title": "جولة تجريبية",
+  "tour.example.body": "هذه جولة تجريبية",
+  "notification.title": "الإشعارات",
+  "notification.today.heading": "آخر 24 ساعة",
+  "notification.earlier.heading": "سابقًا",
+  "notification.mark.as.read": "تحديد الكل كمقروء",
+  "notification.fullStop": "•",
+  "notification.load.more.notifications": "تحميل المزيد من الإشعارات",
+  "notification.recent.all.message": "هذه كل إشعاراتك الأخيرة!",
+  "notification.expired.delete.message": "تُحذف الإشعارات تلقائيًا بعد {days} يومًا",
+  "notification.no.message": "لا توجد إشعارات بعد",
+  "notification.no.help.message": "ستظهر الإشعارات هنا عند وصولها إليك",
+  "notification.bell.icon.alt.message": "أيقونة جرس الإشعارات"
+}

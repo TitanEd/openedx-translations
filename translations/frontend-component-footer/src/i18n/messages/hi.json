@@ -62,5 +62,12 @@
   "indigo.footer.links.heading": "फ़ुटर लिंक",
   "indigo.footer.logo.alt": "{siteName}",
   "indigo.footer.logo.aria": "{siteName} होम",
-  "indigo.footer.social.mediaLabel": "सोशल मीडिया"
+  "indigo.footer.social.mediaLabel": "सोशल मीडिया",
+  "footer.copyright.text": "© सर्वाधिकार सुरक्षित।",
+  "footer.social.label": "सोशल मीडिया",
+  "footer.home.label": "होम",
+  "tels.footer.explore.title": "एक्सप्लोर करें",
+  "tels.footer.information.title": "जानकारी",
+  "tels.footer.contact.title": "संपर्क",
+  "tels.footer.poweredBy": "इनके द्वारा संचालित"
 }

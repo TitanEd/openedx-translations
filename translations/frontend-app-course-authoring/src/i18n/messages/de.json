@@ -45,7 +45,6 @@
   "course-authoring.custom-pages.pageExplanation.header": "What are pages?",
   "course-authoring.custom-pages.pageExplanation.body": "Pages are listed horizontally at the top of your course. Default pages (Home, Course, Discussion, Wiki, and Progress)\n      are followed by textbooks and custom pages that you create.",
   "course-authoring.custom-pages.customPagesExplanation.header": "Custom pages",
-  "course-authoring.custom-pages.customPagesExplanation.body": "You can create and edit custom pages to probide students with additional course content. For example, you can create\n      pages for the grading policy, course slide, and a course calendar.",
   "course-authoring.custom-pages.studentViewExplanation.header": "How do pages look to students in my course?",
   "course-authoring.custom-pages.studentViewExplanation.body": "Students see the default and custom pages at the top of your course and use the links to navigate.",
   "course-authoring.custom-pages.studentViewExampleButton.label": "See an example",

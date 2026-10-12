@@ -11,7 +11,7 @@
   "exam.defaultError": "لقد حدث خطأ في النظام في الاختبار الخاص بك. يرجى التواصل مع الدعم للحصول على المساعدة.",
   "exam.aria.hideTimer": "اخفِ المؤقت",
   "exam.aria.showTimer": "اعرض المؤقت",
-  "exam.examTimer.text": "أنت تأخذ &quot; {examLink} &quot; كـ {examType} .",
+  "exam.examTimer.text": "أنت تأخذ \"{examLink}\" كـ {examType}.",
   "exam.examTimer.showLess": "يظهر المؤقت الموجود على اليمين الوقت المتبقي في الامتحان. للحصول على درجات للمسائل، يجب عليك أن تضغط على \"تسليم\" لكل مسألة قبل الضغط على \"أنهِ امتحاني\"",
   "exam.examTimer.showLessLink": "عرض أقل",
   "exam.examTimer.showMoreLink": "إظهار أكثر",

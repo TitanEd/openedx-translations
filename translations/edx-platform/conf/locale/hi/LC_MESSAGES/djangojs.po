@@ -1562,6 +1562,10 @@ msgstr "डुप्लिकेट"
 msgid "Undo moving"
 msgstr "आगे बढ़ना"
 
+#: cms/static/js/views/utils/xblock_utils.js:189
+msgid "Moving"
+msgstr "स्थानांतरित किया जा रहा है"
+
 #: cms/static/js/views/utils/xblock_utils.js:230
 msgid "Deleting this {xblock_type} is permanent and cannot be undone."
 msgstr "यह {xblock_type} हटाना स्थायी है और इसे पूर्ववत नहीं किया जा सकता है।"
@@ -2903,6 +2907,10 @@ msgstr "हायपरलिंक इन्‍सर्ट करें"
 msgid "e.g. 'http://google.com'"
 msgstr "e.g. 'http://google.com'"
 
+#: lms/static/js/Markdown.Editor.js:29
+msgid "Link Description"
+msgstr "लिंक का विवरण"
+
 #: lms/static/js/Markdown.Editor.js:30
 msgid "e.g. 'google'"
 msgstr "जैसे 'google'"
@@ -3554,6 +3562,10 @@ msgid "An error has occurred. Check your Internet connection and try again."
 msgstr ""
 "एक त्रुटि हुई है। अपने इंटरनेट कनेक्शन की जाँच करें और पुनः प्रयास करें।"
 
+#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:158
+msgid "Choose one"
+msgstr "एक चुनें"
+
 #: lms/static/js/groups/views/cohort_editor.js:63
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:5
 msgid "Selected tab"
@@ -4167,6 +4179,16 @@ msgstr ""
 "सफलता! समस्या '<%- problem_id %>' और छात्र '<%- student_id %>' के लिए प्रयास"
 " रीसेट कर दिए गए।"
 
+#: lms/static/js/instructor_dashboard/student_admin.js:157
+msgid ""
+"Error resetting problem attempts for problem '<%- problem_id %>' and student"
+" '<%- student_id %>'. Make sure that the problem and student identifiers are"
+" complete and correct."
+msgstr ""
+"प्रश्न '<%- problem_id %>' और विद्यार्थी '<%- student_id %>' के लिए प्रश्न "
+"के प्रयास रीसेट करने में त्रुटि हुई। सुनिश्चित करें कि प्रश्न और विद्यार्थी "
+"के पहचानकर्ता पूरे और सही हैं।"
+
 #: lms/static/js/instructor_dashboard/student_admin.js:194
 msgid ""
 "Delete student '<%- student_id %>'s state on problem '<%- problem_id %>'?"
@@ -4250,6 +4272,10 @@ msgid ""
 msgstr ""
 "प्रवेश परीक्षा कार्य इतिहास प्राप्त करने में त्रुटि हुई है। कृपया सुनिश्चित "
 "करें कि छात्र पहचानकर्ता '{student_id}' सही है।"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:413
+msgid "Reset attempts for all students on problem '<%- problem_id %>'?"
+msgstr "प्रश्न '<%- problem_id %>' पर सभी विद्यार्थियों के प्रयास रीसेट करें?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:422
 msgid ""
@@ -4510,6 +4536,10 @@ msgstr "(स्वयंभू) अंत {end}"
 #: lms/static/js/learner_dashboard/models/course_card_model.js:179
 msgid "Starts {start}"
 msgstr "प्रारंभ {start}"
+
+#: lms/static/js/learner_dashboard/models/course_card_model.js:180
+msgid "Started {start}"
+msgstr "{start} को शुरू हुआ"
 
 #: lms/static/js/learner_dashboard/models/course_card_model.js:182
 msgid "Ends {end}"
@@ -5190,6 +5220,13 @@ msgstr "समस्या बैंक में स्थानांतरण
 #: xmodule/js/public/js/split_test_author_view.js:12
 msgid "Creating missing groups"
 msgstr "लापता समूह बनाना"
+
+#: xmodule/assets/video/public/js/00_i18n.js:10
+#: xmodule/assets/video/public/js/09_play_pause_control.js:31
+#: xmodule/assets/video/public/js/09_play_pause_control.js:89
+#: xmodule/assets/video/public/js/09_play_skip_control.js:28
+msgid "Play"
+msgstr "चलाएँ"
 
 #: xmodule/assets/video/public/js/00_i18n.js:11
 #: xmodule/assets/video/public/js/09_play_pause_control.js:79
@@ -7514,6 +7551,10 @@ msgstr "अपने संगठन की जानकारी को अप�
 msgid "Press discard changes to discard changes."
 msgstr "परिवर्तनों को त्यागने के लिए त्यागें परिवर्तन दबाएँ।"
 
+#: cms/templates/js/course-video-settings-update-settings-footer.underscore:7
+msgid "Press update settings to update course video settings"
+msgstr "कोर्स की वीडियो सेटिंग अपडेट करने के लिए \"सेटिंग अपडेट करें\" दबाएँ"
+
 #: cms/templates/js/course-video-settings.underscore:7
 msgid "Press close to hide course video settings"
 msgstr "कोर्स वीडियो सेटिंग्स छिपाएं, इसके लिए करीब दबाएं"
@@ -8512,6 +8553,18 @@ msgstr ""
 msgid "Onboarding"
 msgstr "ओंबोर्डिंग"
 
+#: cms/templates/js/timed-examination-preference-editor.underscore:51
+msgid ""
+"Use Onboarding to introduce learners to proctoring, verify their identity, "
+"and create an onboarding profile. Learners must complete the onboarding "
+"profile step prior to taking a proctored exam. Profile reviews take 2+ "
+"business days."
+msgstr ""
+"शिक्षार्थियों को प्रॉक्टरिंग से परिचित कराने, उनकी पहचान सत्यापित करने और "
+"ऑनबोर्डिंग प्रोफ़ाइल बनाने के लिए ऑनबोर्डिंग का उपयोग करें। प्रॉक्टर की गई "
+"परीक्षा देने से पहले शिक्षार्थियों को ऑनबोर्डिंग प्रोफ़ाइल का चरण पूरा करना "
+"होगा। प्रोफ़ाइल की समीक्षा में 2 या अधिक कार्यदिवस लगते हैं।"
+
 #: cms/templates/js/timed-examination-preference-editor.underscore:58
 msgid "Practice Proctored"
 msgstr "प्रैक्टिस प्रोक्टेड"
@@ -9061,6 +9114,10 @@ msgstr "संपादकीय टिप्पणी"
 msgid "Update comment"
 msgstr "टिप्पणी अपडेट करें"
 
+#: common/static/common/templates/discussion/templates.underscore:305
+msgid "discussion"
+msgstr "चर्चा"
+
 #: common/static/common/templates/discussion/templates.underscore:309
 msgid "answered question"
 msgstr "प्रश्न का उत्तर दिया"
@@ -9363,6 +9420,10 @@ msgstr "नया नामांकन मोड:"
 msgid "Reason for change:"
 msgstr "बदलाव के कारण:"
 
+#: lms/djangoapps/support/static/support/templates/enrollment-modal.underscore:16
+msgid "Choose One"
+msgstr "एक चुनें"
+
 #: lms/djangoapps/support/static/support/templates/enrollment-modal.underscore:21
 #: lms/djangoapps/support/static/support/templates/enrollment-modal.underscore:22
 msgid "Explain if other."
@@ -9388,6 +9449,10 @@ msgstr "कोर्स शुरू"
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:22
 msgid "Course End"
 msgstr "कोर्स का अंत"
+
+#: lms/djangoapps/support/static/support/templates/enrollment.underscore:23
+msgid "Upgrade Deadline"
+msgstr "अपग्रेड की अंतिम तिथि"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:24
 msgid "Verification Deadline"
@@ -9416,6 +9481,12 @@ msgstr "अंतिम बार संशोधित"
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:30
 msgid "Active"
 msgstr "सक्रिय"
+
+#: lms/djangoapps/support/static/support/templates/enrollment.underscore:45
+#: lms/djangoapps/support/static/support/templates/enrollment.underscore:46
+#: lms/templates/ccx/schedule.underscore:42
+msgid "N/A"
+msgstr "लागू नहीं"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:54
 msgid "Change Enrollment"
@@ -10835,6 +10906,18 @@ msgstr ""
 " प्रत्येक कंप्यूटर के साथ भिन्न होती है, लेकिन आमतौर पर हेडशॉट के लिए सबसे "
 "अच्छा पोजिशन कैमरे से लगभग 12-18 इंच (30-45 सेंटीमीटर) की दूरी पर होता है, "
 "और आपका सिर कंप्यूटर स्क्रीन के सापेक्ष केंद्रित होना चाहिए। "
+
+#: lms/templates/verify_student/face_photo_step.underscore:56
+#: lms/templates/verify_student/id_photo_step.underscore:51
+#: lms/templates/verify_student/incourse_reverify.underscore:47
+msgid ""
+"If the photos you submit are rejected, try moving the computer or camera "
+"orientation to change the lighting angle.  The most common reason for "
+"rejection is inability to read the text on the ID card."
+msgstr ""
+"यदि आपकी भेजी गई तस्वीरें अस्वीकार हो जाती हैं, तो रोशनी का कोण बदलने के लिए"
+" कंप्यूटर या कैमरे की दिशा बदलकर देखें।  अस्वीकृति का सबसे आम कारण पहचान "
+"पत्र पर लिखा पाठ न पढ़ पाना है।"
 
 #: lms/templates/verify_student/face_photo_step.underscore:59
 #: lms/templates/verify_student/incourse_reverify.underscore:50

@@ -76,5 +76,12 @@
   "tels.taxonomy.subject.theology": "علم اللاهوت",
   "header.user.theme": "تبديل المظهر",
   "tels.header.theme.switchToLight": "التبديل إلى الوضع الفاتح",
-  "tels.header.theme.switchToDark": "التبديل إلى الوضع الداكن"
+  "tels.header.theme.switchToDark": "التبديل إلى الوضع الداكن",
+  "mobile.view.header.logo.altText": "My Open edX",
+  "tels.header.sidebar.toggle": "إظهار أو إخفاء القائمة الجانبية",
+  "tels.header.more": "المزيد",
+  "tels.header.notifications.tab.discussion": "النقاش",
+  "tels.header.notifications.tab.updates": "التحديثات",
+  "tels.header.notifications.tab.grading": "التقييم",
+  "tels.header.notifications.preferences": "تفضيلات الإشعارات"
 }

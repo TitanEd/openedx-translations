@@ -4837,6 +4837,14 @@ msgstr ""
 msgid "Terms of Service and Honor Code"
 msgstr "شروط الخدمة وميثاق الشرف"
 
+#: lms/static/js/student_account/views/FinishAuthView.js:71
+msgid "query param next is provide"
+msgstr "تم تقديم معامل الاستعلام next"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:73
+msgid "query param next is internal"
+msgstr "معامل الاستعلام next داخلي"
+
 #: lms/static/js/student_account/views/FinishAuthView.js:111
 msgid "Saving your email preference"
 msgstr "جاري حفظ تفضيلات بريدك الإلكتروني"
@@ -4844,6 +4852,14 @@ msgstr "جاري حفظ تفضيلات بريدك الإلكتروني"
 #: lms/static/js/student_account/views/FinishAuthView.js:129
 msgid "Enrolling you in the selected course"
 msgstr "جاري تسجيلك في المساق المختار"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:140
+msgid "course mode param is not provided"
+msgstr "لم يُقدَّم معامل نمط المساق"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:148
+msgid "course mode param is provided"
+msgstr "تم تقديم معامل نمط المساق"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:163
 msgid "Adding the selected course to your cart"
@@ -5197,6 +5213,11 @@ msgstr[5] "عُثِر على {total_results} نتيجةٍ لـ \"{search_term}\"
 #: xmodule/js/public/js/library_content_edit.js:44
 msgid "Updating with latest library content"
 msgstr "جاري تحديث المحتوى"
+
+#: xmodule/assets/library_content/public/js/library_content_edit.js:64
+#: xmodule/js/public/js/library_content_edit.js:64
+msgid "Migrating to Problem Bank"
+msgstr "جارٍ الترحيل إلى بنك المسائل"
 
 #: xmodule/assets/split_test/public/js/split_test_author_view.js:12
 #: xmodule/js/public/js/split_test_author_view.js:12
@@ -6429,6 +6450,12 @@ msgstr "ألصق صفاً بعد"
 #: xmodule/js/src/html/edit.js:915
 msgid "Paste row before"
 msgstr "ألصق صفاً قبل"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: xmodule/js/src/html/edit.js:920
+msgid "Paste your embed code below:"
+msgstr "الصق رمز التضمين أدناه:"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -8287,6 +8314,24 @@ msgid ""
 msgstr ""
 "عند عدم وجود تاريخ استحقاق في القسم الفرعي فسيرى المتعلمون درجاتهم فور تقديم"
 " إجاباتهم على نماذج التقييم. "
+
+#: cms/templates/js/show-correctness-editor.underscore:40
+msgid ""
+"Never show individual assessment results, but show overall assessment "
+"results after due date"
+msgstr ""
+"عدم إظهار نتائج كل تقييم على حدة مطلقًا، مع إظهار النتيجة الإجمالية للتقييم "
+"بعد تاريخ الاستحقاق"
+
+#: cms/templates/js/show-correctness-editor.underscore:43
+msgid ""
+"Learners do not see question-level correctness or scores before or after the"
+" due date. However, once the due date passes, they can see their overall "
+"score for the subsection on the Progress page."
+msgstr ""
+"لا يرى المتعلّمون صحة الإجابات أو الدرجات على مستوى السؤال قبل تاريخ "
+"الاستحقاق ولا بعده. لكن بعد انقضاء تاريخ الاستحقاق، يمكنهم رؤية درجتهم "
+"الإجمالية في القسم الفرعي ضمن صفحة التقدّم."
 
 #: cms/templates/js/signatory-details.underscore:9
 #: cms/templates/js/signatory-editor.underscore:8
@@ -11322,6 +11367,18 @@ msgstr ""
 "استخدم الإشارات المرجعيّة لتسهل على نفسك العودة إلى صفحات المساق. من العودة "
 "إلى صفحات المساق. للتأشير على صفحة ما،  انقر على \"التأشير على هذه الصفحة\" "
 "تحت عنوان الصفحة."
+
+#: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13
+#: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:14
+#, python-brace-format
+msgid "Load next {num_items} result"
+msgid_plural "Load next {num_items} results"
+msgstr[0] "لا توجد نتائج أخرى للتحميل ({num_items})"
+msgstr[1] "تحميل النتيجة التالية ({num_items})"
+msgstr[2] "تحميل النتيجتين التاليتين ({num_items})"
+msgstr[3] "تحميل {num_items} نتائج تالية"
+msgstr[4] "تحميل {num_items} نتيجة تالية"
+msgstr[5] "تحميل {num_items} نتيجة تالية"
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:25
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
