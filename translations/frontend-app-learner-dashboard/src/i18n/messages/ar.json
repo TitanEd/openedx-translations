@@ -202,5 +202,10 @@
   "sidebar.my-courses.title": "مساقاتي",
   "sidebar.shared-resources.title": "الموارد المشتركة",
   "sidebar.taxonomies.title": "التصنيفات",
-  "sidebar.titan-ai.title": "مساعد TitanAI"
+  "sidebar.titan-ai.title": "مساعد TitanAI",
+  "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} برامج ذات صلة",
+  "learner-dash.courseCard.relatedProgramsBadge.label.singular": "برنامج واحد ذو صلة ({numPrograms})",
+  "learnerDashboard.programCard.courses": "{numCourses} مساقات",
+  "learnerDashboard.programCard.duration": "{numWeeks} أسابيع",
+  "learnerDashboard.programCard.logoAlt": "شعار {provider}"
 }

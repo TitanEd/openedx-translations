@@ -310,7 +310,7 @@
   "progress.detailedGrades.practice-label.info.text": "गैर-ग्रेडेड गतिविधियों से प्राप्त अंक अभ्यास और आत्म-मूल्यांकन के लिए हैं।",
   "progress.detailedGrades.problem-label.info.text": "उन गतिविधियों से प्राप्त अंक जो आपके अंतिम ग्रेड में योगदान देते हैं।",
   "progress.ungradedAlert": "पाठ्यक्रम के अग्रेडेड पहलुओं पर प्रगति के लिए, अपना {outlineLink} देखें।",
-  "progress.footnotes.droppableAssignments": "सबसे कम {numDroppable, plural, one{# {assignmentType} स्कोर है} अन्य{# {assignmentType} स्कोर हैं}} हटा दिए गए।",
+  "progress.footnotes.droppableAssignments": "सबसे कम {numDroppable, plural, one{# {assignmentType} स्कोर हटा दिया जाता है} other{# {assignmentType} स्कोर हटा दिए जाते हैं}}।",
   "progress.relatedLinks.datesCard.description": "आपके पाठ्यक्रम की नियत तिथियों और आगामी असाइनमेंट का शेड्यूल दृश्य।",
   "progress.relatedLinks.datesCard.link": "तिथियाँ",
   "progress.relatedLinks.outlineCard.description": "आपके पाठ्यक्रम की विषय-वस्तु का एक व्यापक दृश्य।",
@@ -516,5 +516,7 @@
   "courseCelebration.recommendations.formatting.list_join": "{style, select, punctuation {, } conjunction { {sp}और } other { }}",
   "courseCelebration.recommendations.browse_catalog": "और पाठ्यक्रम देखें",
   "courseCelebration.recommendations.loading_recommendations": "अनुशंसाएँ लोड हो रही हैं",
-  "courseCelebration.recommendations.card.schools.label": "संस्थान और भागीदार"
+  "courseCelebration.recommendations.card.schools.label": "संस्थान और भागीदार",
+  "instructor.toolbar.option.learner": "शिक्षार्थी",
+  "instructor.toolbar.option.specificStudent": "कोई ख़ास शिक्षार्थी..."
 }

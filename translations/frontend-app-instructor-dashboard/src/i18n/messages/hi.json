@@ -577,5 +577,12 @@
   "sidebar.loading": "लोड हो रहा है...",
   "sidebar.my-courses.title": "मेरे पाठ्यक्रम",
   "tels.header.theme.switchToDark": "डार्क मोड पर जाएँ",
-  "tels.header.theme.switchToLight": "लाइट मोड पर जाएँ"
+  "tels.header.theme.switchToLight": "लाइट मोड पर जाएँ",
+  "instruct.courseInfo.generalInfo.status.active": "सक्रिय",
+  "instruct.courseInfo.generalInfo.status.archived": "संग्रहीत",
+  "instruct.courseInfo.generalInfo.status.upcoming": "आगामी",
+  "tels.header.sidebar.toggle": "साइडबार दिखाएँ या छिपाएँ",
+  "tels.header.logo.named": "{siteName} का लोगो",
+  "learning.custom.tabs.bookmarks": "बुकमार्क",
+  "learning.custom.tabs.updates": "अपडेट"
 }

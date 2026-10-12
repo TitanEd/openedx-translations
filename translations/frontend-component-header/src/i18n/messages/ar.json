@@ -83,5 +83,8 @@
   "tels.header.notifications.tab.discussion": "النقاش",
   "tels.header.notifications.tab.updates": "التحديثات",
   "tels.header.notifications.tab.grading": "التقييم",
-  "tels.header.notifications.preferences": "تفضيلات الإشعارات"
+  "tels.header.notifications.preferences": "تفضيلات الإشعارات",
+  "tels.header.logo.named": "شعار {siteName}",
+  "tels.header.search.close": "إغلاق البحث",
+  "tels.header.announcement.close": "إغلاق الإعلان"
 }

@@ -577,5 +577,12 @@
   "sidebar.loading": "Cargando...",
   "sidebar.my-courses.title": "Mis cursos",
   "tels.header.theme.switchToDark": "Cambiar al modo oscuro",
-  "tels.header.theme.switchToLight": "Cambiar al modo claro"
+  "tels.header.theme.switchToLight": "Cambiar al modo claro",
+  "instruct.courseInfo.generalInfo.status.active": "Activo",
+  "instruct.courseInfo.generalInfo.status.archived": "Archivado",
+  "instruct.courseInfo.generalInfo.status.upcoming": "Próximo",
+  "tels.header.sidebar.toggle": "Mostrar u ocultar la barra lateral",
+  "tels.header.logo.named": "Logotipo de {siteName}",
+  "learning.custom.tabs.bookmarks": "Marcadores",
+  "learning.custom.tabs.updates": "Novedades"
 }

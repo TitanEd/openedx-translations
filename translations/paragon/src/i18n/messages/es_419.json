@@ -35,7 +35,7 @@
   "pgn.FormAutosuggest.iconButtonOpened": "Abre el menú de opciones",
   "pgn.Modal.closeButon": "Cerrar",
   "pgn.ProductTour.Checkpoint.bottom-position-text": "Parte inferior del paso {step}",
-  "pgn.ProductTour.Checkpoint.page-index-text": "{paso} de {totalSteps}",
+  "pgn.ProductTour.Checkpoint.page-index-text": "{step} de {totalSteps}",
   "pgn.ProductTour.Checkpoint.top-position-text": "Parte superior del paso {step}",
   "pgn.ProductTour.checkpointHeader.close": "Cerrar tour",
   "pgn.Toast.closeLabel": "Cerrar"

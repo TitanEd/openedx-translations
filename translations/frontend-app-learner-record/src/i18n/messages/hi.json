@@ -55,7 +55,7 @@
   "download.program.record": "डाउनलोड प्रोग्राम रिकॉर्ड",
   "successful.record.download.toast.message": "प्रोग्राम रिकॉर्ड सफलतापूर्वक डाउनलोड हुआ",
   "program.record.type": "{program_type} कार्यक्रम रिकॉर्ड",
-  "program.record.name": "{प्रोग्राम का नाम} रिकॉर्ड",
+  "program.record.name": "{program_name} रिकॉर्ड",
   "platform.and.school.name": "{platform} | {school}",
   "last.updated.date": "अंतिम अपडेट {date}",
   "learner.full_name": "{full_name} |",

@@ -577,5 +577,12 @@
   "sidebar.loading": "جارٍ التحميل...",
   "sidebar.my-courses.title": "مساقاتي",
   "tels.header.theme.switchToDark": "التبديل إلى الوضع الداكن",
-  "tels.header.theme.switchToLight": "التبديل إلى الوضع الفاتح"
+  "tels.header.theme.switchToLight": "التبديل إلى الوضع الفاتح",
+  "instruct.courseInfo.generalInfo.status.active": "نشط",
+  "instruct.courseInfo.generalInfo.status.archived": "مؤرشف",
+  "instruct.courseInfo.generalInfo.status.upcoming": "قادم",
+  "tels.header.sidebar.toggle": "إظهار أو إخفاء القائمة الجانبية",
+  "tels.header.logo.named": "شعار {siteName}",
+  "learning.custom.tabs.bookmarks": "الإشارات المرجعية",
+  "learning.custom.tabs.updates": "المستجدات"
 }

@@ -577,5 +577,12 @@
   "tels.header.theme.switchToLight": "Switch to light mode",
   "instruct.certificates.someExceptionsFailed": "Some exceptions failed:\n{errors}",
   "instruct.certificates.someInvalidationsFailed": "Some invalidations failed:\n{errors}",
-  "instruct.dataDownloads.modal.ok": "OK"
+  "instruct.dataDownloads.modal.ok": "OK",
+  "instruct.courseInfo.generalInfo.status.active": "Active",
+  "instruct.courseInfo.generalInfo.status.archived": "Archived",
+  "instruct.courseInfo.generalInfo.status.upcoming": "Upcoming",
+  "tels.header.sidebar.toggle": "Toggle sidebar",
+  "tels.header.logo.named": "{siteName} logo",
+  "learning.custom.tabs.bookmarks": "Bookmarks",
+  "learning.custom.tabs.updates": "Updates"
 }

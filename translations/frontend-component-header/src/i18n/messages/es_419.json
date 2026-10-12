@@ -83,5 +83,8 @@
   "tels.header.notifications.tab.discussion": "Discusión",
   "tels.header.notifications.tab.updates": "Novedades",
   "tels.header.notifications.tab.grading": "Calificaciones",
-  "tels.header.notifications.preferences": "Preferencias de notificaciones"
+  "tels.header.notifications.preferences": "Preferencias de notificaciones",
+  "tels.header.logo.named": "Logotipo de {siteName}",
+  "tels.header.search.close": "Cerrar búsqueda",
+  "tels.header.announcement.close": "Cerrar anuncio"
 }

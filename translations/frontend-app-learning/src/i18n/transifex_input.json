@@ -516,5 +516,7 @@
   "courseCelebration.recommendations.formatting.list_join": "{style, select, punctuation {, } conjunction { {sp}and } other { }}",
   "courseCelebration.recommendations.browse_catalog": "Explore more courses",
   "courseCelebration.recommendations.loading_recommendations": "Loading recommendations",
-  "courseCelebration.recommendations.card.schools.label": "Schools and Partners"
+  "courseCelebration.recommendations.card.schools.label": "Schools and Partners",
+  "instructor.toolbar.option.learner": "Learner",
+  "instructor.toolbar.option.specificStudent": "Specific Student..."
 }

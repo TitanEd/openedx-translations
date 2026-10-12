@@ -202,5 +202,10 @@
   "sidebar.my-courses.title": "Mis cursos",
   "sidebar.shared-resources.title": "Recursos compartidos",
   "sidebar.taxonomies.title": "Taxonomías",
-  "sidebar.titan-ai.title": "Asistente TitanAI"
+  "sidebar.titan-ai.title": "Asistente TitanAI",
+  "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} programas relacionados",
+  "learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} programa relacionado",
+  "learnerDashboard.programCard.courses": "{numCourses} cursos",
+  "learnerDashboard.programCard.duration": "{numWeeks} semanas",
+  "learnerDashboard.programCard.logoAlt": "Logotipo de {provider}"
 }

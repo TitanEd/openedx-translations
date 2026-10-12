@@ -119,5 +119,6 @@
   "bulk.email.scheduled.emails.table.pagination.pageOfCount": "de",
   "bulk.email.scheduled.emails.table.empty": "No se encontraron resultados",
   "bulk.email.scheduled.emails.table.pagination.label": "Paginación de la tabla",
-  "bulk.email.task.alert.title": "Precaución"
+  "bulk.email.task.alert.title": "Precaución",
+  "bulk.email.form.cancelEdit": "Cancelar"
 }

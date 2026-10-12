@@ -83,5 +83,8 @@
   "tels.header.notifications.tab.discussion": "चर्चा",
   "tels.header.notifications.tab.updates": "अपडेट",
   "tels.header.notifications.tab.grading": "ग्रेडिंग",
-  "tels.header.notifications.preferences": "सूचना प्राथमिकताएँ"
+  "tels.header.notifications.preferences": "सूचना प्राथमिकताएँ",
+  "tels.header.logo.named": "{siteName} का लोगो",
+  "tels.header.search.close": "खोज बंद करें",
+  "tels.header.announcement.close": "घोषणा बंद करें"
 }

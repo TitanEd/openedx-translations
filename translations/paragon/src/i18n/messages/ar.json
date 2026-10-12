@@ -27,7 +27,7 @@
   "pgn.Dropzone.DefaultContent.fileSizeBetween": "بين {sizeMin} و {sizeMax}",
   "pgn.Dropzone.DefaultContent.fileSizeMax": "أقصى قيمة {sizeMax}",
   "pgn.Dropzone.DefaultContent.fileSizeMin": "أدنى قيمة {sizeMin}",
-  "pgn.Dropzone.DefaultContent.fileTypeRestriction": "ارفع ملفات {count ، plural, one {{firstPart}} other {{firstPart} أو {secondPart}}}.",
+  "pgn.Dropzone.DefaultContent.fileTypeRestriction": "ارفع {count, plural, one {ملفات {firstPart}} other {ملفات {firstPart} أو {secondPart}}}",
   "pgn.Dropzone.DefaultContent.label": "اسحب ملفك وأفلِته هنا، أو انقر لاختيار ملف لرفعه.",
   "pgn.Dropzone.UploadProgress.cancelLabel": "ألغِ",
   "pgn.Dropzone.UploadProgress.uploadLabel": "جاري رفع {filename}. ",

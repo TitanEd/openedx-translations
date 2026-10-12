@@ -202,5 +202,10 @@
   "sidebar.shared-resources.title": "Shared Resources",
   "sidebar.taxonomies.title": "Taxonomies",
   "sidebar.titan-ai.title": "TitanAI Assistant",
-  "dashboard.widgets.error": "The widgets could not be loaded. Please try again later."
+  "dashboard.widgets.error": "The widgets could not be loaded. Please try again later.",
+  "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} Related Programs",
+  "learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} Related Program",
+  "learnerDashboard.programCard.courses": "{numCourses} Courses",
+  "learnerDashboard.programCard.duration": "{numWeeks} Weeks",
+  "learnerDashboard.programCard.logoAlt": "{provider} logo"
 }

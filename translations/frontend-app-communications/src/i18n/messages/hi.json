@@ -119,5 +119,6 @@
   "bulk.email.scheduled.emails.table.pagination.pageOfCount": "में से",
   "bulk.email.scheduled.emails.table.empty": "कोई परिणाम नहीं मिला",
   "bulk.email.scheduled.emails.table.pagination.label": "तालिका पृष्ठ नेविगेशन",
-  "bulk.email.task.alert.title": "सावधानी"
+  "bulk.email.task.alert.title": "सावधानी",
+  "bulk.email.form.cancelEdit": "रद्द करें"
 }

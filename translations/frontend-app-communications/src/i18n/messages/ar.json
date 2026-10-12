@@ -119,5 +119,6 @@
   "bulk.email.scheduled.emails.table.pagination.pageOfCount": "من",
   "bulk.email.scheduled.emails.table.empty": "لم يُعثر على نتائج",
   "bulk.email.scheduled.emails.table.pagination.label": "ترقيم صفحات الجدول",
-  "bulk.email.task.alert.title": "تنبيه"
+  "bulk.email.task.alert.title": "تنبيه",
+  "bulk.email.form.cancelEdit": "إلغاء"
 }

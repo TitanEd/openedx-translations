@@ -202,5 +202,10 @@
   "sidebar.my-courses.title": "मेरे पाठ्यक्रम",
   "sidebar.shared-resources.title": "साझा संसाधन",
   "sidebar.taxonomies.title": "टैक्सोनॉमी",
-  "sidebar.titan-ai.title": "TitanAI सहायक"
+  "sidebar.titan-ai.title": "TitanAI सहायक",
+  "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} संबंधित प्रोग्राम",
+  "learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} संबंधित प्रोग्राम",
+  "learnerDashboard.programCard.courses": "{numCourses} कोर्स",
+  "learnerDashboard.programCard.duration": "{numWeeks} सप्ताह",
+  "learnerDashboard.programCard.logoAlt": "{provider} का लोगो"
 }
