@@ -354,5 +354,7 @@
   "authz.table.footer.pagination.currentPage": "Página actual",
   "authz.table.footer.pagination.pageOfCount": "de",
   "authz.tabs.more": "Más...",
-  "authz.breadcrumb.ariaLabel": "Ruta de navegación"
+  "authz.breadcrumb.ariaLabel": "Ruta de navegación",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros"
 }

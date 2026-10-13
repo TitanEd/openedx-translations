@@ -99,5 +99,7 @@
   "gradebook.BulkManagementHistoryView.table.filename": "Libro de calificaciones",
   "gradebook.BulkManagementHistoryView.table.resultsSummary": "Descargar resumen",
   "gradebook.BulkManagementHistoryView.table.user": "Quién",
-  "gradebook.BulkManagementHistoryView.table.timeUploaded": "Cuándo"
+  "gradebook.BulkManagementHistoryView.table.timeUploaded": "Cuándo",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros"
 }

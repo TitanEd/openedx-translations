@@ -99,5 +99,7 @@
   "gradebook.BulkManagementHistoryView.table.filename": "ग्रेडबुक",
   "gradebook.BulkManagementHistoryView.table.resultsSummary": "सारांश डाउनलोड करें",
   "gradebook.BulkManagementHistoryView.table.user": "किसने",
-  "gradebook.BulkManagementHistoryView.table.timeUploaded": "कब"
+  "gradebook.BulkManagementHistoryView.table.timeUploaded": "कब",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
 }

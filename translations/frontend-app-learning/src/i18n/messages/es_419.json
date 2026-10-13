@@ -518,5 +518,7 @@
   "courseCelebration.recommendations.loading_recommendations": "Cargando recomendaciones",
   "courseCelebration.recommendations.card.schools.label": "Instituciones y socios",
   "instructor.toolbar.option.learner": "Estudiante",
-  "instructor.toolbar.option.specificStudent": "Estudiante específico..."
+  "instructor.toolbar.option.specificStudent": "Estudiante específico...",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros"
 }

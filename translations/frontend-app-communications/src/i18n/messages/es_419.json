@@ -120,5 +120,7 @@
   "bulk.email.scheduled.emails.table.empty": "No se encontraron resultados",
   "bulk.email.scheduled.emails.table.pagination.label": "Paginación de la tabla",
   "bulk.email.task.alert.title": "Precaución",
-  "bulk.email.form.cancelEdit": "Cancelar"
+  "bulk.email.form.cancelEdit": "Cancelar",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros"
 }

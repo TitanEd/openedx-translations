@@ -518,5 +518,7 @@
   "courseCelebration.recommendations.loading_recommendations": "अनुशंसाएँ लोड हो रही हैं",
   "courseCelebration.recommendations.card.schools.label": "संस्थान और भागीदार",
   "instructor.toolbar.option.learner": "शिक्षार्थी",
-  "instructor.toolbar.option.specificStudent": "कोई ख़ास शिक्षार्थी..."
+  "instructor.toolbar.option.specificStudent": "कोई ख़ास शिक्षार्थी...",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
 }

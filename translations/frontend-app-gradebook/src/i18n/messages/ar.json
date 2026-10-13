@@ -99,5 +99,7 @@
   "gradebook.BulkManagementHistoryView.table.filename": "دفتر الدرجات",
   "gradebook.BulkManagementHistoryView.table.resultsSummary": "تنزيل الملخص",
   "gradebook.BulkManagementHistoryView.table.user": "المستخدم",
-  "gradebook.BulkManagementHistoryView.table.timeUploaded": "الوقت"
+  "gradebook.BulkManagementHistoryView.table.timeUploaded": "الوقت",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي"
 }

@@ -120,5 +120,7 @@
   "bulk.email.scheduled.emails.table.empty": "لم يُعثر على نتائج",
   "bulk.email.scheduled.emails.table.pagination.label": "ترقيم صفحات الجدول",
   "bulk.email.task.alert.title": "تنبيه",
-  "bulk.email.form.cancelEdit": "إلغاء"
+  "bulk.email.form.cancelEdit": "إلغاء",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي"
 }

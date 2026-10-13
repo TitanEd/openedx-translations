@@ -584,5 +584,7 @@
   "tels.header.sidebar.toggle": "साइडबार दिखाएँ या छिपाएँ",
   "tels.header.logo.named": "{siteName} का लोगो",
   "learning.custom.tabs.bookmarks": "बुकमार्क",
-  "learning.custom.tabs.updates": "अपडेट"
+  "learning.custom.tabs.updates": "अपडेट",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
 }

@@ -120,5 +120,7 @@
   "bulk.email.scheduled.emails.table.pagination.pageOfCount": "of",
   "bulk.email.scheduled.emails.table.pagination.previous": "Previous",
   "bulk.email.task.alert.title": "Caution",
-  "bulk.email.form.cancelEdit": "Cancel"
+  "bulk.email.form.cancelEdit": "Cancel",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements"
 }

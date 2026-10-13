@@ -354,5 +354,7 @@
   "authz.table.footer.pagination.currentPage": "الصفحة الحالية",
   "authz.table.footer.pagination.pageOfCount": "من",
   "authz.tabs.more": "المزيد...",
-  "authz.breadcrumb.ariaLabel": "مسار التنقل"
+  "authz.breadcrumb.ariaLabel": "مسار التنقل",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي"
 }

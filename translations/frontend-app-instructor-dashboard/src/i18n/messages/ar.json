@@ -584,5 +584,7 @@
   "tels.header.sidebar.toggle": "إظهار أو إخفاء القائمة الجانبية",
   "tels.header.logo.named": "شعار {siteName}",
   "learning.custom.tabs.bookmarks": "الإشارات المرجعية",
-  "learning.custom.tabs.updates": "المستجدات"
+  "learning.custom.tabs.updates": "المستجدات",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي"
 }

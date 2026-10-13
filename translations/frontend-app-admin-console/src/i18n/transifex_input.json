@@ -354,5 +354,7 @@
   "authz.table.footer.pagination.pageOfCount": "of",
   "authz.table.footer.pagination.previous": "Previous",
   "authz.tabs.more": "More...",
-  "authz.breadcrumb.ariaLabel": "Breadcrumb"
+  "authz.breadcrumb.ariaLabel": "Breadcrumb",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements"
 }

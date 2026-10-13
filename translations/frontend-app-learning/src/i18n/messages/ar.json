@@ -518,5 +518,7 @@
   "courseCelebration.recommendations.loading_recommendations": "جارٍ تحميل التوصيات",
   "courseCelebration.recommendations.card.schools.label": "المؤسسات التعليمية والشركاء",
   "instructor.toolbar.option.learner": "متعلّم",
-  "instructor.toolbar.option.specificStudent": "طالب محدد..."
+  "instructor.toolbar.option.specificStudent": "طالب محدد...",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي"
 }

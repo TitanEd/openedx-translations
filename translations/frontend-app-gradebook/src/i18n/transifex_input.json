@@ -99,5 +99,7 @@
   "gradebook.BulkManagementHistoryView.table.timeUploaded": "When",
   "gradebook.BulkManagementHistoryView.table.user": "Who",
   "gradebook.GradesView.search.clearButton": "Clear search",
-  "gradebook.GradesView.search.submitButton": "Submit search"
+  "gradebook.GradesView.search.submitButton": "Submit search",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements"
 }

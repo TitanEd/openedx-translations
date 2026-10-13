@@ -354,5 +354,7 @@
   "authz.table.footer.pagination.currentPage": "वर्तमान पृष्ठ",
   "authz.table.footer.pagination.pageOfCount": "में से",
   "authz.tabs.more": "अधिक...",
-  "authz.breadcrumb.ariaLabel": "ब्रेडक्रंब"
+  "authz.breadcrumb.ariaLabel": "ब्रेडक्रंब",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
 }

@@ -584,5 +584,7 @@
   "tels.header.sidebar.toggle": "Mostrar u ocultar la barra lateral",
   "tels.header.logo.named": "Logotipo de {siteName}",
   "learning.custom.tabs.bookmarks": "Marcadores",
-  "learning.custom.tabs.updates": "Novedades"
+  "learning.custom.tabs.updates": "Novedades",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros"
 }

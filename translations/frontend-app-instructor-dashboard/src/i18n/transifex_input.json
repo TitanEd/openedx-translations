@@ -584,5 +584,7 @@
   "tels.header.sidebar.toggle": "Toggle sidebar",
   "tels.header.logo.named": "{siteName} logo",
   "learning.custom.tabs.bookmarks": "Bookmarks",
-  "learning.custom.tabs.updates": "Updates"
+  "learning.custom.tabs.updates": "Updates",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements"
 }
