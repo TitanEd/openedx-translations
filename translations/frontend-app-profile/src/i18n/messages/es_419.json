@@ -55,5 +55,19 @@
   "profile.formcontrols.button.saving": "Guardando",
   "profile.formcontrols.button.saved": "Guardado",
   "profile.visibility.who.just.me": "Solo yo",
-  "profile.visibility.who.everyone": "Todos en {siteName}"
+  "profile.visibility.who.everyone": "Todos en {siteName}",
+  "sidebar.dashboard.title": "Panel principal",
+  "sidebar.create-new-course.title": "Crear un curso nuevo",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros",
+  "sidebar.my-courses.title": "Mis cursos",
+  "sidebar.content-libraries.title": "Bibliotecas de contenido",
+  "sidebar.calendar.title": "Calendario",
+  "sidebar.class-planner.title": "Planificador de clases",
+  "sidebar.insights-reports.title": "Análisis e informes",
+  "sidebar.titan-ai.title": "Asistente TitanAI",
+  "sidebar.shared-resources.title": "Recursos compartidos",
+  "sidebar.taxonomies.title": "Taxonomías",
+  "sidebar.Assignments.title": "Tareas",
+  "profile.custom.layout.sidebar.loading": "Cargando navegación"
 }

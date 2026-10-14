@@ -99,5 +99,19 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "ग्रेड नहीं किया गया",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "कोई अन्य व्यक्ति वर्तमान में इसे ग्रेड कर रहा है।",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "ग्रेडिंग पूरी हो गई",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "आप इस प्रतिक्रिया को वर्तमान में ग्रेड कर रहे हैं।"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "आप इस प्रतिक्रिया को वर्तमान में ग्रेड कर रहे हैं।",
+  "sidebar.dashboard.title": "डैशबोर्ड",
+  "sidebar.create-new-course.title": "नया पाठ्यक्रम बनाएँ",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ",
+  "sidebar.my-courses.title": "मेरे पाठ्यक्रम",
+  "sidebar.content-libraries.title": "सामग्री लाइब्रेरी",
+  "sidebar.calendar.title": "कैलेंडर",
+  "sidebar.class-planner.title": "कक्षा योजनाकार",
+  "sidebar.insights-reports.title": "इनसाइट्स और रिपोर्ट",
+  "sidebar.titan-ai.title": "TitanAI सहायक",
+  "sidebar.shared-resources.title": "साझा संसाधन",
+  "sidebar.taxonomies.title": "टैक्सोनॉमी",
+  "sidebar.Assignments.title": "असाइनमेंट",
+  "oraGrading.page.loading.sr": "लोड हो रहा है"
 }

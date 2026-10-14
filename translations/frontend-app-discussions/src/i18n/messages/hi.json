@@ -233,5 +233,19 @@
   "discussions.posts.sort.lastActivity": "हाल की गतिविधि",
   "discussions.posts.sort.commentCount": "सर्वाधिक गतिविधि",
   "discussions.posts.sort.voteCount": "सबसे अधिक पसंद",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {सभी} true {मेरी} other {{own}} } {status, select, statusAll {} statusUnread {अपठित} statusFollowing {फ़ॉलो की गई} statusReported {रिपोर्ट की गई} statusUnanswered {अनुत्तरित} statusUnresponded {बिना प्रतिक्रिया वाली} other {{status}} } {type, select, discussion {चर्चाएँ} question {प्रश्न} all {पोस्ट} other {{type}} } {cohortType, select, all {} group {{cohort} में} other {{cohortType}} }, क्रम: {sort, select, lastActivityAt {हाल की गतिविधि} commentCount {सर्वाधिक गतिविधि} voteCount {सर्वाधिक लाइक} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {सभी} true {मेरी} other {{own}} } {status, select, statusAll {} statusUnread {अपठित} statusFollowing {फ़ॉलो की गई} statusReported {रिपोर्ट की गई} statusUnanswered {अनुत्तरित} statusUnresponded {बिना प्रतिक्रिया वाली} other {{status}} } {type, select, discussion {चर्चाएँ} question {प्रश्न} all {पोस्ट} other {{type}} } {cohortType, select, all {} group {{cohort} में} other {{cohortType}} }, क्रम: {sort, select, lastActivityAt {हाल की गतिविधि} commentCount {सर्वाधिक गतिविधि} voteCount {सर्वाधिक लाइक} other {{sort}} }",
+  "sidebar.dashboard.title": "डैशबोर्ड",
+  "sidebar.create-new-course.title": "नया पाठ्यक्रम बनाएँ",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ",
+  "sidebar.my-courses.title": "मेरे पाठ्यक्रम",
+  "sidebar.content-libraries.title": "सामग्री लाइब्रेरी",
+  "sidebar.calendar.title": "कैलेंडर",
+  "sidebar.class-planner.title": "कक्षा योजनाकार",
+  "sidebar.insights-reports.title": "इनसाइट्स और रिपोर्ट",
+  "sidebar.titan-ai.title": "TitanAI सहायक",
+  "sidebar.shared-resources.title": "साझा संसाधन",
+  "sidebar.taxonomies.title": "टैक्सोनॉमी",
+  "sidebar.Assignments.title": "असाइनमेंट",
+  "discussions.page.loading.sr": "लोड हो रहा है"
 }

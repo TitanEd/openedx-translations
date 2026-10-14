@@ -330,5 +330,19 @@
   "id.verification.requirements.card.device.text": "Necesitas un dispositivo que tenga una cámara. Si has recibido un aviso del navegador para habilitar acceso a tu cámara, por favor asegúrate de seleccionar {allow}.",
   "id.verification.account.name.summary.alert": "La configuración de tu perfil es administrada por {managerTitle}. Por lo tanto si el nombre en tu ID de foto coincide con tu nombre de cuenta por favor ponte en contacto con tu administrador de {profileDataManager} o con {support} para solicitar ayuda.",
   "idv.submission.alert.error": "\n          Se produjo un error técnico al intentar enviar la verificación de ID.\n          Es posible que sea una cuestión temporal, así que inténtalo de nuevo en unos minutos.\n          Si el problema continúa, dirígete a {support_link} para obtener ayuda.\n        ",
-  "id.verification.account.name.edit": "Editar {sr}"
+  "id.verification.account.name.edit": "Editar {sr}",
+  "sidebar.dashboard.title": "Panel principal",
+  "sidebar.create-new-course.title": "Crear un curso nuevo",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros",
+  "sidebar.my-courses.title": "Mis cursos",
+  "sidebar.content-libraries.title": "Bibliotecas de contenido",
+  "sidebar.calendar.title": "Calendario",
+  "sidebar.class-planner.title": "Planificador de clases",
+  "sidebar.insights-reports.title": "Análisis e informes",
+  "sidebar.titan-ai.title": "Asistente TitanAI",
+  "sidebar.shared-resources.title": "Recursos compartidos",
+  "sidebar.taxonomies.title": "Taxonomías",
+  "sidebar.Assignments.title": "Tareas",
+  "account.custom.layout.sidebar.loading": "Cargando navegación"
 }

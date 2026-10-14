@@ -55,5 +55,19 @@
   "profile.formcontrols.button.saving": "सेव हो रहा है",
   "profile.formcontrols.button.saved": "सहेजा गया",
   "profile.visibility.who.just.me": "केवल मैं",
-  "profile.visibility.who.everyone": "{siteName} पर हर कोई"
+  "profile.visibility.who.everyone": "{siteName} पर हर कोई",
+  "sidebar.dashboard.title": "डैशबोर्ड",
+  "sidebar.create-new-course.title": "नया पाठ्यक्रम बनाएँ",
+  "sidebar.my-assessments.title": "मेरे मूल्यांकन",
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ",
+  "sidebar.my-courses.title": "मेरे पाठ्यक्रम",
+  "sidebar.content-libraries.title": "सामग्री लाइब्रेरी",
+  "sidebar.calendar.title": "कैलेंडर",
+  "sidebar.class-planner.title": "कक्षा योजनाकार",
+  "sidebar.insights-reports.title": "इनसाइट्स और रिपोर्ट",
+  "sidebar.titan-ai.title": "TitanAI सहायक",
+  "sidebar.shared-resources.title": "साझा संसाधन",
+  "sidebar.taxonomies.title": "टैक्सोनॉमी",
+  "sidebar.Assignments.title": "असाइनमेंट",
+  "profile.custom.layout.sidebar.loading": "नेविगेशन लोड हो रहा है"
 }

@@ -330,5 +330,19 @@
   "id.verification.requirements.card.device.text": "You need a device that has a camera. If you receive a browser prompt for access to your camera, please make sure to click {allow}.",
   "id.verification.account.name.summary.alert": "Your account settings are managed by {managerTitle}. If the name on your photo ID does not match the name on your account, please contact your {profileDataManager} administrator or {support} for help.",
   "idv.submission.alert.error": "We encountered a technical error while trying to submit ID verification. This might be a temporary issue, so please try again in a few minutes. If the problem persists, please go to {support_link} for help.",
-  "id.verification.account.name.edit": "Edit {sr}"
+  "id.verification.account.name.edit": "Edit {sr}",
+  "sidebar.dashboard.title": "Dashboard",
+  "sidebar.create-new-course.title": "Create New Course",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-courses.title": "My Courses",
+  "sidebar.content-libraries.title": "Content Libraries",
+  "sidebar.calendar.title": "Calendar",
+  "sidebar.class-planner.title": "Class Planner",
+  "sidebar.insights-reports.title": "Insights & Reports",
+  "sidebar.titan-ai.title": "TitanAI Assistant",
+  "sidebar.shared-resources.title": "Shared Resources",
+  "sidebar.taxonomies.title": "Taxonomies",
+  "sidebar.Assignments.title": "Assignments",
+  "account.custom.layout.sidebar.loading": "Loading navigation"
 }

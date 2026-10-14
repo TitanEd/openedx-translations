@@ -330,5 +330,19 @@
   "id.verification.requirements.card.device.text": "أنت بحاجة إلى جهاز مزود بكاميرا. إذا تلقيت طلبًا من المتصفح للوصول إلى كاميرا جهازك، فتأكد رجاءً من النقر على {allow}.",
   "id.verification.account.name.summary.alert": "إعدادات حسابك يديرها {managerTitle}. إن لم يكن الاسم في بطاقة هويتك ذات الصورة. مطابقًا للاسم الذي في حسابك، فيرجى الاتصال بالمسؤول {profileDataManager} أو ب{support} للحصول على المساعدة قبل إتمام عملية التحقق من الصورة..",
   "idv.submission.alert.error": "لقد واجهنا خللاً فنياً خلال محاولتنا تقديم إثباتٍ للهوية. قد تكون هذه مشكلة مؤقتة، لذلك حاوِل مجدداً في بِضع دقائق. وإن بقيت المشكلة، فمن فضلك اذهب إلى {support_link} للمساعدة. ",
-  "id.verification.account.name.edit": "عدِّل {sr}"
+  "id.verification.account.name.edit": "عدِّل {sr}",
+  "sidebar.dashboard.title": "اللوحة الرئيسية",
+  "sidebar.create-new-course.title": "إنشاء مساق جديد",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-courses.title": "مساقاتي",
+  "sidebar.content-libraries.title": "مكتبات المحتوى",
+  "sidebar.calendar.title": "التقويم",
+  "sidebar.class-planner.title": "مخطِّط الحصص",
+  "sidebar.insights-reports.title": "الرؤى والتقارير",
+  "sidebar.titan-ai.title": "مساعد TitanAI",
+  "sidebar.shared-resources.title": "الموارد المشتركة",
+  "sidebar.taxonomies.title": "التصنيفات",
+  "sidebar.Assignments.title": "الواجبات",
+  "account.custom.layout.sidebar.loading": "جارٍ تحميل التنقل"
 }

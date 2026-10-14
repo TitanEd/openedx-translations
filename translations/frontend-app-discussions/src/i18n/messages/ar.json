@@ -233,5 +233,19 @@
   "discussions.posts.sort.lastActivity": "الأحدث نشاطًا",
   "discussions.posts.sort.commentCount": "الأكثر نشاطًا",
   "discussions.posts.sort.voteCount": "الأكثر إعجابًا",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {كل} true {منشوراتي من} other {{own}} } {type, select, discussion {النقاشات} question {الأسئلة} all {المنشورات} other {{type}} } {status, select, statusAll {} statusUnread {غير المقروءة} statusFollowing {المتابَعة} statusReported {المبلَّغ عنها} statusUnanswered {غير المُجاب عنها} statusUnresponded {التي لم يُردّ عليها} other {{status}} } {cohortType, select, all {} group {في {cohort}} other {{cohortType}} } مرتّبة حسب {sort, select, lastActivityAt {أحدث نشاط} commentCount {الأكثر نشاطًا} voteCount {الأكثر إعجابًا} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {كل} true {منشوراتي من} other {{own}} } {type, select, discussion {النقاشات} question {الأسئلة} all {المنشورات} other {{type}} } {status, select, statusAll {} statusUnread {غير المقروءة} statusFollowing {المتابَعة} statusReported {المبلَّغ عنها} statusUnanswered {غير المُجاب عنها} statusUnresponded {التي لم يُردّ عليها} other {{status}} } {cohortType, select, all {} group {في {cohort}} other {{cohortType}} } مرتّبة حسب {sort, select, lastActivityAt {أحدث نشاط} commentCount {الأكثر نشاطًا} voteCount {الأكثر إعجابًا} other {{sort}} }",
+  "sidebar.dashboard.title": "اللوحة الرئيسية",
+  "sidebar.create-new-course.title": "إنشاء مساق جديد",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-courses.title": "مساقاتي",
+  "sidebar.content-libraries.title": "مكتبات المحتوى",
+  "sidebar.calendar.title": "التقويم",
+  "sidebar.class-planner.title": "مخطِّط الحصص",
+  "sidebar.insights-reports.title": "الرؤى والتقارير",
+  "sidebar.titan-ai.title": "مساعد TitanAI",
+  "sidebar.shared-resources.title": "الموارد المشتركة",
+  "sidebar.taxonomies.title": "التصنيفات",
+  "sidebar.Assignments.title": "الواجبات",
+  "discussions.page.loading.sr": "جارٍ التحميل"
 }

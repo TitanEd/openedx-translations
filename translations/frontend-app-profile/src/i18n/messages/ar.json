@@ -55,5 +55,19 @@
   "profile.formcontrols.button.saving": "حفظ",
   "profile.formcontrols.button.saved": "حُفظ",
   "profile.visibility.who.just.me": "أنا فقط",
-  "profile.visibility.who.everyone": "جميع من على {siteName}"
+  "profile.visibility.who.everyone": "جميع من على {siteName}",
+  "sidebar.dashboard.title": "اللوحة الرئيسية",
+  "sidebar.create-new-course.title": "إنشاء مساق جديد",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-courses.title": "مساقاتي",
+  "sidebar.content-libraries.title": "مكتبات المحتوى",
+  "sidebar.calendar.title": "التقويم",
+  "sidebar.class-planner.title": "مخطِّط الحصص",
+  "sidebar.insights-reports.title": "الرؤى والتقارير",
+  "sidebar.titan-ai.title": "مساعد TitanAI",
+  "sidebar.shared-resources.title": "الموارد المشتركة",
+  "sidebar.taxonomies.title": "التصنيفات",
+  "sidebar.Assignments.title": "الواجبات",
+  "profile.custom.layout.sidebar.loading": "جارٍ تحميل التنقل"
 }

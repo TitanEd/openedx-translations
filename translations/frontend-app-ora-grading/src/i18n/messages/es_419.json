@@ -99,5 +99,19 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "No calificado",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Actualmente siendo calificado por otra persona",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Calificación completada",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Actualmente estás calificando esta respuesta."
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Actualmente estás calificando esta respuesta.",
+  "sidebar.dashboard.title": "Panel principal",
+  "sidebar.create-new-course.title": "Crear un curso nuevo",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros",
+  "sidebar.my-courses.title": "Mis cursos",
+  "sidebar.content-libraries.title": "Bibliotecas de contenido",
+  "sidebar.calendar.title": "Calendario",
+  "sidebar.class-planner.title": "Planificador de clases",
+  "sidebar.insights-reports.title": "Análisis e informes",
+  "sidebar.titan-ai.title": "Asistente TitanAI",
+  "sidebar.shared-resources.title": "Recursos compartidos",
+  "sidebar.taxonomies.title": "Taxonomías",
+  "sidebar.Assignments.title": "Tareas",
+  "oraGrading.page.loading.sr": "Cargando"
 }

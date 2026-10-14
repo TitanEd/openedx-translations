@@ -233,5 +233,19 @@
   "discussions.posts.sort.lastActivity": "Actividad reciente",
   "discussions.posts.sort.commentCount": "La mayoría de la actividad",
   "discussions.posts.sort.voteCount": "La mayoría me gusta",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Todas} true {Propias} other {{own}} } {type, select, discussion {los debates} question {las preguntas} all {las publicaciones} other {{type}} } {status, select, statusAll {} statusUnread {sin leer} statusFollowing {seguidas} statusReported {reportadas} statusUnanswered {sin respuesta} statusUnresponded {sin comentarios} other {{status}} } {cohortType, select, all {} group {en {cohort}} other {{cohortType}} } ordenadas por {sort, select, lastActivityAt {actividad reciente} commentCount {mayor actividad} voteCount {más me gusta} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Todas} true {Propias} other {{own}} } {type, select, discussion {los debates} question {las preguntas} all {las publicaciones} other {{type}} } {status, select, statusAll {} statusUnread {sin leer} statusFollowing {seguidas} statusReported {reportadas} statusUnanswered {sin respuesta} statusUnresponded {sin comentarios} other {{status}} } {cohortType, select, all {} group {en {cohort}} other {{cohortType}} } ordenadas por {sort, select, lastActivityAt {actividad reciente} commentCount {mayor actividad} voteCount {más me gusta} other {{sort}} }",
+  "sidebar.dashboard.title": "Panel principal",
+  "sidebar.create-new-course.title": "Crear un curso nuevo",
+  "sidebar.my-assessments.title": "Mis evaluaciones",
+  "sidebar.my-achievements.title": "Mis logros",
+  "sidebar.my-courses.title": "Mis cursos",
+  "sidebar.content-libraries.title": "Bibliotecas de contenido",
+  "sidebar.calendar.title": "Calendario",
+  "sidebar.class-planner.title": "Planificador de clases",
+  "sidebar.insights-reports.title": "Análisis e informes",
+  "sidebar.titan-ai.title": "Asistente TitanAI",
+  "sidebar.shared-resources.title": "Recursos compartidos",
+  "sidebar.taxonomies.title": "Taxonomías",
+  "sidebar.Assignments.title": "Tareas",
+  "discussions.page.loading.sr": "Cargando"
 }

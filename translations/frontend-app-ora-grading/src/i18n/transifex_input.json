@@ -99,5 +99,19 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Ungraded",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Currently being graded by someone else",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Grading Completed",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "You are currently grading this response"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "You are currently grading this response",
+  "sidebar.dashboard.title": "Dashboard",
+  "sidebar.create-new-course.title": "Create New Course",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-courses.title": "My Courses",
+  "sidebar.content-libraries.title": "Content Libraries",
+  "sidebar.calendar.title": "Calendar",
+  "sidebar.class-planner.title": "Class Planner",
+  "sidebar.insights-reports.title": "Insights & Reports",
+  "sidebar.titan-ai.title": "TitanAI Assistant",
+  "sidebar.shared-resources.title": "Shared Resources",
+  "sidebar.taxonomies.title": "Taxonomies",
+  "sidebar.Assignments.title": "Assignments",
+  "oraGrading.page.loading.sr": "Loading"
 }

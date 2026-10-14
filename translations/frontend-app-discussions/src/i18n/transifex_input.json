@@ -233,5 +233,19 @@
   "discussions.posts.sort.lastActivity": "Recent activity",
   "discussions.posts.sort.commentCount": "Most activity",
   "discussions.posts.sort.voteCount": "Most likes",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other {{status}} } {type, select, discussion {discussions} question {questions} all {posts} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {recent activity} commentCount {most activity} voteCount {most likes} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other {{status}} } {type, select, discussion {discussions} question {questions} all {posts} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {recent activity} commentCount {most activity} voteCount {most likes} other {{sort}} }",
+  "sidebar.dashboard.title": "Dashboard",
+  "sidebar.create-new-course.title": "Create New Course",
+  "sidebar.my-assessments.title": "My Assessments",
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-courses.title": "My Courses",
+  "sidebar.content-libraries.title": "Content Libraries",
+  "sidebar.calendar.title": "Calendar",
+  "sidebar.class-planner.title": "Class Planner",
+  "sidebar.insights-reports.title": "Insights & Reports",
+  "sidebar.titan-ai.title": "TitanAI Assistant",
+  "sidebar.shared-resources.title": "Shared Resources",
+  "sidebar.taxonomies.title": "Taxonomies",
+  "sidebar.Assignments.title": "Assignments",
+  "discussions.page.loading.sr": "Loading"
 }

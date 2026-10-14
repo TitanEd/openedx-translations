@@ -99,5 +99,19 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "غير مقيّم",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "شخص آخر يقوم بتقييم هذه الإجابة حاليا",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "لقد اكتمل التقييم",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "أنت تُقيّم هذه الإجابة حالياً"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "أنت تُقيّم هذه الإجابة حالياً",
+  "sidebar.dashboard.title": "اللوحة الرئيسية",
+  "sidebar.create-new-course.title": "إنشاء مساق جديد",
+  "sidebar.my-assessments.title": "تقييماتي",
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-courses.title": "مساقاتي",
+  "sidebar.content-libraries.title": "مكتبات المحتوى",
+  "sidebar.calendar.title": "التقويم",
+  "sidebar.class-planner.title": "مخطِّط الحصص",
+  "sidebar.insights-reports.title": "الرؤى والتقارير",
+  "sidebar.titan-ai.title": "مساعد TitanAI",
+  "sidebar.shared-resources.title": "الموارد المشتركة",
+  "sidebar.taxonomies.title": "التصنيفات",
+  "sidebar.Assignments.title": "الواجبات",
+  "oraGrading.page.loading.sr": "جارٍ التحميل"
 }
