@@ -249,5 +249,7 @@
   "sidebar.Assignments.title": "الواجبات",
   "discussions.page.loading.sr": "جارٍ التحميل",
   "sidebar.my-calendar.title": "تقويمي",
-  "sidebar.my-meetings.title": "لقاءاتي"
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "learning.custom.tabs.bookmarks": "الإشارات المرجعية",
+  "learning.custom.tabs.updates": "المستجدات"
 }

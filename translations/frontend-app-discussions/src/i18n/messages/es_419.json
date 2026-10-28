@@ -249,5 +249,7 @@
   "sidebar.Assignments.title": "Tareas",
   "discussions.page.loading.sr": "Cargando",
   "sidebar.my-calendar.title": "Mi calendario",
-  "sidebar.my-meetings.title": "Mis reuniones"
+  "sidebar.my-meetings.title": "Mis reuniones",
+  "learning.custom.tabs.bookmarks": "Marcadores",
+  "learning.custom.tabs.updates": "Novedades"
 }

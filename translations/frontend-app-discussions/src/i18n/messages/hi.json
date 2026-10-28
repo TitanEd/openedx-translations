@@ -249,5 +249,7 @@
   "sidebar.Assignments.title": "असाइनमेंट",
   "discussions.page.loading.sr": "लोड हो रहा है",
   "sidebar.my-calendar.title": "मेरा कैलेंडर",
-  "sidebar.my-meetings.title": "मेरी मीटिंग्स"
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "learning.custom.tabs.bookmarks": "बुकमार्क",
+  "learning.custom.tabs.updates": "अपडेट"
 }
