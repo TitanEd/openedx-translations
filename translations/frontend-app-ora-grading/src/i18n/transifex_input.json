@@ -113,5 +113,7 @@
   "sidebar.shared-resources.title": "Shared Resources",
   "sidebar.taxonomies.title": "Taxonomies",
   "sidebar.Assignments.title": "Assignments",
-  "oraGrading.page.loading.sr": "Loading"
+  "oraGrading.page.loading.sr": "Loading",
+  "sidebar.my-meetings.title": "My Meetings",
+  "sidebar.my-calendar.title": "My Calendar"
 }

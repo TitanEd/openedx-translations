@@ -344,5 +344,7 @@
   "sidebar.shared-resources.title": "الموارد المشتركة",
   "sidebar.taxonomies.title": "التصنيفات",
   "sidebar.Assignments.title": "الواجبات",
-  "account.custom.layout.sidebar.loading": "جارٍ تحميل التنقل"
+  "account.custom.layout.sidebar.loading": "جارٍ تحميل التنقل",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "sidebar.my-calendar.title": "تقويمي"
 }

@@ -344,5 +344,7 @@
   "sidebar.shared-resources.title": "Recursos compartidos",
   "sidebar.taxonomies.title": "Taxonomías",
   "sidebar.Assignments.title": "Tareas",
-  "account.custom.layout.sidebar.loading": "Cargando navegación"
+  "account.custom.layout.sidebar.loading": "Cargando navegación",
+  "sidebar.my-meetings.title": "Mis reuniones",
+  "sidebar.my-calendar.title": "Mi calendario"
 }

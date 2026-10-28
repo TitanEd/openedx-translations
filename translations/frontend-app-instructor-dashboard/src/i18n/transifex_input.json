@@ -586,5 +586,8 @@
   "learning.custom.tabs.bookmarks": "Bookmarks",
   "learning.custom.tabs.updates": "Updates",
   "sidebar.my-assessments.title": "My Assessments",
-  "sidebar.my-achievements.title": "My Achievements"
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-calendar.title": "My Calendar",
+  "sidebar.my-meetings.title": "My Meetings",
+  "tels.header.announcement.close": "Close announcement"
 }

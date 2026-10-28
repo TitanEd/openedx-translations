@@ -128,7 +128,7 @@
   "help.text.username.1": "El nombre que te identificará en tus cursos.",
   "help.text.username.2": "Esto no puede modificarse posteriormente.",
   "help.text.email": "Para la activación de la cuenta y las actualizaciones importantes",
-  "create.account.for.free.button": "Crea una cuenta gratis",
+  "create.account.for.free.button": "Registrarse",
   "create.account.cta.button": "{label}",
   "register.institution.login.page.title": "Registro con credenciales de la institución/campus",
   "empty.name.field.error": "Introduce tu nombre completo",
@@ -202,5 +202,13 @@
   "logistration.custom.sign.up": "Regístrate",
   "reset.password.custom.confirm.password.placeholder": "Confirma la nueva contraseña",
   "reset.password.custom.new.password.placeholder": "Ingresa la nueva contraseña",
-  "registration.username.suggestion.close.label": "Cerrar"
+  "registration.username.suggestion.close.label": "Cerrar",
+  "tels.authn.panel.login.title": "Hola de nuevo. Sigamos aprendiendo.",
+  "tels.authn.panel.register.title": "Empieza a aprender algo nuevo hoy.",
+  "tels.authn.panel.reset.title": "Te ayudamos a volver a tus cursos.",
+  "tels.authn.panel.tagline": "Cursos dictados por expertos, práctica y certificados que demuestran lo que sabes hacer.",
+  "tels.authn.panel.point.pace": "Aprende a tu ritmo, en cualquier dispositivo",
+  "tels.authn.panel.point.progress": "Sigue tu progreso y tus calificaciones",
+  "tels.authn.panel.point.certificates": "Obtén certificados e insignias",
+  "tels.authn.panel.logo.alt": "Logotipo de {siteName}"
 }

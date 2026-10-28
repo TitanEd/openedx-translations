@@ -586,5 +586,8 @@
   "learning.custom.tabs.bookmarks": "Marcadores",
   "learning.custom.tabs.updates": "Novedades",
   "sidebar.my-assessments.title": "Mis evaluaciones",
-  "sidebar.my-achievements.title": "Mis logros"
+  "sidebar.my-achievements.title": "Mis logros",
+  "sidebar.my-calendar.title": "Mi calendario",
+  "sidebar.my-meetings.title": "Mis reuniones",
+  "tels.header.announcement.close": "Cerrar anuncio"
 }

@@ -113,5 +113,7 @@
   "sidebar.shared-resources.title": "साझा संसाधन",
   "sidebar.taxonomies.title": "टैक्सोनॉमी",
   "sidebar.Assignments.title": "असाइनमेंट",
-  "oraGrading.page.loading.sr": "लोड हो रहा है"
+  "oraGrading.page.loading.sr": "लोड हो रहा है",
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "sidebar.my-calendar.title": "मेरा कैलेंडर"
 }

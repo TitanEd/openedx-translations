@@ -586,5 +586,8 @@
   "learning.custom.tabs.bookmarks": "الإشارات المرجعية",
   "learning.custom.tabs.updates": "المستجدات",
   "sidebar.my-assessments.title": "تقييماتي",
-  "sidebar.my-achievements.title": "إنجازاتي"
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-calendar.title": "تقويمي",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "tels.header.announcement.close": "إغلاق الإعلان"
 }

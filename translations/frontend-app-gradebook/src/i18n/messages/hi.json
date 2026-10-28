@@ -101,5 +101,7 @@
   "gradebook.BulkManagementHistoryView.table.user": "किसने",
   "gradebook.BulkManagementHistoryView.table.timeUploaded": "कब",
   "sidebar.my-assessments.title": "मेरे मूल्यांकन",
-  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ",
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "sidebar.my-calendar.title": "मेरा कैलेंडर"
 }

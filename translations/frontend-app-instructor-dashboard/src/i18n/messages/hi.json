@@ -586,5 +586,8 @@
   "learning.custom.tabs.bookmarks": "बुकमार्क",
   "learning.custom.tabs.updates": "अपडेट",
   "sidebar.my-assessments.title": "मेरे मूल्यांकन",
-  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ",
+  "sidebar.my-calendar.title": "मेरा कैलेंडर",
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "tels.header.announcement.close": "घोषणा बंद करें"
 }

@@ -128,7 +128,7 @@
   "help.text.username.1": "الاسم الذي ستُعرَف به في مساقاتك.",
   "help.text.username.2": "لا يمكن تغيير هذا لاحقًا.",
   "help.text.email": "لتفعيل الحساب و التحديثات الهامة",
-  "create.account.for.free.button": "إنشاء حساب مجانا",
+  "create.account.for.free.button": "التسجيل",
   "create.account.cta.button": "{label}",
   "register.institution.login.page.title": "التسجيل باستخدام بيانات المؤسسة / الجامعة",
   "empty.name.field.error": "أدخل اسمك الكامل",
@@ -202,5 +202,13 @@
   "logistration.custom.sign.up": "إنشاء حساب",
   "reset.password.custom.confirm.password.placeholder": "أكِّد كلمة المرور الجديدة",
   "reset.password.custom.new.password.placeholder": "أدخل كلمة المرور الجديدة",
-  "registration.username.suggestion.close.label": "إغلاق"
+  "registration.username.suggestion.close.label": "إغلاق",
+  "tels.authn.panel.login.title": "مرحبًا بعودتك. لنواصل التعلّم.",
+  "tels.authn.panel.register.title": "ابدأ تعلّم شيء جديد اليوم.",
+  "tels.authn.panel.reset.title": "سنعيدك إلى مساقاتك.",
+  "tels.authn.panel.tagline": "مساقات يقدّمها خبراء، وتدريب عملي، وشهادات تُثبت ما تستطيع فعله.",
+  "tels.authn.panel.point.pace": "تعلّم بالسرعة التي تناسبك، على أي جهاز",
+  "tels.authn.panel.point.progress": "تابع تقدّمك ودرجاتك",
+  "tels.authn.panel.point.certificates": "احصل على الشهادات والأوسمة",
+  "tels.authn.panel.logo.alt": "شعار {siteName}"
 }

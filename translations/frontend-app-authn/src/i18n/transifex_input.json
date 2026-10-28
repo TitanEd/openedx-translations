@@ -128,7 +128,7 @@
   "help.text.username.1": "The name that will identify you in your courses.",
   "help.text.username.2": "This can not be changed later.",
   "help.text.email": "For account activation and important updates",
-  "create.account.for.free.button": "Create an account for free",
+  "create.account.for.free.button": "Sign up",
   "create.account.cta.button": "{label}",
   "register.institution.login.page.title": "Register with institution/campus credentials",
   "empty.name.field.error": "Enter your full name",
@@ -202,5 +202,13 @@
   "logistration.custom.sign.up": "Sign Up",
   "registration.username.suggestion.close.label": "Close",
   "reset.password.custom.confirm.password.placeholder": "Confirm new password",
-  "reset.password.custom.new.password.placeholder": "Enter new password"
+  "reset.password.custom.new.password.placeholder": "Enter new password",
+  "tels.authn.panel.login.title": "Welcome back. Let's keep learning.",
+  "tels.authn.panel.register.title": "Start learning something new today.",
+  "tels.authn.panel.reset.title": "We'll get you back to your courses.",
+  "tels.authn.panel.tagline": "Expert-led courses, practice and certificates that prove what you can do.",
+  "tels.authn.panel.point.pace": "Learn at your own pace, on any device",
+  "tels.authn.panel.point.progress": "Track your progress and grades",
+  "tels.authn.panel.point.certificates": "Earn certificates and badges",
+  "tels.authn.panel.logo.alt": "{siteName} logo"
 }

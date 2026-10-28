@@ -113,5 +113,7 @@
   "sidebar.shared-resources.title": "الموارد المشتركة",
   "sidebar.taxonomies.title": "التصنيفات",
   "sidebar.Assignments.title": "الواجبات",
-  "oraGrading.page.loading.sr": "جارٍ التحميل"
+  "oraGrading.page.loading.sr": "جارٍ التحميل",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "sidebar.my-calendar.title": "تقويمي"
 }

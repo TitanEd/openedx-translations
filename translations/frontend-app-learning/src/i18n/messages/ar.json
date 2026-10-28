@@ -520,5 +520,7 @@
   "instructor.toolbar.option.learner": "متعلّم",
   "instructor.toolbar.option.specificStudent": "طالب محدد...",
   "sidebar.my-assessments.title": "تقييماتي",
-  "sidebar.my-achievements.title": "إنجازاتي"
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-calendar.title": "تقويمي",
+  "sidebar.my-meetings.title": "لقاءاتي"
 }

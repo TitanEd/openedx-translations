@@ -356,5 +356,7 @@
   "authz.tabs.more": "المزيد...",
   "authz.breadcrumb.ariaLabel": "مسار التنقل",
   "sidebar.my-assessments.title": "تقييماتي",
-  "sidebar.my-achievements.title": "إنجازاتي"
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "sidebar.my-calendar.title": "تقويمي"
 }

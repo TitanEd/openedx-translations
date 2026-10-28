@@ -344,5 +344,7 @@
   "sidebar.shared-resources.title": "साझा संसाधन",
   "sidebar.taxonomies.title": "टैक्सोनॉमी",
   "sidebar.Assignments.title": "असाइनमेंट",
-  "account.custom.layout.sidebar.loading": "नेविगेशन लोड हो रहा है"
+  "account.custom.layout.sidebar.loading": "नेविगेशन लोड हो रहा है",
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "sidebar.my-calendar.title": "मेरा कैलेंडर"
 }

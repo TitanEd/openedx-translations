@@ -356,5 +356,7 @@
   "authz.tabs.more": "Más...",
   "authz.breadcrumb.ariaLabel": "Ruta de navegación",
   "sidebar.my-assessments.title": "Mis evaluaciones",
-  "sidebar.my-achievements.title": "Mis logros"
+  "sidebar.my-achievements.title": "Mis logros",
+  "sidebar.my-meetings.title": "Mis reuniones",
+  "sidebar.my-calendar.title": "Mi calendario"
 }

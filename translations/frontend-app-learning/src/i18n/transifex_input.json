@@ -520,5 +520,7 @@
   "instructor.toolbar.option.learner": "Learner",
   "instructor.toolbar.option.specificStudent": "Specific Student...",
   "sidebar.my-assessments.title": "My Assessments",
-  "sidebar.my-achievements.title": "My Achievements"
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-calendar.title": "My Calendar",
+  "sidebar.my-meetings.title": "My Meetings"
 }

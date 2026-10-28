@@ -122,5 +122,7 @@
   "bulk.email.task.alert.title": "تنبيه",
   "bulk.email.form.cancelEdit": "إلغاء",
   "sidebar.my-assessments.title": "تقييماتي",
-  "sidebar.my-achievements.title": "إنجازاتي"
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "sidebar.my-calendar.title": "تقويمي"
 }

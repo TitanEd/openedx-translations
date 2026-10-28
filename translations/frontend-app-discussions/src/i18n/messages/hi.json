@@ -247,5 +247,7 @@
   "sidebar.shared-resources.title": "साझा संसाधन",
   "sidebar.taxonomies.title": "टैक्सोनॉमी",
   "sidebar.Assignments.title": "असाइनमेंट",
-  "discussions.page.loading.sr": "लोड हो रहा है"
+  "discussions.page.loading.sr": "लोड हो रहा है",
+  "sidebar.my-calendar.title": "मेरा कैलेंडर",
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स"
 }

@@ -69,5 +69,7 @@
   "sidebar.shared-resources.title": "الموارد المشتركة",
   "sidebar.taxonomies.title": "التصنيفات",
   "sidebar.Assignments.title": "الواجبات",
-  "profile.custom.layout.sidebar.loading": "جارٍ تحميل التنقل"
+  "profile.custom.layout.sidebar.loading": "جارٍ تحميل التنقل",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "sidebar.my-calendar.title": "تقويمي"
 }

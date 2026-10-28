@@ -101,5 +101,7 @@
   "gradebook.BulkManagementHistoryView.table.user": "المستخدم",
   "gradebook.BulkManagementHistoryView.table.timeUploaded": "الوقت",
   "sidebar.my-assessments.title": "تقييماتي",
-  "sidebar.my-achievements.title": "إنجازاتي"
+  "sidebar.my-achievements.title": "إنجازاتي",
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "sidebar.my-calendar.title": "تقويمي"
 }

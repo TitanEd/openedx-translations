@@ -356,5 +356,7 @@
   "authz.tabs.more": "अधिक...",
   "authz.breadcrumb.ariaLabel": "ब्रेडक्रंब",
   "sidebar.my-assessments.title": "मेरे मूल्यांकन",
-  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ"
+  "sidebar.my-achievements.title": "मेरी उपलब्धियाँ",
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "sidebar.my-calendar.title": "मेरा कैलेंडर"
 }

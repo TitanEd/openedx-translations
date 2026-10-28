@@ -101,5 +101,7 @@
   "gradebook.GradesView.search.clearButton": "Clear search",
   "gradebook.GradesView.search.submitButton": "Submit search",
   "sidebar.my-assessments.title": "My Assessments",
-  "sidebar.my-achievements.title": "My Achievements"
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-meetings.title": "My Meetings",
+  "sidebar.my-calendar.title": "My Calendar"
 }

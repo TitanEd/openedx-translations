@@ -128,7 +128,7 @@
   "help.text.username.1": "वह नाम जो आपके पाठ्यक्रमों में आपकी पहचान कराएगा।",
   "help.text.username.2": "यह बाद में बदला नहीं जा सकता है।",
   "help.text.email": "खाता सक्रियण और महत्वपूर्ण अपडेट के लिए",
-  "create.account.for.free.button": "निःशुल्क एक खाता बनाएँ",
+  "create.account.for.free.button": "साइन अप करें",
   "create.account.cta.button": "{label}",
   "register.institution.login.page.title": "संस्था/कैंपस क्रेडेंशियल के साथ पंजीकरण करें",
   "empty.name.field.error": "अपना पूरा नाम दर्ज करें",
@@ -202,5 +202,13 @@
   "logistration.custom.sign.up": "साइन अप करें",
   "reset.password.custom.confirm.password.placeholder": "नए पासवर्ड की पुष्टि करें",
   "reset.password.custom.new.password.placeholder": "नया पासवर्ड दर्ज करें",
-  "registration.username.suggestion.close.label": "बंद करें"
+  "registration.username.suggestion.close.label": "बंद करें",
+  "tels.authn.panel.login.title": "फिर से स्वागत है। आइए सीखना जारी रखें।",
+  "tels.authn.panel.register.title": "आज ही कुछ नया सीखना शुरू करें।",
+  "tels.authn.panel.reset.title": "हम आपको आपके पाठ्यक्रमों तक वापस पहुँचाएँगे।",
+  "tels.authn.panel.tagline": "विशेषज्ञों के पाठ्यक्रम, अभ्यास और प्रमाणपत्र जो आपकी क्षमता साबित करते हैं।",
+  "tels.authn.panel.point.pace": "अपनी गति से, किसी भी डिवाइस पर सीखें",
+  "tels.authn.panel.point.progress": "अपनी प्रगति और ग्रेड देखें",
+  "tels.authn.panel.point.certificates": "प्रमाणपत्र और बैज अर्जित करें",
+  "tels.authn.panel.logo.alt": "{siteName} का लोगो"
 }

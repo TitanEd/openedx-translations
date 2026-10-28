@@ -247,5 +247,7 @@
   "sidebar.shared-resources.title": "الموارد المشتركة",
   "sidebar.taxonomies.title": "التصنيفات",
   "sidebar.Assignments.title": "الواجبات",
-  "discussions.page.loading.sr": "جارٍ التحميل"
+  "discussions.page.loading.sr": "جارٍ التحميل",
+  "sidebar.my-calendar.title": "تقويمي",
+  "sidebar.my-meetings.title": "لقاءاتي"
 }

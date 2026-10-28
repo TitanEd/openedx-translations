@@ -356,5 +356,7 @@
   "authz.tabs.more": "More...",
   "authz.breadcrumb.ariaLabel": "Breadcrumb",
   "sidebar.my-assessments.title": "My Assessments",
-  "sidebar.my-achievements.title": "My Achievements"
+  "sidebar.my-achievements.title": "My Achievements",
+  "sidebar.my-meetings.title": "My Meetings",
+  "sidebar.my-calendar.title": "My Calendar"
 }
