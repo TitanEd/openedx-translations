@@ -178,6 +178,7 @@
   "header.user.menu.profile": "الملف الشخصي",
   "learner-dashboard.custom.ai-suggestion-icon-alt": "اقتراح الذكاء الاصطناعي",
   "learner-dashboard.custom.course-card.ended": "انتهى في {date}",
+  "learner-dashboard.custom.course-card.prerequisite": "أكمل {courses} أولاً لفتح هذه الدورة.",
   "learner-dashboard.custom.course-card.ends": "ينتهي في {date}",
   "learner-dashboard.custom.course-card.started": "بدأ في {date}",
   "learner-dashboard.custom.course-card.starts": "يبدأ في {date}",

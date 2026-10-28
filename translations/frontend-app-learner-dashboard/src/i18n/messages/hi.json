@@ -178,6 +178,7 @@
   "header.user.menu.profile": "प्रोफाइल",
   "learner-dashboard.custom.ai-suggestion-icon-alt": "एआई सुझाव",
   "learner-dashboard.custom.course-card.ended": "{date} को समाप्त हुआ",
+  "learner-dashboard.custom.course-card.prerequisite": "इस कोर्स को अनलॉक करने के लिए पहले {courses} पूरा करें।",
   "learner-dashboard.custom.course-card.ends": "{date} को समाप्त होगा",
   "learner-dashboard.custom.course-card.started": "{date} को शुरू हुआ",
   "learner-dashboard.custom.course-card.starts": "{date} को शुरू होगा",

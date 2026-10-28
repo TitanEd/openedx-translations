@@ -178,6 +178,7 @@
   "header.user.menu.profile": "Perfil",
   "learner-dashboard.custom.ai-suggestion-icon-alt": "Sugerencia de IA",
   "learner-dashboard.custom.course-card.ended": "Finalizó el {date}",
+  "learner-dashboard.custom.course-card.prerequisite": "Completa {courses} primero para desbloquear este curso.",
   "learner-dashboard.custom.course-card.ends": "Finaliza el {date}",
   "learner-dashboard.custom.course-card.started": "Comenzó el {date}",
   "learner-dashboard.custom.course-card.starts": "Comienza el {date}",

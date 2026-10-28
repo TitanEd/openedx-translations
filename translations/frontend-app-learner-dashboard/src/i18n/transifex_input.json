@@ -177,6 +177,7 @@
   "header.user.menu.profile": "Profile",
   "learner-dashboard.custom.ai-suggestion-icon-alt": "AI suggestion",
   "learner-dashboard.custom.course-card.ended": "Ended {date}",
+  "learner-dashboard.custom.course-card.prerequisite": "Complete {courses} first to unlock this course.",
   "learner-dashboard.custom.course-card.ends": "Ends {date}",
   "learner-dashboard.custom.course-card.started": "Started {date}",
   "learner-dashboard.custom.course-card.starts": "Starts {date}",
