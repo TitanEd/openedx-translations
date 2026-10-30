@@ -4285,5 +4285,19 @@
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-found": "YouTube video ID: {id}",
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-invalid": "This is not a YouTube video link or video ID.",
   "authoring.videoeditor.transcripts.languageSearchPlaceholder": "Search languages",
-  "authoring.videoeditor.transcripts.languageSearchEmpty": "No language matches your search."
+  "authoring.videoeditor.transcripts.languageSearchEmpty": "No language matches your search.",
+  "course-authoring.course-outline.tels.menu-tooltip.section": "Section settings and actions",
+  "course-authoring.course-outline.tels.menu-tooltip.subsection": "Subsection settings and actions",
+  "course-authoring.course-outline.tels.menu-tooltip.unit": "Unit settings and actions",
+  "course-authoring.course-outline.tels.drag-tooltip.section": "Drag to reorder this section",
+  "course-authoring.course-outline.tels.drag-tooltip.subsection": "Drag to reorder this subsection",
+  "course-authoring.course-outline.tels.drag-tooltip.unit": "Drag to reorder this unit",
+  "course-authoring.course-rerun.custom.notice.in-progress.title": "Your course re-run is being created",
+  "course-authoring.course-rerun.custom.notice.in-progress.body": "{course} is being copied. A large course can take a few minutes. You can keep working; this notice will tell you when it is ready.",
+  "course-authoring.course-rerun.custom.notice.ready.title": "Your course re-run is ready",
+  "course-authoring.course-rerun.custom.notice.ready.body": "{course} has been created.",
+  "course-authoring.course-rerun.custom.notice.open-outline": "Open course outline",
+  "course-authoring.course-rerun.custom.notice.failed.title": "The course re-run could not be created",
+  "course-authoring.course-rerun.custom.notice.failed.body": "Copying {course} failed. Please try the re-run again, or contact support if it keeps failing.",
+  "course-authoring.course-rerun.custom.notice.dismiss": "Dismiss"
 }

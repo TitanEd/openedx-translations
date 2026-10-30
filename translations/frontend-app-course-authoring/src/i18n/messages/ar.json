@@ -4285,5 +4285,19 @@
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-found": "معرّف فيديو YouTube: {id}",
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-invalid": "هذا ليس رابط فيديو على YouTube ولا معرّف فيديو.",
   "authoring.videoeditor.transcripts.languageSearchPlaceholder": "ابحث عن لغة",
-  "authoring.videoeditor.transcripts.languageSearchEmpty": "لا توجد لغة تطابق بحثك."
+  "authoring.videoeditor.transcripts.languageSearchEmpty": "لا توجد لغة تطابق بحثك.",
+  "course-authoring.course-outline.tels.menu-tooltip.section": "إعدادات القسم وإجراءاته",
+  "course-authoring.course-outline.tels.menu-tooltip.subsection": "إعدادات القسم الفرعي وإجراءاته",
+  "course-authoring.course-outline.tels.menu-tooltip.unit": "إعدادات الوحدة وإجراءاتها",
+  "course-authoring.course-outline.tels.drag-tooltip.section": "اسحب لإعادة ترتيب هذا القسم",
+  "course-authoring.course-outline.tels.drag-tooltip.subsection": "اسحب لإعادة ترتيب هذا القسم الفرعي",
+  "course-authoring.course-outline.tels.drag-tooltip.unit": "اسحب لإعادة ترتيب هذه الوحدة",
+  "course-authoring.course-rerun.custom.notice.in-progress.title": "يجري إنشاء إعادة تشغيل مقررك",
+  "course-authoring.course-rerun.custom.notice.in-progress.body": "يجري نسخ {course}. قد يستغرق المقرر الكبير بضع دقائق. يمكنك مواصلة العمل؛ وسيخبرك هذا الإشعار عندما يصبح جاهزًا.",
+  "course-authoring.course-rerun.custom.notice.ready.title": "إعادة تشغيل مقررك جاهزة",
+  "course-authoring.course-rerun.custom.notice.ready.body": "تم إنشاء {course}.",
+  "course-authoring.course-rerun.custom.notice.open-outline": "فتح مخطط المقرر",
+  "course-authoring.course-rerun.custom.notice.failed.title": "تعذّر إنشاء إعادة تشغيل المقرر",
+  "course-authoring.course-rerun.custom.notice.failed.body": "فشل نسخ {course}. يُرجى محاولة إعادة التشغيل مرة أخرى، أو التواصل مع الدعم إذا استمر الفشل.",
+  "course-authoring.course-rerun.custom.notice.dismiss": "إغلاق"
 }

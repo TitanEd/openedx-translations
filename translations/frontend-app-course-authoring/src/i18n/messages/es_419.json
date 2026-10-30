@@ -4285,5 +4285,19 @@
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-found": "ID del video de YouTube: {id}",
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-invalid": "Esto no es un enlace ni un ID de video de YouTube.",
   "authoring.videoeditor.transcripts.languageSearchPlaceholder": "Buscar idiomas",
-  "authoring.videoeditor.transcripts.languageSearchEmpty": "Ningún idioma coincide con tu búsqueda."
+  "authoring.videoeditor.transcripts.languageSearchEmpty": "Ningún idioma coincide con tu búsqueda.",
+  "course-authoring.course-outline.tels.menu-tooltip.section": "Configuración y acciones de la sección",
+  "course-authoring.course-outline.tels.menu-tooltip.subsection": "Configuración y acciones de la subsección",
+  "course-authoring.course-outline.tels.menu-tooltip.unit": "Configuración y acciones de la unidad",
+  "course-authoring.course-outline.tels.drag-tooltip.section": "Arrastra para reordenar esta sección",
+  "course-authoring.course-outline.tels.drag-tooltip.subsection": "Arrastra para reordenar esta subsección",
+  "course-authoring.course-outline.tels.drag-tooltip.unit": "Arrastra para reordenar esta unidad",
+  "course-authoring.course-rerun.custom.notice.in-progress.title": "Se está creando la reedición de tu curso",
+  "course-authoring.course-rerun.custom.notice.in-progress.body": "Se está copiando {course}. Un curso grande puede tardar unos minutos. Puedes seguir trabajando; este aviso te dirá cuando esté listo.",
+  "course-authoring.course-rerun.custom.notice.ready.title": "La reedición de tu curso está lista",
+  "course-authoring.course-rerun.custom.notice.ready.body": "Se creó {course}.",
+  "course-authoring.course-rerun.custom.notice.open-outline": "Abrir el esquema del curso",
+  "course-authoring.course-rerun.custom.notice.failed.title": "No se pudo crear la reedición del curso",
+  "course-authoring.course-rerun.custom.notice.failed.body": "No se pudo copiar {course}. Vuelve a intentar la reedición o contacta con soporte si sigue fallando.",
+  "course-authoring.course-rerun.custom.notice.dismiss": "Descartar"
 }

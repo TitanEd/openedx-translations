@@ -4285,5 +4285,19 @@
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-found": "YouTube वीडियो ID: {id}",
   "course-authoring.schedule-section.introducing.introduction-video.custom.link-invalid": "यह कोई YouTube वीडियो लिंक या वीडियो ID नहीं है।",
   "authoring.videoeditor.transcripts.languageSearchPlaceholder": "भाषाएँ खोजें",
-  "authoring.videoeditor.transcripts.languageSearchEmpty": "आपकी खोज से कोई भाषा मेल नहीं खाती।"
+  "authoring.videoeditor.transcripts.languageSearchEmpty": "आपकी खोज से कोई भाषा मेल नहीं खाती।",
+  "course-authoring.course-outline.tels.menu-tooltip.section": "अनुभाग की सेटिंग्स और कार्रवाइयाँ",
+  "course-authoring.course-outline.tels.menu-tooltip.subsection": "उप-अनुभाग की सेटिंग्स और कार्रवाइयाँ",
+  "course-authoring.course-outline.tels.menu-tooltip.unit": "इकाई की सेटिंग्स और कार्रवाइयाँ",
+  "course-authoring.course-outline.tels.drag-tooltip.section": "इस अनुभाग का क्रम बदलने के लिए खींचें",
+  "course-authoring.course-outline.tels.drag-tooltip.subsection": "इस उप-अनुभाग का क्रम बदलने के लिए खींचें",
+  "course-authoring.course-outline.tels.drag-tooltip.unit": "इस इकाई का क्रम बदलने के लिए खींचें",
+  "course-authoring.course-rerun.custom.notice.in-progress.title": "आपका पाठ्यक्रम री-रन बनाया जा रहा है",
+  "course-authoring.course-rerun.custom.notice.in-progress.body": "{course} की प्रतिलिपि बनाई जा रही है। बड़े पाठ्यक्रम में कुछ मिनट लग सकते हैं। आप काम जारी रख सकते हैं; तैयार होने पर यह सूचना आपको बताएगी।",
+  "course-authoring.course-rerun.custom.notice.ready.title": "आपका पाठ्यक्रम री-रन तैयार है",
+  "course-authoring.course-rerun.custom.notice.ready.body": "{course} बना दिया गया है।",
+  "course-authoring.course-rerun.custom.notice.open-outline": "पाठ्यक्रम रूपरेखा खोलें",
+  "course-authoring.course-rerun.custom.notice.failed.title": "पाठ्यक्रम री-रन नहीं बनाया जा सका",
+  "course-authoring.course-rerun.custom.notice.failed.body": "{course} की प्रतिलिपि बनाना विफल रहा। कृपया री-रन फिर से आज़माएँ, या बार-बार विफल होने पर सहायता से संपर्क करें।",
+  "course-authoring.course-rerun.custom.notice.dismiss": "खारिज करें"
 }
