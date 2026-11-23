@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tels-ai-extensions (AI assistant)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-28 03:15-0500\n"
+"PO-Revision-Date: 2026-10-03 00:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: TELS AI Extensions team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The AI assistant is not available."
+msgstr ""
+
+msgid "This conversation was not found."
+msgstr ""
+
+msgid ""
+"This option is no longer available. Please choose again from the latest "
+"message."
+msgstr ""
+
+msgid "You have reached today's limit of messages. Please try again tomorrow."
+msgstr ""
+
+msgid "This request could not be understood."
+msgstr ""
+
+msgid "This file cannot be added."
+msgstr ""
+
+msgid "This file is too large."
+msgstr ""
+
+msgid "This type of file cannot be added."
+msgstr ""
+
+msgid "Too many files for one message."
+msgstr ""
+
+msgid "This recording is too long."
+msgstr ""
+
+msgid "Voice messages are not available."
+msgstr ""
+
+msgid "AI assistant in every app"
+msgstr ""
+
+msgid "This field is required."
+msgstr ""
+
+msgid "Enter text."
+msgstr ""
+
+#, python-format
+msgid "Use at most %(count)s characters."
+msgstr ""
+
+msgid "Enter a number."
+msgstr ""
+
+#, python-format
+msgid "Enter %(min)s or more."
+msgstr ""
+
+#, python-format
+msgid "Enter %(max)s or less."
+msgstr ""
+
+msgid "Enter a valid date."
+msgstr ""
+
+#, python-format
+msgid "Choose a date on or after %(date)s."
+msgstr ""
+
+#, python-format
+msgid "Choose a date on or before %(date)s."
+msgstr ""
+
+msgid "Choose one of the options."
+msgstr ""
+
+msgid "This field cannot be filled in here."
+msgstr ""
+
+msgid "Select at least one row."
+msgstr ""

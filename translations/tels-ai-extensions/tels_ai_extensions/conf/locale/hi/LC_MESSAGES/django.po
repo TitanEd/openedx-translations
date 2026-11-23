@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tels-ai-extensions (AI assistant)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-28 03:15-0500\n"
+"PO-Revision-Date: 2026-10-03 00:00+0000\n"
+"Last-Translator: TELS AI Extensions team\n"
+"Language-Team: TELS AI Extensions team\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The AI assistant is not available."
+msgstr "AI सहायक उपलब्ध नहीं है।"
+
+msgid "This conversation was not found."
+msgstr "यह बातचीत नहीं मिली।"
+
+msgid ""
+"This option is no longer available. Please choose again from the latest "
+"message."
+msgstr "यह विकल्प अब उपलब्ध नहीं है। कृपया नवीनतम संदेश से फिर से चुनें।"
+
+msgid "You have reached today's limit of messages. Please try again tomorrow."
+msgstr "आप आज के संदेशों की सीमा तक पहुँच गए हैं। कृपया कल फिर से कोशिश करें।"
+
+msgid "This request could not be understood."
+msgstr "यह अनुरोध समझा नहीं जा सका।"
+
+msgid "This file cannot be added."
+msgstr "यह फ़ाइल नहीं जोड़ी जा सकती।"
+
+msgid "This file is too large."
+msgstr "यह फ़ाइल बहुत बड़ी है।"
+
+msgid "This type of file cannot be added."
+msgstr "इस प्रकार की फ़ाइल नहीं जोड़ी जा सकती।"
+
+msgid "Too many files for one message."
+msgstr "एक संदेश के लिए बहुत अधिक फ़ाइलें हैं।"
+
+msgid "This recording is too long."
+msgstr "यह रिकॉर्डिंग बहुत लंबी है।"
+
+msgid "Voice messages are not available."
+msgstr "वॉइस संदेश उपलब्ध नहीं हैं।"
+
+msgid "AI assistant in every app"
+msgstr "हर ऐप में AI सहायक"
+
+msgid "This field is required."
+msgstr "यह फ़ील्ड ज़रूरी है।"
+
+msgid "Enter text."
+msgstr "पाठ दर्ज करें।"
+
+#, python-format
+msgid "Use at most %(count)s characters."
+msgstr "अधिकतम %(count)s अक्षरों का उपयोग करें।"
+
+msgid "Enter a number."
+msgstr "एक संख्या दर्ज करें।"
+
+#, python-format
+msgid "Enter %(min)s or more."
+msgstr "%(min)s या अधिक दर्ज करें।"
+
+#, python-format
+msgid "Enter %(max)s or less."
+msgstr "%(max)s या कम दर्ज करें।"
+
+msgid "Enter a valid date."
+msgstr "एक मान्य तारीख दर्ज करें।"
+
+#, python-format
+msgid "Choose a date on or after %(date)s."
+msgstr "%(date)s या उसके बाद की तारीख चुनें।"
+
+#, python-format
+msgid "Choose a date on or before %(date)s."
+msgstr "%(date)s या उससे पहले की तारीख चुनें।"
+
+msgid "Choose one of the options."
+msgstr "विकल्पों में से एक चुनें।"
+
+msgid "This field cannot be filled in here."
+msgstr "यह फ़ील्ड यहाँ नहीं भरा जा सकता।"
+
+msgid "Select at least one row."
+msgstr "कम से कम एक पंक्ति चुनें।"

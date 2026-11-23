@@ -278,6 +278,23 @@ git:
     mode: onlyreviewed
     translation_files_expression: 'translations/frontend-app-tels-public-template-2/src/i18n/messages/<lang>.json'
 
+  # tels-ai-extensions: AI assistant UI (frontend messages)
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/tels-ai-extensions/src/i18n/transifex_input.json
+    mode: onlyreviewed
+    translation_files_expression: 'translations/tels-ai-extensions/src/i18n/messages/<lang>.json'
+
+  # tels-ai-extensions: AI assistant (backend messages)
+  - filter_type: dir
+    file_format: PO
+    source_file_extension: po
+    source_language: en
+    source_file_dir: translations/tels-ai-extensions/tels_ai_extensions/conf/locale/en/
+    mode: onlyreviewed
+    translation_files_expression: 'translations/tels-ai-extensions/tels_ai_extensions/conf/locale/<lang>/'
+
   # frontend-component-footer
   - filter_type: file
     file_format: KEYVALUEJSON
