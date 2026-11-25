@@ -11121,7 +11121,7 @@ msgstr ""
 
 #: openedx/features/enterprise_support/templates/enterprise_support/admin/enrollment_attributes_override.html:15
 msgid "Home"
-msgstr "घर"
+msgstr "होम"
 
 #: openedx/features/enterprise_support/templates/enterprise_support/admin/enrollment_attributes_override.html:17
 msgid "Enterprise Course Enrollments"

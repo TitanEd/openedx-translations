@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tels-ai-extensions (AI assistant)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-28 03:15-0500\n"
+"PO-Revision-Date: 2026-10-03 00:00+0000\n"
+"Last-Translator: TELS AI Extensions team\n"
+"Language-Team: TELS AI Extensions team\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The AI assistant is not available."
+msgstr "El asistente de IA no está disponible."
+
+msgid "This conversation was not found."
+msgstr "No se encontró esta conversación."
+
+msgid ""
+"This option is no longer available. Please choose again from the latest "
+"message."
+msgstr ""
+"Esta opción ya no está disponible. Elige de nuevo en el mensaje más reciente."
+
+msgid "You have reached today's limit of messages. Please try again tomorrow."
+msgstr "Alcanzaste el límite de mensajes de hoy. Inténtalo de nuevo mañana."
+
+msgid "This request could not be understood."
+msgstr "No se pudo entender esta solicitud."
+
+msgid "This file cannot be added."
+msgstr "No se puede agregar este archivo."
+
+msgid "This file is too large."
+msgstr "Este archivo es demasiado grande."
+
+msgid "This type of file cannot be added."
+msgstr "No se puede agregar este tipo de archivo."
+
+msgid "Too many files for one message."
+msgstr "Demasiados archivos para un solo mensaje."
+
+msgid "This recording is too long."
+msgstr "Esta grabación es demasiado larga."
+
+msgid "Voice messages are not available."
+msgstr "Los mensajes de voz no están disponibles."
+
+msgid "AI assistant in every app"
+msgstr "Asistente de IA en todas las aplicaciones"
+
+msgid "This field is required."
+msgstr "Este campo es obligatorio."
+
+msgid "Enter text."
+msgstr "Escribe un texto."
+
+#, python-format
+msgid "Use at most %(count)s characters."
+msgstr "Usa como máximo %(count)s caracteres."
+
+msgid "Enter a number."
+msgstr "Escribe un número."
+
+#, python-format
+msgid "Enter %(min)s or more."
+msgstr "Escribe %(min)s o más."
+
+#, python-format
+msgid "Enter %(max)s or less."
+msgstr "Escribe %(max)s o menos."
+
+msgid "Enter a valid date."
+msgstr "Escribe una fecha válida."
+
+#, python-format
+msgid "Choose a date on or after %(date)s."
+msgstr "Elige una fecha a partir del %(date)s."
+
+#, python-format
+msgid "Choose a date on or before %(date)s."
+msgstr "Elige una fecha hasta el %(date)s."
+
+msgid "Choose one of the options."
+msgstr "Elige una de las opciones."
+
+msgid "This field cannot be filled in here."
+msgstr "Este campo no se puede completar aquí."
+
+msgid "Select at least one row."
+msgstr "Selecciona al menos una fila."
