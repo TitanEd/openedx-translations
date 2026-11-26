@@ -71,5 +71,10 @@
   "sidebar.Assignments.title": "Tareas",
   "profile.custom.layout.sidebar.loading": "Cargando navegación",
   "sidebar.my-meetings.title": "Mis reuniones",
-  "sidebar.my-calendar.title": "Mi calendario"
+  "sidebar.my-calendar.title": "Mi calendario",
+  "tels.profile.education.placeholder": "Selecciona un nivel educativo",
+  "tels.profile.sociallinks.placeholder": "Ingresa un enlace",
+  "tels.profile.bio.placeholder": "Ingresa una biografía breve",
+  "tels.profile.country.placeholder": "Selecciona un país",
+  "tels.profile.preferredlanguage.placeholder": "Selecciona un idioma"
 }

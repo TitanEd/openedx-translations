@@ -579,5 +579,14 @@
   "tels.meetings.page.word": "الصفحة",
   "tels.meetings.page.current": "الصفحة الحالية",
   "tels.meetings.page.of": "من",
-  "sidebar.my-meetings.title": "لقاءاتي"
+  "sidebar.my-meetings.title": "لقاءاتي",
+  "tels.assessments.filter.placeholder.search": "بحث",
+  "tels.calendar.form.placeholder.title": "أدخل عنوانًا",
+  "tels.calendar.form.placeholder.place": "أدخل مكانًا",
+  "tels.calendar.form.placeholder.description": "أدخل وصفًا",
+  "tels.calendar.form.placeholder.date": "اختر تاريخًا",
+  "tels.calendar.form.placeholder.time": "اختر وقتًا",
+  "tels.meetings.filter.placeholder.search": "بحث",
+  "tels.meetings.form.placeholder.date": "اختر تاريخًا",
+  "tels.calendar.form.past": "اختر موعد بدء لم يحن بعد."
 }

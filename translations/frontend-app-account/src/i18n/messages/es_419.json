@@ -346,5 +346,10 @@
   "sidebar.Assignments.title": "Tareas",
   "account.custom.layout.sidebar.loading": "Cargando navegación",
   "sidebar.my-meetings.title": "Mis reuniones",
-  "sidebar.my-calendar.title": "Mi calendario"
+  "sidebar.my-calendar.title": "Mi calendario",
+  "tels.account.settings.placeholder.name": "Ingresa tu nombre completo",
+  "tels.account.settings.placeholder.verified.name": "Ingresa tu nombre verificado",
+  "tels.account.settings.placeholder.username": "Ingresa un nombre de usuario",
+  "tels.account.settings.placeholder.email": "Ingresa tu dirección de correo electrónico",
+  "tels.account.settings.placeholder.social.link": "Ingresa un enlace"
 }

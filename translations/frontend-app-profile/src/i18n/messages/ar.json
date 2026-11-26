@@ -71,5 +71,10 @@
   "sidebar.Assignments.title": "الواجبات",
   "profile.custom.layout.sidebar.loading": "جارٍ تحميل التنقل",
   "sidebar.my-meetings.title": "لقاءاتي",
-  "sidebar.my-calendar.title": "تقويمي"
+  "sidebar.my-calendar.title": "تقويمي",
+  "tels.profile.education.placeholder": "اختر المستوى التعليمي",
+  "tels.profile.sociallinks.placeholder": "أدخل رابطًا",
+  "tels.profile.bio.placeholder": "أدخل نبذة قصيرة",
+  "tels.profile.country.placeholder": "اختر دولة",
+  "tels.profile.preferredlanguage.placeholder": "اختر لغة"
 }

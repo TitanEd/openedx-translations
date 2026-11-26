@@ -111,5 +111,10 @@
   "profile.custom.form.empty.option": "एक विकल्प चुनें",
   "profile.custom.name.full.name": "पूरा नाम",
   "profile.name.details": "यह वह नाम है जो आपके खाते और प्रमाणपत्रों पर दिखाई देता है।",
-  "profile.custom.preferredlanguage.label": "बोली जाने वाली प्राथमिक भाषा"
+  "profile.custom.preferredlanguage.label": "बोली जाने वाली प्राथमिक भाषा",
+  "tels.profile.education.placeholder": "शिक्षा का स्तर चुनें",
+  "tels.profile.sociallinks.placeholder": "लिंक दर्ज करें",
+  "tels.profile.bio.placeholder": "संक्षिप्त परिचय दर्ज करें",
+  "tels.profile.country.placeholder": "देश चुनें",
+  "tels.profile.preferredlanguage.placeholder": "भाषा चुनें"
 }
