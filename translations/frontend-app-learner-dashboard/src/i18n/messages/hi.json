@@ -579,5 +579,14 @@
   "tels.meetings.page.word": "पेज",
   "tels.meetings.page.current": "मौजूदा पेज",
   "tels.meetings.page.of": "में से",
-  "sidebar.my-meetings.title": "मेरी मीटिंग्स"
+  "sidebar.my-meetings.title": "मेरी मीटिंग्स",
+  "tels.assessments.filter.placeholder.search": "खोजें",
+  "tels.calendar.form.placeholder.title": "शीर्षक दर्ज करें",
+  "tels.calendar.form.placeholder.place": "स्थान दर्ज करें",
+  "tels.calendar.form.placeholder.description": "विवरण दर्ज करें",
+  "tels.calendar.form.placeholder.date": "तारीख़ चुनें",
+  "tels.calendar.form.placeholder.time": "समय चुनें",
+  "tels.meetings.filter.placeholder.search": "खोजें",
+  "tels.meetings.form.placeholder.date": "तारीख़ चुनें",
+  "tels.calendar.form.past": "ऐसा प्रारंभ चुनें जो अभी आना बाकी हो।"
 }

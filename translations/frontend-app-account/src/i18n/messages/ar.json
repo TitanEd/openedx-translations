@@ -346,5 +346,10 @@
   "sidebar.Assignments.title": "الواجبات",
   "account.custom.layout.sidebar.loading": "جارٍ تحميل التنقل",
   "sidebar.my-meetings.title": "لقاءاتي",
-  "sidebar.my-calendar.title": "تقويمي"
+  "sidebar.my-calendar.title": "تقويمي",
+  "tels.account.settings.placeholder.name": "أدخل اسمك الكامل",
+  "tels.account.settings.placeholder.verified.name": "أدخل اسمك المُوثَّق",
+  "tels.account.settings.placeholder.username": "أدخل اسم مستخدم",
+  "tels.account.settings.placeholder.email": "أدخل عنوان بريدك الإلكتروني",
+  "tels.account.settings.placeholder.social.link": "أدخل رابطًا"
 }

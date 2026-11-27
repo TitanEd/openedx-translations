@@ -579,5 +579,14 @@
   "tels.meetings.page.word": "Página",
   "tels.meetings.page.current": "Página actual",
   "tels.meetings.page.of": "de",
-  "sidebar.my-meetings.title": "Mis reuniones"
+  "sidebar.my-meetings.title": "Mis reuniones",
+  "tels.assessments.filter.placeholder.search": "Buscar",
+  "tels.calendar.form.placeholder.title": "Ingresa un título",
+  "tels.calendar.form.placeholder.place": "Ingresa un lugar",
+  "tels.calendar.form.placeholder.description": "Ingresa una descripción",
+  "tels.calendar.form.placeholder.date": "Selecciona una fecha",
+  "tels.calendar.form.placeholder.time": "Selecciona una hora",
+  "tels.meetings.filter.placeholder.search": "Buscar",
+  "tels.meetings.form.placeholder.date": "Selecciona una fecha",
+  "tels.calendar.form.past": "Elige un inicio que aún no haya pasado."
 }
